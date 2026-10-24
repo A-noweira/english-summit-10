@@ -1,0 +1,2368 @@
+{
+ "U4-L1": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "A person who legally belongs to a country is a ________ of that country.",
+    "options": [
+     "citizen",
+     "tourist",
+     "ruler",
+     "merchant"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "The island is not ________ because it has no fresh water.",
+    "options": [
+     "inhabit",
+     "inhabitants",
+     "inhabiting",
+     "inhabited"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 3,
+    "q": "Many families in the ________ meet at the mosque on Fridays.",
+    "options": [
+     "pyramid",
+     "century",
+     "community",
+     "treasure"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "The museum shows the ________ of Oman, including its music and crafts.",
+    "options": [
+     "civil",
+     "culture",
+     "social",
+     "cultural"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "Women and men have the same rights in a modern, ________ society.",
+    "options": [
+     "civilised",
+     "civil",
+     "civilisation",
+     "civilise"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "The ________ war ended and the country became peaceful again.",
+    "options": [
+     "cultured",
+     "inhabited",
+     "ancient",
+     "civil"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 7,
+    "q": "Meeting friends at the club is an important part of my ________ life.",
+    "options": [
+     "inhabited",
+     "wealthy",
+     "social",
+     "ancient"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 8,
+    "q": "A large group of people living together in an organised way is a ________.",
+    "options": [
+     "citizen",
+     "society",
+     "century",
+     "treasure"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 9,
+    "q": "Cities grow quickly as the world ________ increases.",
+    "options": [
+     "population",
+     "monument",
+     "evidence",
+     "treasure"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 10,
+    "q": "He is a ________ man who reads poetry and enjoys classical music.",
+    "options": [
+     "cultural",
+     "culture",
+     "civil",
+     "cultured"
+    ],
+    "answer": 3
+   }
+  ],
+  "exam": {
+   "passage": "Every country is made up of different groups of people. In a small village, the (1)_____ often meet at the market and help one another. Each family keeps the traditions of its own (2)_____, such as special food, songs and clothes. A good (3)_____ obeys the law and takes care of public places. In a (4)_____ society, people respect different opinions and solve problems peacefully. Many years ago, this valley was (5)_____ by farmers, and today thousands of families still live there. Learning about each other's traditions helps people live together in peace.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "kingdom",
+      "community",
+      "fleet",
+      "article"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 2,
+     "options": [
+      "century",
+      "earthquake",
+      "monument",
+      "culture"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "options": [
+      "emperor",
+      "citizen",
+      "sailor",
+      "archaeologist"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 4,
+     "options": [
+      "poisonous",
+      "ancient",
+      "foreign",
+      "civilised"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 5,
+     "options": [
+      "conquered",
+      "inhabited",
+      "constructed",
+      "mentioned"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ },
+ "U4-L2": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "The ________ people built the Parthenon in Athens.",
+    "options": [
+     "Mayan",
+     "Greek",
+     "Sumerian",
+     "Egyptian"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "Many ________ cities, such as Babylon, are now only ruins.",
+    "options": [
+     "ancient",
+     "modern",
+     "foreign",
+     "limited"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "The country is a ________ ruled by a king and a queen.",
+    "options": [
+     "emperor",
+     "fleet",
+     "leader",
+     "kingdom"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 4,
+    "q": "The Romans wanted to ________ many countries around the Mediterranean Sea.",
+    "options": [
+     "mention",
+     "lead",
+     "conquer",
+     "trade"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "In the past, the two tribes ________ over water and land.",
+    "options": [
+     "fight",
+     "fought",
+     "fighted",
+     "fights"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "Julius Caesar was a famous Roman general and ________.",
+    "options": [
+     "leader",
+     "kingdom",
+     "empire",
+     "century"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 7,
+    "q": "Ancient Oman was known as Magan, and the ________ civilisation traded copper.",
+    "options": [
+     "Mayan",
+     "Roman",
+     "Greek",
+     "Majan"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 8,
+    "q": "The Colosseum is a ________ building in Rome.",
+    "options": [
+     "Mayan",
+     "Sumerian",
+     "Roman",
+     "Egyptian"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 9,
+    "q": "A strong captain must ________ his crew calmly in a storm.",
+    "options": [
+     "conquer",
+     "lead",
+     "mention",
+     "apply"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 10,
+    "q": "Augustus was the first ________ of the Roman Empire.",
+    "options": [
+     "emperor",
+     "citizen",
+     "sailor",
+     "merchant"
+    ],
+    "answer": 0
+   }
+  ],
+  "exam": {
+   "passage": "The (1)_____ people lived in Central America and built tall stone pyramids in the jungle. Each city had its own (2)_____, who ruled the people and led religious ceremonies. Cities sometimes (3)_____ against each other to control land and water. Unlike the Roman (4)_____, which covered lands on three continents, the Mayan cities were separate and smaller. The Maya were also very good at maths and astronomy. Today, visitors travel from many countries to see these (5)_____ cities in the forest. Their stories still interest readers and students around the world.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "Greek",
+      "Sumerian",
+      "Mayan",
+      "Egyptian"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "options": [
+      "king",
+      "sailor",
+      "trader",
+      "architect"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "options": [
+      "fight",
+      "fighting",
+      "fought",
+      "fights"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "options": [
+      "empire",
+      "mosque",
+      "fleet",
+      "dhow"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 5,
+     "options": [
+      "modern",
+      "limited",
+      "ancient",
+      "foreign"
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ },
+ "U4-L3": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "She is studying ________ at university because she loves finding old objects.",
+    "options": [
+     "archaeologist",
+     "evidence",
+     "archaeology",
+     "treasure"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "q": "The museum has a beautiful marble ________ of a Greek goddess.",
+    "options": [
+     "pyramid",
+     "sculpture",
+     "proof",
+     "map"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "Scientists hope to ________ new kinds of animals in the rainforest.",
+    "options": [
+     "discover",
+     "conquer",
+     "translate",
+     "achieve"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "Her receipt is ________ that she paid for the book.",
+    "options": [
+     "treasure",
+     "monument",
+     "sculpture",
+     "proof"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 5,
+    "q": "We visited an ________ site near Nizwa where old walls were found.",
+    "options": [
+     "archaeology",
+     "archaeologist",
+     "archaeological",
+     "archaeologically"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "Ancient Greeks prayed to their gods in a ________ on the hill.",
+    "options": [
+     "map",
+     "temple",
+     "proof",
+     "leaflet"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "The police were able to ________ the thief from the camera pictures.",
+    "options": [
+     "identify",
+     "translate",
+     "conquer",
+     "construct"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 8,
+    "q": "The pharaoh's tomb was full of gold and other ________.",
+    "options": [
+     "skills",
+     "rules",
+     "centuries",
+     "treasures"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 9,
+    "q": "The Taj Mahal is a world-famous ________ built in memory of an emperor's wife.",
+    "options": [
+     "archaeologist",
+     "evidence",
+     "monument",
+     "map"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 10,
+    "q": "Evidence is information that shows that something is ________.",
+    "options": [
+     "lost",
+     "true",
+     "expensive",
+     "small"
+    ],
+    "answer": 1
+   }
+  ],
+  "exam": {
+   "passage": "Near the town of Ibri in Oman, there is a famous archaeological site called Bat. (1)_____ have worked there for many years. They (2)_____ round stone towers and tombs that are about five thousand years old. These remains are (3)_____ that people lived in the area long ago. The team drew a (4)_____ of the site so that visitors can find each part easily. Today the place is protected as an important (5)_____ of human history, and it is on the UNESCO World Heritage list.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "Sailors",
+      "Merchants",
+      "Accountants",
+      "Archaeologists"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 2,
+     "options": [
+      "conquered",
+      "discovered",
+      "fought",
+      "translated"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 3,
+     "options": [
+      "sculpture",
+      "temple",
+      "treasure",
+      "evidence"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 4,
+     "options": [
+      "fleet",
+      "map",
+      "skin",
+      "leaflet"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "options": [
+      "charity",
+      "fleet",
+      "poison",
+      "monument"
+     ],
+     "answer": 3
+    }
+   ]
+  }
+ },
+ "U4-L4": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "The ________ drew the plans for the new library.",
+    "options": [
+     "bricklayer",
+     "gladiator",
+     "merchant",
+     "architect"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 2,
+    "q": "In many families, the mother's job is to ________, cooking and caring for the children.",
+    "options": [
+     "run out of time",
+     "run a marathon",
+     "run the household",
+     "run away"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "We need a lot of ________ to build the wall, and each one is baked in an oven.",
+    "options": [
+     "seats",
+     "bricks",
+     "feasts",
+     "coppers"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "q": "Men worked deep underground in the ________ to dig out the metal.",
+    "options": [
+     "copper mine",
+     "clay brick",
+     "art gallery",
+     "feast hall"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "The bridge is made of steel and ________.",
+    "options": [
+     "decoration",
+     "gladiator",
+     "seat",
+     "concrete"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 6,
+    "q": "The Romans used to ________ long roads that connected their cities.",
+    "options": [
+     "discover",
+     "identify",
+     "construct",
+     "navigate"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "The wedding hall has lovely ________ on the walls, such as flowers and lights.",
+    "options": [
+     "bricklayers",
+     "decorations",
+     "seats",
+     "gladiators"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 8,
+    "q": "The ________ in the theatre were very comfortable.",
+    "options": [
+     "seats",
+     "feasts",
+     "coppers",
+     "gladiators"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 9,
+    "q": "Pottery and painting are different forms of ________.",
+    "options": [
+     "seat",
+     "concrete",
+     "copper",
+     "art"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 10,
+    "q": "Spartacus was a famous ________ who led a revolt against Rome.",
+    "options": [
+     "architect",
+     "artist",
+     "gladiator",
+     "bricklayer"
+    ],
+    "answer": 2
+   }
+  ],
+  "exam": {
+   "passage": "A new mosque is being built in our town. First, the (1)_____ drew the plan with a pencil and a ruler. Then workers (2)_____ the walls, and a skilled (3)_____ laid the (4)_____ in neat rows, one on top of the other. Day after day the building grew taller. At last, an artist added a colourful (5)_____ above the main door, and everyone in the town came to admire the finished work. Many people now say it is the most beautiful building in the whole area, and children often visit it with their teachers to learn how it was made.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "architect",
+      "accountant",
+      "emperor",
+      "citizen"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "options": [
+      "translated",
+      "discovered",
+      "constructed",
+      "ignored"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 3,
+     "options": [
+      "bricklayer",
+      "trader",
+      "volunteer",
+      "economist"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "options": [
+      "seats",
+      "feasts",
+      "bricks",
+      "maps"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "options": [
+      "decoration",
+      "poverty",
+      "security",
+      "article"
+     ],
+     "answer": 0
+    }
+   ]
+  }
+ },
+ "U4-L5": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "The ________ checks the company's bills and keeps its money records.",
+    "options": [
+     "accountant",
+     "merchant",
+     "economist",
+     "architect"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "The two countries signed an agreement to increase ________ between them.",
+    "options": [
+     "poverty",
+     "culture",
+     "security",
+     "trade"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 3,
+    "q": "Oil and gold are valuable ________ that are bought and sold around the world.",
+    "options": [
+     "monuments",
+     "decorations",
+     "commodities",
+     "sculptures"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "The company launched a new ________ last month: a phone with a long-lasting battery.",
+    "options": [
+     "century",
+     "product",
+     "kingdom",
+     "temple"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "The ________ sold silk and spices in the busy market.",
+    "options": [
+     "merchant",
+     "archaeologist",
+     "economist",
+     "volunteer"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "Farming is called ________, and it is very important in the Batinah region.",
+    "options": [
+     "architecture",
+     "archaeology",
+     "accounting",
+     "agriculture"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 7,
+    "q": "The ________ of the country grew when it began to export oil.",
+    "options": [
+     "economist",
+     "economic",
+     "economy",
+     "economical"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 8,
+    "q": "This old coin ________ about fifty rials.",
+    "options": [
+     "is worthy",
+     "is worth",
+     "are worth",
+     "worth"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 9,
+    "q": "Add the three numbers and write ________ at the bottom.",
+    "options": [
+     "the total",
+     "the trader",
+     "the product",
+     "the account"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 10,
+    "q": "Thanks to good rain and rich soil, the region became ________ and its farmers grew rich.",
+    "options": [
+     "poisonous",
+     "limited",
+     "foreign",
+     "prosperous"
+    ],
+    "answer": 3
+   }
+  ],
+  "exam": {
+   "passage": "The Silk Road was a network of routes linking China with the Mediterranean. (1)_____ travelled in groups called caravans, carrying silk and spices on camels. These (2)_____ were valuable, so sellers could earn a lot of money. Cities along the road, such as Samarkand, became (3)_____ because of the trade. Local (4)_____ also grew, because farmers sold fruit and cotton to travellers. Anyone who started a new business, such as opening a shop for visitors, was an early (5)_____. The story shows how trade can change the life of a whole region.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "Volunteers",
+      "Merchants",
+      "Architects",
+      "Bricklayers"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 2,
+     "options": [
+      "monuments",
+      "sculptures",
+      "leaflets",
+      "commodities"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "options": [
+      "poisonous",
+      "prosperous",
+      "foreign",
+      "limited"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 4,
+     "options": [
+      "economists",
+      "accountants",
+      "entrepreneurs",
+      "economies"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 5,
+     "options": [
+      "economist",
+      "entrepreneur",
+      "accountant",
+      "architect"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ },
+ "U4-L6": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "Modern ships use GPS for ________.",
+    "options": [
+     "frankincense",
+     "navigation",
+     "religion",
+     "fleet"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "In the past, Omani sailors used to ________ across the Indian Ocean to reach India.",
+    "options": [
+     "sail",
+     "conquer",
+     "mention",
+     "estimate"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "On the hill stands an old ________ that protected the town from enemies.",
+    "options": [
+     "dhow",
+     "mosque",
+     "fleet",
+     "fort"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 4,
+    "q": "Sur has been famous for ________ for hundreds of years.",
+    "options": [
+     "building roads",
+     "building hotels",
+     "building ships",
+     "building walls"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "The ________ calendar began in the year the Prophet migrated to Madinah.",
+    "options": [
+     "Roman",
+     "Islamic",
+     "Greek",
+     "Mayan"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "The Sultan Qaboos Grand ________ in Muscat welcomes visitors from all over the world.",
+    "options": [
+     "Mosque",
+     "Fort",
+     "Fleet",
+     "Dhow"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 7,
+    "q": "People burn ________ to make a sweet smell in the home.",
+    "options": [
+     "copper",
+     "concrete",
+     "clay",
+     "frankincense"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 8,
+    "q": "Everyone has the right to choose their ________.",
+    "options": [
+     "navigation",
+     "frankincense",
+     "religion",
+     "fleet"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 9,
+    "q": "Without a compass, it is hard to ________ at sea.",
+    "options": [
+     "conquer",
+     "navigate",
+     "translate",
+     "identify"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 10,
+    "q": "The ________ of ships crossed the sea in a single line.",
+    "options": [
+     "fleet",
+     "fort",
+     "religion",
+     "sailor"
+    ],
+    "answer": 0
+   }
+  ],
+  "exam": {
+   "passage": "Sohar is an old port on the coast of Oman. Many years ago, its people were known for their skill in (1)_____ and sea trade. Brave (2)_____ left the port in wooden (3)_____ with large white sails. They carried copper and (4)_____ to distant lands and returned with spices and cloth. Sohar also has a famous (5)_____ beside the sea, which once protected the port from enemies. Visitors to the port today can still imagine the busy days of the past, when ships arrived almost every week from the east and the south.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "archaeology",
+      "poverty",
+      "navigation",
+      "equality"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "options": [
+      "sailors",
+      "accountants",
+      "gladiators",
+      "bricklayers"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "options": [
+      "forts",
+      "mosques",
+      "dhows",
+      "pyramids"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "options": [
+      "frankincense",
+      "concrete",
+      "poison",
+      "bricks"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 5,
+     "options": [
+      "fleet",
+      "dhow",
+      "fort",
+      "sailor"
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ },
+ "U4-L7": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "Ancient Egyptians carved ________ on temple walls.",
+    "options": [
+     "apostrophes",
+     "leaflets",
+     "hieroglyphics",
+     "thesauruses"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "q": "Scientists do ________ in laboratories to find cures for diseases.",
+    "options": [
+     "leaflet",
+     "research",
+     "apostrophe",
+     "expertise"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "Her ________ in computer repair means that companies often ask for her advice.",
+    "options": [
+     "expertise",
+     "apostrophe",
+     "leaflet",
+     "cuneiform"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "He is very ________ at fixing cars.",
+    "options": [
+     "skill",
+     "skills",
+     "skilfully",
+     "skilled"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 5,
+    "q": "The new school will ________ girls and boys in science and technology.",
+    "options": [
+     "ignore",
+     "estimate",
+     "educate",
+     "suffer"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "Write a paragraph to ________ your village for tourists.",
+    "options": [
+     "educate",
+     "describe",
+     "ignore",
+     "estimate"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "The clinic gave out a ________ about how to avoid the flu.",
+    "options": [
+     "leaflet",
+     "thesaurus",
+     "apostrophe",
+     "cuneiform"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 8,
+    "q": "The Sumerians wrote with wedge-shaped signs known as ________.",
+    "options": [
+     "apostrophe",
+     "thesaurus",
+     "leaflet",
+     "cuneiform"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 9,
+    "q": "Hieroglyphics and cuneiform are two early ________.",
+    "options": [
+     "forms of transport",
+     "forms of payment",
+     "forms of writing",
+     "forms of music"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 10,
+    "q": "Reading books increases your general ________.",
+    "options": [
+     "apostrophe",
+     "knowledge",
+     "leaflet",
+     "research"
+    ],
+    "answer": 1
+   }
+  ],
+  "exam": {
+   "passage": "Last week our class prepared a project about the history of our school. First, we did some (1)_____ in the library and on the internet. Then our teacher showed us how to use an (2)_____ correctly in words like 'it's'. To find other words for 'good', we used a (3)_____. Finally, we designed a (4)_____ to hand out to visitors. It (5)_____ the school's history and its clubs, and everyone said it was very useful. We were proud of our work, and our teacher gave us the highest marks in the year.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "revenge",
+      "security",
+      "poverty",
+      "research"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 2,
+     "options": [
+      "leaflet",
+      "apostrophe",
+      "cuneiform",
+      "hieroglyphics"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 3,
+     "options": [
+      "monument",
+      "fleet",
+      "apostrophe",
+      "thesaurus"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 4,
+     "options": [
+      "dhow",
+      "leaflet",
+      "treasure",
+      "sculpture"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "options": [
+      "conquers",
+      "constructs",
+      "navigates",
+      "describes"
+     ],
+     "answer": 3
+    }
+   ]
+  }
+ },
+ "U4-L8": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "We are living in the twenty-first ________.",
+    "options": [
+     "history",
+     "biography",
+     "achievement",
+     "century"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 2,
+    "q": "I read a ________ of Nelson Mandela that tells the story of his life.",
+    "options": [
+     "century",
+     "earthquake",
+     "biography",
+     "renaissance"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "The Roman Empire began to ________ when it could not defend its borders.",
+    "options": [
+     "thrive",
+     "collapse",
+     "reflect",
+     "achieve"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "q": "________, the Roman Empire was the strongest power in Europe.",
+    "options": [
+     "During its time",
+     "During it time",
+     "Through its time",
+     "Over its times"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "Many people ________ the year in December and set goals for the next one.",
+    "options": [
+     "reflect at",
+     "reflect of",
+     "reflect with",
+     "reflect on"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 6,
+    "q": "The first moon landing in 1969 was a great ________ for science.",
+    "options": [
+     "earthquake",
+     "century",
+     "achievement",
+     "war"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "The Second World ________ ended in 1945.",
+    "options": [
+     "History",
+     "War",
+     "Century",
+     "Collapse"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 8,
+    "q": "The Hijrah took place in 622 ________.",
+    "options": [
+     "AD",
+     "BC",
+     "war",
+     "history"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 9,
+    "q": "The study of past events is called ________.",
+    "options": [
+     "biography",
+     "century",
+     "achievement",
+     "history"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 10,
+    "q": "Nobody can ________ what will happen tomorrow.",
+    "options": [
+     "know by heart",
+     "knows for certain",
+     "know for certain",
+     "knew for certain"
+    ],
+    "answer": 2
+   }
+  ],
+  "exam": {
+   "passage": "Pompeii was a busy Roman town in Italy. It (1)_____ for many years because of trade and farming. Then, in 79 (2)_____, the volcano Vesuvius erupted and buried the town under ash. Archaeologists later uncovered it, and today it teaches us a lot about Roman (3)_____. Visitors can see houses, shops and paintings. Historians cannot (4)_____ how many people lived there, but they estimate thousands. Many visitors (5)_____ how quickly a great city can disappear. It is a lesson that people still remember today, and thousands of tourists visit the site every year.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "thrived",
+      "collapsed",
+      "reflected",
+      "mentioned"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "options": [
+      "BC",
+      "century",
+      "AD",
+      "war"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 3,
+     "options": [
+      "history",
+      "biography",
+      "earthquake",
+      "renaissance"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "options": [
+      "knows for certain",
+      "known for certain",
+      "know for certain",
+      "knowing for certain"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "options": [
+      "reflect on",
+      "reflect in",
+      "reflect at",
+      "reflect to"
+     ],
+     "answer": 0
+    }
+   ]
+  }
+ },
+ "U4-L9": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "The film was ________ fantastic; we all loved it.",
+    "options": [
+     "absolutely",
+     "fairly",
+     "slightly",
+     "a little"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "I am ________ tired, but I can walk a little more.",
+    "options": [
+     "absolutely",
+     "extremely",
+     "completely",
+     "fairly"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 3,
+    "q": "He is ________ the best player in the team; nobody doubts it.",
+    "options": [
+     "fairly",
+     "slightly",
+     "definitely",
+     "a bit"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "Muscat is a ________ city with tall buildings and new roads.",
+    "options": [
+     "limited",
+     "modern",
+     "reliable",
+     "fairly"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "English is a ________ language for most students in Oman.",
+    "options": [
+     "foreign",
+     "glorious",
+     "reliable",
+     "limited"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "The team won a ________ victory, and the crowd cheered for an hour.",
+    "options": [
+     "limited",
+     "foreign",
+     "fairly",
+     "glorious"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 7,
+    "q": "My brother's car is old but very ________; it never breaks down.",
+    "options": [
+     "limited",
+     "modern",
+     "reliable",
+     "glorious"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 8,
+    "q": "The Alhambra is a ________ palace that millions of people visit each year.",
+    "options": [
+     "limited",
+     "well-known",
+     "foreign",
+     "fairly"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 9,
+    "q": "Visitors ________ enjoy the show because it is excellent.",
+    "options": [
+     "certainly",
+     "famous",
+     "glorious",
+     "limited"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 10,
+    "q": "It is a ________ restaurant; everyone in Salalah knows it.",
+    "options": [
+     "limited",
+     "modern",
+     "quite",
+     "famous"
+    ],
+    "answer": 3
+   }
+  ],
+  "exam": {
+   "passage": "Last month my family visited Jebel Akhdar. The road was (1)_____ steep, but our driver was careful and (2)_____. The weather was (3)_____ cool compared with Muscat, so we wore jackets in the evening. We saw old villages and terraces, and we bought some of the (4)_____ rose water of the area. In spring, many (5)_____ tourists also come to enjoy the mountain air and the beautiful views. We took many photos, and we are already planning to go again next year with our cousins.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "glorious",
+      "fairly",
+      "famous",
+      "foreign"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 2,
+     "options": [
+      "limited",
+      "quite",
+      "certainly",
+      "reliable"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "options": [
+      "reliable",
+      "really",
+      "limited",
+      "foreign"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 4,
+     "options": [
+      "limited",
+      "foreign",
+      "modern",
+      "famous"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 5,
+     "options": [
+      "glorious",
+      "foreign",
+      "reliable",
+      "fairly"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ },
+ "U4-L10": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "Climate change and hunger are ________ that need cooperation between countries.",
+    "options": [
+     "personal habits",
+     "global issues",
+     "school rules",
+     "family trips"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "The right to a nationality means that every child belongs to a ________.",
+    "options": [
+     "country",
+     "charity",
+     "poverty",
+     "volunteer"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "A ________ gives food or clothes to people in need and does not work for profit.",
+    "options": [
+     "equality",
+     "poverty",
+     "citizenship",
+     "charity"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 4,
+    "q": "Men and women should have ________ in education and work.",
+    "options": [
+     "poverty",
+     "charity",
+     "equality",
+     "volunteer"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "Boys and girls have ________ rights to go to school.",
+    "options": [
+     "equality",
+     "equal",
+     "equally",
+     "equals"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "Many young people ________ at the animal shelter at weekends without pay.",
+    "options": [
+     "volunteer",
+     "navigate",
+     "conquer",
+     "discover"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 7,
+    "q": "A good ________ respects other cultures and helps to protect the planet.",
+    "options": [
+     "global issue",
+     "global rights",
+     "global equal",
+     "global citizen"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 8,
+    "q": "Nobody may take another person's life unfairly, because everyone has ________.",
+    "options": [
+     "the right to education",
+     "the right to a nationality",
+     "the right to life",
+     "the right to vote"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 9,
+    "q": "Free schools help to ________ and give children a better future.",
+    "options": [
+     "increase poverty",
+     "reduce poverty",
+     "ignore rights",
+     "avoid education"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 10,
+    "q": "The UN says all people have ________: no one is lower than others.",
+    "options": [
+     "the same rights",
+     "different rights",
+     "fewer rights",
+     "special rights"
+    ],
+    "answer": 0
+   }
+  ],
+  "exam": {
+   "passage": "Last month our school held a week of activities about (1)_____, which teaches students to care about the whole world. Pupils learned that (2)_____ means treating all people fairly, whatever their religion or country. Some of them became (3)_____ and collected clothes for a local (4)_____. The class also discussed how rich countries can help to (5)_____ poverty in poor areas. At the end, every student wrote one promise to help others. It was a week that none of us will forget soon.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "local transport",
+      "school uniforms",
+      "global citizenship",
+      "family history"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "options": [
+      "equality",
+      "poverty",
+      "charity",
+      "security"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "options": [
+      "merchants",
+      "bricklayers",
+      "volunteers",
+      "sailors"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "options": [
+      "charity",
+      "fleet",
+      "fort",
+      "mosque"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 5,
+     "options": [
+      "increase",
+      "ignore",
+      "reduce",
+      "estimate"
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ },
+ "U4-L11": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "The United Nations was set up in ________.",
+    "options": [
+     "1918",
+     "1960",
+     "1945",
+     "1989"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "q": "The headquarters of the United Nations is in ________.",
+    "options": [
+     "London",
+     "New York",
+     "Paris",
+     "Cairo"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "Call this number in an ________, such as a fire.",
+    "options": [
+     "emergency",
+     "environment",
+     "organisation",
+     "article"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "Plastic pollution is harming the ________ and sea animals.",
+    "options": [
+     "emergency",
+     "organisation",
+     "charter",
+     "environment"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 5,
+    "q": "The Olympic Games are an ________ event with athletes from almost every country.",
+    "options": [
+     "local",
+     "unofficial",
+     "international",
+     "individual"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "The main aim of the UN is to ________ peace between nations.",
+    "options": [
+     "translate",
+     "maintain",
+     "estimate",
+     "ignore"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "The news was ________, so no one could be sure it was true.",
+    "options": [
+     "unofficial",
+     "official",
+     "universal",
+     "united"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 8,
+    "q": "The UN ________ is the document that sets out its aims and rules.",
+    "options": [
+     "Fleet",
+     "Leaflet",
+     "Treasure",
+     "Charter"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 9,
+    "q": "The countries are ________ in one aim: to protect the planet.",
+    "options": [
+     "unofficial",
+     "universal",
+     "united",
+     "emergency"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 10,
+    "q": "Education is a ________ right: every child in the world should have it.",
+    "options": [
+     "unofficial",
+     "universal",
+     "emergency",
+     "sustainable"
+    ],
+    "answer": 1
+   }
+  ],
+  "exam": {
+   "passage": "Our school held a United Nations Day in October. Students chose countries and spoke as delegates at a mock meeting. One student played the (1)_____, who leads the UN. They discussed ways to protect the (2)_____ and to keep (3)_____ relations between neighbours. Another group talked about (4)_____ development, which meets today's needs without harming the future. After the debate, every class signed a message of hope in the (5)_____ languages of the UN, including Arabic. It was a happy day, and the teachers asked us to repeat the event next year.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "Sultan",
+      "Charter",
+      "Emperor",
+      "Secretary General"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 2,
+     "options": [
+      "emergency",
+      "environment",
+      "article",
+      "organisation"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 3,
+     "options": [
+      "unofficial",
+      "universal",
+      "emergency",
+      "friendly"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 4,
+     "options": [
+      "official",
+      "sustainable",
+      "ancient",
+      "limited"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "options": [
+      "unofficial",
+      "foreign",
+      "modern",
+      "official"
+     ],
+     "answer": 3
+    }
+   ]
+  }
+ },
+ "U4-L12": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "In the Declaration, each ________ explains one right.",
+    "options": [
+     "revenge",
+     "freedom",
+     "security",
+     "article"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 2,
+    "q": "The two leaders will ________ the peace agreement tomorrow.",
+    "options": [
+     "translate",
+     "estimate",
+     "sign",
+     "navigate"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "People have the ________ to say what they think.",
+    "options": [
+     "revenge",
+     "freedom",
+     "security",
+     "document"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "q": "To solve big problems, nations must work in ________.",
+    "options": [
+     "unity",
+     "revenge",
+     "security",
+     "freedom"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "'An eye for an eye' means taking ________ on someone who hurt you.",
+    "options": [
+     "cooperation",
+     "security",
+     "freedom",
+     "revenge"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 6,
+    "q": "The guards and cameras give ________ to the school.",
+    "options": [
+     "document",
+     "article",
+     "security",
+     "freedom"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "Success in the project depended on ________ between the two teams.",
+    "options": [
+     "cooperate",
+     "cooperation",
+     "cooperative",
+     "cooperated"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 8,
+    "q": "The prisoner was set ________ after ten years.",
+    "options": [
+     "free",
+     "freedom",
+     "freely",
+     "freed"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 9,
+    "q": "After years of war, the two countries finally made ________.",
+    "options": [
+     "revenge",
+     "article",
+     "document",
+     "peace"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 10,
+    "q": "Before you sign, read the whole ________ carefully.",
+    "options": [
+     "peace",
+     "revenge",
+     "document",
+     "freedom"
+    ],
+    "answer": 2
+   }
+  ],
+  "exam": {
+   "passage": "At the start of the year, our class wrote its own rules. First, the teacher printed the (1)_____ and each student read it carefully. Then we all (2)_____ our names at the bottom. The rules say that we will (3)_____ with each other in group work, and (4)_____ every classmate equally. We also promised never to seek (5)_____ when someone makes a mistake. Instead, we forgive and move on, because a friendly class is a happy class. Our teacher hung the paper on the wall, and we often look at it when we need a reminder.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "document",
+      "freedom",
+      "security",
+      "peace"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "options": [
+      "treated",
+      "cooperated",
+      "signed",
+      "ignored"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 3,
+     "options": [
+      "cooperate",
+      "estimate",
+      "translate",
+      "apply"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "options": [
+      "sign",
+      "translate",
+      "treat",
+      "ignore"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "options": [
+      "revenge",
+      "security",
+      "freedom",
+      "unity"
+     ],
+     "answer": 0
+    }
+   ]
+  }
+ },
+ "U4-L13": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "Never ________ a book by its cover.",
+    "options": [
+     "judge",
+     "translate",
+     "apply",
+     "ignore"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "Some mushrooms are ________ and can make you very ill.",
+    "options": [
+     "poison",
+     "poisoning",
+     "poisons",
+     "poisonous"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 3,
+    "q": "Children should ________ their parents and teachers.",
+    "options": [
+     "estimate",
+     "translate",
+     "respect",
+     "apply"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "Millions of people around the world ________ hunger.",
+    "options": [
+     "suffer at",
+     "suffer from",
+     "suffer in",
+     "suffer with"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "I did not ________ the bus had left until I reached the stop.",
+    "options": [
+     "realise",
+     "apply",
+     "translate",
+     "list"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "Please ________ the sunscreen on your arms before swimming.",
+    "options": [
+     "estimate",
+     "list",
+     "judge",
+     "apply"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 7,
+    "q": "This old coin has great ________ because very few of them remain.",
+    "options": [
+     "poison",
+     "list",
+     "value",
+     "respect"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 8,
+    "q": "Experts ________ that the old bridge is about two hundred years old.",
+    "options": [
+     "achieve",
+     "estimate",
+     "translate",
+     "apply"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 9,
+    "q": "The nurse will ________ the wound with clean bandages.",
+    "options": [
+     "treat",
+     "translate",
+     "list",
+     "apply"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 10,
+    "q": "With patience, you can ________ great things.",
+    "options": [
+     "ignore",
+     "translate",
+     "poison",
+     "achieve"
+    ],
+    "answer": 3
+   }
+  ],
+  "exam": {
+   "passage": "Maryam has always dreamed of becoming a translator. At first she did not (1)_____ how difficult the job would be. She had to (2)_____ long English texts into Arabic and check every word. Some students (3)_____ stress before exams, but she made a study plan and followed it. Her teacher helped her (4)_____ the time she needed for each task and said that nobody should (5)_____ others by their marks alone. In the end, Maryam achieved her goal. Her family and friends were very proud of her, and she now teaches young students too.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "translate",
+      "realise",
+      "apply",
+      "list"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 2,
+     "options": [
+      "judge",
+      "achieve",
+      "value",
+      "translate"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "options": [
+      "suffer at",
+      "suffer from",
+      "suffer on",
+      "suffer to"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 4,
+     "options": [
+      "translate",
+      "poison",
+      "suffer from",
+      "estimate"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 5,
+     "options": [
+      "translate",
+      "judge",
+      "apply",
+      "poison"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ },
+ "U4-L14": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "The shop is ________ walking distance of my house.",
+    "options": [
+     "between",
+     "within",
+     "among",
+     "during"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "Oman is ________ its friendly people and beautiful nature.",
+    "options": [
+     "famous for",
+     "famous with",
+     "famous of",
+     "famous by"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "The teacher asked who was ________ breaking the window.",
+    "options": [
+     "responsible to",
+     "responsible at",
+     "responsible of",
+     "responsible for"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 4,
+    "q": "She wore a lovely dress from a small ________ in the city centre.",
+    "options": [
+     "skin",
+     "ghoul",
+     "boutique",
+     "character"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "In old Arab stories, a ________ is a scary creature.",
+    "options": [
+     "boutique",
+     "ghoul",
+     "enthusiasm",
+     "character"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "Her ________ for football made her practise every day.",
+    "options": [
+     "enthusiasm",
+     "skin",
+     "content",
+     "boutique"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 7,
+    "q": "The poster is made to ________ the new school festival.",
+    "options": [
+     "regenerate",
+     "live",
+     "within",
+     "promote"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 8,
+    "q": "He did not ________ the problem during the meeting because he forgot.",
+    "options": [
+     "promote",
+     "regenerate",
+     "mention",
+     "live"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 9,
+    "q": "When a lizard loses its tail, a new one can ________.",
+    "options": [
+     "mention",
+     "regenerate",
+     "promote",
+     "get married"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 10,
+    "q": "Ali and Noor plan to ________ next summer.",
+    "options": [
+     "get married",
+     "get marry",
+     "got marry",
+     "getting married"
+    ],
+    "answer": 0
+   }
+  ],
+  "exam": {
+   "passage": "Noor loves fashion, so she opened a small (1)_____ in the old market. She is (2)_____ choosing every piece in the shop, and she picks fabrics that are soft on the (3)_____. She speaks with great (4)_____ about her designs, and customers like her friendly (5)_____. Many people now visit the shop every week, and some of them bring their friends and family to see the new clothes. The shop is small, but it is always full of colour and good ideas, and the owner enjoys every day of work there.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "ghoul",
+      "skin",
+      "boutique",
+      "character"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "options": [
+      "responsible for",
+      "responsible at",
+      "famous at",
+      "known at"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "options": [
+      "ghoul",
+      "character",
+      "skin",
+      "boutique"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "options": [
+      "enthusiasm",
+      "ghoul",
+      "skin",
+      "content"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 5,
+     "options": [
+      "ghoul",
+      "boutique",
+      "character",
+      "within"
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ }
+}

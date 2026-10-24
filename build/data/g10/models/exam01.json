@@ -1,0 +1,604 @@
+{
+ "id": 1,
+ "title": "Model Exam 1",
+ "listening1": {
+  "context": "You are going to hear a conversation between Huda and Salim.",
+  "script": [
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "Hi Salim! Mr Hilal wants us to hand in our podcast plan on Thursday. Have you got any ideas? I would like to choose a topic that students really care about."
+   },
+   {
+    "speaker": "Salim",
+    "gender": "m",
+    "text": "Yes, I have. I think we should make a podcast about healthy habits for teenagers. What do you think?"
+   },
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "That is a good topic, but I am sure many groups will choose it. How about a podcast about school clubs? New students could learn which clubs they might like to join."
+   },
+   {
+    "speaker": "Salim",
+    "gender": "m",
+    "text": "That is more original. Let's do it! Now, how long should each episode be?"
+   },
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "I do not think thirty minutes is a good idea. Students lose interest very quickly."
+   },
+   {
+    "speaker": "Salim",
+    "gender": "m",
+    "text": "I agree. Twenty minutes is still a little long for me. Let's make every episode fifteen minutes."
+   },
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "Perfect. Every episode will also need a guest. Who shall we interview in the first episode?"
+   },
+   {
+    "speaker": "Salim",
+    "gender": "m",
+    "text": "I would like to talk to Mr Said, the science club leader. Everybody says he is very funny. Or we could ask Ms Aisha from the drama club."
+   },
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "Ms Aisha is travelling this week, so we will invite her for episode two. Mr Said can be our first guest."
+   },
+   {
+    "speaker": "Salim",
+    "gender": "m",
+    "text": "Great. Now we need a place to record. I have a good microphone at home, but we need a quiet room."
+   },
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "The library is too noisy, and the classrooms are busy in the morning. What about the computer lab?"
+   },
+   {
+    "speaker": "Salim",
+    "gender": "m",
+    "text": "Yes, the lab is quiet after school, and it has fast computers for editing. When shall we record?"
+   },
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "I have English club on Monday. Which day is good for you?"
+   },
+   {
+    "speaker": "Salim",
+    "gender": "m",
+    "text": "I have football practice on Sunday and Tuesday, so Wednesday is the best day for me. Now we need a name for the podcast."
+   },
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "I like School Voice. It sounds nice and simple, and it is easy to remember."
+   },
+   {
+    "speaker": "Salim",
+    "gender": "m",
+    "text": "It is nice, but I prefer Club Corner because it tells listeners what the podcast is about."
+   },
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "You are right. Club Corner it is. Finally, where shall we put the episodes? Mr Hilal said we can use the school radio."
+   },
+   {
+    "speaker": "Salim",
+    "gender": "m",
+    "text": "The radio is a good idea, but I think the school website is better because students can listen at home. Excellent. Let's start writing the first script this afternoon, and we can show it to Mr Hilal tomorrow."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "What will the students' podcast be about?",
+    "options": [
+     "healthy habits",
+     "school clubs",
+     "exam tips"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "How long will each episode be?",
+    "options": [
+     "twenty minutes",
+     "thirty minutes",
+     "fifteen minutes"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "Who will be the guest in the first episode?",
+    "options": [
+     "Mr Said",
+     "Ms Aisha",
+     "Mr Hilal"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "Where will they record the podcast?",
+    "options": [
+     "in the library",
+     "in a classroom",
+     "in the computer lab"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "On which day will they record it?",
+    "options": [
+     "Wednesday",
+     "Sunday",
+     "Monday"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "Which name will they choose for the podcast?",
+    "options": [
+     "School Voice",
+     "Club Corner",
+     "Student Hour"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "Where will they put the episodes?",
+    "options": [
+     "on the school radio",
+     "on a video app",
+     "on the school website"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about hydropower.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Good morning, everyone. Today I am going to talk about hydropower, one of the oldest and most important sources of renewable energy."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Hydropower means using the energy of moving water. People discovered this idea a very long time ago. More than two thousand years ago, the ancient Greeks used water wheels to grind grain into flour. The river turned the wheel, and the wheel turned heavy stones. Farmers did not need to use their own strength any more."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Later, engineers learned how to make electricity from water. In eighteen eighty-two, the first hydroelectric power station opened in the United States. After that, many countries began to build dams on their rivers."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "How does a modern hydropower station work? First, a dam holds back a river, and a large lake forms behind it. This lake is called a reservoir. The water in the reservoir has a lot of stored energy. When workers open the gates in the dam, the water rushes down through big pipes. It turns a machine called a turbine, and the turbine turns a generator. The generator then produces electricity."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Today, the biggest hydropower station in the world is the Three Gorges Dam in China. Hydropower gives the world about one sixth of its electricity."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Hydropower has important advantages. It is renewable because rain keeps filling the rivers. It does not burn fuel, so it produces almost no greenhouse gases while it works. It can also provide electricity at any time of the day."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "However, there are some disadvantages. Building a dam is very expensive and takes many years. A dam can also change the life of a river. For example, fish may not be able to swim up the river to lay their eggs. In addition, some people have to leave their homes when a valley is covered by water."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Finally, not every country can use hydropower. A country needs strong rivers and plenty of rain. Oman has only a few rivers that flow all year, and most wadis fill with water only after heavy rain. So Oman uses other sources of energy, such as solar and wind power."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What did the ancient Greeks grind with water wheels?",
+    "hint": "(food)",
+    "answer": "Grain / Flour"
+   },
+   {
+    "n": 2,
+    "q": "In which year did the first hydroelectric power station open?",
+    "hint": "(year)",
+    "answer": "1882"
+   },
+   {
+    "n": 3,
+    "q": "What is the name of the large lake behind a dam?",
+    "hint": "",
+    "answer": "(A) reservoir"
+   },
+   {
+    "n": 4,
+    "q": "In which country is the Three Gorges Dam?",
+    "hint": "(country)",
+    "answer": "China"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "Hydropower is renewable because rain keeps filling the rivers.",
+    "answer": true
+   },
+   {
+    "n": 6,
+    "statement": "Building a dam is cheap and quick.",
+    "answer": false
+   },
+   {
+    "n": 7,
+    "statement": "Dams can make it difficult for fish to swim up a river.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "Oman has many large rivers that flow all year.",
+    "answer": false
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Hamad loves technology and spends a lot of time online. Last year he started his own (1)_____ and now he shares his ideas with people around the world. Each week he writes a new post and adds interesting (2)_____ to attract readers. He has many (3)_____ who comment on his work and like his photos. Hamad's mother is worried that he is (4)_____ his phone, so they made an agreement. He must (5)_____ his phone during family dinner. Hamad says this rule is fair because real conversation is just as important as online life.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "drought",
+     "blog",
+     "citizen",
+     "empire"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "content",
+     "emissions",
+     "forts",
+     "habits"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "inventions",
+     "disasters",
+     "emissions",
+     "followers"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 4,
+    "options": [
+     "addicted to",
+     "due to",
+     "similar to",
+     "next to"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "log in",
+     "back up",
+     "turn off",
+     "come across"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Maryam, have you [[1]] the new episode of the science podcast yet?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Not yet. I have been busy [[2]] Monday."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "It is [[3]] interesting than the last one, so you should hear it."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Were the interviews [[4]] in the school studio?"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Yes, they were. I think it is the best podcast at our school."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "If I [[5]] more free time, I would listen to it every day."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "listen",
+     "listened"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "since",
+     "for"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "most",
+     "more"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "recorded",
+     "record"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "had",
+     "would have"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "reading1": {
+  "title": "Rainforests: Treasures of the Earth",
+  "passage": [
+   "Rainforests are thick, green forests that grow in warm places where it rains almost every day. A tropical rainforest can receive more than two metres of rain in a year, and the temperature stays warm in every season. Rainforests cover only about six percent of the land on Earth, but they are home to more than half of the world's kinds of plants and animals.",
+   "The biggest rainforest is the Amazon in South America. It is shared by several countries, and Brazil has the largest part. The second biggest is the Congo rainforest in Africa. There are also large rainforests in South-East Asia, in countries such as Indonesia and Malaysia.",
+   "A rainforest has four main layers. At the top are the tallest trees, called the emergent layer, and some of them grow higher than forty metres. Below them is the canopy, a thick roof of leaves and branches. The canopy is home to most of the animals, such as monkeys, birds and snakes. Under the canopy is the understory, where it is dark and humid. On the ground is the forest floor. Very little sunlight reaches it, so only a few plants can grow there.",
+   "Rainforests help our planet in many ways. Trees take in carbon dioxide, a greenhouse gas, and give out oxygen. Their roots hold the soil in place, which helps to stop floods in the rainy season. Trees also release water vapour into the air, and this forms clouds. In addition, people use rainforest plants to make medicines, and the forests give us food such as nuts, cocoa and many fruits.",
+   "Sadly, rainforests are in danger. People cut down trees for wood, and they clear land to grow crops and to keep cattle. Roads and mines also destroy forest, and fires can spread quickly in dry years. When a forest disappears, animals lose their homes, and some species may become extinct. Fewer trees also mean that more carbon dioxide stays in the air, which adds to global warming.",
+   "We can all help to protect rainforests. Governments can make laws that stop illegal cutting. Companies can use wood that comes from well-managed forests. Ordinary people can recycle paper, buy products with a sustainable label and learn more about rainforests. If we act now, these amazing forests will continue to protect the planet for many years."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "How much of the land on Earth do rainforests cover?",
+    "options": [
+     "about sixty percent",
+     "about six percent",
+     "about sixteen percent"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "Which is the biggest rainforest in the world?",
+    "options": [
+     "The Congo rainforest",
+     "The rainforests of South-East Asia",
+     "The Amazon"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "Where do most rainforest animals live?",
+    "options": [
+     "In the canopy",
+     "On the forest floor",
+     "In the emergent layer"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "Why do only a few plants grow on the forest floor?",
+    "options": [
+     "The soil is too dry.",
+     "Animals eat the seeds.",
+     "Very little sunlight reaches it."
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "How do tree roots help to stop floods?",
+    "options": [
+     "They make clouds.",
+     "They hold the soil in place.",
+     "They give out oxygen."
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "What can companies do to protect rainforests?",
+    "options": [
+     "Use wood from well-managed forests.",
+     "Grow crops inside the forest.",
+     "Build more roads."
+    ],
+    "answer": 0
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "Trees take in ________, which is a greenhouse gas.",
+    "answer": "carbon dioxide"
+   },
+   {
+    "n": 8,
+    "q": "Water vapour from trees forms ________ in the air.",
+    "answer": "clouds"
+   },
+   {
+    "n": 9,
+    "q": "People cut down trees for ________ and to clear land for crops and cattle.",
+    "answer": "wood"
+   },
+   {
+    "n": 10,
+    "q": "Ordinary people can buy products with a ________ label.",
+    "answer": "sustainable"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "Ancient Rome",
+  "passage": [
+   "Ancient Rome began as a small town on the River Tiber in Italy. According to legend, it was founded in 753 BC by Romulus, who became its first king. Over the next few centuries, Rome grew from a town into a powerful republic, and then into a great empire.",
+   "The Roman Empire began in 27 BC, when Augustus became the first emperor. At its largest, around 117 AD, it stretched from Britain in the north to Egypt in the south, and it included all the lands around the Mediterranean Sea. Millions of people with different languages and cultures lived under Roman rule.",
+   "To control such a huge empire, the Romans built thousands of kilometres of straight, strong roads. Soldiers could march quickly along them, and traders could carry goods from one city to another. Many of these roads were so well built that parts of them can still be seen today. People even said, \"All roads lead to Rome.\"",
+   "Roman engineers were also famous for their aqueducts. These were long bridges and channels that carried fresh water from the hills into cities. Thanks to aqueducts, Roman cities had public fountains and public baths, where people met friends, relaxed and kept clean. The Romans also used a strong building material called concrete, which allowed them to build huge domes and arches.",
+   "Entertainment was important in Roman life. The biggest building for shows was the Colosseum in Rome, which opened in 80 AD. It could hold tens of thousands of people, who came to watch gladiator fights and other events. Chariot races were held in another large stadium called the Circus Maximus.",
+   "From the third century AD, the empire faced many problems, including wars, weak emperors and attacks from outside. In 476 AD, the last emperor in the west lost his throne, and the Western Roman Empire came to an end. However, the eastern half continued for nearly one thousand years as the Byzantine Empire.",
+   "Rome's ideas have lasted until today. Latin, the language of the Romans, developed into Italian, Spanish, French, Portuguese and Romanian, and many English words also come from Latin. Julius Caesar introduced a new calendar with a year of 365 days and a leap year every four years, and our calendar is based on it. Roman law and the idea of a republic have also influenced many countries."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "When, according to legend, was Rome founded?",
+    "hint": "(year)",
+    "answer": "In 753 BC"
+   },
+   {
+    "n": 2,
+    "q": "Who was the first Roman emperor?",
+    "hint": "",
+    "answer": "Augustus"
+   },
+   {
+    "n": 3,
+    "q": "Why were Roman roads important? Because ________",
+    "hint": "",
+    "answer": "soldiers could march quickly and traders could carry goods / they helped soldiers and traders to travel"
+   },
+   {
+    "n": 4,
+    "q": "What carried fresh water from the hills into Roman cities?",
+    "hint": "",
+    "answer": "Aqueducts"
+   },
+   {
+    "n": 5,
+    "q": "What was the name of the biggest building for shows in Rome?",
+    "hint": "",
+    "answer": "The Colosseum"
+   },
+   {
+    "n": 6,
+    "q": "In which year did the Western Roman Empire come to an end?",
+    "hint": "(year)",
+    "answer": "In 476 AD"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Roman cities had public baths.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "The Romans did not use concrete for building.",
+    "answer": false
+   },
+   {
+    "n": 9,
+    "statement": "Julius Caesar introduced a calendar with a leap year.",
+    "answer": true
+   },
+   {
+    "n": 10,
+    "statement": "Italian, Spanish and French have no connection with Latin.",
+    "answer": false
+   }
+  ]
+ },
+ "chart": {
+  "title": "Online Activities of Grade 10 Boys and Girls",
+  "ylabel": "Percentage of Students",
+  "unit": "%",
+  "categories": [
+   "Playing games",
+   "Using social media",
+   "Watching videos",
+   "Doing homework"
+  ],
+  "series": [
+   {
+    "name": "Boys",
+    "values": [
+     70,
+     50,
+     60,
+     30
+    ]
+   },
+   {
+    "name": "Girls",
+    "values": [
+     20,
+     80,
+     65,
+     45
+    ]
+   }
+  ],
+  "model": "The bar chart illustrates the online activities of Grade 10 boys and girls in one school in Oman. Overall, boys preferred playing games, whereas girls preferred using social media.\nFirstly, the most popular online activity for boys was playing games, with 70% of students. This was followed by watching videos (60%) and using social media (50%). However, the least popular activity for boys was doing homework, with only 30% of students.\nIn contrast, the most popular online activity for girls was using social media, with 80% of students. This was followed by watching videos (65%) and doing homework (45%). However, the least popular activity for girls was playing games, with only 20% of students.\nTo summarize, both boys and girls liked watching videos. However, the biggest difference was in playing games, where 70% of boys chose it, whereas 20% of girls did."
+ },
+ "email": {
+  "formal": false,
+  "situation": "Imagine you are Ali. Your school is holding a coding workshop next week.",
+  "task": "Write an email to your friend Khalid and invite him to the workshop. In your email, write about:",
+  "bullets": [
+   "when and where the workshop will be",
+   "what you will learn there",
+   "what he should bring"
+  ],
+  "model": "Dear Khalid,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to invite you to a coding workshop at my school.\n\nFirst, the workshop will be held in the computer lab on Thursday at nine o'clock. For example, it will last for three hours. Moreover, a teacher from the university will lead it.\n\nSecond, we will learn how to make a simple game. Moreover, it is a great chance to meet new friends. Therefore, please bring your laptop and a notebook.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nAli"
+ }
+}

@@ -1,0 +1,3709 @@
+{
+ "unit": 2,
+ "title": "Climate Change",
+ "title_ar": "تغيّر المناخ",
+ "theme_color": "#2E8B57",
+ "lessons": [
+  {
+   "id": "U2-L1",
+   "title": "Weather and Climate",
+   "title_ar": "الطقس والمناخ",
+   "words": [
+    {
+     "en": "weather",
+     "pos": "n",
+     "ar": "الطقس",
+     "ex": "Today's weather is sunny, so we will play outside."
+    },
+    {
+     "en": "climate",
+     "pos": "n",
+     "ar": "المناخ",
+     "ex": "Oman has a hot, dry climate in most areas.",
+     "star": true
+    },
+    {
+     "en": "climate change",
+     "pos": "n",
+     "ar": "تغيّر المناخ",
+     "ex": "Climate change is one of the biggest problems of our time.",
+     "star": true
+    },
+    {
+     "en": "temperature",
+     "pos": "n",
+     "ar": "درجة الحرارة",
+     "ex": "The temperature reached forty-five degrees yesterday.",
+     "star": true
+    },
+    {
+     "en": "heat",
+     "pos": "n",
+     "ar": "الحرارة / الحَرّ",
+     "ex": "I cannot play football in the afternoon heat."
+    },
+    {
+     "en": "average",
+     "pos": "n",
+     "ar": "المعدّل / المتوسط",
+     "ex": "The average temperature in January is much lower."
+    },
+    {
+     "en": "warmer",
+     "pos": "adj",
+     "ar": "أدفأ / أكثر حرارة",
+     "ex": "Summers are getting warmer every year."
+    },
+    {
+     "en": "rainfall",
+     "pos": "n",
+     "ar": "هطول الأمطار",
+     "ex": "Rainfall is very low in the desert."
+    },
+    {
+     "en": "planet",
+     "pos": "n",
+     "ar": "كوكب",
+     "ex": "Earth is the only planet where we know life exists.",
+     "star": true
+    },
+    {
+     "en": "atmosphere",
+     "pos": "n",
+     "ar": "الغلاف الجوي",
+     "ex": "The atmosphere is a layer of gases around the Earth."
+    },
+    {
+     "en": "ocean",
+     "pos": "n",
+     "ar": "محيط",
+     "ex": "Many animals live deep in the ocean.",
+     "star": true
+    },
+    {
+     "en": "marine",
+     "pos": "adj",
+     "ar": "بحري",
+     "ex": "Marine animals such as whales live in the sea."
+    },
+    {
+     "en": "waves",
+     "pos": "n",
+     "ar": "أمواج",
+     "ex": "Big waves hit the beach during the storm."
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Oman has a hot, dry (1)_____ with very little (2)_____ in most places. In summer the (3)_____ can reach more than forty degrees, and the (4)_____ from the sun is very strong. Scientists say that our (5)_____ is getting warmer because of climate change, so we must look after it.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "climate",
+       "planet",
+       "ocean",
+       "atmosphere"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 2,
+      "options": [
+       "marine",
+       "planet",
+       "waves",
+       "rainfall"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 3,
+      "options": [
+       "rainfall",
+       "atmosphere",
+       "temperature",
+       "ocean"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 4,
+      "options": [
+       "ocean",
+       "heat",
+       "marine",
+       "average"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 5,
+      "options": [
+       "planet",
+       "marine",
+       "rainfall",
+       "average"
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "Last night the ________ dropped to ten degrees.",
+     "options": [
+      "temperature",
+      "planet",
+      "ocean",
+      "average"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "Whales and dolphins are ________ animals.",
+     "options": [
+      "desert",
+      "average",
+      "warmer",
+      "marine"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "q": "Today's ________ is rainy, so take an umbrella.",
+     "options": [
+      "climate",
+      "atmosphere",
+      "weather",
+      "average"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "q": "The ________ of the Earth protects us from some harmful rays from the sun.",
+     "options": [
+      "ocean",
+      "atmosphere",
+      "rainfall",
+      "waves"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "q": "The ________ number of students in each class is thirty.",
+     "options": [
+      "average",
+      "marine",
+      "warmer",
+      "planet"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 6,
+     "q": "Surfers love the big ________ in winter.",
+     "options": [
+      "heat",
+      "climate",
+      "rainfall",
+      "waves"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 7,
+     "q": "After a long walk, we sat in the shade to escape the ________.",
+     "options": [
+      "ocean",
+      "planet",
+      "heat",
+      "marine"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 8,
+     "q": "Yesterday was hot, but today is even ________.",
+     "options": [
+      "marine",
+      "warmer",
+      "average",
+      "atmosphere"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "U2-L2",
+   "title": "Global Warming",
+   "title_ar": "الاحتباس الحراري",
+   "words": [
+    {
+     "en": "global warming",
+     "pos": "n",
+     "ar": "الاحترار العالمي / ارتفاع حرارة الأرض",
+     "ex": "Global warming is making the Earth hotter.",
+     "star": true
+    },
+    {
+     "en": "global temperatures",
+     "pos": "n",
+     "ar": "درجات الحرارة العالمية",
+     "ex": "Global temperatures have risen over the last hundred years."
+    },
+    {
+     "en": "greenhouse effect",
+     "pos": "n",
+     "ar": "ظاهرة الاحتباس الحراري / تأثير الدفيئة",
+     "ex": "The greenhouse effect keeps our planet warm enough for life."
+    },
+    {
+     "en": "greenhouse gas",
+     "pos": "n",
+     "ar": "غاز دفيئة (من غازات الاحتباس الحراري)",
+     "ex": "Methane is a greenhouse gas.",
+     "star": true
+    },
+    {
+     "en": "carbon dioxide",
+     "pos": "n",
+     "ar": "ثاني أكسيد الكربون",
+     "ex": "Cars produce carbon dioxide when they burn petrol.",
+     "star": true
+    },
+    {
+     "en": "emission",
+     "pos": "n",
+     "ar": "انبعاث",
+     "ex": "Car emissions make the air dirty in big cities.",
+     "star": true
+    },
+    {
+     "en": "ice cap",
+     "pos": "n",
+     "ar": "غطاء جليدي",
+     "ex": "The ice caps at the North and South Poles are shrinking."
+    },
+    {
+     "en": "glacier",
+     "pos": "n",
+     "ar": "نهر جليدي / كتلة جليدية ضخمة",
+     "ex": "A glacier is a huge river of slow-moving ice."
+    },
+    {
+     "en": "sea level",
+     "pos": "n",
+     "ar": "مستوى سطح البحر",
+     "ex": "Melting ice makes the sea level rise."
+    },
+    {
+     "en": "melt",
+     "pos": "v",
+     "ar": "يذوب / ينصهر",
+     "ex": "Ice begins to melt when it gets warm."
+    },
+    {
+     "en": "get worse",
+     "pos": "phr v",
+     "ar": "يزداد سوءًا",
+     "ex": "If we do nothing, the problem will get worse."
+    },
+    {
+     "en": "tonne",
+     "pos": "n",
+     "ar": "طن (متري)",
+     "ex": "That factory produces thousands of tonnes of waste each year."
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "The (1)_____ is a natural process that keeps the Earth warm. However, burning coal and oil adds too much (2)_____ to the air. This gas is a (3)_____ that holds heat near the Earth. As a result, the (4)_____ at the poles are melting, and the (5)_____ is rising slowly.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "greenhouse effect",
+       "glacier",
+       "tonne",
+       "emission"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 2,
+      "options": [
+       "ice cap",
+       "glacier",
+       "sea level",
+       "carbon dioxide"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 3,
+      "options": [
+       "sea level",
+       "glacier",
+       "greenhouse gas",
+       "tonne"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 4,
+      "options": [
+       "greenhouse gases",
+       "ice caps",
+       "emissions",
+       "tonnes"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 5,
+      "options": [
+       "sea level",
+       "tonne",
+       "carbon dioxide",
+       "emission"
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "Records show that ________ have risen by about one degree since 1900.",
+     "options": [
+      "global temperatures",
+      "tonnes",
+      "glaciers",
+      "sea levels"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "Gases such as methane and carbon dioxide are called ________.",
+     "options": [
+      "ice caps",
+      "tonnes",
+      "glaciers",
+      "greenhouse gases"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "q": "A ________ is a large mass of ice that moves slowly down a mountain valley.",
+     "options": [
+      "greenhouse effect",
+      "emission",
+      "glacier",
+      "tonne"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "q": "In the Arctic, the ice began to ________ earlier than usual this spring.",
+     "options": [
+      "emission",
+      "melt",
+      "glacier",
+      "tonne"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "q": "The situation is going to ________ if nothing changes.",
+     "options": [
+      "get worse",
+      "get worst",
+      "got worse",
+      "getting worse"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 6,
+     "q": "A ________ is a unit of weight equal to 1,000 kilograms.",
+     "options": [
+      "glacier",
+      "emission",
+      "ice cap",
+      "tonne"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 7,
+     "q": "Cars and factories cause carbon dioxide ________ in cities.",
+     "options": [
+      "glaciers",
+      "tonne",
+      "emissions",
+      "ice caps"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 8,
+     "q": "Because of the ________, the Earth stays warm enough for living things.",
+     "options": [
+      "sea level",
+      "greenhouse effect",
+      "glacier",
+      "tonne"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "U2-L3",
+   "title": "Disasters and Extreme Weather",
+   "title_ar": "الكوارث والطقس المتطرف",
+   "words": [
+    {
+     "en": "disaster",
+     "pos": "n",
+     "ar": "كارثة",
+     "ex": "The flood was the worst natural disaster in the region.",
+     "star": true
+    },
+    {
+     "en": "disastrous",
+     "pos": "adj",
+     "ar": "كارثي",
+     "ex": "The storm had a disastrous effect on the farms."
+    },
+    {
+     "en": "devastating",
+     "pos": "adj",
+     "ar": "مدمّر / وخيم",
+     "ex": "The devastating floods destroyed hundreds of homes."
+    },
+    {
+     "en": "drought",
+     "pos": "n",
+     "ar": "جفاف",
+     "ex": "A long drought left the farmers without water for their crops.",
+     "star": true
+    },
+    {
+     "en": "flood",
+     "pos": "n",
+     "ar": "فيضان",
+     "ex": "Heavy rain caused a flood in the valley.",
+     "star": true
+    },
+    {
+     "en": "heat wave",
+     "pos": "n",
+     "ar": "موجة حر",
+     "ex": "Doctors advise people to drink more water during a heat wave."
+    },
+    {
+     "en": "severe",
+     "pos": "adj",
+     "ar": "شديد / قاسٍ",
+     "ex": "The severe storm broke many trees."
+    },
+    {
+     "en": "extreme",
+     "pos": "adj",
+     "ar": "شديد / متطرّف",
+     "ex": "Extreme weather is becoming more common."
+    },
+    {
+     "en": "danger",
+     "pos": "n",
+     "ar": "خطر",
+     "ex": "Swimming in a flood is a great danger.",
+     "star": true
+    },
+    {
+     "en": "threat",
+     "pos": "n",
+     "ar": "تهديد",
+     "ex": "Rising seas are a threat to coastal cities."
+    },
+    {
+     "en": "risk",
+     "pos": "n",
+     "ar": "خطر / مخاطرة",
+     "ex": "There is a high risk of fire in dry forests."
+    },
+    {
+     "en": "concerned",
+     "pos": "adj",
+     "ar": "قلق / مهتم",
+     "ex": "Many scientists are concerned about rising temperatures."
+    },
+    {
+     "en": "climate-related",
+     "pos": "adj",
+     "ar": "مرتبط بالمناخ",
+     "ex": "Floods and droughts are climate-related disasters."
+    },
+    {
+     "en": "experience",
+     "pos": "v",
+     "ar": "يمرّ بـ / يواجه",
+     "ex": "Many countries experience heavy rain every year.",
+     "star": true
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Last year, our region suffered a natural (1)_____ when heavy rain caused a (2)_____ in the valley. The damage was (3)_____, and many families lost their homes. Some people were in (4)_____, so rescue teams worked all night. Scientists are (5)_____ that such events will happen more often in the future.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "disaster",
+       "drought",
+       "heat wave",
+       "risk"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 2,
+      "options": [
+       "experience",
+       "threat",
+       "concerned",
+       "flood"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 3,
+      "options": [
+       "drought",
+       "threat",
+       "devastating",
+       "risk"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 4,
+      "options": [
+       "drought",
+       "danger",
+       "disaster",
+       "concerned"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 5,
+      "options": [
+       "concerned",
+       "disastrous",
+       "severe",
+       "flood"
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "A long ________ means there is very little water for farms.",
+     "options": [
+      "drought",
+      "flood",
+      "heat wave",
+      "threat"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "Many people had to leave their homes because of the ________.",
+     "options": [
+      "drought",
+      "risk",
+      "experience",
+      "flood"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "q": "Rising sea levels are a serious ________ to small islands.",
+     "options": [
+      "drought",
+      "flood",
+      "threat",
+      "heat wave"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "q": "The hurricane was so ________ that it destroyed the whole town.",
+     "options": [
+      "concerned",
+      "devastating",
+      "climate-related",
+      "risk"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "q": "Smoking brings a high ________ of lung disease.",
+     "options": [
+      "risk",
+      "heat wave",
+      "flood",
+      "drought"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 6,
+     "q": "Countries in Africa ________ long periods without rain.",
+     "options": [
+      "danger",
+      "disastrous",
+      "severe",
+      "experience"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 7,
+     "q": "Floods and droughts are ________ disasters because they come from changes in the weather.",
+     "options": [
+      "concerned",
+      "extremely",
+      "climate-related",
+      "danger"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 8,
+     "q": "Parents are ________ about the heat because the children play outside.",
+     "options": [
+      "severe",
+      "concerned",
+      "devastating",
+      "disastrous"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "U2-L4",
+   "title": "Animals and Habitats",
+   "title_ar": "الحيوانات وموائلها",
+   "words": [
+    {
+     "en": "polar bear",
+     "pos": "n",
+     "ar": "الدب القطبي",
+     "ex": "Polar bears hunt seals on the sea ice.",
+     "star": true
+    },
+    {
+     "en": "koala",
+     "pos": "n",
+     "ar": "الكوالا",
+     "ex": "The koala sleeps for many hours a day and eats leaves."
+    },
+    {
+     "en": "turtle",
+     "pos": "n",
+     "ar": "سلحفاة بحرية",
+     "ex": "A mother turtle comes to the beach to lay her eggs.",
+     "star": true
+    },
+    {
+     "en": "habitat",
+     "pos": "n",
+     "ar": "الموطن الطبيعي / البيئة الحاضنة",
+     "ex": "Fires have destroyed the koala's habitat in some places."
+    },
+    {
+     "en": "survive",
+     "pos": "v",
+     "ar": "ينجو / يبقى على قيد الحياة",
+     "ex": "Plants cannot survive without water."
+    },
+    {
+     "en": "lay eggs",
+     "pos": "phr",
+     "ar": "تضع البيض",
+     "ex": "Turtles lay eggs in the sand."
+    },
+    {
+     "en": "forests",
+     "pos": "n",
+     "ar": "غابات",
+     "ex": "Forests give homes to millions of animals."
+    },
+    {
+     "en": "environment",
+     "pos": "n",
+     "ar": "البيئة",
+     "ex": "We must protect the environment for future generations.",
+     "star": true
+    },
+    {
+     "en": "crop",
+     "pos": "n",
+     "ar": "محصول",
+     "ex": "Wheat is an important crop in many countries."
+    },
+    {
+     "en": "agriculture",
+     "pos": "n",
+     "ar": "الزراعة",
+     "ex": "Agriculture needs a lot of water."
+    },
+    {
+     "en": "impact",
+     "pos": "n",
+     "ar": "تأثير",
+     "ex": "Plastic has a bad impact on sea animals.",
+     "star": true
+    },
+    {
+     "en": "significant impact",
+     "pos": "phr",
+     "ar": "تأثير كبير / ملحوظ",
+     "ex": "Climate change has a significant impact on farming."
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Polar bears live on sea ice, but the ice is melting, so their (1)_____ is getting smaller. Turtles (2)_____ their eggs on warm beaches, but rising seas can wash the nests away. Many animals cannot (3)_____ when their homes change quickly. (4)_____ also suffers, because droughts spoil the (5)_____ that farmers grow.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "habitat",
+       "agriculture",
+       "crop",
+       "turtle"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 2,
+      "options": [
+       "survive",
+       "melt",
+       "impact",
+       "lay"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 3,
+      "options": [
+       "lay",
+       "habitat",
+       "survive",
+       "crop"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 4,
+      "options": [
+       "Turtle",
+       "Agriculture",
+       "Koala",
+       "Impact"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 5,
+      "options": [
+       "crops",
+       "habitats",
+       "koalas",
+       "turtles"
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "The ________ is an Australian animal that lives in trees.",
+     "options": [
+      "koala",
+      "polar bear",
+      "turtle",
+      "crop"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "Cutting down trees destroys the ________ of many animals.",
+     "options": [
+      "crop",
+      "impact",
+      "agriculture",
+      "habitat"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "q": "Many animals cannot ________ in very hot weather.",
+     "options": [
+      "lay",
+      "impact",
+      "survive",
+      "habitat"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "q": "Rice is the main ________ in many Asian countries.",
+     "options": [
+      "habitat",
+      "crop",
+      "impact",
+      "forests"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "q": "Green turtles ________ their eggs at night on sandy beaches.",
+     "options": [
+      "lay",
+      "make",
+      "put",
+      "give"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 6,
+     "q": "The oil spill had a significant ________ on sea life.",
+     "options": [
+      "forests",
+      "crop",
+      "agriculture",
+      "impact"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 7,
+     "q": "________ is the work of growing crops and keeping animals on farms.",
+     "options": [
+      "Environment",
+      "Habitat",
+      "Agriculture",
+      "Impact"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 8,
+     "q": "We must protect the ________: the air, the water and the land.",
+     "options": [
+      "koala",
+      "environment",
+      "crop",
+      "turtle"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "U2-L5",
+   "title": "Causes and Fossil Fuels",
+   "title_ar": "الأسباب والوقود الأحفوري",
+   "words": [
+    {
+     "en": "cause",
+     "pos": "n",
+     "ar": "سبب / يسبّب",
+     "ex": "Burning coal is one cause of air pollution.",
+     "star": true
+    },
+    {
+     "en": "effect",
+     "pos": "n",
+     "ar": "أثر / تأثير / نتيجة",
+     "ex": "Pollution has a bad effect on our health.",
+     "star": true
+    },
+    {
+     "en": "affect",
+     "pos": "v",
+     "ar": "يؤثّر في",
+     "ex": "Hot weather can affect how well we sleep.",
+     "star": true
+    },
+    {
+     "en": "result in",
+     "pos": "phr v",
+     "ar": "يؤدّي إلى / ينتج عنه",
+     "ex": "Too little rain can result in a drought."
+    },
+    {
+     "en": "human activity",
+     "pos": "phr",
+     "ar": "النشاط البشري",
+     "ex": "Most scientists agree that human activity is warming the planet."
+    },
+    {
+     "en": "burn",
+     "pos": "v",
+     "ar": "يحرق",
+     "ex": "Power stations burn coal and gas to make electricity."
+    },
+    {
+     "en": "fossil fuel",
+     "pos": "n",
+     "ar": "الوقود الأحفوري",
+     "ex": "Oil, coal and gas are fossil fuels.",
+     "star": true
+    },
+    {
+     "en": "excessive",
+     "pos": "adj",
+     "ar": "مفرط / زائد عن الحد",
+     "ex": "Excessive use of air conditioning wastes energy."
+    },
+    {
+     "en": "trend",
+     "pos": "n",
+     "ar": "اتجاه / نزعة",
+     "ex": "The trend is clear: the planet is getting warmer."
+    },
+    {
+     "en": "per decade",
+     "pos": "phr",
+     "ar": "لكل عقد (كل عشر سنوات)",
+     "ex": "Sea level is rising by a few centimetres per decade."
+    },
+    {
+     "en": "infer",
+     "pos": "v",
+     "ar": "يستنتج / يستدلّ",
+     "ex": "From the graph, we can infer that the climate is changing."
+    },
+    {
+     "en": "consequence",
+     "pos": "n",
+     "ar": "نتيجة (غالبًا غير مرغوبة)",
+     "ex": "A serious consequence of drought is hunger."
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Fossil fuels such as coal, oil and gas are the main (1)_____ of climate change. When power stations (2)_____ them, they release carbon dioxide. This gas has a bad (3)_____ on the atmosphere because it traps heat. (4)_____ use of cars and factories makes things worse. We can (5)_____ from the data that temperatures keep rising.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "cause",
+       "trend",
+       "decade",
+       "infer"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 2,
+      "options": [
+       "affect",
+       "infer",
+       "result",
+       "burn"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 3,
+      "options": [
+       "cause",
+       "trend",
+       "effect",
+       "decade"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 4,
+      "options": [
+       "Fossil",
+       "Excessive",
+       "Climate",
+       "Carbon"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 5,
+      "options": [
+       "infer",
+       "burn",
+       "affect",
+       "cause"
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "Smoking is a major ________ of lung disease.",
+     "options": [
+      "cause",
+      "trend",
+      "decade",
+      "fuel"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "Pollution can ________ the health of children.",
+     "options": [
+      "effect",
+      "result",
+      "trend",
+      "affect"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "q": "Heavy rain can ________ floods in low areas.",
+     "options": [
+      "result of",
+      "result from",
+      "result in",
+      "result by"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "q": "Coal is a ________ that formed over millions of years from dead plants.",
+     "options": [
+      "human activity",
+      "fossil fuel",
+      "trend",
+      "consequence"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "q": "A long drought has a terrible ________ on farmers.",
+     "options": [
+      "effect",
+      "cause",
+      "trend",
+      "decade"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 6,
+     "q": "Cars ________ petrol, which gives off carbon dioxide.",
+     "options": [
+      "infer",
+      "affect",
+      "excessive",
+      "burn"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 7,
+     "q": "The graph shows an upward ________: sales rise every year.",
+     "options": [
+      "effect",
+      "cause",
+      "trend",
+      "decade"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 8,
+     "q": "Scientists measure how the temperature changes ________.",
+     "options": [
+      "per cause",
+      "per decade",
+      "per effect",
+      "per trend"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "U2-L6",
+   "title": "Pollution and Plastic",
+   "title_ar": "التلوث والبلاستيك",
+   "words": [
+    {
+     "en": "pollution",
+     "pos": "n",
+     "ar": "التلوث",
+     "ex": "Traffic is the main cause of air pollution in big cities.",
+     "star": true
+    },
+    {
+     "en": "plastic",
+     "pos": "n",
+     "ar": "بلاستيك",
+     "ex": "Plastic takes hundreds of years to break down.",
+     "star": true
+    },
+    {
+     "en": "plastic pollution",
+     "pos": "n",
+     "ar": "التلوث البلاستيكي",
+     "ex": "Plastic pollution harms fish and sea birds."
+    },
+    {
+     "en": "plastic waste",
+     "pos": "n",
+     "ar": "النفايات البلاستيكية",
+     "ex": "We throw away millions of tonnes of plastic waste every year."
+    },
+    {
+     "en": "plastic straw",
+     "pos": "n",
+     "ar": "شفّاطة (قشّة) بلاستيكية",
+     "ex": "A plastic straw is used for minutes but stays in nature for years."
+    },
+    {
+     "en": "single-use",
+     "pos": "adj",
+     "ar": "للاستعمال لمرة واحدة",
+     "ex": "Many shops no longer give single-use plastic bags.",
+     "star": true
+    },
+    {
+     "en": "reusable",
+     "pos": "adj",
+     "ar": "قابل لإعادة الاستخدام",
+     "ex": "I take a reusable bottle to school every day.",
+     "star": true
+    },
+    {
+     "en": "litter",
+     "pos": "n",
+     "ar": "القمامة المرمية في الأماكن العامة",
+     "ex": "Please do not drop litter on the beach."
+    },
+    {
+     "en": "packaging",
+     "pos": "n",
+     "ar": "مواد التغليف",
+     "ex": "Too much packaging on food makes more rubbish."
+    },
+    {
+     "en": "landfill sites",
+     "pos": "n",
+     "ar": "مدافن النفايات",
+     "ex": "Landfill sites are huge areas where rubbish is buried."
+    },
+    {
+     "en": "material",
+     "pos": "n",
+     "ar": "مادة / خامة",
+     "ex": "Wood is a strong material for making furniture.",
+     "star": true
+    },
+    {
+     "en": "recycle",
+     "pos": "v",
+     "ar": "يعيد التدوير",
+     "ex": "We recycle paper, glass and metal at school."
+    },
+    {
+     "en": "recycled",
+     "pos": "adj",
+     "ar": "معاد تصنيعه / مُعاد تدويره",
+     "ex": "This notebook is made from recycled paper."
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Every year, people throw away huge amounts of (1)_____ waste. Much of it is (2)_____ packaging, such as bags and straws, which we use only once. This rubbish goes to (3)_____ sites or is left as (4)_____ on beaches and streets. Instead, we should buy (5)_____ bottles and bags.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "plastic",
+       "pollution",
+       "litter",
+       "landfill"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 2,
+      "options": [
+       "reusable",
+       "recycled",
+       "landfill",
+       "single-use"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 3,
+      "options": [
+       "plastic",
+       "material",
+       "landfill",
+       "packaging"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 4,
+      "options": [
+       "packaging",
+       "litter",
+       "material",
+       "recycle"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 5,
+      "options": [
+       "reusable",
+       "single-use",
+       "landfill",
+       "litter"
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "Please put your rubbish in the bin. Do not drop ________.",
+     "options": [
+      "litter",
+      "pollution",
+      "landfill",
+      "material"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "We should ________ glass and paper instead of throwing them away.",
+     "options": [
+      "recycled",
+      "recycling",
+      "recycles",
+      "recycle"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "q": "A ________ is a thin tube for drinking cold drinks.",
+     "options": [
+      "litter",
+      "packaging",
+      "plastic straw",
+      "landfill"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "q": "Wood is a strong ________ for making tables and chairs.",
+     "options": [
+      "litter",
+      "material",
+      "landfill",
+      "pollution"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "q": "________ is when harmful things make the air, water or land dirty.",
+     "options": [
+      "Pollution",
+      "Packaging",
+      "Material",
+      "Landfill"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 6,
+     "q": "A ________ water bottle can be filled many times.",
+     "options": [
+      "single-use",
+      "litter",
+      "landfill",
+      "reusable"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 7,
+     "q": "Plastic bags are ________ items; people throw them away after one use.",
+     "options": [
+      "reusable",
+      "recycled",
+      "single-use",
+      "packaging"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 8,
+     "q": "________ in the oceans harms fish, birds and turtles.",
+     "options": [
+      "Single-use",
+      "Plastic pollution",
+      "Reusable",
+      "Recycled"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "U2-L7",
+   "title": "Responsibility, Government and Policy",
+   "title_ar": "المسؤولية والحكومة والسياسات",
+   "words": [
+    {
+     "en": "responsibility",
+     "pos": "n",
+     "ar": "مسؤولية",
+     "ex": "Keeping the school clean is everyone's responsibility.",
+     "star": true
+    },
+    {
+     "en": "social responsibility",
+     "pos": "n",
+     "ar": "المسؤولية الاجتماعية",
+     "ex": "Companies show social responsibility when they help their communities."
+    },
+    {
+     "en": "responsible",
+     "pos": "adj",
+     "ar": "مسؤول عن",
+     "ex": "Who is responsible for turning off the lights?"
+    },
+    {
+     "en": "take responsibility",
+     "pos": "phr",
+     "ar": "يتحمّل المسؤولية",
+     "ex": "We must take responsibility for our rubbish."
+    },
+    {
+     "en": "government",
+     "pos": "n",
+     "ar": "الحكومة",
+     "ex": "The government makes laws to protect nature.",
+     "star": true
+    },
+    {
+     "en": "policy",
+     "pos": "n",
+     "ar": "سياسة / خطة عمل",
+     "ex": "The school has a new policy on plastic bottles.",
+     "star": true
+    },
+    {
+     "en": "regulate",
+     "pos": "v",
+     "ar": "ينظّم / يضبط",
+     "ex": "Governments regulate how much smoke factories can produce."
+    },
+    {
+     "en": "official",
+     "pos": "adj",
+     "ar": "رسمي",
+     "ex": "The minister gave an official speech about the environment.",
+     "star": true
+    },
+    {
+     "en": "officially",
+     "pos": "adv",
+     "ar": "رسميًا",
+     "ex": "The new recycling centre officially opened last week."
+    },
+    {
+     "en": "consumer",
+     "pos": "n",
+     "ar": "مستهلك",
+     "ex": "Consumers can choose products with less packaging."
+    },
+    {
+     "en": "individual",
+     "pos": "n",
+     "ar": "فرد / شخص",
+     "ex": "Each individual can make a small change."
+    },
+    {
+     "en": "contributor",
+     "pos": "n",
+     "ar": "مساهم / عامل مُسهم",
+     "ex": "Cars are a major contributor to air pollution."
+    },
+    {
+     "en": "contribute (to)",
+     "pos": "v",
+     "ar": "يساهم في",
+     "ex": "Factories contribute to air pollution.",
+     "star": true
+    },
+    {
+     "en": "be to blame for",
+     "pos": "phr",
+     "ar": "يتحمّل اللوم عن / هو السبب في",
+     "ex": "Careless drivers are to blame for many accidents."
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Who is (1)_____ for protecting the environment? Some people say the (2)_____ should make laws, while others think each (3)_____ must change their habits. A good (4)_____ can (5)_____ the amount of waste that factories produce.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "responsible",
+       "official",
+       "individual",
+       "consumer"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 2,
+      "options": [
+       "contributor",
+       "policy",
+       "consumer",
+       "government"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 3,
+      "options": [
+       "policy",
+       "responsibility",
+       "individual",
+       "regulate"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 4,
+      "options": [
+       "responsibility",
+       "policy",
+       "contributor",
+       "consumer"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 5,
+      "options": [
+       "regulate",
+       "contribute",
+       "blame",
+       "officially"
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "It is the ________ of parents to look after their children.",
+     "options": [
+      "responsibility",
+      "policy",
+      "contributor",
+      "consumer"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "A ________ buys goods and services for their own use.",
+     "options": [
+      "contributor",
+      "government",
+      "official",
+      "consumer"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "q": "The school's ________ is that students cannot bring plastic bottles.",
+     "options": [
+      "individual",
+      "consumer",
+      "policy",
+      "responsibility"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "q": "The new library will be ________ opened by the minister next week.",
+     "options": [
+      "official",
+      "officially",
+      "officials",
+      "officialise"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "q": "Cars ________ to air pollution in big cities.",
+     "options": [
+      "contribute",
+      "regulate",
+      "blame",
+      "responsible"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 6,
+     "q": "Governments ________ the amount of fishing to protect fish.",
+     "options": [
+      "contribute",
+      "blame",
+      "responsible",
+      "regulate"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 7,
+     "q": "The driver was ________ the accident because he was using his phone.",
+     "options": [
+      "blamed to",
+      "blame of",
+      "to blame for",
+      "blame to"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 8,
+     "q": "Every ________ can help the planet by saving water at home.",
+     "options": [
+      "policy",
+      "individual",
+      "regulation",
+      "responsibility"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "U2-L8",
+   "title": "Taking Action and Eco-friendly Living",
+   "title_ar": "اتخاذ إجراء والعيش الصديق للبيئة",
+   "words": [
+    {
+     "en": "take action",
+     "pos": "phr",
+     "ar": "يتخذ إجراءً / يتحرّك",
+     "ex": "We must take action now to protect the planet."
+    },
+    {
+     "en": "make a difference",
+     "pos": "phr",
+     "ar": "يُحدث فرقًا",
+     "ex": "Planting a tree can make a difference."
+    },
+    {
+     "en": "reduce",
+     "pos": "v",
+     "ar": "يقلّل",
+     "ex": "We can reduce waste by reusing things.",
+     "star": true
+    },
+    {
+     "en": "sustainable",
+     "pos": "adj",
+     "ar": "مُستدام",
+     "ex": "Solar energy is a sustainable source of power.",
+     "star": true
+    },
+    {
+     "en": "eco-friendly",
+     "pos": "adj",
+     "ar": "صديق للبيئة",
+     "ex": "Eco-friendly products do not harm the environment.",
+     "star": true
+    },
+    {
+     "en": "carbon footprint",
+     "pos": "n",
+     "ar": "البصمة الكربونية",
+     "ex": "Flying a lot increases your carbon footprint.",
+     "star": true
+    },
+    {
+     "en": "daily life",
+     "pos": "n",
+     "ar": "الحياة اليومية",
+     "ex": "Small changes in our daily life can help the planet."
+    },
+    {
+     "en": "habit",
+     "pos": "n",
+     "ar": "عادة",
+     "ex": "Turning off the tap is a good habit.",
+     "star": true
+    },
+    {
+     "en": "air conditioning",
+     "pos": "n",
+     "ar": "التكييف",
+     "ex": "Air conditioning uses a lot of electricity in summer."
+    },
+    {
+     "en": "electrical appliances",
+     "pos": "n",
+     "ar": "أجهزة كهربائية",
+     "ex": "Fridges and washing machines are electrical appliances."
+    },
+    {
+     "en": "cooker",
+     "pos": "n",
+     "ar": "الطبّاخة (موقد الطبخ)",
+     "ex": "My mother cooks dinner on a gas cooker."
+    },
+    {
+     "en": "public transport",
+     "pos": "n",
+     "ar": "النقل العام",
+     "ex": "Taking the bus is better than driving a car alone."
+    },
+    {
+     "en": "are likely to",
+     "pos": "phr",
+     "ar": "من المحتمل أن",
+     "ex": "People are likely to use the bus if it is cheap."
+    },
+    {
+     "en": "are unlikely to",
+     "pos": "phr",
+     "ar": "من غير المحتمل أن",
+     "ex": "Drivers are unlikely to leave their cars if buses are slow."
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Everyone can (1)_____ to protect the planet. We can reduce our (2)_____ by using (3)_____ instead of driving. At home, turning off (4)_____ when we leave a room is a simple (5)_____ that saves energy.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "take action",
+       "are unlikely to",
+       "daily life",
+       "sustainable"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 2,
+      "options": [
+       "air conditioning",
+       "cooker",
+       "habit",
+       "carbon footprint"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 3,
+      "options": [
+       "daily life",
+       "carbon footprint",
+       "public transport",
+       "cooker"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 4,
+      "options": [
+       "public transport",
+       "electrical appliances",
+       "habits",
+       "carbon footprint"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 5,
+      "options": [
+       "habit",
+       "cooker",
+       "appliances",
+       "transport"
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "If we ________ now, we can still stop the worst effects.",
+     "options": [
+      "take action",
+      "make action",
+      "do action",
+      "give action"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "One person can ________ if they inspire others.",
+     "options": [
+      "do a difference",
+      "take a difference",
+      "give a difference",
+      "make a difference"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "q": "Bamboo is a ________ material because it grows very fast.",
+     "options": [
+      "electrical",
+      "daily",
+      "sustainable",
+      "public"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "q": "Cycling to school will ________ the pollution in our city.",
+     "options": [
+      "footprint",
+      "reduce",
+      "habit",
+      "likely"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "q": "The ________ in my bedroom keeps the room cool in summer.",
+     "options": [
+      "air conditioning",
+      "cooker",
+      "public transport",
+      "habit"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 6,
+     "q": "You ________ pass the test if you do not study.",
+     "options": [
+      "are likely to",
+      "are eco-friendly",
+      "are daily",
+      "are unlikely to"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 7,
+     "q": "Fridges, TVs and washing machines are examples of ________.",
+     "options": [
+      "public transport",
+      "carbon footprints",
+      "electrical appliances",
+      "habits"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 8,
+     "q": "My daily ________ of walking to school keeps me healthy.",
+     "options": [
+      "appliance",
+      "habit",
+      "cooker",
+      "transport"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "U2-L9",
+   "title": "Phrasal Verbs of the Unit",
+   "title_ar": "الأفعال المركّبة في الوحدة",
+   "words": [
+    {
+     "en": "switch off",
+     "pos": "phr v",
+     "ar": "يُطفئ (الكهرباء)",
+     "ex": "Please switch off the lights when you leave."
+    },
+    {
+     "en": "turn off",
+     "pos": "phr v",
+     "ar": "يُغلق / يُطفئ",
+     "ex": "Turn off the tap while you brush your teeth."
+    },
+    {
+     "en": "turn down",
+     "pos": "phr v",
+     "ar": "يخفض / يرفض",
+     "ex": "Turn down the air conditioning if the room is cold."
+    },
+    {
+     "en": "throw away",
+     "pos": "phr v",
+     "ar": "يرمي / يتخلّص من",
+     "ex": "Do not throw away old clothes; give them to charity.",
+     "star": true
+    },
+    {
+     "en": "fill up",
+     "pos": "phr v",
+     "ar": "يملأ",
+     "ex": "Fill up your reusable bottle before you leave home."
+    },
+    {
+     "en": "give away",
+     "pos": "phr v",
+     "ar": "يتبرّع بـ / يعطي مجانًا",
+     "ex": "We gave away our old books to the library."
+    },
+    {
+     "en": "find out",
+     "pos": "phr v",
+     "ar": "يكتشف / يعرف",
+     "ex": "Let's find out how much plastic our school uses."
+    },
+    {
+     "en": "look for",
+     "pos": "phr v",
+     "ar": "يبحث عن",
+     "ex": "I am looking for an eco-friendly shampoo.",
+     "star": true
+    },
+    {
+     "en": "end up in",
+     "pos": "phr v",
+     "ar": "ينتهي به الأمر في",
+     "ex": "Plastic bags often end up in the sea."
+    },
+    {
+     "en": "cut down",
+     "pos": "phr v",
+     "ar": "يقلّل من",
+     "ex": "We should cut down our use of electricity."
+    },
+    {
+     "en": "lead to",
+     "pos": "phr v",
+     "ar": "يؤدّي إلى",
+     "ex": "Too much carbon dioxide leads to global warming.",
+     "star": true
+    },
+    {
+     "en": "refer to",
+     "pos": "phr v",
+     "ar": "يشير إلى",
+     "ex": "The teacher referred to a graph in the report."
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Our class wanted to (1)_____ how much rubbish the school makes. We (2)_____ plastic bottles in the bins every day for a week. We saw that many bottles (3)_____ the bin, although they can be recycled. So we decided to (4)_____ our use of plastic. Also, we always (5)_____ the lights when we leave a room.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "find out",
+       "give away",
+       "fill up",
+       "turn down"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 2,
+      "options": [
+       "gave away",
+       "filled up",
+       "turned down",
+       "looked for"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 3,
+      "options": [
+       "gave away",
+       "found out",
+       "ended up in",
+       "looked for"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 4,
+      "options": [
+       "switch off",
+       "cut down",
+       "throw away",
+       "fill up"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 5,
+      "options": [
+       "switch off",
+       "cut down",
+       "fill up",
+       "give away"
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "The bank ________ his request for a loan.",
+     "options": [
+      "turned down",
+      "turned on",
+      "turned up",
+      "turned in"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "Don't ________ old bottles; recycle them.",
+     "options": [
+      "look for",
+      "find out",
+      "fill up",
+      "throw away"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "q": "I ________ my keys everywhere but I cannot find them.",
+     "options": [
+      "gave away",
+      "filled up",
+      "looked for",
+      "cut down"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "q": "Overusing fossil fuels ________ global warming.",
+     "options": [
+      "ends up",
+      "leads to",
+      "gives away",
+      "turns off"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "q": "Old clothes can be ________ to people who need them.",
+     "options": [
+      "given away",
+      "found out",
+      "filled up",
+      "looked for"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 6,
+     "q": "Rubbish that is not collected may ________ in rivers.",
+     "options": [
+      "look for",
+      "turn down",
+      "refer to",
+      "end up"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 7,
+     "q": "When the report says 'this problem', it ________ climate change.",
+     "options": [
+      "finds out",
+      "cuts down",
+      "refers to",
+      "fills up"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 8,
+     "q": "________ the tap to save water.",
+     "options": [
+      "Give away",
+      "Turn off",
+      "Look for",
+      "Find out"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "U2-L10",
+   "title": "Useful Verbs",
+   "title_ar": "أفعال مفيدة",
+   "words": [
+    {
+     "en": "pay (paid, paid)",
+     "pos": "v",
+     "ar": "يدفع",
+     "ex": "We paid for our tickets online.",
+     "star": true
+    },
+    {
+     "en": "deal with (dealt, dealt)",
+     "pos": "v",
+     "ar": "يتعامل مع",
+     "ex": "Governments must deal with the problem of waste."
+    },
+    {
+     "en": "sell (sold, sold)",
+     "pos": "v",
+     "ar": "يبيع",
+     "ex": "This shop sells reusable bags."
+    },
+    {
+     "en": "buy (bought, bought)",
+     "pos": "v",
+     "ar": "يشتري",
+     "ex": "My father bought an energy-saving fridge."
+    },
+    {
+     "en": "damage",
+     "pos": "v",
+     "ar": "يُتلف / يُضرّ بـ",
+     "ex": "Oil spills damage beaches and kill sea animals."
+    },
+    {
+     "en": "design",
+     "pos": "v",
+     "ar": "يصمّم",
+     "ex": "Engineers design cars that use less fuel.",
+     "star": true
+    },
+    {
+     "en": "absorb",
+     "pos": "v",
+     "ar": "يمتصّ",
+     "ex": "Trees absorb carbon dioxide from the air."
+    },
+    {
+     "en": "trap",
+     "pos": "v",
+     "ar": "يحبس / يحتجز",
+     "ex": "Greenhouse gases trap heat in the atmosphere."
+    },
+    {
+     "en": "release",
+     "pos": "v",
+     "ar": "يُطلق / يُحرّر",
+     "ex": "Factories release gases into the air."
+    },
+    {
+     "en": "increase",
+     "pos": "v",
+     "ar": "يزداد / يزيد",
+     "ex": "The number of cars on the road will increase.",
+     "star": true
+    },
+    {
+     "en": "rise (rose, risen)",
+     "pos": "v",
+     "ar": "يرتفع",
+     "ex": "Sea levels rise as the ice melts.",
+     "star": true
+    },
+    {
+     "en": "afford",
+     "pos": "v",
+     "ar": "يتحمّل تكلفة / يقدر على شراء",
+     "ex": "Not every family can afford an electric car."
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Trees (1)_____ carbon dioxide from the air, which helps to reduce global warming. In contrast, factories (2)_____ large amounts of the gas. Greenhouse gases (3)_____ heat in the atmosphere, so the Earth's temperature (4)_____. Scientists want governments to (5)_____ this problem soon.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "absorb",
+       "sell",
+       "design",
+       "pay"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 2,
+      "options": [
+       "afford",
+       "buy",
+       "damage",
+       "release"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 3,
+      "options": [
+       "pay",
+       "sell",
+       "trap",
+       "afford"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 4,
+      "options": [
+       "pays",
+       "rises",
+       "designs",
+       "buys"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 5,
+      "options": [
+       "deal with",
+       "afford",
+       "trap",
+       "absorb"
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "Many families cannot ________ an electric car because it is very expensive.",
+     "options": [
+      "afford",
+      "sell",
+      "damage",
+      "design"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "Oil spills ________ beaches and kill sea animals.",
+     "options": [
+      "design",
+      "sell",
+      "pay",
+      "damage"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "q": "The company ________ a new solar-powered car last year.",
+     "options": [
+      "design",
+      "designing",
+      "designed",
+      "designs"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "q": "She ________ her old bike to a neighbour for ten rials.",
+     "options": [
+      "selled",
+      "sold",
+      "sell",
+      "has sell"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "q": "We ________ for the tickets online yesterday.",
+     "options": [
+      "paid",
+      "payed",
+      "pay",
+      "pays"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 6,
+     "q": "He ________ a reusable bottle at the shop last week.",
+     "options": [
+      "buyed",
+      "brought",
+      "buy",
+      "bought"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 7,
+     "q": "A sponge can ________ a lot of water.",
+     "options": [
+      "sell",
+      "design",
+      "absorb",
+      "damage"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 8,
+     "q": "The temperature has ________ by two degrees since January.",
+     "options": [
+      "rose",
+      "risen",
+      "rise",
+      "rised"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "U2-L11",
+   "title": "Compound Nouns",
+   "title_ar": "الأسماء المركّبة",
+   "words": [
+    {
+     "en": "armchair",
+     "pos": "n",
+     "ar": "كرسي بمساند للذراعين",
+     "ex": "My grandfather sleeps in his armchair after lunch."
+    },
+    {
+     "en": "sunglasses",
+     "pos": "n",
+     "ar": "نظارة شمسية",
+     "ex": "Wear sunglasses to protect your eyes from the strong sun."
+    },
+    {
+     "en": "thunderstorm",
+     "pos": "n",
+     "ar": "عاصفة رعدية",
+     "ex": "A thunderstorm with heavy rain hit the city at night."
+    },
+    {
+     "en": "classmate",
+     "pos": "n",
+     "ar": "زميل / زميلة الدراسة",
+     "ex": "My classmate sits next to me in the English lesson.",
+     "star": true
+    },
+    {
+     "en": "textbook",
+     "pos": "n",
+     "ar": "كتاب مدرسي",
+     "ex": "Open your textbook at page twenty."
+    },
+    {
+     "en": "roadworks",
+     "pos": "n",
+     "ar": "أعمال الطرق",
+     "ex": "Roadworks made me late for school today."
+    },
+    {
+     "en": "air conditioner",
+     "pos": "n",
+     "ar": "مكيّف هواء",
+     "ex": "The air conditioner in our classroom is broken."
+    },
+    {
+     "en": "alarm clock",
+     "pos": "n",
+     "ar": "ساعة منبّهة",
+     "ex": "My alarm clock rings at six every morning."
+    },
+    {
+     "en": "ice cream",
+     "pos": "n",
+     "ar": "آيس كريم / بوظة",
+     "ex": "We bought ice cream on the hot afternoon."
+    },
+    {
+     "en": "heart attack",
+     "pos": "n",
+     "ar": "نوبة قلبية",
+     "ex": "A heart attack is a serious medical emergency."
+    },
+    {
+     "en": "bus stop",
+     "pos": "n",
+     "ar": "موقف حافلات",
+     "ex": "The bus stop is opposite the school gate."
+    },
+    {
+     "en": "dry-cleaning",
+     "pos": "n",
+     "ar": "التنظيف الجاف",
+     "ex": "Dry-cleaning is a way of cleaning clothes without water."
+    },
+    {
+     "en": "one-year-old",
+     "pos": "n",
+     "ar": "طفل عمره عام واحد",
+     "ex": "A one-year-old is learning to walk."
+    },
+    {
+     "en": "passers-by",
+     "pos": "n",
+     "ar": "المارّة",
+     "ex": "Passers-by stopped to help the injured driver."
+    },
+    {
+     "en": "mother-in-law",
+     "pos": "n",
+     "ar": "حماة (أم الزوج أو الزوجة)",
+     "ex": "His mother-in-law makes delicious halwa."
+    },
+    {
+     "en": "cinema-fan",
+     "pos": "n",
+     "ar": "محبّ السينما",
+     "ex": "Every cinema-fan wants to see the new film."
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "On Friday morning, my (1)_____ rang at six o'clock. It was very hot at first, so I put on my (2)_____ and walked to the (3)_____ near my house. Suddenly a (4)_____ began, with loud thunder and heavy rain. A group of (5)_____ ran into a café to stay dry.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "alarm clock",
+       "armchair",
+       "textbook",
+       "ice cream"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 2,
+      "options": [
+       "thunderstorm",
+       "roadworks",
+       "classmate",
+       "sunglasses"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 3,
+      "options": [
+       "heart attack",
+       "air conditioner",
+       "bus stop",
+       "dry-cleaning"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 4,
+      "options": [
+       "classmate",
+       "thunderstorm",
+       "armchair",
+       "alarm clock"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 5,
+      "options": [
+       "passers-by",
+       "sunglasses",
+       "roadworks",
+       "textbooks"
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "My ________ and I study together every day.",
+     "options": [
+      "classmate",
+      "armchair",
+      "textbook",
+      "bus stop"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "I left my English ________ at home, so I could not do the exercise.",
+     "options": [
+      "armchair",
+      "ice cream",
+      "roadworks",
+      "textbook"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "q": "The ________ made a lot of noise, so the traffic moved slowly.",
+     "options": [
+      "sunglasses",
+      "mother-in-law",
+      "roadworks",
+      "alarm clock"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "q": "After the long day, he relaxed in a comfortable ________.",
+     "options": [
+      "thunderstorm",
+      "armchair",
+      "bus stop",
+      "classmate"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "q": "The word ________ is written with hyphens.",
+     "options": [
+      "mother-in-law",
+      "bus stop",
+      "armchair",
+      "sunglasses"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 6,
+     "q": "The doctor said that chest pain can be a sign of a ________.",
+     "options": [
+      "dry-cleaning",
+      "ice cream",
+      "alarm clock",
+      "heart attack"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 7,
+     "q": "My suit needs ________ because the label says do not wash.",
+     "options": [
+      "ice cream",
+      "air conditioner",
+      "dry-cleaning",
+      "armchair"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 8,
+     "q": "It is too hot in here. Please switch on the ________.",
+     "options": [
+      "alarm clock",
+      "air conditioner",
+      "armchair",
+      "textbook"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "U2-L12",
+   "title": "Reading, Campaigns and Issues",
+   "title_ar": "القراءة والحملات والقضايا",
+   "words": [
+    {
+     "en": "heading",
+     "pos": "n",
+     "ar": "عنوان",
+     "ex": "Read the heading before you read the text."
+    },
+    {
+     "en": "subheading",
+     "pos": "n",
+     "ar": "عنوان جانبي / فرعي",
+     "ex": "Each subheading introduces a new part of the article."
+    },
+    {
+     "en": "issue",
+     "pos": "n",
+     "ar": "قضية / مسألة",
+     "ex": "Climate change is an important issue for young people.",
+     "star": true
+    },
+    {
+     "en": "problem",
+     "pos": "n",
+     "ar": "مشكلة",
+     "ex": "Plastic is a big problem for our oceans.",
+     "star": true
+    },
+    {
+     "en": "symbol",
+     "pos": "n",
+     "ar": "رمز",
+     "ex": "A green leaf is a symbol of nature.",
+     "star": true
+    },
+    {
+     "en": "slogan",
+     "pos": "n",
+     "ar": "شعار",
+     "ex": "The campaign slogan is 'Save water, save life'."
+    },
+    {
+     "en": "image",
+     "pos": "n",
+     "ar": "صورة",
+     "ex": "The image shows a turtle trapped in a net."
+    },
+    {
+     "en": "action",
+     "pos": "n",
+     "ar": "عمل / إجراء",
+     "ex": "Action is needed now, not more talk.",
+     "star": true
+    },
+    {
+     "en": "debate",
+     "pos": "n",
+     "ar": "مناظرة / نقاش",
+     "ex": "Our class had a debate about plastic bags."
+    },
+    {
+     "en": "expert",
+     "pos": "n",
+     "ar": "خبير",
+     "ex": "An expert on weather explained how storms form."
+    },
+    {
+     "en": "evidence",
+     "pos": "n",
+     "ar": "دليل / براهين",
+     "ex": "Scientists have strong evidence that the planet is warming."
+    },
+    {
+     "en": "future",
+     "pos": "n",
+     "ar": "المستقبل",
+     "ex": "We want a clean and green future.",
+     "star": true
+    },
+    {
+     "en": "in particular",
+     "pos": "phr",
+     "ar": "على وجه الخصوص",
+     "ex": "I like sea animals, in particular dolphins."
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Our school held a (1)_____ on climate change. An (2)_____ from the university spoke about the biggest (3)_____ facing the planet. She showed an (4)_____ of a melting glacier and said that we must take (5)_____ to protect our future.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "debate",
+       "slogan",
+       "heading",
+       "symbol"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 2,
+      "options": [
+       "image",
+       "issue",
+       "symbol",
+       "expert"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 3,
+      "options": [
+       "action",
+       "subheading",
+       "issue",
+       "heading"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 4,
+      "options": [
+       "expert",
+       "image",
+       "debate",
+       "future"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 5,
+      "options": [
+       "action",
+       "slogan",
+       "heading",
+       "symbol"
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "The ________ of the article was 'Our Warming Planet'.",
+     "options": [
+      "heading",
+      "expert",
+      "action",
+      "future"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "The ________ under 'Causes' says: 'Burning fossil fuels'.",
+     "options": [
+      "expert",
+      "future",
+      "slogan",
+      "subheading"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "q": "The recycling sign is a ________ of protecting the Earth.",
+     "options": [
+      "debate",
+      "expert",
+      "symbol",
+      "evidence"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "q": "'Think Green' is the ________ of our school campaign.",
+     "options": [
+      "expert",
+      "slogan",
+      "future",
+      "debate"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "q": "The teacher asked us to look at the ________ and describe it.",
+     "options": [
+      "image",
+      "debate",
+      "action",
+      "expert"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 6,
+     "q": "We had a lively ________ about whether students should wear uniforms.",
+     "options": [
+      "symbol",
+      "subheading",
+      "future",
+      "debate"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 7,
+     "q": "We like all fruit, ________ mangoes.",
+     "options": [
+      "in future",
+      "in image",
+      "in particular",
+      "in issue"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 8,
+     "q": "Plastic waste is a serious ________ for coastal towns.",
+     "options": [
+      "symbol",
+      "problem",
+      "slogan",
+      "image"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "U2-L13",
+   "title": "Debate and Linking Words",
+   "title_ar": "النقاش وأدوات الربط",
+   "words": [
+    {
+     "en": "argument for",
+     "pos": "phr",
+     "ar": "حجّة مؤيِّدة (النقاش المؤيّد)",
+     "ex": "One argument for public transport is that it reduces traffic."
+    },
+    {
+     "en": "argument against",
+     "pos": "phr",
+     "ar": "حجّة معارِضة (النقاش المعارض)",
+     "ex": "A strong argument against plastic bags is that they pollute the sea."
+    },
+    {
+     "en": "agreeing with",
+     "pos": "phr",
+     "ar": "الاتفاق مع",
+     "ex": "'I agree with you' is a polite way of agreeing with someone."
+    },
+    {
+     "en": "disagreeing with",
+     "pos": "phr",
+     "ar": "الاختلاف مع",
+     "ex": "'I'm afraid I disagree' is a polite way of disagreeing with someone."
+    },
+    {
+     "en": "instead of",
+     "pos": "prep",
+     "ar": "بدلًا من",
+     "ex": "Let's walk to school instead of taking the car."
+    },
+    {
+     "en": "instead",
+     "pos": "adv",
+     "ar": "بدلًا من ذلك",
+     "ex": "There was no bus, so we walked instead."
+    },
+    {
+     "en": "unless",
+     "pos": "conj",
+     "ar": "ما لم / إلا إذا",
+     "ex": "The plants will die unless it rains soon."
+    },
+    {
+     "en": "because of",
+     "pos": "prep",
+     "ar": "بسبب",
+     "ex": "The match was cancelled because of the rain.",
+     "star": true
+    },
+    {
+     "en": "due to",
+     "pos": "prep",
+     "ar": "بسبب / نتيجة لـ",
+     "ex": "Many flights were late due to the sandstorm.",
+     "star": true
+    },
+    {
+     "en": "as a result (of)",
+     "pos": "adv",
+     "ar": "نتيجةً لـ / ونتيجة لذلك",
+     "ex": "The river dried up. As a result, the fish died.",
+     "star": true
+    },
+    {
+     "en": "consequently",
+     "pos": "adv",
+     "ar": "وبالتالي / ونتيجة لذلك",
+     "ex": "Prices went up; consequently, fewer people bought them.",
+     "star": true
+    },
+    {
+     "en": "therefore",
+     "pos": "adv",
+     "ar": "لذلك / ولهذا السبب",
+     "ex": "It is raining. Therefore, we will stay indoors.",
+     "star": true
+    },
+    {
+     "en": "so",
+     "pos": "conj",
+     "ar": "لذلك / لهذا",
+     "ex": "It was very hot, so we stayed inside."
+    },
+    {
+     "en": "for example",
+     "pos": "adv",
+     "ar": "على سبيل المثال",
+     "ex": "Many animals are in danger. For example, polar bears."
+    },
+    {
+     "en": "in addition",
+     "pos": "adv",
+     "ar": "بالإضافة إلى ذلك",
+     "ex": "Solar panels save money. In addition, they protect the environment."
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Some students support a ban on plastic bags. Their main (1)_____ for the ban is that bags harm sea animals. Bags are cheap, (2)_____ people use them once and throw them away. Shops could offer paper bags (3)_____ plastic ones. The problem will continue (4)_____ people change their habits. (5)_____, many countries have introduced new laws.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "argument",
+       "heading",
+       "symbol",
+       "expert"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 2,
+      "options": [
+       "unless",
+       "due to",
+       "instead of",
+       "so"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 3,
+      "options": [
+       "because of",
+       "unless",
+       "instead of",
+       "in particular"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 4,
+      "options": [
+       "instead",
+       "unless",
+       "so",
+       "therefore"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 5,
+      "options": [
+       "Consequently",
+       "Unless",
+       "Instead of",
+       "Because of"
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "She stayed at home ________ her illness.",
+     "options": [
+      "because of",
+      "because",
+      "so",
+      "unless"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "The match was cancelled ________ the heavy rain.",
+     "options": [
+      "so",
+      "because",
+      "therefore",
+      "due to"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "q": "We missed the bus, ________ we walked to school.",
+     "options": [
+      "because of",
+      "unless",
+      "so",
+      "due to"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "q": "It was raining; ________, we stayed in.",
+     "options": [
+      "because",
+      "therefore",
+      "unless",
+      "due to"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "q": "I will go to the beach ________ it rains.",
+     "options": [
+      "unless",
+      "so",
+      "because of",
+      "instead of"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 6,
+     "q": "We should walk ________ driving short distances.",
+     "options": [
+      "instead",
+      "unless",
+      "due to",
+      "instead of"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 7,
+     "q": "He did not like the film; ________ he left early.",
+     "options": [
+      "in addition",
+      "for example",
+      "as a result",
+      "unless"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 8,
+     "q": "A good ________ the plan is that it costs too much.",
+     "options": [
+      "argument for",
+      "argument against",
+      "agreeing with",
+      "due to"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ],
+ "grammar": [
+  {
+   "id": "U2-G1",
+   "title": "Cause and Effect",
+   "title_ar": "السبب والنتيجة",
+   "explain": [
+    {
+     "t": "rule",
+     "en": "A reason explains WHY something happens. A result explains WHAT happens because of it. We use different linking words for each.",
+     "ar": "السبب يوضّح لماذا حدث الشيء، والنتيجة توضّح ما حدث بسببه. لكل منهما كلمات ربط مختلفة."
+    },
+    {
+     "t": "table",
+     "title": "Reason words and result words",
+     "headers": [
+      "Reason (Why?)",
+      "Result (What happened?)"
+     ],
+     "rows": [
+      [
+       "because  (لأن)",
+       "so  (لذلك)"
+      ],
+      [
+       "since / as  (بما أن / نظرًا لأن)",
+       "therefore  (لهذا السبب)"
+      ],
+      [
+       "because of  (بسبب)",
+       "consequently  (وبالتالي)"
+      ],
+      [
+       "due to  (بسبب / نتيجة لـ)",
+       "as a result  (ونتيجة لذلك)"
+      ]
+     ]
+    },
+    {
+     "t": "table",
+     "title": "Structure and punctuation",
+     "headers": [
+      "Word",
+      "What comes after it?",
+      "Example"
+     ],
+     "rows": [
+      [
+       "because / since / as",
+       "a clause (subject + verb)",
+       "We stayed home because it was very hot."
+      ],
+      [
+       "because of / due to",
+       "a noun or noun phrase",
+       "We stayed home because of the heat."
+      ],
+      [
+       "so",
+       "a clause; put a comma before it",
+       "It was very hot, so we stayed home."
+      ],
+      [
+       "therefore / consequently / as a result",
+       "a comma, then a clause; start a new sentence",
+       "It was very hot. Therefore, we stayed home."
+      ]
+     ]
+    },
+    {
+     "t": "rule",
+     "en": "Because, since and as are followed by a clause. Because of and due to are followed by a noun. So comes in the middle of the sentence after a comma. Therefore, consequently and as a result begin a new sentence and are followed by a comma.",
+     "ar": "بعد because وsince وas نأتي بجملة كاملة (فاعل + فعل). وبعد because of وdue to نأتي باسم فقط. أما so فتأتي في وسط الجملة بعد فاصلة، بينما therefore وconsequently وas a result فتبدأ بها جملة جديدة ويليها فاصلة."
+    },
+    {
+     "t": "examples",
+     "items": [
+      {
+       "en": "The ice is melting because the planet is getting warmer.",
+       "ar": "الجليد يذوب لأن الكوكب يزداد حرارة."
+      },
+      {
+       "en": "Many crops died due to the long drought.",
+       "ar": "ماتت محاصيل كثيرة بسبب الجفاف الطويل."
+      },
+      {
+       "en": "The weather was stormy, so the boat trip was cancelled.",
+       "ar": "كان الطقس عاصفًا، لذلك أُلغيت الرحلة البحرية."
+      },
+      {
+       "en": "The road was flooded. Therefore, the school was closed.",
+       "ar": "غُمرت الطريق بالمياه. لذلك أُغلقت المدرسة."
+      },
+      {
+       "en": "Burning coal produces carbon dioxide. As a result, the Earth gets warmer.",
+       "ar": "حرق الفحم ينتج ثاني أكسيد الكربون. ونتيجة لذلك ترتفع حرارة الأرض."
+      }
+     ]
+    },
+    {
+     "t": "tip",
+     "en": "Do not write because + noun or because of + clause. Do not use 'so' and 'because' together in the same sentence.",
+     "ar": "لا تكتب because قبل اسم ولا because of قبل جملة كاملة. ولا تستخدم so وbecause معًا في الجملة نفسها."
+    }
+   ],
+   "exercises": [
+    {
+     "title": "Exercise 1 — Choose the correct answer",
+     "kind": "choose",
+     "items": [
+      {
+       "n": 1,
+       "q": "The ice caps are melting [[1]] the Earth is getting warmer.",
+       "options": [
+        "because of",
+        "because"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 2,
+       "q": "Many farmers lost their crops [[2]] the drought.",
+       "options": [
+        "because of",
+        "because"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "q": "It was very hot, [[3]] we turned on the air conditioner.",
+       "options": [
+        "so",
+        "because",
+        "due to"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "q": "The flights were cancelled [[4]] the storm.",
+       "options": [
+        "so",
+        "due to",
+        "therefore"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 5,
+       "q": "Sea levels are rising. [[5]], some islands may disappear.",
+       "options": [
+        "Because",
+        "Therefore"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 6,
+       "q": "[[6]] the heavy rain, the road was closed.",
+       "options": [
+        "Due to",
+        "Because",
+        "So"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 7,
+       "q": "Plastic stays in the sea for years. [[7]], many turtles are in danger.",
+       "options": [
+        "Since",
+        "Consequently",
+        "Due to"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 8,
+       "q": "We use less water [[8]] it is expensive.",
+       "options": [
+        "so",
+        "due to",
+        "as"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "title": "Exercise 2 — Complete the sentences",
+     "kind": "fill",
+     "bank": [
+      "because",
+      "because of",
+      "so",
+      "Therefore"
+     ],
+     "items": [
+      {
+       "n": 1,
+       "q": "The ice caps are melting ________ the Earth is getting warmer.",
+       "answer": "because"
+      },
+      {
+       "n": 2,
+       "q": "Many animals are losing their homes ________ climate change.",
+       "answer": "because of"
+      },
+      {
+       "n": 3,
+       "q": "There was no rain for months, ________ the farmers lost their crops.",
+       "answer": "so"
+      },
+      {
+       "n": 4,
+       "q": "Cars burn petrol. ________, they produce carbon dioxide.",
+       "answer": "Therefore"
+      },
+      {
+       "n": 5,
+       "q": "We walked to school ________ the bus was late.",
+       "answer": "because"
+      },
+      {
+       "n": 6,
+       "q": "The match was cancelled ________ the sandstorm.",
+       "answer": "because of"
+      },
+      {
+       "n": 7,
+       "q": "Our school has solar panels, ________ it pays less for electricity.",
+       "answer": "so"
+      },
+      {
+       "n": 8,
+       "q": "Sea levels are rising ________ the glaciers are melting.",
+       "answer": "because"
+      }
+     ]
+    },
+    {
+     "title": "Exercise 3 — Practice dialogue",
+     "kind": "dialogue",
+     "lines": [
+      {
+       "speaker": "Huda",
+       "text": "Why are you carrying a reusable bottle today, Salim?"
+      },
+      {
+       "speaker": "Salim",
+       "text": "I bring it every day [[1]] plastic bottles are bad for the environment."
+      },
+      {
+       "speaker": "Huda",
+       "text": "Good idea. Our school used too much plastic last year, [[2]] the headteacher banned plastic bottles."
+      },
+      {
+       "speaker": "Salim",
+       "text": "Yes. [[3]] the new rule, the playground is much cleaner."
+      },
+      {
+       "speaker": "Huda",
+       "text": "It is also cooler in the classrooms [[4]] we switch off the lights in the morning."
+      },
+      {
+       "speaker": "Salim",
+       "text": "True. We use less electricity. [[5]], the school pays smaller bills."
+      }
+     ],
+     "items": [
+      {
+       "n": 1,
+       "options": [
+        "because of",
+        "because"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 2,
+       "options": [
+        "so",
+        "because"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "options": [
+        "Because",
+        "Due to"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 4,
+       "options": [
+        "because",
+        "because of"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "options": [
+        "Because",
+        "Therefore"
+       ],
+       "answer": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U2-G2",
+   "title": "Will and Won't (Future with will)",
+   "title_ar": "المستقبل باستخدام will وwon't",
+   "explain": [
+    {
+     "t": "rule",
+     "en": "We use will + the base verb (infinitive without 'to') to talk about the future. The form is the same for all subjects. The negative is will not = won't.",
+     "ar": "نستخدم will + الفعل في صورته الأساسية (بدون to) للتحدث عن المستقبل، وتبقى الصيغة نفسها مع كل الضمائر. والنفي هو will not ويُختصر إلى won't."
+    },
+    {
+     "t": "table",
+     "title": "Forms of will",
+     "headers": [
+      "Form",
+      "Structure",
+      "Example"
+     ],
+     "rows": [
+      [
+       "Positive",
+       "subject + will + verb",
+       "The temperature will rise."
+      ],
+      [
+       "Negative",
+       "subject + won't + verb",
+       "It won't rain tomorrow."
+      ],
+      [
+       "Question",
+       "Will + subject + verb?",
+       "Will you help me?"
+      ],
+      [
+       "Short answers",
+       "Yes, I will. / No, I won't.",
+       "Will it be hot? Yes, it will."
+      ]
+     ]
+    },
+    {
+     "t": "table",
+     "title": "When do we use will?",
+     "headers": [
+      "Use",
+      "Example"
+     ],
+     "rows": [
+      [
+       "Prediction (توقّع)",
+       "Sea levels will rise in the future."
+      ],
+      [
+       "Promise (وعد)",
+       "I will recycle these bottles, I promise."
+      ],
+      [
+       "Offer (عرض مساعدة)",
+       "I will carry the bags for you."
+      ],
+      [
+       "Quick decision (قرار فوري)",
+       "It is dark. I will switch on the light."
+      ],
+      [
+       "Refusal (رفض) with won't",
+       "He won't listen to anyone."
+      ]
+     ]
+    },
+    {
+     "t": "rule",
+     "en": "We often use will with time words such as tomorrow, soon, next year, in the future, and with 'I think', 'probably' and 'maybe'.",
+     "ar": "نستخدم will كثيرًا مع كلمات الزمن مثل tomorrow وsoon وnext year وin the future، ومع عبارات مثل I think وprobably وmaybe."
+    },
+    {
+     "t": "examples",
+     "items": [
+      {
+       "en": "I think electric cars will become cheaper.",
+       "ar": "أعتقد أن السيارات الكهربائية ستصبح أرخص."
+      },
+      {
+       "en": "We won't have enough water if it doesn't rain.",
+       "ar": "لن يكون لدينا ماء كافٍ إذا لم تمطر."
+      },
+      {
+       "en": "Don't worry. I won't forget to turn off the lights.",
+       "ar": "لا تقلق. لن أنسى إطفاء الأنوار."
+      },
+      {
+       "en": "Will the ice caps melt completely? No, they won't, but they will get smaller.",
+       "ar": "هل ستذوب الأغطية الجليدية تمامًا؟ لا، لن تذوب، لكنها ستصغر."
+      }
+     ]
+    },
+    {
+     "t": "tip",
+     "en": "Never put 'to' after will: say 'It will rain', not 'It will to rain'. Do not add -s to the verb: 'She will help', not 'She will helps'. Do not confuse won't (will not) with want.",
+     "ar": "لا تضع to بعد will، فنقول It will rain وليس It will to rain. ولا تضف s للفعل بعد will. ولا تخلط بين won't (لن) وwant (يريد)."
+    }
+   ],
+   "exercises": [
+    {
+     "title": "Exercise 1 — Choose the correct answer",
+     "kind": "choose",
+     "items": [
+      {
+       "n": 1,
+       "q": "Scientists think the ice caps [[1]] melt faster in the future.",
+       "options": [
+        "will to",
+        "will",
+        "are will"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 2,
+       "q": "I promise I [[2]] drop litter again.",
+       "options": [
+        "won't to",
+        "not will",
+        "won't"
+       ],
+       "answer": 2
+      },
+      {
+       "n": 3,
+       "q": "[[3]] you help me carry these recycling bags?",
+       "options": [
+        "Will",
+        "Are",
+        "Does"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "q": "Look at the forecast. Tomorrow [[4]] be very hot.",
+       "options": [
+        "it wills",
+        "it will",
+        "it will to"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 5,
+       "q": "If it does not rain, we [[5]] have enough water next month.",
+       "options": [
+        "don't",
+        "didn't",
+        "won't"
+       ],
+       "answer": 2
+      },
+      {
+       "n": 6,
+       "q": "A: Will plastic bags disappear soon? B: No, they [[6]].",
+       "options": [
+        "won't",
+        "don't",
+        "aren't"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 7,
+       "q": "The shop is closed now. I [[7]] buy the water tomorrow.",
+       "options": [
+        "am",
+        "will",
+        "do"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 8,
+       "q": "I asked Maryam to turn off the TV, but she [[8]] listen.",
+       "options": [
+        "won't to",
+        "not will",
+        "won't"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "title": "Exercise 2 — Complete the sentences with will or won't",
+     "kind": "fill",
+     "bank": [
+      "will",
+      "won't"
+     ],
+     "items": [
+      {
+       "n": 1,
+       "q": "Climate scientists say sea levels ________ (rise) in the future.",
+       "answer": "will rise"
+      },
+      {
+       "n": 2,
+       "q": "Don't worry. I ________ (not forget) to recycle the bottles.",
+       "answer": "won't forget"
+      },
+      {
+       "n": 3,
+       "q": "It's very hot in here. I ________ (open) the window for you.",
+       "answer": "will open"
+      },
+      {
+       "n": 4,
+       "q": "If we plant more trees, the air ________ (be) cleaner.",
+       "answer": "will be"
+      },
+      {
+       "n": 5,
+       "q": "________ you help me to water the plants after school?",
+       "answer": "Will"
+      },
+      {
+       "n": 6,
+       "q": "The factory ________ (not stop) making smoke unless the government makes new laws.",
+       "answer": "won't stop"
+      },
+      {
+       "n": 7,
+       "q": "I think electric cars ________ (become) cheaper in ten years.",
+       "answer": "will become"
+      },
+      {
+       "n": 8,
+       "q": "The children ________ (not play) outside today because of the heat wave.",
+       "answer": "won't play"
+      }
+     ]
+    },
+    {
+     "title": "Exercise 3 — Practice dialogue",
+     "kind": "dialogue",
+     "lines": [
+      {
+       "speaker": "Yousef",
+       "text": "Have you heard the forecast? It [[1]] be very hot tomorrow, so bring water."
+      },
+      {
+       "speaker": "Maryam",
+       "text": "Good idea! I [[2]] bring two bottles and one extra for you."
+      },
+      {
+       "speaker": "Yousef",
+       "text": "Thanks! [[3]] the bus take us all the way to the beach?"
+      },
+      {
+       "speaker": "Maryam",
+       "text": "No, it [[4]]. The road is closed, so we will walk the last part."
+      },
+      {
+       "speaker": "Yousef",
+       "text": "That's fine. We [[5]] leave any litter behind, so the beach stays clean."
+      }
+     ],
+     "items": [
+      {
+       "n": 1,
+       "options": [
+        "won't",
+        "will"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 2,
+       "options": [
+        "will",
+        "won't"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "options": [
+        "Is",
+        "Will"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 4,
+       "options": [
+        "won't",
+        "will"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "options": [
+        "will",
+        "won't"
+       ],
+       "answer": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

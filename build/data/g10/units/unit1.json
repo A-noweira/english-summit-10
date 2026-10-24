@@ -1,0 +1,4496 @@
+{
+ "unit": 1,
+ "title": "New Media",
+ "title_ar": "الإعلام الجديد",
+ "theme_color": "#1f6f8b",
+ "lessons": [
+  {
+   "id": "U1-L1",
+   "title": "Devices and Gadgets",
+   "title_ar": "الأجهزة والأدوات التقنية",
+   "words": [
+    {
+     "en": "smartphone",
+     "pos": "n",
+     "ar": "هاتف ذكي",
+     "ex": "I use my smartphone to read the news every morning.",
+     "star": true
+    },
+    {
+     "en": "smart watch",
+     "pos": "n",
+     "ar": "ساعة ذكية",
+     "ex": "Her smart watch shows her messages and counts her steps.",
+     "star": false
+    },
+    {
+     "en": "tablet",
+     "pos": "n",
+     "ar": "حاسوب لوحي",
+     "ex": "My little brother draws pictures on his tablet.",
+     "star": false
+    },
+    {
+     "en": "computer",
+     "pos": "n",
+     "ar": "حاسوب",
+     "ex": "We have one computer in the living room.",
+     "star": true
+    },
+    {
+     "en": "camera",
+     "pos": "n",
+     "ar": "كاميرا / آلة تصوير",
+     "ex": "This camera takes very clear photos.",
+     "star": false
+    },
+    {
+     "en": "stereo",
+     "pos": "n",
+     "ar": "جهاز ستيريو / مسجّلة",
+     "ex": "Dad plays old songs on the stereo.",
+     "star": false
+    },
+    {
+     "en": "screen",
+     "pos": "n",
+     "ar": "شاشة",
+     "ex": "The screen of my phone is cracked.",
+     "star": false
+    },
+    {
+     "en": "device",
+     "pos": "n",
+     "ar": "جهاز / أداة",
+     "ex": "Every student needs a device to join the online lesson.",
+     "star": true
+    },
+    {
+     "en": "button",
+     "pos": "n",
+     "ar": "زر",
+     "ex": "Press the red button to turn the machine off.",
+     "star": false
+    },
+    {
+     "en": "menu",
+     "pos": "n",
+     "ar": "قائمة",
+     "ex": "Tap the menu to see all the settings.",
+     "star": false
+    },
+    {
+     "en": "technology",
+     "pos": "n",
+     "ar": "التقنية / التكنولوجيا",
+     "ex": "Technology has changed the way we study.",
+     "star": true
+    },
+    {
+     "en": "video games",
+     "pos": "n",
+     "ar": "ألعاب الفيديو",
+     "ex": "My cousins play video games after they finish their homework.",
+     "star": false
+    },
+    {
+     "en": "application",
+     "pos": "n",
+     "ar": "تطبيق",
+     "ex": "This application helps me learn new English words.",
+     "star": false
+    },
+    {
+     "en": "design",
+     "pos": "v",
+     "ar": "يصمّم / يبتكر",
+     "ex": "She wants to design apps when she grows up.",
+     "star": true
+    },
+    {
+     "en": "Internet",
+     "pos": "n",
+     "ar": "الإنترنت / شبكة المعلومات",
+     "ex": "The Internet connects people all over the world.",
+     "star": false
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Last week my father bought a new (1)_____ for the family. It is thin and light, so my sister can read books and watch videos on it. It has a large (2)_____ that shows pictures clearly. I touch the (3)_____ to open the settings. My sister downloaded an (4)_____ that teaches maths, and I use it for my homework. My brother prefers to play (5)_____ with his friends in the evening.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "tablet",
+       "stereo",
+       "button",
+       "menu"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 2,
+      "options": [
+       "button",
+       "screen",
+       "menu",
+       "camera"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 3,
+      "options": [
+       "stereo",
+       "technology",
+       "menu",
+       "video games"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 4,
+      "options": [
+       "device",
+       "camera",
+       "smart watch",
+       "application"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 5,
+      "options": [
+       "video games",
+       "menu",
+       "stereo",
+       "button"
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "My phone is old, so I want to buy a new ________ with a better camera.",
+     "options": [
+      "smartphone",
+      "stereo",
+      "menu",
+      "button"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "Press the power ________ for three seconds to switch on the laptop.",
+     "options": [
+      "menu",
+      "camera",
+      "stereo",
+      "button"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "q": "A ________ is worn on the wrist and can show your messages.",
+     "options": [
+      "stereo",
+      "computer",
+      "smart watch",
+      "tablet"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "q": "Engineers ________ new apps to help people save time.",
+     "options": [
+      "record",
+      "design",
+      "watch",
+      "press"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "q": "The ________ in our classroom is too small, so we cannot see the film well.",
+     "options": [
+      "screen",
+      "button",
+      "menu",
+      "camera"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 6,
+     "q": "A new ________ lets you pay your bills from your phone.",
+     "options": [
+      "stereo",
+      "video games",
+      "menu",
+      "application"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 7,
+     "q": "Modern ________ makes life easier, but we should use it wisely.",
+     "options": [
+      "menu",
+      "button",
+      "technology",
+      "stereo"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 8,
+     "q": "A phone, a tablet and a laptop are all electronic ________.",
+     "options": [
+      "device",
+      "devices",
+      "devised",
+      "devising"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "U1-L2",
+   "title": "Types of Media",
+   "title_ar": "أنواع وسائل الإعلام",
+   "words": [
+    {
+     "en": "media",
+     "pos": "n",
+     "ar": "وسائل الإعلام",
+     "ex": "The media report news from around the world.",
+     "star": false
+    },
+    {
+     "en": "new media",
+     "pos": "n",
+     "ar": "الإعلام الجديد",
+     "ex": "New media lets ordinary people share their ideas with the world.",
+     "star": true
+    },
+    {
+     "en": "social media",
+     "pos": "n",
+     "ar": "وسائل التواصل الاجتماعي",
+     "ex": "Many teenagers spend hours on social media every day.",
+     "star": true
+    },
+    {
+     "en": "newspaper",
+     "pos": "n",
+     "ar": "صحيفة / جريدة",
+     "ex": "My grandfather reads the newspaper after breakfast.",
+     "star": false
+    },
+    {
+     "en": "printed newspapers",
+     "pos": "n",
+     "ar": "الصحف المطبوعة",
+     "ex": "Fewer people buy printed newspapers than before.",
+     "star": false
+    },
+    {
+     "en": "magazine",
+     "pos": "n",
+     "ar": "مجلة",
+     "ex": "She bought a magazine about cars and bikes.",
+     "star": true
+    },
+    {
+     "en": "radio",
+     "pos": "n",
+     "ar": "مذياع / راديو",
+     "ex": "We listen to the radio in the car.",
+     "star": false
+    },
+    {
+     "en": "video",
+     "pos": "n",
+     "ar": "فيديو / مقطع مرئي",
+     "ex": "I watched a short video about sea turtles.",
+     "star": false
+    },
+    {
+     "en": "video streaming",
+     "pos": "n",
+     "ar": "بث الفيديو المباشر",
+     "ex": "Video streaming lets you watch films without downloading them.",
+     "star": false
+    },
+    {
+     "en": "podcast",
+     "pos": "n",
+     "ar": "بودكاست / ملف صوتي رقمي",
+     "ex": "I listen to a science podcast on the bus.",
+     "star": true
+    },
+    {
+     "en": "website",
+     "pos": "n",
+     "ar": "موقع إلكتروني",
+     "ex": "The school website shows the exam timetable.",
+     "star": false
+    },
+    {
+     "en": "online news site",
+     "pos": "n",
+     "ar": "موقع أخبار إلكتروني",
+     "ex": "He reads the headlines on an online news site.",
+     "star": false
+    },
+    {
+     "en": "electronic version",
+     "pos": "n",
+     "ar": "نسخة إلكترونية",
+     "ex": "The magazine also has an electronic version for phones.",
+     "star": false
+    },
+    {
+     "en": "interactive",
+     "pos": "adj",
+     "ar": "تفاعلي",
+     "ex": "Interactive lessons let students answer questions on the screen.",
+     "star": true
+    },
+    {
+     "en": "all over the world",
+     "pos": "phr",
+     "ar": "في أنحاء العالم",
+     "ex": "Millions of people all over the world use the Internet.",
+     "star": false
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Today there are many ways to get information. My grandfather still reads a (1)_____ every morning, but my father prefers to read the news on a (2)_____ using his phone. I like (3)_____, because I can watch my favourite programmes without waiting. My sister listens to a (4)_____ about history while she walks to school. Together, these forms of (5)_____ keep us informed.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "screen",
+       "newspaper",
+       "menu",
+       "blog"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 2,
+      "options": [
+       "stereo",
+       "button",
+       "website",
+       "menu"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 3,
+      "options": [
+       "radio",
+       "magazines",
+       "printed newspapers",
+       "video streaming"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 4,
+      "options": [
+       "podcast",
+       "magazine",
+       "website",
+       "video streaming"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 5,
+      "options": [
+       "screen",
+       "media",
+       "button",
+       "design"
+      ],
+      "answer": 1
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "________ lets you watch films online without downloading them first.",
+     "options": [
+      "Podcast",
+      "Video streaming",
+      "Radio",
+      "Magazine"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 2,
+     "q": "A ________ is an audio programme that you can download and listen to.",
+     "options": [
+      "podcast",
+      "blog",
+      "magazine",
+      "newspaper"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "q": "The word 'media' means ________.",
+     "options": [
+      "places to buy food",
+      "types of computer game",
+      "school subjects",
+      "ways of sharing news and information"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 4,
+     "q": "An ________ lesson asks students to take part, not just to listen.",
+     "options": [
+      "excessive",
+      "popular",
+      "interactive",
+      "awesome"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "q": "Printed newspapers are ________ popular now than they were twenty years ago.",
+     "options": [
+      "least",
+      "less",
+      "fewer",
+      "little"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 6,
+     "q": "Social media and websites are examples of ________ media.",
+     "options": [
+      "new",
+      "old",
+      "printed",
+      "broken"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 7,
+     "q": "Teenagers ________ the world use social media to chat with friends.",
+     "options": [
+      "next to",
+      "according to",
+      "instead of",
+      "all over"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 8,
+     "q": "I read the ________ of the magazine on my phone because it was free.",
+     "options": [
+      "radio",
+      "video game",
+      "electronic version",
+      "stereo"
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "id": "U1-L3",
+   "title": "Blogs and Social Media",
+   "title_ar": "المدونات ومواقع التواصل",
+   "words": [
+    {
+     "en": "blog",
+     "pos": "n",
+     "ar": "مدوّنة إلكترونية",
+     "ex": "She writes a blog about healthy food.",
+     "star": true
+    },
+    {
+     "en": "blogger",
+     "pos": "n",
+     "ar": "مدوِّن",
+     "ex": "The blogger posts a new story every week.",
+     "star": false
+    },
+    {
+     "en": "blogging",
+     "pos": "n",
+     "ar": "التدوين",
+     "ex": "Blogging helped him to improve his writing.",
+     "star": false
+    },
+    {
+     "en": "blog post",
+     "pos": "n",
+     "ar": "تدوينة / منشور في مدونة",
+     "ex": "Her latest blog post got hundreds of comments.",
+     "star": false
+    },
+    {
+     "en": "platform",
+     "pos": "n",
+     "ar": "منصة",
+     "ex": "YouTube is a popular platform for sharing videos.",
+     "star": true
+    },
+    {
+     "en": "follower",
+     "pos": "n",
+     "ar": "متابع",
+     "ex": "He has more than a thousand followers on his account.",
+     "star": true
+    },
+    {
+     "en": "comment",
+     "pos": "n",
+     "ar": "تعليق",
+     "ex": "Please leave a polite comment under the photo.",
+     "star": false
+    },
+    {
+     "en": "content",
+     "pos": "n",
+     "ar": "محتوى",
+     "ex": "Good content is interesting, honest and easy to understand.",
+     "star": true
+    },
+    {
+     "en": "homepage",
+     "pos": "n",
+     "ar": "الصفحة الرئيسية",
+     "ex": "The homepage of the website shows today's top stories.",
+     "star": false
+    },
+    {
+     "en": "layout",
+     "pos": "n",
+     "ar": "تخطيط الصفحة / تصميم",
+     "ex": "The clear layout makes the page easy to read.",
+     "star": false
+    },
+    {
+     "en": "brand",
+     "pos": "n",
+     "ar": "علامة تجارية / ماركة",
+     "ex": "This sports brand supports our school team.",
+     "star": false
+    },
+    {
+     "en": "post",
+     "pos": "v",
+     "ar": "ينشر (على الإنترنت)",
+     "ex": "I post photos of my trips on my page.",
+     "star": false
+    },
+    {
+     "en": "share",
+     "pos": "v",
+     "ar": "يشارك (محتوى) / يتشارك",
+     "ex": "Please share the link with your classmates.",
+     "star": true
+    },
+    {
+     "en": "mention",
+     "pos": "v",
+     "ar": "يذكر",
+     "ex": "He mentioned the competition in his message.",
+     "star": false
+    },
+    {
+     "en": "familiar with",
+     "pos": "adj",
+     "ar": "مألوف / على دراية بـ",
+     "ex": "Most teenagers are familiar with several social media apps.",
+     "star": false
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Huda loves writing. She started a (1)_____ last year and now she publishes a new (2)_____ every Friday. She chooses her topics carefully because good (3)_____ attracts readers. Last month a famous (4)_____ shared her page, and she gained hundreds of new (5)_____. Now readers leave kind remarks every day, and Huda feels proud of her work.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "comment",
+       "menu",
+       "blog",
+       "follower"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 2,
+      "options": [
+       "homepage",
+       "layout",
+       "brand",
+       "blog post"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 3,
+      "options": [
+       "content",
+       "platform",
+       "homepage",
+       "blogger"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 4,
+      "options": [
+       "layout",
+       "blogger",
+       "button",
+       "content"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 5,
+      "options": [
+       "brands",
+       "layouts",
+       "followers",
+       "platforms"
+      ],
+      "answer": 2
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "He writes about football and updates his ________ every weekend.",
+     "options": [
+      "menu",
+      "follower",
+      "blog",
+      "device"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "q": "Click the logo to return to the ________ of the website.",
+     "options": [
+      "comment",
+      "homepage",
+      "brand",
+      "follower"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 3,
+     "q": "Many companies advertise their ________ on social media to attract young customers.",
+     "options": [
+      "brands",
+      "comments",
+      "layouts",
+      "platforms"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "q": "Do not ________ photos of your friends without asking them first.",
+     "options": [
+      "look",
+      "hurry",
+      "worry",
+      "post"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 5,
+     "q": "Maryam is ________ with several photo-editing apps.",
+     "options": [
+      "popular",
+      "excessive",
+      "familiar",
+      "reluctant"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 6,
+     "q": "A person who writes a blog is called a ________.",
+     "options": [
+      "follower",
+      "blogger",
+      "reporter",
+      "brand"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 7,
+     "q": "Her ________ about the school trip was read by two hundred people.",
+     "options": [
+      "blog post",
+      "layout",
+      "homepage",
+      "platform"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 8,
+     "q": "The teacher ________ that the exam would be easy, but it was not.",
+     "options": [
+      "hurried",
+      "launched",
+      "followed",
+      "mentioned"
+     ],
+     "answer": 3
+    }
+   ]
+  },
+  {
+   "id": "U1-L4",
+   "title": "Doing Things Online",
+   "title_ar": "الأفعال على الإنترنت",
+   "words": [
+    {
+     "en": "go online",
+     "pos": "phr v",
+     "ar": "يتصل بالإنترنت",
+     "ex": "I usually go online after I finish my homework.",
+     "star": false
+    },
+    {
+     "en": "go offline",
+     "pos": "phr v",
+     "ar": "ينقطع عن الإنترنت",
+     "ex": "Many people go offline at weekends to relax.",
+     "star": false
+    },
+    {
+     "en": "log in",
+     "pos": "phr v",
+     "ar": "يسجّل الدخول",
+     "ex": "You must log in with your password to see your grades.",
+     "star": false
+    },
+    {
+     "en": "log out",
+     "pos": "phr v",
+     "ar": "يسجّل الخروج",
+     "ex": "Always log out when you use a shared computer.",
+     "star": false
+    },
+    {
+     "en": "sign in / sign into",
+     "pos": "phr v",
+     "ar": "يسجّل الدخول إلى حساب",
+     "ex": "Sign in to your account before you join the meeting.",
+     "star": false
+    },
+    {
+     "en": "sign up",
+     "pos": "phr v",
+     "ar": "يشترك / ينشئ حساباً جديداً",
+     "ex": "I signed up for a free English course online.",
+     "star": false
+    },
+    {
+     "en": "upload",
+     "pos": "v",
+     "ar": "يرفع (ملفاً إلى الإنترنت)",
+     "ex": "Salim uploaded his project to the school website.",
+     "star": false
+    },
+    {
+     "en": "download",
+     "pos": "v",
+     "ar": "ينزّل / يحمّل",
+     "ex": "Can you download this app on your phone?",
+     "star": false
+    },
+    {
+     "en": "click on",
+     "pos": "phr v",
+     "ar": "ينقر على",
+     "ex": "Click on the link to open the video.",
+     "star": false
+    },
+    {
+     "en": "connect",
+     "pos": "v",
+     "ar": "يتصل / يربط",
+     "ex": "Connect your phone to the Wi-Fi.",
+     "star": false
+    },
+    {
+     "en": "communicate",
+     "pos": "v",
+     "ar": "يتواصل",
+     "ex": "Social media helps friends communicate quickly.",
+     "star": true
+    },
+    {
+     "en": "access",
+     "pos": "v",
+     "ar": "يصل إلى / يدخل إلى",
+     "ex": "Students can access the library catalogue from home.",
+     "star": true
+    },
+    {
+     "en": "participate",
+     "pos": "v",
+     "ar": "يشارك",
+     "ex": "All students should participate in the online discussion.",
+     "star": true
+    },
+    {
+     "en": "online",
+     "pos": "adv",
+     "ar": "متصل بالإنترنت",
+     "ex": "She does most of her shopping online.",
+     "star": true
+    },
+    {
+     "en": "text",
+     "pos": "v",
+     "ar": "يرسل رسالة نصية",
+     "ex": "I will text you when I arrive.",
+     "star": true
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Yesterday I wanted to join a free coding course. First, I had to (1)_____, so I connected my phone to the Wi-Fi. Then I chose to (2)_____ for a new account and (3)_____ with my email and password. When the lesson ended, I decided to (4)_____ my project so that my teacher could see it. Finally, I remembered to (5)_____ because it was my brother's laptop.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "log out",
+       "hang up",
+       "hurry up",
+       "go online"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 2,
+      "options": [
+       "sign up",
+       "hang up",
+       "turn off",
+       "log out"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 3,
+      "options": [
+       "log out",
+       "log in",
+       "go offline",
+       "hurry up"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 4,
+      "options": [
+       "download",
+       "mention",
+       "upload",
+       "text"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 5,
+      "options": [
+       "go online",
+       "sign up",
+       "log in",
+       "log out"
+      ],
+      "answer": 3
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "Click ________ the red button to start the game.",
+     "options": [
+      "at",
+      "for",
+      "in",
+      "on"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 2,
+     "q": "You can ________ photos from the camera to the school website.",
+     "options": [
+      "blog",
+      "click",
+      "upload",
+      "design"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 3,
+     "q": "Remember to ________ before you leave the library computer.",
+     "options": [
+      "log in",
+      "log out",
+      "sign up",
+      "go online"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 4,
+     "q": "My phone has no signal, so I cannot ________ the Internet.",
+     "options": [
+      "access",
+      "participate",
+      "communicate",
+      "upload"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 5,
+     "q": "Sara wants to ________ for a new email account.",
+     "options": [
+      "log out",
+      "go offline",
+      "hang up",
+      "sign up"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 6,
+     "q": "Teachers ask students to ________ in class discussions.",
+     "options": [
+      "download",
+      "text",
+      "participate",
+      "log"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 7,
+     "q": "He ________ his sister to say that he was running late.",
+     "options": [
+      "uploaded",
+      "texted",
+      "accessed",
+      "blogged"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 8,
+     "q": "Some families decide to ________ for one hour at dinner time.",
+     "options": [
+      "go offline",
+      "sign up",
+      "log in",
+      "click on"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "U1-L5",
+   "title": "Phrasal Verbs 1: Look and More",
+   "title_ar": "الأفعال المركّبة (١): look وغيرها",
+   "words": [
+    {
+     "en": "look like",
+     "pos": "phr v",
+     "ar": "يشبه",
+     "ex": "Your new phone looks like mine.",
+     "star": true
+    },
+    {
+     "en": "look for",
+     "pos": "phr v",
+     "ar": "يبحث عن",
+     "ex": "I am looking for my charger.",
+     "star": true
+    },
+    {
+     "en": "look after",
+     "pos": "phr v",
+     "ar": "يعتني بـ",
+     "ex": "Maryam looks after her little brother after school.",
+     "star": false
+    },
+    {
+     "en": "look down on",
+     "pos": "phr v",
+     "ar": "يحتقر / ينظر باستعلاء",
+     "ex": "We should not look down on people who use old phones.",
+     "star": false
+    },
+    {
+     "en": "look forward to",
+     "pos": "phr v",
+     "ar": "يتطلّع إلى",
+     "ex": "I look forward to seeing my friends on Monday.",
+     "star": false
+    },
+    {
+     "en": "look ahead",
+     "pos": "phr v",
+     "ar": "يخطّط للمستقبل",
+     "ex": "Good students look ahead and make a study plan.",
+     "star": false
+    },
+    {
+     "en": "look up",
+     "pos": "phr v",
+     "ar": "يبحث عن معنى كلمة / معلومة",
+     "ex": "Look up the word in a dictionary.",
+     "star": true
+    },
+    {
+     "en": "look through",
+     "pos": "phr v",
+     "ar": "يفحص / يتصفّح بسرعة",
+     "ex": "He looked through the messages quickly.",
+     "star": false
+    },
+    {
+     "en": "look in",
+     "pos": "phr v",
+     "ar": "يقوم بزيارة قصيرة",
+     "ex": "I will look in on my grandmother on my way home.",
+     "star": false
+    },
+    {
+     "en": "come across",
+     "pos": "phr v",
+     "ar": "يصادف / يعثر بالصدفة",
+     "ex": "I came across an old video of my school trip.",
+     "star": false
+    },
+    {
+     "en": "scroll through",
+     "pos": "phr v",
+     "ar": "يتصفّح / يمرّر الشاشة",
+     "ex": "Hamad scrolls through the news before bed.",
+     "star": false
+    },
+    {
+     "en": "keep up with",
+     "pos": "phr v",
+     "ar": "يواكب / يبقى على اتصال بـ",
+     "ex": "It is hard to keep up with all the new apps.",
+     "star": true
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Aisha is very busy in the evenings. She (1)_____ her little brother, who is only three, and she (2)_____ difficult English words in a dictionary. Sometimes she (3)_____ the photos on her tablet. Last night she (4)_____ a funny old video of her cousin. She (5)_____ every weekend because the whole family goes to the beach.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "looks after",
+       "looks down on",
+       "looks in",
+       "looks through"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 2,
+      "options": [
+       "looks like",
+       "looks up",
+       "looks forward to",
+       "looks after"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 3,
+      "options": [
+       "looks like",
+       "looks after",
+       "scrolls through",
+       "looks down on"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 4,
+      "options": [
+       "looked after",
+       "kept up with",
+       "looked down on",
+       "came across"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 5,
+      "options": [
+       "looks forward to",
+       "looks down on",
+       "looks like",
+       "looks up"
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "Please ________ the word 'journalist' in your dictionary.",
+     "options": [
+      "look up",
+      "look after",
+      "look like",
+      "look down on"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "I am ________ my keys. Have you seen them?",
+     "options": [
+      "looking after",
+      "looking like",
+      "looking up",
+      "looking for"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "q": "Salim ________ his father; they have the same smile.",
+     "options": [
+      "looks after",
+      "looks for",
+      "looks like",
+      "looks in"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "q": "It is difficult to ________ all the latest technology.",
+     "options": [
+      "come across",
+      "keep up with",
+      "look through",
+      "look ahead"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "q": "We should never ________ people who do not have smartphones.",
+     "options": [
+      "look down on",
+      "look forward to",
+      "look after",
+      "look through"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 6,
+     "q": "I am looking ________ to the school trip next week.",
+     "options": [
+      "up",
+      "for",
+      "after",
+      "forward"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 7,
+     "q": "While tidying my room I ________ my old toy robot.",
+     "options": [
+      "looked after",
+      "scrolled through",
+      "came across",
+      "looked like"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 8,
+     "q": "Before you hand in your essay, ________ it to check for mistakes.",
+     "options": [
+      "look like",
+      "look through",
+      "look down on",
+      "look in"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "U1-L6",
+   "title": "Phrasal Verbs 2",
+   "title_ar": "الأفعال المركّبة (٢)",
+   "words": [
+    {
+     "en": "turn on",
+     "pos": "phr v",
+     "ar": "يشغّل / يفتح",
+     "ex": "Please turn on the projector.",
+     "star": false
+    },
+    {
+     "en": "turn off",
+     "pos": "phr v",
+     "ar": "يطفئ / يغلق",
+     "ex": "Turn off your phone during the exam.",
+     "star": false
+    },
+    {
+     "en": "plug in",
+     "pos": "phr v",
+     "ar": "يوصل بالكهرباء",
+     "ex": "Plug in the charger before the battery dies.",
+     "star": false
+    },
+    {
+     "en": "plug out",
+     "pos": "phr v",
+     "ar": "ينزع من القابس",
+     "ex": "Plug out the iron when you finish.",
+     "star": false
+    },
+    {
+     "en": "back up",
+     "pos": "phr v",
+     "ar": "ينسخ احتياطياً",
+     "ex": "Remember to back up your files every week.",
+     "star": true
+    },
+    {
+     "en": "hang up",
+     "pos": "phr v",
+     "ar": "ينهي المكالمة",
+     "ex": "He said goodbye and hung up.",
+     "star": false
+    },
+    {
+     "en": "hurry up",
+     "pos": "phr v",
+     "ar": "يسرع",
+     "ex": "Hurry up or we will miss the bus.",
+     "star": false
+    },
+    {
+     "en": "run out of",
+     "pos": "phr v",
+     "ar": "ينفد منه",
+     "ex": "My phone ran out of battery during the trip.",
+     "star": false
+    },
+    {
+     "en": "deal with",
+     "pos": "phr v",
+     "ar": "يتعامل مع",
+     "ex": "How do you deal with online strangers?",
+     "star": true
+    },
+    {
+     "en": "go into",
+     "pos": "phr v",
+     "ar": "يناقش بالتفصيل",
+     "ex": "I will not go into the details now.",
+     "star": true
+    },
+    {
+     "en": "set up",
+     "pos": "phr v",
+     "ar": "يؤسّس / يُعدّ",
+     "ex": "They set up a news club at school.",
+     "star": false
+    },
+    {
+     "en": "make up",
+     "pos": "phr v",
+     "ar": "يختلق / يؤلّف",
+     "ex": "He made up a story to avoid trouble.",
+     "star": false
+    },
+    {
+     "en": "bring up",
+     "pos": "phr v",
+     "ar": "يربّي / يثير موضوعاً",
+     "ex": "My grandparents brought up five children.",
+     "star": false
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Our class presentation was about to start. Maryam wanted to (1)_____ the projector, so Ali had to (2)_____ the cable into the socket. Salim reminded us to (3)_____ our slides on a memory stick in case the file disappeared. We were late, so I told everyone to (4)_____. Luckily we did not (5)_____ time, and the talk went well.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "hang up",
+       "turn on",
+       "run out of",
+       "make up"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 2,
+      "options": [
+       "hang up",
+       "make up",
+       "plug in",
+       "bring up"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 3,
+      "options": [
+       "hang up",
+       "deal with",
+       "bring up",
+       "back up"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 4,
+      "options": [
+       "hurry up",
+       "hang up",
+       "plug out",
+       "go into"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 5,
+      "options": [
+       "deal with",
+       "run out of",
+       "bring up",
+       "hang up"
+      ],
+      "answer": 1
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "The battery is empty. Please ________ the phone.",
+     "options": [
+      "plug out",
+      "plug in",
+      "hang up",
+      "make up"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 2,
+     "q": "He ________ a story about a flying camel to make us laugh.",
+     "options": [
+      "made up",
+      "turned on",
+      "hung up",
+      "ran out of"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "q": "Please ________ your phone before the lesson begins.",
+     "options": [
+      "set up",
+      "bring up",
+      "go into",
+      "turn off"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 4,
+     "q": "We are almost ________ paper, so we need to buy more.",
+     "options": [
+      "dealing with",
+      "going into",
+      "running out of",
+      "bringing up"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "q": "Ali said goodbye and ________ the phone.",
+     "options": [
+      "turned on",
+      "hung up",
+      "backed up",
+      "set up"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 6,
+     "q": "My parents ________ four children in a small village.",
+     "options": [
+      "brought up",
+      "set up",
+      "went into",
+      "made up"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 7,
+     "q": "I do not want to ________ the details of the problem now.",
+     "options": [
+      "hurry up",
+      "back up",
+      "turn on",
+      "go into"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 8,
+     "q": "Teachers have to ________ difficult situations calmly.",
+     "options": [
+      "plug in",
+      "hang up",
+      "deal with",
+      "hurry up"
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "id": "U1-L7",
+   "title": "Screen Time and Habits",
+   "title_ar": "وقت الشاشة والعادات",
+   "words": [
+    {
+     "en": "addicted to",
+     "pos": "adj",
+     "ar": "مدمن على",
+     "ex": "Some people are addicted to online games.",
+     "star": true
+    },
+    {
+     "en": "glued to",
+     "pos": "adj",
+     "ar": "ملتصق بـ / منشغل تماماً بـ",
+     "ex": "My brother is glued to his phone all evening.",
+     "star": true
+    },
+    {
+     "en": "screen time",
+     "pos": "n",
+     "ar": "وقت استخدام الشاشة",
+     "ex": "Doctors say children need less screen time.",
+     "star": true
+    },
+    {
+     "en": "screenager",
+     "pos": "n",
+     "ar": "مراهق مدمن على الشاشات",
+     "ex": "A screenager spends many hours in front of screens.",
+     "star": true
+    },
+    {
+     "en": "teenager",
+     "pos": "n",
+     "ar": "مراهق",
+     "ex": "Every teenager needs enough sleep.",
+     "star": false
+    },
+    {
+     "en": "digital native",
+     "pos": "n",
+     "ar": "مواطن رقمي",
+     "ex": "A digital native grew up with phones and the Internet.",
+     "star": true
+    },
+    {
+     "en": "digital age",
+     "pos": "n",
+     "ar": "العصر الرقمي",
+     "ex": "We live in the digital age, so information travels fast.",
+     "star": false
+    },
+    {
+     "en": "attention span",
+     "pos": "n",
+     "ar": "مدى الانتباه",
+     "ex": "Young children have a short attention span.",
+     "star": true
+    },
+    {
+     "en": "excessive",
+     "pos": "adj",
+     "ar": "مفرط / زائد عن الحد",
+     "ex": "Excessive gaming can make you tired.",
+     "star": true
+    },
+    {
+     "en": "spend",
+     "pos": "v",
+     "ar": "يقضي (وقتاً) / ينفق",
+     "ex": "I spend an hour reading every night.",
+     "star": false
+    },
+    {
+     "en": "monitor",
+     "pos": "v",
+     "ar": "يراقب",
+     "ex": "Parents monitor how long their children use tablets.",
+     "star": false
+    },
+    {
+     "en": "struggle",
+     "pos": "v",
+     "ar": "يكافح / يعاني",
+     "ex": "Many students struggle to put their phones down.",
+     "star": false
+    },
+    {
+     "en": "self-control",
+     "pos": "n",
+     "ar": "ضبط النفس",
+     "ex": "Self-control helps you stop playing and start studying.",
+     "star": false
+    },
+    {
+     "en": "worry",
+     "pos": "v",
+     "ar": "يقلق",
+     "ex": "Parents worry when their children sleep late.",
+     "star": false
+    },
+    {
+     "en": "panic",
+     "pos": "v",
+     "ar": "يصاب بالذعر",
+     "ex": "Do not panic if your phone stops working.",
+     "star": false
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Hamad is a typical (1)_____ who was born in the digital age. He is (2)_____ his phone from the moment he gets home. His mother (3)_____ about his health, so she decided to (4)_____ the time he uses the device. Hamad finds this difficult and he (5)_____ to stop, but he is slowly learning self-control.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "attention span",
+       "self-control",
+       "teenager",
+       "screen time"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 2,
+      "options": [
+       "excessive",
+       "reluctant",
+       "significant",
+       "glued to"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 3,
+      "options": [
+       "worries",
+       "struggles",
+       "spends",
+       "monitors"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 4,
+      "options": [
+       "panic",
+       "monitor",
+       "struggle",
+       "worry"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 5,
+      "options": [
+       "panics",
+       "monitors",
+       "struggles",
+       "spends"
+      ],
+      "answer": 2
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "She is so ________ video games that she plays until midnight.",
+     "options": [
+      "tired of",
+      "afraid of",
+      "addicted to",
+      "famous for"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "q": "________ is the time you spend looking at a phone, tablet or TV.",
+     "options": [
+      "Attention span",
+      "Screen time",
+      "Self-control",
+      "Digital age"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 3,
+     "q": "Children who watch too much TV may have a short ________.",
+     "options": [
+      "attention span",
+      "brand",
+      "layout",
+      "source"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "q": "People who grew up with the Internet are often called ________.",
+     "options": [
+      "bloggers",
+      "reporters",
+      "followers",
+      "digital natives"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 5,
+     "q": "Eating ________ amounts of sugar is bad for your health.",
+     "options": [
+      "popular",
+      "awesome",
+      "excessive",
+      "familiar"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 6,
+     "q": "Do not ________! The teacher will help you find the lost file.",
+     "options": [
+      "monitor",
+      "panic",
+      "spend",
+      "post"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 7,
+     "q": "How much money did you ________ on your new headphones?",
+     "options": [
+      "spend",
+      "worry",
+      "struggle",
+      "panic"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 8,
+     "q": "He needs more ________ to stop checking his phone every five minutes.",
+     "options": [
+      "screen time",
+      "content",
+      "technology",
+      "self-control"
+     ],
+     "answer": 3
+    }
+   ]
+  },
+  {
+   "id": "U1-L8",
+   "title": "Effects and Consequences",
+   "title_ar": "الآثار والنتائج",
+   "words": [
+    {
+     "en": "affect",
+     "pos": "v",
+     "ar": "يؤثّر في",
+     "ex": "Too little sleep can affect your marks.",
+     "star": true
+    },
+    {
+     "en": "harm",
+     "pos": "v",
+     "ar": "يؤذي / يضرّ",
+     "ex": "Loud music can harm your ears.",
+     "star": true
+    },
+    {
+     "en": "lead to",
+     "pos": "phr v",
+     "ar": "يؤدّي إلى",
+     "ex": "Staying up late can lead to tiredness.",
+     "star": false
+    },
+    {
+     "en": "consequence",
+     "pos": "n",
+     "ar": "نتيجة / عاقبة",
+     "ex": "One consequence of excessive gaming is poor grades.",
+     "star": false
+    },
+    {
+     "en": "negative",
+     "pos": "adj",
+     "ar": "سلبي",
+     "ex": "Cyber bullying has a negative effect on young people.",
+     "star": false
+    },
+    {
+     "en": "negatively",
+     "pos": "adv",
+     "ar": "بشكل سلبي",
+     "ex": "Lack of sleep can negatively affect your health.",
+     "star": false
+    },
+    {
+     "en": "aggressive",
+     "pos": "adj",
+     "ar": "عدواني",
+     "ex": "Some players become aggressive when they lose a game.",
+     "star": false
+    },
+    {
+     "en": "violent",
+     "pos": "adj",
+     "ar": "عنيف",
+     "ex": "The film was too violent for young children.",
+     "star": false
+    },
+    {
+     "en": "violence",
+     "pos": "n",
+     "ar": "العنف",
+     "ex": "Many parents want less violence on TV.",
+     "star": false
+    },
+    {
+     "en": "distract",
+     "pos": "v",
+     "ar": "يشتّت الانتباه",
+     "ex": "Notifications can distract you while you study.",
+     "star": false
+    },
+    {
+     "en": "disastrous",
+     "pos": "adj",
+     "ar": "كارثي",
+     "ex": "Forgetting my password before the exam was disastrous.",
+     "star": false
+    },
+    {
+     "en": "cyber bullying",
+     "pos": "n",
+     "ar": "التنمّر الإلكتروني",
+     "ex": "Cyber bullying is serious, so always tell an adult.",
+     "star": true
+    },
+    {
+     "en": "less productive",
+     "pos": "adj",
+     "ar": "أقل إنتاجية",
+     "ex": "I am less productive when my phone is next to me.",
+     "star": true
+    },
+    {
+     "en": "develop",
+     "pos": "v",
+     "ar": "يتطوّر / ينمّي",
+     "ex": "Reading helps children develop their language skills.",
+     "star": true
+    },
+    {
+     "en": "development",
+     "pos": "n",
+     "ar": "نموّ / تطوّر",
+     "ex": "Sleep is important for a child's physical development.",
+     "star": false
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Spending too many hours online can (1)_____ your health and your studies. Some students are (2)_____ at school because messages (3)_____ them while they work. Others suffer from (4)_____, which can have a very negative effect on how they feel. One serious (5)_____ is that tired students get lower marks. Experts advise young people to balance screen time with sport and sleep.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "distract",
+       "appear",
+       "mention",
+       "harm"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 2,
+      "options": [
+       "less productive",
+       "glued",
+       "reluctant",
+       "familiar"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 3,
+      "options": [
+       "develop",
+       "distract",
+       "mention",
+       "appear"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 4,
+      "options": [
+       "development",
+       "layout",
+       "cyber bullying",
+       "technology"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 5,
+      "options": [
+       "content",
+       "source",
+       "platform",
+       "consequence"
+      ],
+      "answer": 3
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "Violent films can ________ young viewers badly.",
+     "options": [
+      "appear",
+      "trust",
+      "access",
+      "affect"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 2,
+     "q": "Smoking can ________ serious health problems.",
+     "options": [
+      "look after",
+      "deal with",
+      "lead to",
+      "make up"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 3,
+     "q": "The flood was ________; it destroyed many houses.",
+     "options": [
+      "productive",
+      "disastrous",
+      "aggressive",
+      "popular"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 4,
+     "q": "Sultan became ________ and shouted at his friends when he lost the game.",
+     "options": [
+      "aggressive",
+      "productive",
+      "familiar",
+      "awesome"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 5,
+     "q": "Students are often ________ when they work with the TV on.",
+     "options": [
+      "more productive",
+      "popular",
+      "aggressive",
+      "less productive"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 6,
+     "q": "________ is when someone sends hurtful messages online.",
+     "options": [
+      "Blogging",
+      "Streaming",
+      "Cyber bullying",
+      "Journalism"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 7,
+     "q": "Bright light from screens may ________ your eyes.",
+     "options": [
+      "develop",
+      "harm",
+      "launch",
+      "mention"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 8,
+     "q": "Good food helps a child's physical ________.",
+     "options": [
+      "development",
+      "develop",
+      "developed",
+      "developing"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "U1-L9",
+   "title": "News and Journalism",
+   "title_ar": "الأخبار والصحافة",
+   "words": [
+    {
+     "en": "news",
+     "pos": "n",
+     "ar": "أخبار / نشرة أخبار",
+     "ex": "I watch the news with my father every evening.",
+     "star": true
+    },
+    {
+     "en": "journalism",
+     "pos": "n",
+     "ar": "الصحافة",
+     "ex": "She wants to study journalism at university.",
+     "star": false
+    },
+    {
+     "en": "journalist",
+     "pos": "n",
+     "ar": "صحفي",
+     "ex": "The journalist asked the mayor three questions.",
+     "star": false
+    },
+    {
+     "en": "reporter",
+     "pos": "n",
+     "ar": "مراسل",
+     "ex": "A reporter stood outside the stadium.",
+     "star": false
+    },
+    {
+     "en": "report",
+     "pos": "n",
+     "ar": "تقرير / يكتب تقريراً",
+     "ex": "He wrote a report about the school fair.",
+     "star": true
+    },
+    {
+     "en": "article",
+     "pos": "n",
+     "ar": "مقال",
+     "ex": "I read an interesting article about robots.",
+     "star": true
+    },
+    {
+     "en": "journal",
+     "pos": "n",
+     "ar": "مجلة علمية / دورية متخصصة",
+     "ex": "The doctor published her research in a medical journal.",
+     "star": false
+    },
+    {
+     "en": "interview",
+     "pos": "n",
+     "ar": "مقابلة",
+     "ex": "The reporter did a short interview with the winner.",
+     "star": false
+    },
+    {
+     "en": "interviewer",
+     "pos": "n",
+     "ar": "المحاور / مجري المقابلة",
+     "ex": "The interviewer asked her about her new book.",
+     "star": false
+    },
+    {
+     "en": "interviewee",
+     "pos": "n",
+     "ar": "الضيف / من تُجرى معه المقابلة",
+     "ex": "The interviewee answered every question clearly.",
+     "star": false
+    },
+    {
+     "en": "fake news",
+     "pos": "n",
+     "ar": "أخبار مزيفة / كاذبة",
+     "ex": "Check several sources before you believe fake news.",
+     "star": true
+    },
+    {
+     "en": "source",
+     "pos": "n",
+     "ar": "مصدر",
+     "ex": "Always check the source of a story.",
+     "star": true
+    },
+    {
+     "en": "trusted source",
+     "pos": "n",
+     "ar": "مصدر موثوق",
+     "ex": "A government website is usually a trusted source.",
+     "star": false
+    },
+    {
+     "en": "trust",
+     "pos": "v",
+     "ar": "يثق بـ",
+     "ex": "Do not trust every post you read.",
+     "star": false
+    },
+    {
+     "en": "launch",
+     "pos": "v",
+     "ar": "يُطلق (مشروعاً أو منتجاً)",
+     "ex": "The school launched a new news website this year.",
+     "star": false
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Maryam dreams of becoming a (1)_____. She loves (2)_____ because she enjoys finding the truth. Last week she wrote an (3)_____ for the school magazine and carried out an (4)_____ with the head teacher. She also learned that it is important to (5)_____ only reliable information and never to share false stories.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "journalist",
+       "interviewee",
+       "follower",
+       "source"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 2,
+      "options": [
+       "interview",
+       "journalism",
+       "brand",
+       "trust"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 3,
+      "options": [
+       "interviewer",
+       "source",
+       "article",
+       "trust"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 4,
+      "options": [
+       "interviewee",
+       "journal",
+       "source",
+       "interview"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 5,
+      "options": [
+       "trust",
+       "launch",
+       "disappear",
+       "affect"
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "The ________ asked the footballer why he had left the team.",
+     "options": [
+      "journalist",
+      "source",
+      "article",
+      "podcast"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "A ________ is a person who answers the questions in an interview.",
+     "options": [
+      "reporter",
+      "blogger",
+      "interviewer",
+      "interviewee"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "q": "News that is not true is called ________ news.",
+     "options": [
+      "trusted",
+      "daily",
+      "fake",
+      "popular"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "q": "I always check the ________ of a story before I share it.",
+     "options": [
+      "layout",
+      "source",
+      "button",
+      "screen"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "q": "Our school will ________ a new magazine next month.",
+     "options": [
+      "launch",
+      "trust",
+      "hang",
+      "deal"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 6,
+     "q": "Do you ________ everything that you read on social media?",
+     "options": [
+      "launch",
+      "interview",
+      "design",
+      "trust"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 7,
+     "q": "She studied ________ because she wants to work for a newspaper.",
+     "options": [
+      "journalist",
+      "journalists",
+      "journalism",
+      "journal"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 8,
+     "q": "I read an ________ about space travel in a magazine.",
+     "options": [
+      "interviewer",
+      "article",
+      "journalism",
+      "source"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "U1-L10",
+   "title": "Useful General Words",
+   "title_ar": "كلمات عامة مفيدة",
+   "words": [
+    {
+     "en": "appear",
+     "pos": "v",
+     "ar": "يظهر",
+     "ex": "A message appeared on my screen.",
+     "star": false
+    },
+    {
+     "en": "disappear",
+     "pos": "v",
+     "ar": "يختفي",
+     "ex": "The old video disappeared from the website.",
+     "star": true
+    },
+    {
+     "en": "appearance",
+     "pos": "n",
+     "ar": "ظهور / مظهر",
+     "ex": "His appearance on TV made him famous.",
+     "star": false
+    },
+    {
+     "en": "disappearance",
+     "pos": "n",
+     "ar": "اختفاء",
+     "ex": "The disappearance of public phone boxes surprised my grandfather.",
+     "star": false
+    },
+    {
+     "en": "realise",
+     "pos": "v",
+     "ar": "يدرك / يكتشف",
+     "ex": "I realised that I had forgotten my charger.",
+     "star": false
+    },
+    {
+     "en": "describe",
+     "pos": "v",
+     "ar": "يصف",
+     "ex": "Can you describe the man you saw?",
+     "star": false
+    },
+    {
+     "en": "statement",
+     "pos": "n",
+     "ar": "عبارة / جملة خبرية / بيان",
+     "ex": "Read each statement and decide if it is true.",
+     "star": true
+    },
+    {
+     "en": "type",
+     "pos": "n",
+     "ar": "نوع",
+     "ex": "What type of music do you like?",
+     "star": true
+    },
+    {
+     "en": "term",
+     "pos": "n",
+     "ar": "مصطلح",
+     "ex": "'Screenager' is a new term for a teenager who loves screens.",
+     "star": false
+    },
+    {
+     "en": "awesome",
+     "pos": "adj",
+     "ar": "رائع / مذهل",
+     "ex": "The concert was awesome!",
+     "star": false
+    },
+    {
+     "en": "cool",
+     "pos": "adj",
+     "ar": "رائع / جميل",
+     "ex": "That is a cool idea for a school project.",
+     "star": true
+    },
+    {
+     "en": "surprisingly",
+     "pos": "adv",
+     "ar": "بشكل مفاجئ / على نحو مدهش",
+     "ex": "Surprisingly, the test was easy.",
+     "star": false
+    },
+    {
+     "en": "reluctant",
+     "pos": "adj",
+     "ar": "متردد / غير راغب",
+     "ex": "He was reluctant to speak in front of the class.",
+     "star": false
+    },
+    {
+     "en": "favourite",
+     "pos": "adj",
+     "ar": "مفضّل",
+     "ex": "My favourite app is a language game.",
+     "star": true
+    },
+    {
+     "en": "summary",
+     "pos": "n",
+     "ar": "ملخّص",
+     "ex": "Write a short summary of the story.",
+     "star": false
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "I was (1)_____ to join the school drama club at first because I am shy. However, when I went to the first meeting, I (2)_____ that everyone was friendly. (3)_____, I loved it, and now it is my (4)_____ activity. Last week the teacher asked us to (5)_____ our favourite character from the play, and I spoke without fear.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "awesome",
+       "reluctant",
+       "cool",
+       "favourite"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 2,
+      "options": [
+       "described",
+       "appeared",
+       "realised",
+       "disappeared"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 3,
+      "options": [
+       "Awesome",
+       "Summary",
+       "Statement",
+       "Surprisingly"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 4,
+      "options": [
+       "favourite",
+       "reluctant",
+       "surprisingly",
+       "disappearance"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 5,
+      "options": [
+       "disappear",
+       "describe",
+       "appear",
+       "realise"
+      ],
+      "answer": 1
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "A strange light ________ in the sky and then vanished.",
+     "options": [
+      "described",
+      "appeared",
+      "realised",
+      "launched"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 2,
+     "q": "When the music stopped, he ________ that the room was empty.",
+     "options": [
+      "realised",
+      "appeared",
+      "described",
+      "disappeared"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "q": "The ________ of the dinosaurs happened millions of years ago.",
+     "options": [
+      "appearance",
+      "summary",
+      "statement",
+      "disappearance"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 4,
+     "q": "'Podcast' is a modern ________ for an audio programme.",
+     "options": [
+      "type",
+      "summary",
+      "term",
+      "statement"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "q": "Please ________ your best friend to the class.",
+     "options": [
+      "disappear",
+      "describe",
+      "appear",
+      "realise"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 6,
+     "q": "What ________ of film do you enjoy most, comedy or action?",
+     "options": [
+      "type",
+      "term",
+      "summary",
+      "appearance"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 7,
+     "q": "The trip to the desert was ________! We loved every minute.",
+     "options": [
+      "reluctant",
+      "excessive",
+      "negative",
+      "awesome"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 8,
+     "q": "________, the shy boy won the speaking competition.",
+     "options": [
+      "Respectively",
+      "Reluctant",
+      "Surprisingly",
+      "Favourite"
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "id": "U1-L11",
+   "title": "Opinions and Linking Phrases",
+   "title_ar": "إبداء الرأي وعبارات الربط",
+   "words": [
+    {
+     "en": "opinion",
+     "pos": "n",
+     "ar": "رأي",
+     "ex": "Everyone has a different opinion about video games.",
+     "star": false
+    },
+    {
+     "en": "suggestion",
+     "pos": "n",
+     "ar": "اقتراح",
+     "ex": "Her suggestion was to meet at the library.",
+     "star": true
+    },
+    {
+     "en": "in my opinion",
+     "pos": "phr",
+     "ar": "في رأيي",
+     "ex": "In my opinion, social media is useful for students.",
+     "star": false
+    },
+    {
+     "en": "based on my experience",
+     "pos": "phr",
+     "ar": "بناءً على تجربتي",
+     "ex": "Based on my experience, short videos help me remember facts.",
+     "star": false
+    },
+    {
+     "en": "I agree / You're exactly right",
+     "pos": "phr",
+     "ar": "أوافق / أنت محق تماماً",
+     "ex": "I agree with you. Sleep is more important than games.",
+     "star": true
+    },
+    {
+     "en": "I don't agree",
+     "pos": "phr",
+     "ar": "لا أوافق",
+     "ex": "I'm sorry, but I don't agree. Games can teach us useful skills.",
+     "star": false
+    },
+    {
+     "en": "I see what you're saying, but",
+     "pos": "phr",
+     "ar": "أفهم ما تقول، لكن",
+     "ex": "I see what you're saying, but we still need some rules.",
+     "star": false
+    },
+    {
+     "en": "the reason for this is",
+     "pos": "phr",
+     "ar": "السبب في ذلك هو",
+     "ex": "The reason for this is that apps save a lot of time.",
+     "star": false
+    },
+    {
+     "en": "for example / for instance",
+     "pos": "phr",
+     "ar": "على سبيل المثال",
+     "ex": "Many apps are free. For example, this dictionary app costs nothing.",
+     "star": true
+    },
+    {
+     "en": "in conclusion",
+     "pos": "phr",
+     "ar": "في الخلاصة / ختاماً",
+     "ex": "In conclusion, we should use technology wisely.",
+     "star": true
+    },
+    {
+     "en": "therefore",
+     "pos": "adv",
+     "ar": "لذلك / وبالتالي",
+     "ex": "He forgot his password; therefore, he could not log in.",
+     "star": false
+    },
+    {
+     "en": "even though",
+     "pos": "conj",
+     "ar": "على الرغم من أن",
+     "ex": "Even though it was late, she kept chatting online.",
+     "star": false
+    },
+    {
+     "en": "according to",
+     "pos": "prep",
+     "ar": "وفقاً لـ",
+     "ex": "According to the teacher, the exam starts at nine.",
+     "star": true
+    },
+    {
+     "en": "regardless of",
+     "pos": "prep",
+     "ar": "بغضّ النظر عن",
+     "ex": "Everyone can join the club, regardless of age.",
+     "star": false
+    },
+    {
+     "en": "a recent study",
+     "pos": "phr",
+     "ar": "دراسة حديثة",
+     "ex": "A recent study showed that many teenagers sleep too little.",
+     "star": false
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Many people argue about social media. (1)_____, it helps young people stay in touch with their relatives. However, some adults say it wastes time. (2)_____ a survey at our school, most students spend two hours online daily. (3)_____ is that they find it relaxing. I do not (4)_____ with people who ban phones completely, but I see what you are saying about limits. (5)_____, we should use social media wisely.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "In conclusion",
+       "Even though",
+       "In my opinion",
+       "Regardless of"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 2,
+      "options": [
+       "Even though",
+       "In conclusion",
+       "Therefore",
+       "According to"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 3,
+      "options": [
+       "The reason for this",
+       "For example",
+       "In conclusion",
+       "Even though"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 4,
+      "options": [
+       "opinion",
+       "agree",
+       "suggestion",
+       "therefore"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 5,
+      "options": [
+       "According to",
+       "Even though",
+       "In conclusion",
+       "Based on"
+      ],
+      "answer": 2
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "________ the weather forecast, it will rain tomorrow.",
+     "options": [
+      "Even though",
+      "Therefore",
+      "According to",
+      "In conclusion"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "q": "________ it was raining, we played football outside.",
+     "options": [
+      "Therefore",
+      "Even though",
+      "According to",
+      "For example"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 3,
+     "q": "The club is open to everyone, ________ age or ability.",
+     "options": [
+      "regardless of",
+      "according to",
+      "based on",
+      "even though"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "q": "Many students enjoy hobbies. ________, Hamad collects stamps.",
+     "options": [
+      "In conclusion",
+      "Therefore",
+      "Even though",
+      "For example"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 5,
+     "q": "Ali: Phones should be banned. Huda: I'm sorry, but I don't ________.",
+     "options": [
+      "opinion",
+      "reason",
+      "agree",
+      "example"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 6,
+     "q": "I did not finish the project. ________, I will ask for more time.",
+     "options": [
+      "Even though",
+      "Therefore",
+      "For example",
+      "According to"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 7,
+     "q": "My ________ is that we meet at six o'clock instead of five.",
+     "options": [
+      "suggestion",
+      "conclusion",
+      "term",
+      "source"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 8,
+     "q": "________ my experience, a short walk helps me to think.",
+     "options": [
+      "Regardless of",
+      "Even though",
+      "Therefore",
+      "Based on"
+     ],
+     "answer": 3
+    }
+   ]
+  },
+  {
+   "id": "U1-L12",
+   "title": "Describing Charts 1: Chart Language",
+   "title_ar": "وصف المخططات (١): لغة المخطط",
+   "words": [
+    {
+     "en": "chart",
+     "pos": "n",
+     "ar": "مخطط / رسم بياني",
+     "ex": "The chart shows how teenagers use their phones.",
+     "star": false
+    },
+    {
+     "en": "bar chart",
+     "pos": "n",
+     "ar": "مخطط أعمدة / شريطي",
+     "ex": "This bar chart compares boys and girls.",
+     "star": true
+    },
+    {
+     "en": "pie chart",
+     "pos": "n",
+     "ar": "مخطط دائري",
+     "ex": "A pie chart shows the parts of a whole.",
+     "star": true
+    },
+    {
+     "en": "line graph",
+     "pos": "n",
+     "ar": "رسم بياني خطي",
+     "ex": "The line graph shows changes over time.",
+     "star": true
+    },
+    {
+     "en": "column chart",
+     "pos": "n",
+     "ar": "مخطط عمودي",
+     "ex": "In the column chart, each column shows a number of students.",
+     "star": false
+    },
+    {
+     "en": "table",
+     "pos": "n",
+     "ar": "جدول",
+     "ex": "The table gives the results of the survey.",
+     "star": true
+    },
+    {
+     "en": "the vertical axis",
+     "pos": "n",
+     "ar": "المحور الرأسي",
+     "ex": "The vertical axis shows the number of users.",
+     "star": false
+    },
+    {
+     "en": "the horizontal axis",
+     "pos": "n",
+     "ar": "المحور الأفقي",
+     "ex": "The horizontal axis shows the days of the week.",
+     "star": false
+    },
+    {
+     "en": "age group",
+     "pos": "n",
+     "ar": "فئة عمرية / مجموعة عمرية",
+     "ex": "Each age group uses social media in a different way.",
+     "star": false
+    },
+    {
+     "en": "gender",
+     "pos": "n",
+     "ar": "الجنس (ذكر أو أنثى)",
+     "ex": "The survey asked about age and gender.",
+     "star": false
+    },
+    {
+     "en": "both genders",
+     "pos": "n",
+     "ar": "كلا الجنسين",
+     "ex": "Both genders enjoy watching videos online.",
+     "star": false
+    },
+    {
+     "en": "the main features",
+     "pos": "n",
+     "ar": "الملامح الرئيسية",
+     "ex": "You should describe the main features of the chart.",
+     "star": false
+    },
+    {
+     "en": "show",
+     "pos": "v",
+     "ar": "يُظهر / يبيّن",
+     "ex": "The chart shows how many hours students sleep.",
+     "star": true
+    },
+    {
+     "en": "illustrate",
+     "pos": "v",
+     "ar": "يوضّح / يبيّن",
+     "ex": "The graph illustrates the number of visitors each month.",
+     "star": false
+    },
+    {
+     "en": "summarise",
+     "pos": "v",
+     "ar": "يلخّص",
+     "ex": "Summarise the information in two short paragraphs.",
+     "star": false
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Mr Hilal showed us a (1)_____ that compares the apps used by boys and girls. Each bar stands for one app. The (2)_____ shows the names of the apps, while the (3)_____ shows the percentage of users. The chart (4)_____ that games are popular with (5)_____.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "pie chart",
+       "line graph",
+       "table",
+       "bar chart"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 2,
+      "options": [
+       "horizontal axis",
+       "gender",
+       "table",
+       "age group"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 3,
+      "options": [
+       "summary",
+       "vertical axis",
+       "layout",
+       "brand"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 4,
+      "options": [
+       "hurries",
+       "struggles",
+       "shows",
+       "monitors"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 5,
+      "options": [
+       "age group",
+       "column chart",
+       "vertical axis",
+       "both genders"
+      ],
+      "answer": 3
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "A ________ is a circle divided into parts.",
+     "options": [
+      "line graph",
+      "bar chart",
+      "table",
+      "pie chart"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 2,
+     "q": "A ________ is best for showing how something changes over time.",
+     "options": [
+      "pie chart",
+      "table",
+      "line graph",
+      "menu"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 3,
+     "q": "The ________ axis goes up the side of the chart.",
+     "options": [
+      "horizontal",
+      "vertical",
+      "main",
+      "equal"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 4,
+     "q": "Teenagers belong to the 13 to 19 ________.",
+     "options": [
+      "age group",
+      "gender",
+      "source",
+      "brand"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 5,
+     "q": "The survey asked about each student's age and ________.",
+     "options": [
+      "summary",
+      "brand",
+      "term",
+      "gender"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 6,
+     "q": "The graph ________ the number of users from 2018 to 2024.",
+     "options": [
+      "realises",
+      "launches",
+      "illustrates",
+      "appears"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 7,
+     "q": "You must describe the ________ of the chart, not every detail.",
+     "options": [
+      "vertical axis",
+      "main features",
+      "both genders",
+      "pie charts"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 8,
+     "q": "At the end of your answer, ________ the information in one sentence.",
+     "options": [
+      "summarise",
+      "launch",
+      "monitor",
+      "trust"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "U1-L13",
+   "title": "Describing Charts 2: Comparing",
+   "title_ar": "وصف المخططات (٢): المقارنة",
+   "words": [
+    {
+     "en": "the most popular",
+     "pos": "phr",
+     "ar": "الأكثر شهرة / شعبية",
+     "ex": "Video streaming is the most popular activity.",
+     "star": true
+    },
+    {
+     "en": "the least popular",
+     "pos": "phr",
+     "ar": "الأقل شهرة / شعبية",
+     "ex": "Email is the least popular way to chat.",
+     "star": true
+    },
+    {
+     "en": "popular with",
+     "pos": "adj",
+     "ar": "محبوب لدى",
+     "ex": "Online games are popular with boys.",
+     "star": false
+    },
+    {
+     "en": "significant difference",
+     "pos": "phr",
+     "ar": "فرق كبير / مهم",
+     "ex": "There is a significant difference between the two groups.",
+     "star": true
+    },
+    {
+     "en": "similarities",
+     "pos": "n",
+     "ar": "أوجه الشبه",
+     "ex": "There are many similarities between the two charts.",
+     "star": false
+    },
+    {
+     "en": "differences",
+     "pos": "n",
+     "ar": "أوجه الاختلاف",
+     "ex": "The chart shows big differences between boys and girls.",
+     "star": false
+    },
+    {
+     "en": "fairly similar",
+     "pos": "phr",
+     "ar": "متشابه إلى حد ما",
+     "ex": "The scores for boys and girls are fairly similar.",
+     "star": false
+    },
+    {
+     "en": "in contrast",
+     "pos": "phr",
+     "ar": "على العكس / في المقابل",
+     "ex": "In contrast, girls prefer social media.",
+     "star": false
+    },
+    {
+     "en": "while / whereas",
+     "pos": "conj",
+     "ar": "بينما (للتناقض)",
+     "ex": "Boys prefer games, whereas girls prefer chatting.",
+     "star": true
+    },
+    {
+     "en": "equally",
+     "pos": "adv",
+     "ar": "بالتساوي / بدرجة متساوية",
+     "ex": "Girls and boys use the app equally.",
+     "star": false
+    },
+    {
+     "en": "not as … as",
+     "pos": "phr",
+     "ar": "ليس بنفس ... مثل",
+     "ex": "Radio is not as popular as TV.",
+     "star": false
+    },
+    {
+     "en": "as popular as",
+     "pos": "phr",
+     "ar": "محبوب مثل",
+     "ex": "Chat apps are as popular as video apps.",
+     "star": false
+    },
+    {
+     "en": "is higher than",
+     "pos": "phr",
+     "ar": "أعلى من",
+     "ex": "The number of girls is higher than the number of boys.",
+     "star": false
+    },
+    {
+     "en": "is lower than",
+     "pos": "phr",
+     "ar": "أقلّ من",
+     "ex": "The figure for email is lower than the figure for chat.",
+     "star": false
+    },
+    {
+     "en": "outweigh",
+     "pos": "v",
+     "ar": "يتفوّق على / يزيد على",
+     "ex": "The benefits of the app outweigh its risks.",
+     "star": false
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "The bar chart compares how boys and girls use their phones. Games are (1)_____ boys, whereas girls prefer chatting. The (2)_____ activity for both groups is watching videos, which almost everybody enjoys. Reading e-books is (3)_____ popular as watching videos, so fewer students do it. There is no (4)_____ difference in taking photos because the figures are (5)_____ similar.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "popular with",
+       "familiar with",
+       "similar to",
+       "equal to"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 2,
+      "options": [
+       "least popular",
+       "most popular",
+       "fairly similar",
+       "equally"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 3,
+      "options": [
+       "as",
+       "more",
+       "not as",
+       "most"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 4,
+      "options": [
+       "similar",
+       "equal",
+       "popular",
+       "significant"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 5,
+      "options": [
+       "fairly",
+       "least",
+       "most",
+       "whereas"
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "Video streaming is ________ activity among teenagers: 80 per cent do it daily.",
+     "options": [
+      "the most popular",
+      "the least popular",
+      "as popular",
+      "not as popular"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "Only five per cent send letters, so it is ________ way to communicate.",
+     "options": [
+      "the most popular",
+      "fairly similar",
+      "equally",
+      "the least popular"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "q": "Boys enjoy sport on TV, ________ girls prefer music videos.",
+     "options": [
+      "equally",
+      "similar",
+      "whereas",
+      "outweigh"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "q": "The two charts have many ________; both show that video is popular.",
+     "options": [
+      "differences",
+      "similarities",
+      "contrasts",
+      "outweigh"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "q": "There is a ________ between the two age groups: one is twice as big.",
+     "options": [
+      "significant difference",
+      "fairly similar",
+      "similarities",
+      "equally"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 6,
+     "q": "Girls are as keen as boys; they use the app ________.",
+     "options": [
+      "differently",
+      "lower",
+      "least",
+      "equally"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 7,
+     "q": "Radio is ________ popular as TV, so fewer people listen to it.",
+     "options": [
+      "as",
+      "most",
+      "not as",
+      "more"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 8,
+     "q": "The figure for boys (60 per cent) ________ the figure for girls (40 per cent).",
+     "options": [
+      "is lower than",
+      "is higher than",
+      "equally",
+      "whereas"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "U1-L14",
+   "title": "Describing Charts 3: Trends",
+   "title_ar": "وصف المخططات (٣): الاتجاهات",
+   "words": [
+    {
+     "en": "go up",
+     "pos": "phr v",
+     "ar": "يرتفع / يزداد",
+     "ex": "The number of users went up last year.",
+     "star": false
+    },
+    {
+     "en": "go down",
+     "pos": "phr v",
+     "ar": "ينخفض / يتناقص",
+     "ex": "The price of smartphones went down this year.",
+     "star": false
+    },
+    {
+     "en": "rise",
+     "pos": "v",
+     "ar": "يرتفع (rise – rose – risen)",
+     "ex": "Sales rose from twenty to fifty per cent.",
+     "star": true
+    },
+    {
+     "en": "a rise",
+     "pos": "n",
+     "ar": "ارتفاع / زيادة",
+     "ex": "There was a rise in online shopping.",
+     "star": false
+    },
+    {
+     "en": "drop",
+     "pos": "v",
+     "ar": "ينخفض (drop – dropped)",
+     "ex": "The figure dropped sharply in March.",
+     "star": true
+    },
+    {
+     "en": "a drop",
+     "pos": "n",
+     "ar": "انخفاض",
+     "ex": "There was a drop in the number of newspaper readers.",
+     "star": false
+    },
+    {
+     "en": "increase",
+     "pos": "v",
+     "ar": "يزيد / يزداد",
+     "ex": "The number of followers increased steadily.",
+     "star": true
+    },
+    {
+     "en": "decrease",
+     "pos": "v",
+     "ar": "يقلّ / ينقص",
+     "ex": "Screen time decreased after the new rule.",
+     "star": true
+    },
+    {
+     "en": "fluctuate",
+     "pos": "v",
+     "ar": "يتذبذب",
+     "ex": "The number of visitors fluctuated during the month.",
+     "star": false
+    },
+    {
+     "en": "fluctuations",
+     "pos": "n",
+     "ar": "تذبذبات",
+     "ex": "The line graph shows some fluctuations.",
+     "star": false
+    },
+    {
+     "en": "remain steady",
+     "pos": "phr v",
+     "ar": "يظلّ ثابتاً (remain stable / unchanged)",
+     "ex": "The figure remained steady at thirty per cent.",
+     "star": true
+    },
+    {
+     "en": "hit a high point of",
+     "pos": "phr v",
+     "ar": "يرتفع حتى / يبلغ أعلى نقطة",
+     "ex": "Sales hit a high point of eighty per cent in June.",
+     "star": false
+    },
+    {
+     "en": "hit a low point of",
+     "pos": "phr v",
+     "ar": "ينخفض حتى / يبلغ أدنى نقطة",
+     "ex": "Sales hit a low point of ten per cent in January.",
+     "star": false
+    },
+    {
+     "en": "double",
+     "pos": "v",
+     "ar": "يتضاعف / يصبح الضعف",
+     "ex": "The number of users doubled in two years.",
+     "star": false
+    },
+    {
+     "en": "treble",
+     "pos": "v",
+     "ar": "يزداد ثلاث مرات",
+     "ex": "Her followers trebled in a month.",
+     "star": false
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "The line graph shows how many students used the school app over six months. At first there was (1)_____ in users, from 100 in January to 300 in March. Then the figure (2)_____ at 300 in April and May. In June there was (3)_____ to 200 because of the exams. Overall, the graph shows some (4)_____. In fact, the number of users (5)_____ between January and March.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "a drop",
+       "a rise",
+       "a low point",
+       "fluctuations"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 2,
+      "options": [
+       "dropped",
+       "fluctuated",
+       "remained steady",
+       "trebled"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 3,
+      "options": [
+       "a rise",
+       "a high point",
+       "fluctuations",
+       "a drop"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 4,
+      "options": [
+       "fluctuations",
+       "trebles",
+       "similarities",
+       "summaries"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 5,
+      "options": [
+       "doubled",
+       "trebled",
+       "dropped",
+       "fluctuated"
+      ],
+      "answer": 1
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "The number of users ________ from 200 to 400, so it doubled.",
+     "options": [
+      "dropped",
+      "rose",
+      "fluctuated",
+      "remained steady"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 2,
+     "q": "There was a sharp ________ in sales after the price went up: from 90 to 40.",
+     "options": [
+      "drop",
+      "rise",
+      "increase",
+      "high point"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "q": "The figure ________ at 50 per cent for three years.",
+     "options": [
+      "doubled",
+      "trebled",
+      "went up",
+      "remained steady"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 4,
+     "q": "The temperature ________ during the day: warm at noon, cold at night.",
+     "options": [
+      "trebled",
+      "remained steady",
+      "fluctuated",
+      "hit a high point of"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "q": "Sales ________ a high point of 90 per cent in December.",
+     "options": [
+      "went",
+      "hit",
+      "made",
+      "got"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 6,
+     "q": "If a number goes from 10 to 30, it has ________.",
+     "options": [
+      "trebled",
+      "doubled",
+      "dropped",
+      "remained steady"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 7,
+     "q": "The number of fans ________ from 40 to 20 in two months.",
+     "options": [
+      "went up",
+      "rose",
+      "trebled",
+      "went down"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 8,
+     "q": "There was a steady ________ in the number of online shoppers: 10, 20, 30, 40.",
+     "options": [
+      "decrease",
+      "drop",
+      "increase",
+      "fluctuation"
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "id": "U1-L15",
+   "title": "Describing Charts 4: Numbers",
+   "title_ar": "وصف المخططات (٤): الكميات والأرقام",
+   "words": [
+    {
+     "en": "considerably more than",
+     "pos": "phr",
+     "ar": "أكثر بكثير من",
+     "ex": "Girls spend considerably more time online than boys.",
+     "star": false
+    },
+    {
+     "en": "considerably less than",
+     "pos": "phr",
+     "ar": "أقل بكثير من",
+     "ex": "Boys read considerably less than girls.",
+     "star": false
+    },
+    {
+     "en": "slightly under",
+     "pos": "phr",
+     "ar": "أقل قليلاً من",
+     "ex": "The figure was slightly under fifty per cent.",
+     "star": false
+    },
+    {
+     "en": "less than",
+     "pos": "phr",
+     "ar": "أقل من (مع غير المعدود)",
+     "ex": "I spend less than an hour online.",
+     "star": false
+    },
+    {
+     "en": "fewer than",
+     "pos": "phr",
+     "ar": "أقل عدداً من (مع المعدود)",
+     "ex": "Fewer than ten students joined the club.",
+     "star": false
+    },
+    {
+     "en": "over / above",
+     "pos": "prep",
+     "ar": "أكثر من / أعلى من",
+     "ex": "Over five hundred students use the app.",
+     "star": true
+    },
+    {
+     "en": "under",
+     "pos": "prep",
+     "ar": "تحت / أقل من",
+     "ex": "Children under ten should not use the app alone.",
+     "star": false
+    },
+    {
+     "en": "more than",
+     "pos": "phr",
+     "ar": "أكثر من",
+     "ex": "More than half of the students own a tablet.",
+     "star": true
+    },
+    {
+     "en": "about / around",
+     "pos": "adv",
+     "ar": "تقريباً",
+     "ex": "About thirty students came to the talk.",
+     "star": true
+    },
+    {
+     "en": "with a total of",
+     "pos": "phr",
+     "ar": "بمجموع",
+     "ex": "The school has four clubs with a total of 200 members.",
+     "star": false
+    },
+    {
+     "en": "on average",
+     "pos": "phr",
+     "ar": "في المتوسط",
+     "ex": "On average, I spend two hours online each day.",
+     "star": false
+    },
+    {
+     "en": "overall",
+     "pos": "adv",
+     "ar": "بشكل عام / عموماً",
+     "ex": "Overall, the chart shows that video is popular.",
+     "star": false
+    },
+    {
+     "en": "respectively",
+     "pos": "adv",
+     "ar": "على التوالي",
+     "ex": "Boys and girls scored 60 and 40 per cent respectively.",
+     "star": true
+    },
+    {
+     "en": "use",
+     "pos": "n",
+     "ar": "استخدام / يستخدم",
+     "ex": "The use of social media has grown.",
+     "star": true
+    },
+    {
+     "en": "piece of",
+     "pos": "phr",
+     "ar": "قطعة من / (a piece of news) خبر",
+     "ex": "That is an interesting piece of news.",
+     "star": false
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "The table shows the number of hours that teenagers spend online each week. (1)_____, the figures are high. Girls spend (2)_____ 20 hours, while boys spend (3)_____ 18 hours. The 12 to 13 age group spends (4)_____ ten hours. The figures for the youngest and oldest groups are 8 and 22 hours (5)_____.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "Respectively",
+       "Fewer than",
+       "Overall",
+       "Piece of"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 2,
+      "options": [
+       "respectively",
+       "overall",
+       "use",
+       "about"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 3,
+      "options": [
+       "slightly under",
+       "respectively",
+       "use",
+       "piece of"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 4,
+      "options": [
+       "respectively",
+       "fewer than",
+       "overall",
+       "use"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 5,
+      "options": [
+       "overall",
+       "slightly under",
+       "respectively",
+       "with a total of"
+      ],
+      "answer": 2
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "________ twenty students came to the meeting, so the room was nearly empty.",
+     "options": [
+      "Considerably more than",
+      "Respectively",
+      "Fewer than",
+      "Overall"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "q": "The tickets for adults and children cost five and two rials ________.",
+     "options": [
+      "overall",
+      "respectively",
+      "on average",
+      "about"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 3,
+     "q": "Our school has three libraries ________ 15,000 books.",
+     "options": [
+      "with a total of",
+      "on average",
+      "respectively",
+      "about"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "q": "Students sleep seven hours a night ________.",
+     "options": [
+      "respectively",
+      "equally",
+      "fewer than",
+      "on average"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 5,
+     "q": "There is ________ interesting news about the new phone today.",
+     "options": [
+      "a number of",
+      "a few",
+      "a piece of",
+      "many"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 6,
+     "q": "The figure for Saturday was ________ the figure for Friday: 80 and 20.",
+     "options": [
+      "slightly under",
+      "considerably more than",
+      "fewer than",
+      "less than"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 7,
+     "q": "________, the survey shows that teenagers love music.",
+     "options": [
+      "Overall",
+      "Respectively",
+      "Under",
+      "Fewer than"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 8,
+     "q": "The ________ of social media has increased in the last ten years.",
+     "options": [
+      "used",
+      "using",
+      "uses",
+      "use"
+     ],
+     "answer": 3
+    }
+   ]
+  }
+ ],
+ "grammar": [
+  {
+   "id": "U1-G1",
+   "title": "Comparative and Superlative Adjectives",
+   "title_ar": "صيغتا المقارنة والتفضيل للصفات",
+   "explain": [
+    {
+     "t": "rule",
+     "en": "We use the comparative to compare TWO things (adjective + than). We use the superlative to compare one thing with a group of THREE or more (the + adjective).",
+     "ar": "نستخدم صيغة المقارنة (Comparative) للمقارنة بين شيئين ومعها كلمة than. ونستخدم صيغة التفضيل (Superlative) لمقارنة شيء واحد بمجموعة من ثلاثة أشياء أو أكثر ومعها the."
+    },
+    {
+     "t": "table",
+     "title": "Short adjectives (one syllable, and two syllables ending in -y): add -er / -est",
+     "headers": [
+      "Adjective",
+      "Comparative",
+      "Superlative"
+     ],
+     "rows": [
+      [
+       "fast",
+       "faster",
+       "the fastest"
+      ],
+      [
+       "cheap",
+       "cheaper",
+       "the cheapest"
+      ],
+      [
+       "old",
+       "older",
+       "the oldest"
+      ],
+      [
+       "small",
+       "smaller",
+       "the smallest"
+      ],
+      [
+       "busy",
+       "busier",
+       "the busiest"
+      ]
+     ]
+    },
+    {
+     "t": "table",
+     "title": "Spelling changes",
+     "headers": [
+      "Adjective",
+      "Comparative",
+      "Superlative",
+      "Rule"
+     ],
+     "rows": [
+      [
+       "big",
+       "bigger",
+       "the biggest",
+       "consonant + vowel + consonant: double the last letter"
+      ],
+      [
+       "hot",
+       "hotter",
+       "the hottest",
+       "consonant + vowel + consonant: double the last letter"
+      ],
+      [
+       "large",
+       "larger",
+       "the largest",
+       "ends in -e: add -r / -st"
+      ],
+      [
+       "nice",
+       "nicer",
+       "the nicest",
+       "ends in -e: add -r / -st"
+      ],
+      [
+       "easy",
+       "easier",
+       "the easiest",
+       "ends in -y: change y to i, add -er / -est"
+      ]
+     ]
+    },
+    {
+     "t": "table",
+     "title": "Long adjectives (two or more syllables): use more / most (or less / least)",
+     "headers": [
+      "Adjective",
+      "Comparative",
+      "Superlative"
+     ],
+     "rows": [
+      [
+       "expensive",
+       "more expensive",
+       "the most expensive"
+      ],
+      [
+       "popular",
+       "more popular",
+       "the most popular"
+      ],
+      [
+       "interesting",
+       "more interesting",
+       "the most interesting"
+      ],
+      [
+       "dangerous",
+       "less dangerous",
+       "the least dangerous"
+      ]
+     ]
+    },
+    {
+     "t": "table",
+     "title": "Irregular adjectives",
+     "headers": [
+      "Adjective",
+      "Comparative",
+      "Superlative"
+     ],
+     "rows": [
+      [
+       "good",
+       "better",
+       "the best"
+      ],
+      [
+       "bad",
+       "worse",
+       "the worst"
+      ],
+      [
+       "far",
+       "further / farther",
+       "the furthest / the farthest"
+      ],
+      [
+       "little",
+       "less",
+       "the least"
+      ],
+      [
+       "many / much",
+       "more",
+       "the most"
+      ]
+     ]
+    },
+    {
+     "t": "examples",
+     "items": [
+      {
+       "en": "A tablet is bigger than a smartphone.",
+       "ar": "الحاسوب اللوحي أكبر من الهاتف الذكي."
+      },
+      {
+       "en": "Video calls are more useful than text messages.",
+       "ar": "مكالمات الفيديو أكثر فائدة من الرسائل النصية."
+      },
+      {
+       "en": "This is the cheapest smart watch in the shop.",
+       "ar": "هذه أرخص ساعة ذكية في المحل."
+      },
+      {
+       "en": "Instagram is the most popular app in my class.",
+       "ar": "إنستغرام هو التطبيق الأكثر شعبية في صفي."
+      },
+      {
+       "en": "Today's connection is worse than yesterday's.",
+       "ar": "الاتصال اليوم أسوأ من اتصال الأمس."
+      }
+     ]
+    },
+    {
+     "t": "tip",
+     "en": "Never use more / most with -er / -est: say 'bigger', not 'more bigger'; say 'the best', not 'the most best'. Use 'than' with the comparative and 'the' with the superlative.",
+     "ar": "لا تجمع more أو most مع -er أو -est: نقول bigger وليس more bigger، ونقول the best وليس the most best. نستخدم than بعد صيغة المقارنة، ونستخدم the قبل صيغة التفضيل."
+    }
+   ],
+   "exercises": [
+    {
+     "title": "Exercise 1 — Choose the correct answer",
+     "kind": "choose",
+     "items": [
+      {
+       "n": 1,
+       "q": "My new tablet is [[1]] than my old one.",
+       "options": [
+        "faster",
+        "fastest",
+        "more fast"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "q": "Instagram is the [[2]] app among my friends.",
+       "options": [
+        "more popular",
+        "most popular"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 3,
+       "q": "Chatting online is [[3]] than writing letters.",
+       "options": [
+        "more quick",
+        "quicker"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 4,
+       "q": "This is the [[4]] phone in the shop.",
+       "options": [
+        "cheapest",
+        "cheaper",
+        "most cheap"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "q": "Video calls are [[5]] than phone calls because you can see faces.",
+       "options": [
+        "more useful",
+        "most useful",
+        "usefuler"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 6,
+       "q": "Salim is the [[6]] student in our class at editing videos.",
+       "options": [
+        "better",
+        "best",
+        "goodest"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 7,
+       "q": "Today's news is [[7]] than yesterday's.",
+       "options": [
+        "worse",
+        "worst",
+        "badder"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 8,
+       "q": "That is the [[8]] film I have ever seen.",
+       "options": [
+        "funnier",
+        "funniest"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "title": "Exercise 2 — Complete the sentences",
+     "kind": "fill",
+     "items": [
+      {
+       "n": 1,
+       "q": "A smart watch is ________ (small) than a tablet.",
+       "answer": "smaller"
+      },
+      {
+       "n": 2,
+       "q": "Online lessons are ________ (interesting) than boring lectures.",
+       "answer": "more interesting"
+      },
+      {
+       "n": 3,
+       "q": "This is the ________ (big) screen in the shop.",
+       "answer": "biggest"
+      },
+      {
+       "n": 4,
+       "q": "Which social media app is the ________ (popular) in your school?",
+       "answer": "most popular"
+      },
+      {
+       "n": 5,
+       "q": "Her blog is ________ (good) than mine.",
+       "answer": "better"
+      },
+      {
+       "n": 6,
+       "q": "Using a phone at night is the ________ (bad) habit for sleep.",
+       "answer": "worst"
+      },
+      {
+       "n": 7,
+       "q": "My brother is ________ (funny) than me when he makes videos.",
+       "answer": "funnier"
+      },
+      {
+       "n": 8,
+       "q": "Of all the gadgets, the camera is the ________ (expensive).",
+       "answer": "most expensive"
+      }
+     ]
+    },
+    {
+     "title": "Exercise 3 — Practice dialogue",
+     "kind": "dialogue",
+     "lines": [
+      {
+       "speaker": "Salma",
+       "text": "Look at my new tablet. It is much [[1]] than my old one."
+      },
+      {
+       "speaker": "Noor",
+       "text": "Wow! Is it the [[2]] tablet in the shop?"
+      },
+      {
+       "speaker": "Salma",
+       "text": "No, it is [[3]] than the big one, but it works very well."
+      },
+      {
+       "speaker": "Noor",
+       "text": "Which app do you think is [[4]] for studying, the dictionary app or the games app?"
+      },
+      {
+       "speaker": "Salma",
+       "text": "I think the dictionary app is the [[5]] of all."
+      }
+     ],
+     "items": [
+      {
+       "n": 1,
+       "options": [
+        "lighter",
+        "lightest"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "options": [
+        "more expensive",
+        "most expensive"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 3,
+       "options": [
+        "cheapest",
+        "cheaper"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 4,
+       "options": [
+        "the most useful",
+        "more useful"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 5,
+       "options": [
+        "better",
+        "best"
+       ],
+       "answer": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U1-G2",
+   "title": "As … as and Not as … as",
+   "title_ar": "المساواة وعدم المساواة في المقارنة",
+   "explain": [
+    {
+     "t": "rule",
+     "en": "Use as + adjective + as to say that two things are equal. Use not as + adjective + as to say that the first thing has a lower degree than the second.",
+     "ar": "نستخدم as + الصفة + as للتعبير عن التساوي بين شيئين. ونستخدم not as + الصفة + as للتعبير عن أن الأول أقل درجة من الثاني. الصفة بين as و as تبقى في صورتها الأصلية دون إضافة -er."
+    },
+    {
+     "t": "table",
+     "title": "Equality and lower degree",
+     "headers": [
+      "Meaning",
+      "Pattern",
+      "Example"
+     ],
+     "rows": [
+      [
+       "Equal",
+       "as + adjective + as",
+       "Facebook is as popular as YouTube."
+      ],
+      [
+       "Lower degree",
+       "not as + adjective + as",
+       "Radio is not as popular as TV."
+      ],
+      [
+       "Lower degree",
+       "less + adjective + than",
+       "Radio is less popular than TV."
+      ],
+      [
+       "Lowest degree",
+       "the least + adjective",
+       "Twitter is the least popular app."
+      ]
+     ]
+    },
+    {
+     "t": "examples",
+     "items": [
+      {
+       "en": "My phone is as fast as yours.",
+       "ar": "هاتفي سريع مثل هاتفك."
+      },
+      {
+       "en": "A tablet is not as light as a smartphone.",
+       "ar": "الحاسوب اللوحي ليس خفيفاً مثل الهاتف الذكي."
+      },
+      {
+       "en": "Online news is less expensive than a printed newspaper.",
+       "ar": "الأخبار الإلكترونية أقل تكلفة من الصحيفة المطبوعة."
+      },
+      {
+       "en": "This is the least useful app on my phone.",
+       "ar": "هذا هو أقل تطبيق فائدة في هاتفي."
+      }
+     ]
+    },
+    {
+     "t": "tip",
+     "en": "Do not say 'as taller as' or 'not as tall than'. After the first 'as' use the basic adjective, and finish with 'as' (not 'than'). Use 'than' only with less / more and the comparative.",
+     "ar": "لا نقول as taller as ولا not as tall than. بعد as الأولى نستخدم الصفة الأصلية ثم as (وليس than). ونستخدم than فقط مع less و more وصيغة المقارنة."
+    }
+   ],
+   "exercises": [
+    {
+     "title": "Exercise 1 — Choose the correct answer",
+     "kind": "choose",
+     "items": [
+      {
+       "n": 1,
+       "q": "A tablet is not as light [[1]] a phone.",
+       "options": [
+        "than",
+        "as"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 2,
+       "q": "My blog is as [[2]] as hers.",
+       "options": [
+        "popular",
+        "more popular"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "q": "Reading the news online is [[3]] expensive than buying a newspaper.",
+       "options": [
+        "less",
+        "least",
+        "as"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "q": "This app is the [[4]] useful of all.",
+       "options": [
+        "less",
+        "least"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 5,
+       "q": "Hamad is as [[5]] as his brother at gaming.",
+       "options": [
+        "good",
+        "better",
+        "best"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 6,
+       "q": "The old phone is not as [[6]] as the new one.",
+       "options": [
+        "faster",
+        "fast"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 7,
+       "q": "Online news is [[7]] reliable than news from a trusted source.",
+       "options": [
+        "as",
+        "less"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 8,
+       "q": "Video calls are not [[8]] cheap as texting.",
+       "options": [
+        "as",
+        "than"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "title": "Exercise 2 — Complete the sentences",
+     "kind": "fill",
+     "items": [
+      {
+       "n": 1,
+       "q": "My phone is as ________ (fast) as yours.",
+       "answer": "fast"
+      },
+      {
+       "n": 2,
+       "q": "This film is not as ________ (exciting) as the book.",
+       "answer": "exciting"
+      },
+      {
+       "n": 3,
+       "q": "Email is ________ (less + popular) than chat apps.",
+       "answer": "less popular"
+      },
+      {
+       "n": 4,
+       "q": "Of all the gadgets, the stereo is the ________ (least + useful).",
+       "answer": "least useful"
+      },
+      {
+       "n": 5,
+       "q": "Salma is as ________ (clever) as her sister.",
+       "answer": "clever"
+      },
+      {
+       "n": 6,
+       "q": "The tablet is not as ________ (heavy) as the laptop.",
+       "answer": "heavy"
+      },
+      {
+       "n": 7,
+       "q": "Walking is ________ (less + dangerous) than driving fast.",
+       "answer": "less dangerous"
+      },
+      {
+       "n": 8,
+       "q": "Your blog is as ________ (interesting) as a magazine.",
+       "answer": "interesting"
+      }
+     ]
+    },
+    {
+     "title": "Exercise 3 — Practice dialogue",
+     "kind": "dialogue",
+     "lines": [
+      {
+       "speaker": "Ali",
+       "text": "Do you think a printed newspaper is [[1]] reliable as an online news site?"
+      },
+      {
+       "speaker": "Huda",
+       "text": "Not really. Online news is [[2]] expensive than a printed paper, so I read it every day."
+      },
+      {
+       "speaker": "Ali",
+       "text": "But I think the paper is not as [[3]] as the website."
+      },
+      {
+       "speaker": "Huda",
+       "text": "True. Which is the [[4]] popular among teenagers: websites, newspapers or radio?"
+      },
+      {
+       "speaker": "Ali",
+       "text": "Websites, of course. Radio is the [[5]] popular of the three."
+      }
+     ],
+     "items": [
+      {
+       "n": 1,
+       "options": [
+        "as",
+        "than"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "options": [
+        "less",
+        "least"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "options": [
+        "quick",
+        "quicker"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "options": [
+        "most",
+        "more"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "options": [
+        "less",
+        "least"
+       ],
+       "answer": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

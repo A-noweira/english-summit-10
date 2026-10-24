@@ -1,0 +1,1262 @@
+[
+ {
+  "id": "G-01",
+  "session": "G. 10 Sem I 1st Session 2025-2026",
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Omar, did you [[1]] the science documentary yesterday?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Yes, I did. It was [[2]] interesting than the last one we saw."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "I agree. Many experiments [[3]] explained clearly, so I learned a lot."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Me too. The part about the solar eclipse was amazing."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Was the experiment on plants [[4]] in the video?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Yes, it was, and the results surprised me [[5]] the plants grew faster than they had grown before."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "That's why the documentary was very useful."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "watch",
+     "watched"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "more",
+     "the most"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "was",
+     "were"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "shows",
+     "shown"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "because",
+     "so"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "G-02",
+  "session": "G. 10 Sem I 2nd Session 2025-2026",
+  "lines": [
+   {
+    "speaker": "Nora",
+    "text": "Yesterday's show was not as exciting [[1]] the one we attended last year."
+   },
+   {
+    "speaker": "Ali",
+    "text": "True. The sound system [[2]] broken before the show. Consequently, the music was not clear."
+   },
+   {
+    "speaker": "Nora",
+    "text": "Yes, and the stage lights did not work, [[3]] the show became boring."
+   },
+   {
+    "speaker": "Ali",
+    "text": "Exactly. As a result, many people left [[4]] than expected."
+   },
+   {
+    "speaker": "Nora",
+    "text": "Did you [[5]] until the end?"
+   },
+   {
+    "speaker": "Ali",
+    "text": "Yes, I did, but the performance was much shorter than usual."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "but",
+     "as"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "was",
+     "were"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "because",
+     "so"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "earliest",
+     "earlier"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "stay",
+     "stayed"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "G-03",
+  "session": "G. 10 Sem I 1st Session 2024-2025",
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Have you noticed that the new café which has recently opened in the downtown is [[1]] than the old one?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Yes, I've heard about it. It's really nice! I used to [[2]] to the shopping area next to the new café regularly."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "I've never been there yet, [[3]] I've seen some amazing photos online."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "I have tried their pastries. They were exceptionally delicious and they [[4]] made from healthy ingredients."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "That sounds fantastic! I think many people [[5]] visit this new café."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Absolutely! Let's meet there this weekend."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "good",
+     "better"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "go",
+     "goes"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "or",
+     "but"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "were",
+     "was"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "have",
+     "will"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "G-04",
+  "session": "G. 10 Sem I 2nd Session 2024-2025",
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Learning a second language is not as [[1]] as most people think."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "I agree! And now, many language courses have been [[2]] online, making it easier for everyone to acquire."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "I'd like to enroll in one soon, but it [[3]] on my schedule."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "In fact, learning online [[4]] its own advantages such as learning at your own pace and time."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "You are right. I believe that language learning will [[5]] with the help of technology, allowing people to access language courses from anywhere in the world."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "difficulty",
+     "difficult"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "offered",
+     "offer"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "depend",
+     "depends"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "has",
+     "have"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "improve",
+     "improves"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "G-05",
+  "session": "G. 10 Sem I 1st Session 2023-2024",
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Your new camera looks nice. What [[1]] you do with it?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Well, I'm planning to make a short film about a site that no one knows about."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Do you have [[2]] particular place in mind?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Not yet. I am thinking of an old fort in my village, [[3]] I do not have enough information about it."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "This sounds interesting! I can help you look [[4]] the information you need."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "That's kind of you. Two heads are better [[5]] one. You are a true friend."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "will",
+     "to"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "a",
+     "an"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "as",
+     "but"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "the",
+     "for"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "than",
+     "more"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "G-06",
+  "session": "G. 10 Sem I 2nd Session 2023-2024",
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Ali, what is [[1]] mosque in the world?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "I think it is the Quba Mosque. It [[2]] built when prophet Mohammed (PBUH) first arrived in Medina."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "It is really [[3]] old! Is it still in a good condition?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Actually, it has been renovated by the Saudi government. Why are you asking about that?"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "That's [[4]] I have a project about ancient structures in the world. Where can I find more information about Quba?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Well, I have a book about \"Islamic Mosques\". I [[5]] give it to you."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "I appreciate that. Thank you."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "than",
+     "the oldest"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "was",
+     "were"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "but",
+     "very"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "because",
+     "does"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "as",
+     "will"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "G-07",
+  "session": "G. 10 Sem I 1st Session 2022-2023 (M)",
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "What kind of book are you holding? It seems [[1]] interesting one."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Yeah. It is about the world-famous leaders. I [[2]] already finished reading half of it."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Is there anyone who inspired you so far? I need some ideas for my presentation."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "There are many, but the [[3]] inspiring one is Mahatma Gandhi."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Are you talking about the man who introduced the idea of non-violent resistance [[4]] India."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Indeed, he is. That's why he is considered as the Father of the Nation. It will be nice to [[5]] about him."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "a",
+     "an"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "have",
+     "has"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "most",
+     "more"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "on",
+     "in"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "see",
+     "speak"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "G-08",
+  "session": "G. 10 Sem I 1st Session 2022-2023 (A)",
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Hi, Ahmed. I want to post a video [[1]] Instagram. It is my first time to use the app, so can you help me?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Why don't you upload it on YouTube? It is [[2]] popular than Instagram and you can post longer videos."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "I know, [[3]] I don't have a YouTube account. What should I do?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Signing up is a very easy process. It only [[4]] few minutes. I can help you with it."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Really? I [[5]] try to do it today myself first."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Great! Call me if you got stuck."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "to",
+     "on"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "than",
+     "more"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "but",
+     "of"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "take",
+     "takes"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "and",
+     "will"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "G-09",
+  "session": "G. 10 Sem I 2nd Session 2022-2023",
+  "lines": [
+   {
+    "speaker": "Nasser",
+    "text": "Hi Ahmed, how are you? What [[1]] you doing?"
+   },
+   {
+    "speaker": "Ahmed",
+    "text": "Hi Nasser. I'm looking [[2]] some ideas for my presentation."
+   },
+   {
+    "speaker": "Nasser",
+    "text": "That's great, how can I help you?"
+   },
+   {
+    "speaker": "Ahmed",
+    "text": "I couldn't find any reliable resource, what shall I do?"
+   },
+   {
+    "speaker": "Nasser",
+    "text": "Ministries' websites are trusted sources, [[3]] don't you search there?"
+   },
+   {
+    "speaker": "Ahmed",
+    "text": "I know, [[4]] I don't know how to deal with them!"
+   },
+   {
+    "speaker": "Nasser",
+    "text": "Don't worry! I'll help you. What [[5]] the presentation about?"
+   },
+   {
+    "speaker": "Ahmed",
+    "text": "Climate change."
+   },
+   {
+    "speaker": "Nasser",
+    "text": "Ok, I'll get you some resources tomorrow."
+   },
+   {
+    "speaker": "Ahmed",
+    "text": "Thanks, Nasser. See you tomorrow."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "are",
+     "is"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "to",
+     "for"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "what",
+     "why"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "but",
+     "so"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "is",
+     "are"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "G-10",
+  "session": "G. 10 Sem I 1st Session 2019-2020",
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Hi! It's great to see you today, but you look a bit down. Is everything alright?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "No, it's not alright. I've just been checking [[1]] latest news on Twitter and it's not good at all."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Why, what's wrong? I haven't logged onto it [[2]] yesterday afternoon."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Well, there was an earthquake [[3]] the capital city last night!"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Oh! That's terrible news! Was it as bad [[4]] the previous earthquake?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Actually, it was a lot worse. There [[5]] a lot of people killed and many others have been injured. It's so sad."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "a",
+     "the"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "since",
+     "of"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "in",
+     "on"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "as",
+     "from"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "was",
+     "were"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "G-11",
+  "session": "G. 10 Sem I 1st Session 2018-2019",
+  "lines": [
+   {
+    "speaker": "Mother",
+    "text": "Have you seen Ali's school report?"
+   },
+   {
+    "speaker": "Father",
+    "text": "Yes. He [[1]] improved a lot since the last report."
+   },
+   {
+    "speaker": "Mother",
+    "text": "I'm proud [[2]] him. Let's bring him into town tonight."
+   },
+   {
+    "speaker": "Father",
+    "text": "Good idea! I suggest [[3]] him to the cinema."
+   },
+   {
+    "speaker": "Mother",
+    "text": "Ok. Let's check the Star Cinema website to see which films [[4]] available."
+   },
+   {
+    "speaker": "Father",
+    "text": "Wait, I [[5]] bring my laptop."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "has",
+     "have"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "in",
+     "of"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "taking",
+     "take"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "is",
+     "are"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "from",
+     "will"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "G-12",
+  "session": "G. 10 Sem I 1st Session 2017-2018",
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Ammar, what [[1]] you done with your school project?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Actually, I have chosen the topic and then I looked [[2]] some information."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Oh, that's good! What is your topic?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "It [[3]] about the most important discoveries in the twenty first century."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "That's great! How are you going to present it?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "I haven't decided [[4]]. What do you suggest, Mum?"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "You can think of writing an article or doing a presentation. Both are appropriate for your topic."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "I guess writing an article is better [[5]] doing a presentation as people can read it later."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "has",
+     "have"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "after",
+     "for"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "is",
+     "are"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "already",
+     "yet"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "than",
+     "then"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "G-13",
+  "session": "G. 10 Sem I 2nd Session 2017-2018",
+  "lines": [
+   {
+    "speaker": "Ahmed",
+    "text": "Hello Ali! I called you yesterday afternoon [[1]] you didn't answer. Where were you?"
+   },
+   {
+    "speaker": "Ali",
+    "text": "I am sorry. I didn't hear the phone when you called."
+   },
+   {
+    "speaker": "Ahmed",
+    "text": "What [[2]] you doing?"
+   },
+   {
+    "speaker": "Ali",
+    "text": "I was busy. I had [[3]] complete a school report. Did you go shopping as usual?"
+   },
+   {
+    "speaker": "Ahmed",
+    "text": "No, I went to watch [[4]] film in City Cinema. I called to see if you could join me."
+   },
+   {
+    "speaker": "Ali",
+    "text": "I am sorry that I couldn't join you. [[5]] was the film?"
+   },
+   {
+    "speaker": "Ahmed",
+    "text": "It was interesting. I really enjoyed it."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "but",
+     "so"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "was",
+     "were"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "to",
+     "at"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "a",
+     "an"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "so",
+     "how"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "G-14",
+  "session": "G. 10 Sem I 1st Session 2016-2017",
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Have you finished [[1]] report?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Not yet. I'm really tired."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "What [[2]] going out?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "That's ok. What [[3]] you suggest?"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Well, I'm thinking of a boat trip."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "I see, [[4]] that might take a long time. I prefer watching a film instead."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "OK. So let's meet at the cinema at 7 o'clock."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Great. I [[5]] be there."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "your",
+     "you"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "of",
+     "about"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "does",
+     "do"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "but",
+     "so"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "on",
+     "will"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "G-15",
+  "session": "G. 10 Sem I 1st Session 2015-2016",
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Hi Ahmed, [[1]] are you doing?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "I'm trying [[2]] fix my bike."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "I told you before: you should buy [[3]] new one."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "I know, [[4]] I don't have enough money!"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Don't worry! I'll lend you some. How [[5]] do you need?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "30 rials, I think."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "where",
+     "what"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "to",
+     "for"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "a",
+     "an"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "so",
+     "but"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "many",
+     "much"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "G-16",
+  "session": "G. 10 Sem I 2nd Session 2015-2016",
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Maryam, don't forget [[1]] help your mother in the kitchen!"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Sorry, Dad, I can't. I [[2]] to study for my exams."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "That's [[3]] you said yesterday!"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "I know, [[4]] then my friends came here and stopped me working."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "That's [[5]] a very good excuse, is it?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "OK, you're right. So what kind of help does Mum need?"
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "to",
+     "no"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "has",
+     "have"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "what",
+     "when"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "so",
+     "but"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "not",
+     "for"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "G-17",
+  "session": "G. 10 Sem I 1st Session 2014-2015",
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "How are you? Did you have [[1]] nice weekend?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "It [[2]] fine. I spent the time watching TV."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "You look very tired [[3]] time did you go to bed last night?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "At two o'clock [[4]] the morning, actually."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "You know, you really [[5]] take better care of yourself!"
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "a",
+     "an"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "was",
+     "were"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "which",
+     "what"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "of",
+     "in"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "should",
+     "need"
+    ],
+    "answer": 0
+   }
+  ]
+ }
+]

@@ -1,0 +1,4582 @@
+{
+ "unit": 4,
+ "title": "Civilisation",
+ "title_ar": "الحضارة",
+ "theme_color": "#8a5a2b",
+ "lessons": [
+  {
+   "id": "U4-L1",
+   "title": "What Is a Civilisation?",
+   "title_ar": "ما هي الحضارة؟",
+   "words": [
+    {
+     "en": "civil",
+     "pos": "adj",
+     "ar": "مدني / حضري",
+     "ex": "Civil engineers design roads, bridges and tunnels.",
+     "star": true
+    },
+    {
+     "en": "civilised",
+     "pos": "adj",
+     "ar": "متحضّر",
+     "ex": "A civilised society respects the rights of every person.",
+     "star": false
+    },
+    {
+     "en": "civilisation",
+     "pos": "n",
+     "ar": "حضارة",
+     "ex": "Every great civilisation grew near a river or the sea.",
+     "star": true
+    },
+    {
+     "en": "society",
+     "pos": "n",
+     "ar": "مجتمع",
+     "ex": "Our society needs honest and hardworking people.",
+     "star": true
+    },
+    {
+     "en": "social",
+     "pos": "adj",
+     "ar": "اجتماعي",
+     "ex": "Schools help children to develop good social skills.",
+     "star": false
+    },
+    {
+     "en": "culture",
+     "pos": "n",
+     "ar": "ثقافة",
+     "ex": "Omani culture is famous for its warm hospitality.",
+     "star": true
+    },
+    {
+     "en": "cultured",
+     "pos": "adj",
+     "ar": "مثقّف",
+     "ex": "My grandfather is a cultured man who reads widely.",
+     "star": false
+    },
+    {
+     "en": "cultural",
+     "pos": "adj",
+     "ar": "ثقافي",
+     "ex": "The museum holds a cultural festival every spring.",
+     "star": false
+    },
+    {
+     "en": "community",
+     "pos": "n",
+     "ar": "مجتمع محلي / جماعة",
+     "ex": "The whole community helped to clean the beach.",
+     "star": false
+    },
+    {
+     "en": "citizen",
+     "pos": "n",
+     "ar": "مواطن",
+     "ex": "Every citizen has the right to a good education.",
+     "star": true
+    },
+    {
+     "en": "inhabit",
+     "pos": "v",
+     "ar": "يسكن / يعيش في",
+     "ex": "Many birds inhabit the mountains of Dhofar.",
+     "star": false
+    },
+    {
+     "en": "inhabited",
+     "pos": "adj",
+     "ar": "مأهول / مسكون",
+     "ex": "This small island is not inhabited by anyone.",
+     "star": false
+    },
+    {
+     "en": "the world population",
+     "pos": "n",
+     "ar": "عدد سكان العالم",
+     "ex": "The world population is now more than eight billion.",
+     "star": true
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "A (1)_____ is a developed society with its own cities, laws and art. People in a (2)_____ society respect the law and each other. They share a common (3)_____, including language, food and traditions. Every (4)_____ has duties as well as rights. In ancient times, large numbers of people usually lived near rivers, so these areas were (5)_____ first, because farming was easy there.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "civilisation",
+       "treasure",
+       "monument",
+       "citizen"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 2,
+      "options": [
+       "poisonous",
+       "limited",
+       "foreign",
+       "civilised"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 3,
+      "options": [
+       "culture",
+       "fort",
+       "concrete",
+       "century"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 4,
+      "options": [
+       "gladiator",
+       "sailor",
+       "citizen",
+       "architect"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 5,
+      "options": [
+       "translated",
+       "described",
+       "inhabited",
+       "collapsed"
+      ],
+      "answer": 2
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "Engineers who design bridges and roads are called ________ engineers.",
+     "options": [
+      "civil",
+      "inhabited",
+      "cultural",
+      "social"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "A person who has read a lot and enjoys art and music is ________.",
+     "options": [
+      "cultured",
+      "limited",
+      "civil",
+      "inhabited"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "q": "The Nile Valley produced one of the first great ________.",
+     "options": [
+      "inhabitants",
+      "monuments",
+      "civilisations",
+      "commodities"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "q": "Traditional dancing and clothes are parts of our ________ heritage.",
+     "options": [
+      "inhabited",
+      "civilised",
+      "cultural",
+      "civil"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "q": "People who live in a place ________ it.",
+     "options": [
+      "inhabit",
+      "discover",
+      "mention",
+      "collapse"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 6,
+     "q": "The doctor knows all the families in the local ________.",
+     "options": [
+      "century",
+      "evidence",
+      "empire",
+      "community"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 7,
+     "q": "The ________ is now more than eight billion people.",
+     "options": [
+      "world citizen",
+      "world population",
+      "world civilisation",
+      "world society"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 8,
+     "q": "Making friends and working in teams are important ________ skills.",
+     "options": [
+      "cultured",
+      "inhabited",
+      "social",
+      "civil"
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "id": "U4-L2",
+   "title": "Ancient Civilisations",
+   "title_ar": "الحضارات القديمة",
+   "words": [
+    {
+     "en": "ancient",
+     "pos": "adj",
+     "ar": "قديم / عتيق",
+     "ex": "Ancient Egyptians built huge tombs for their kings.",
+     "star": true
+    },
+    {
+     "en": "Egyptian",
+     "pos": "adj",
+     "ar": "مصري",
+     "ex": "The Egyptian civilisation grew along the River Nile.",
+     "star": false
+    },
+    {
+     "en": "Mayan",
+     "pos": "adj",
+     "ar": "من المايا",
+     "ex": "The Mayan people built stone cities in Central America.",
+     "star": false
+    },
+    {
+     "en": "Roman",
+     "pos": "adj",
+     "ar": "روماني",
+     "ex": "Roman roads helped soldiers to travel across the empire.",
+     "star": false
+    },
+    {
+     "en": "Greek",
+     "pos": "adj",
+     "ar": "يوناني / إغريقي",
+     "ex": "The Greek city of Athens was famous for learning.",
+     "star": false
+    },
+    {
+     "en": "Sumerian",
+     "pos": "adj",
+     "ar": "سومري",
+     "ex": "The Sumerian people lived in what is now Iraq.",
+     "star": true
+    },
+    {
+     "en": "the Majan civilisation",
+     "pos": "n",
+     "ar": "حضارة مجان",
+     "ex": "The Majan civilisation traded copper from the land of Oman.",
+     "star": true
+    },
+    {
+     "en": "empire",
+     "pos": "n",
+     "ar": "إمبراطورية",
+     "ex": "The Roman Empire controlled lands around the Mediterranean Sea.",
+     "star": true
+    },
+    {
+     "en": "emperor",
+     "pos": "n",
+     "ar": "إمبراطور",
+     "ex": "Augustus was the first Roman emperor.",
+     "star": false
+    },
+    {
+     "en": "king",
+     "pos": "n",
+     "ar": "ملك",
+     "ex": "The king ruled the kingdom for many years.",
+     "star": false
+    },
+    {
+     "en": "kingdom",
+     "pos": "n",
+     "ar": "مملكة",
+     "ex": "The kingdom was rich because of its gold and trade.",
+     "star": false
+    },
+    {
+     "en": "leader",
+     "pos": "n",
+     "ar": "قائد / زعيم",
+     "ex": "A good leader listens to the people.",
+     "star": false
+    },
+    {
+     "en": "lead",
+     "pos": "v",
+     "ar": "يقود",
+     "ex": "She will lead the team in the final match.",
+     "star": true
+    },
+    {
+     "en": "conquer",
+     "pos": "v",
+     "ar": "يغزو / يحتل",
+     "ex": "Alexander the Great conquered many countries.",
+     "star": false
+    },
+    {
+     "en": "fight / fought / fought",
+     "pos": "v",
+     "ar": "يقاتل / يحارب / يصارع",
+     "ex": "The soldiers fought bravely to defend their city.",
+     "star": false
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "The Roman (1)_____ was one of the largest in history. At the top stood the (2)_____, who held great power. Roman soldiers (3)_____ many lands and built roads across them. The (4)_____ civilisation was also important, because its thinkers in Athens influenced science and politics. Many of these (5)_____ ruins are more than two thousand years old.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "empire",
+       "monument",
+       "treasure",
+       "citizen"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 2,
+      "options": [
+       "sailor",
+       "emperor",
+       "architect",
+       "accountant"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 3,
+      "options": [
+       "translated",
+       "estimated",
+       "conquered",
+       "signed"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 4,
+      "options": [
+       "Mayan",
+       "Greek",
+       "Sumerian",
+       "Egyptian"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 5,
+      "options": [
+       "fresh",
+       "new",
+       "ancient",
+       "modern"
+      ],
+      "answer": 2
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "Alexander the Great ________ a huge area from Greece to India.",
+     "options": [
+      "conquered",
+      "listed",
+      "mentioned",
+      "translated"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "A ________ rules a kingdom.",
+     "options": [
+      "sailor",
+      "artist",
+      "architect",
+      "king"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "q": "The ________ people of Central America built tall stone temples and cities.",
+     "options": [
+      "Roman",
+      "Mayan",
+      "Sumerian",
+      "Greek"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 4,
+     "q": "The ________ people of ancient Iraq were among the first to use writing.",
+     "options": [
+      "Sumerian",
+      "Roman",
+      "Mayan",
+      "Greek"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 5,
+     "q": "A group of countries ruled by one emperor is called an ________.",
+     "options": [
+      "community",
+      "island",
+      "army",
+      "empire"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 6,
+     "q": "The captain will ________ the team onto the field.",
+     "options": [
+      "thrive",
+      "conquer",
+      "lead",
+      "collapse"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 7,
+     "q": "The soldiers ________ bravely, but the city fell.",
+     "options": [
+      "fighted",
+      "fought",
+      "fights",
+      "fight"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 8,
+     "q": "Ancient ________ pharaohs built the pyramids.",
+     "options": [
+      "Egyptian",
+      "Sumerian",
+      "Roman",
+      "Greek"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "U4-L3",
+   "title": "Archaeology and Discoveries",
+   "title_ar": "علم الآثار والاكتشافات",
+   "words": [
+    {
+     "en": "archaeology",
+     "pos": "n",
+     "ar": "علم الآثار",
+     "ex": "Archaeology helps us understand how people lived long ago.",
+     "star": true
+    },
+    {
+     "en": "archaeologist",
+     "pos": "n",
+     "ar": "عالِم آثار",
+     "ex": "The archaeologist carefully cleaned the broken pot.",
+     "star": true
+    },
+    {
+     "en": "archaeological site",
+     "pos": "n",
+     "ar": "موقع أثري",
+     "ex": "Visitors may not touch anything at the archaeological site.",
+     "star": false
+    },
+    {
+     "en": "discover",
+     "pos": "v",
+     "ar": "يكتشف",
+     "ex": "Scientists discovered a lost city under the jungle.",
+     "star": true
+    },
+    {
+     "en": "evidence",
+     "pos": "n",
+     "ar": "دليل / برهان",
+     "ex": "Broken pots are evidence that people lived here.",
+     "star": true
+    },
+    {
+     "en": "proof",
+     "pos": "n",
+     "ar": "إثبات / دليل قاطع",
+     "ex": "Do you have any proof that the coin is real?",
+     "star": false
+    },
+    {
+     "en": "identify",
+     "pos": "v",
+     "ar": "يحدّد / يتعرّف على",
+     "ex": "Experts can identify the age of a bone.",
+     "star": false
+    },
+    {
+     "en": "map",
+     "pos": "n",
+     "ar": "خريطة",
+     "ex": "The explorers followed an old map to the temple.",
+     "star": false
+    },
+    {
+     "en": "monument",
+     "pos": "n",
+     "ar": "نصب تذكاري / أثر",
+     "ex": "The monument reminds us of the brave soldiers.",
+     "star": true
+    },
+    {
+     "en": "treasure",
+     "pos": "n",
+     "ar": "كنز",
+     "ex": "Divers found gold treasure in the old ship.",
+     "star": false
+    },
+    {
+     "en": "sculpture",
+     "pos": "n",
+     "ar": "منحوتة / تمثال",
+     "ex": "The museum has a sculpture of a horse made of stone.",
+     "star": false
+    },
+    {
+     "en": "pyramid",
+     "pos": "n",
+     "ar": "هرم",
+     "ex": "The Great Pyramid of Giza is more than four thousand years old.",
+     "star": true
+    },
+    {
+     "en": "temple",
+     "pos": "n",
+     "ar": "معبد",
+     "ex": "Tourists walk through the temple at sunrise.",
+     "star": true
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "An (1)_____ studies the objects that people left behind. Working at an (2)_____ site, he found old pots and tools. These were (3)_____ that a town once stood there. After weeks of careful work, the team (4)_____ the ruins of a large (5)_____ with tall stone walls.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "sailor",
+       "architect",
+       "archaeologist",
+       "accountant"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 2,
+      "options": [
+       "archaeological",
+       "united",
+       "wealthy",
+       "limited"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 3,
+      "options": [
+       "bricks",
+       "treasures",
+       "evidence",
+       "pyramids"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 4,
+      "options": [
+       "discovered",
+       "thrived",
+       "conquered",
+       "collapsed"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 5,
+      "options": [
+       "proof",
+       "treasure",
+       "temple",
+       "map"
+      ],
+      "answer": 2
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "Scientists found ________ of ancient farming, such as tools and seeds.",
+     "options": [
+      "evidence",
+      "treasure",
+      "sculpture",
+      "monument"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "The ________ is a huge stone tomb with triangle-shaped sides in Egypt.",
+     "options": [
+      "map",
+      "fort",
+      "pyramid",
+      "treasure"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 3,
+     "q": "He used a ________ to find the way to the site.",
+     "options": [
+      "map",
+      "sculpture",
+      "pyramid",
+      "proof"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "q": "Police need ________ before they can say that someone is guilty.",
+     "options": [
+      "treasure",
+      "sculpture",
+      "temple",
+      "proof"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 5,
+     "q": "The doctor can ________ the illness from the signs on the skin.",
+     "options": [
+      "thrive",
+      "conquer",
+      "identify",
+      "collapse"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 6,
+     "q": "Howard Carter ________ the tomb of Tutankhamun in 1922.",
+     "options": [
+      "translated",
+      "conquered",
+      "discovered",
+      "collapsed"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 7,
+     "q": "A statue of a famous leader stands as a ________ in the square.",
+     "options": [
+      "archaeology",
+      "evidence",
+      "monument",
+      "proof"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 8,
+     "q": "The study of ancient ruins and objects is called ________.",
+     "options": [
+      "economy",
+      "archaeology",
+      "agriculture",
+      "biography"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "U4-L4",
+   "title": "Buildings and Daily Life",
+   "title_ar": "المباني والحياة اليومية",
+   "words": [
+    {
+     "en": "bricks",
+     "pos": "n",
+     "ar": "طوب",
+     "ex": "The old wall was built of red bricks.",
+     "star": false
+    },
+    {
+     "en": "bricklayer",
+     "pos": "n",
+     "ar": "بنّاء (يرصّ الطوب)",
+     "ex": "A bricklayer can build a wall in a day.",
+     "star": false
+    },
+    {
+     "en": "clay bricks",
+     "pos": "n",
+     "ar": "طوب من الطين",
+     "ex": "Early builders in Iraq made houses from clay bricks.",
+     "star": false
+    },
+    {
+     "en": "copper",
+     "pos": "n",
+     "ar": "نحاس",
+     "ex": "Copper is a red-brown metal used for wires and coins.",
+     "star": false
+    },
+    {
+     "en": "copper mine",
+     "pos": "n",
+     "ar": "منجم نحاس",
+     "ex": "Many workers dug in the copper mine long ago.",
+     "star": false
+    },
+    {
+     "en": "concrete",
+     "pos": "n",
+     "ar": "خرسانة",
+     "ex": "Roman builders mixed concrete to make strong buildings.",
+     "star": false
+    },
+    {
+     "en": "construct",
+     "pos": "v",
+     "ar": "يبني / يشيّد",
+     "ex": "Workers constructed the bridge in only two years.",
+     "star": true
+    },
+    {
+     "en": "architect",
+     "pos": "n",
+     "ar": "مهندس معماري",
+     "ex": "The architect drew the plans for a new library.",
+     "star": false
+    },
+    {
+     "en": "decoration",
+     "pos": "n",
+     "ar": "زخرفة / تزيين / ديكور",
+     "ex": "Bright decoration covered the walls of the palace.",
+     "star": true
+    },
+    {
+     "en": "art",
+     "pos": "n",
+     "ar": "الفن",
+     "ex": "Ancient art shows how people lived and dressed.",
+     "star": true
+    },
+    {
+     "en": "artist",
+     "pos": "n",
+     "ar": "فنان",
+     "ex": "The artist painted a picture of the old fort.",
+     "star": false
+    },
+    {
+     "en": "seat",
+     "pos": "v",
+     "ar": "يتّسع لـ / يُجلس",
+     "ex": "The Colosseum could seat about fifty thousand people.",
+     "star": false
+    },
+    {
+     "en": "gladiators",
+     "pos": "n",
+     "ar": "مصارعون (في روما القديمة)",
+     "ex": "Gladiators fought in front of crowds in Roman arenas.",
+     "star": false
+    },
+    {
+     "en": "feasts",
+     "pos": "n",
+     "ar": "ولائم / أعياد",
+     "ex": "Rich families held feasts with music and dancing.",
+     "star": false
+    },
+    {
+     "en": "run the household",
+     "pos": "phr v",
+     "ar": "يدير شؤون المنزل",
+     "ex": "She runs the household while her parents are at work.",
+     "star": true
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "The (1)_____ designed a huge arena in ancient Rome. Workers (2)_____ it using stone, bricks and (3)_____, a strong mixture that the Romans used a lot. The building could (4)_____ thousands of people, who came to watch (5)_____ fight.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "sailor",
+       "trader",
+       "architect",
+       "accountant"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 2,
+      "options": [
+       "collapsed",
+       "conquered",
+       "mentioned",
+       "constructed"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 3,
+      "options": [
+       "decoration",
+       "concrete",
+       "treasure",
+       "copper"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 4,
+      "options": [
+       "seat",
+       "fight",
+       "sail",
+       "lead"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 5,
+      "options": [
+       "temples",
+       "gladiators",
+       "accountants",
+       "feasts"
+      ],
+      "answer": 1
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "A ________ builds walls by putting bricks in neat rows.",
+     "options": [
+      "accountant",
+      "architect",
+      "artist",
+      "bricklayer"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 2,
+     "q": "The pipes in the old house were made of ________.",
+     "options": [
+      "gladiator",
+      "decoration",
+      "copper",
+      "feast"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 3,
+     "q": "The walls of the hall were covered with colourful ________.",
+     "options": [
+      "architects",
+      "mines",
+      "decoration",
+      "gladiators"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "q": "Workers ________ a new hospital near the village last year.",
+     "options": [
+      "signed",
+      "conquered",
+      "mentioned",
+      "constructed"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 5,
+     "q": "A person who paints or draws pictures is an ________.",
+     "options": [
+      "economist",
+      "accountant",
+      "architect",
+      "artist"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 6,
+     "q": "Houses in ancient Sumer were often made from ________.",
+     "options": [
+      "clay bricks",
+      "concrete",
+      "steel doors",
+      "glass windows"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 7,
+     "q": "Our hall can ________ about two hundred guests.",
+     "options": [
+      "list",
+      "sail",
+      "fight",
+      "seat"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 8,
+     "q": "Families gather for big ________ during Eid.",
+     "options": [
+      "monuments",
+      "feasts",
+      "bricks",
+      "mines"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "U4-L5",
+   "title": "Trade and Money",
+   "title_ar": "التجارة والاقتصاد",
+   "words": [
+    {
+     "en": "trade",
+     "pos": "n",
+     "ar": "تجارة / يتاجر",
+     "ex": "Trade between countries brings new goods and ideas.",
+     "star": true
+    },
+    {
+     "en": "trader",
+     "pos": "n",
+     "ar": "تاجر",
+     "ex": "The trader sold spices at the market.",
+     "star": false
+    },
+    {
+     "en": "merchant",
+     "pos": "n",
+     "ar": "تاجر",
+     "ex": "A merchant sailed to India to buy cloth.",
+     "star": false
+    },
+    {
+     "en": "commodity",
+     "pos": "n",
+     "ar": "سلعة / بضاعة",
+     "ex": "Frankincense was a valuable commodity in ancient times.",
+     "star": false
+    },
+    {
+     "en": "product",
+     "pos": "n",
+     "ar": "منتج",
+     "ex": "This product is made in Oman.",
+     "star": false
+    },
+    {
+     "en": "entrepreneur",
+     "pos": "n",
+     "ar": "رائد أعمال / صاحب مشروع",
+     "ex": "The young entrepreneur opened her own online shop.",
+     "star": false
+    },
+    {
+     "en": "economy",
+     "pos": "n",
+     "ar": "اقتصاد",
+     "ex": "Tourism helps the economy of many countries.",
+     "star": true
+    },
+    {
+     "en": "economist",
+     "pos": "n",
+     "ar": "خبير اقتصادي",
+     "ex": "The economist explained why prices are rising.",
+     "star": false
+    },
+    {
+     "en": "agriculture",
+     "pos": "n",
+     "ar": "الزراعة",
+     "ex": "Agriculture was the main work in early river civilisations.",
+     "star": true
+    },
+    {
+     "en": "wealthy",
+     "pos": "adj",
+     "ar": "ثري / غني",
+     "ex": "The wealthy merchant built a large house.",
+     "star": false
+    },
+    {
+     "en": "prosperous",
+     "pos": "adj",
+     "ar": "مزدهر",
+     "ex": "Trade made the city rich and prosperous.",
+     "star": false
+    },
+    {
+     "en": "accountant",
+     "pos": "n",
+     "ar": "محاسب",
+     "ex": "The accountant checks the company's money every month.",
+     "star": false
+    },
+    {
+     "en": "account for",
+     "pos": "phr v",
+     "ar": "يشكّل (نسبة) / يمثّل",
+     "ex": "Fish and dates account for a large part of the village's income.",
+     "star": true
+    },
+    {
+     "en": "the total",
+     "pos": "n",
+     "ar": "الإجمالي / المجموع",
+     "ex": "The total of the bill was ten rials.",
+     "star": true
+    },
+    {
+     "en": "is worth",
+     "pos": "phr v",
+     "ar": "تساوي / قيمته",
+     "ex": "This old coin is worth a lot of money.",
+     "star": true
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "In ancient times, (1)_____ allowed people to exchange goods between lands. A (2)_____ would travel by land or sea to sell his goods and buy new ones. Cities that controlled trade routes became rich and (3)_____. The (4)_____ of these cities also depended on farming, because (5)_____ gave food to the people.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "trade",
+       "sculpture",
+       "monument",
+       "decoration"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 2,
+      "options": [
+       "economist",
+       "architect",
+       "merchant",
+       "accountant"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 3,
+      "options": [
+       "foreign",
+       "prosperous",
+       "united",
+       "limited"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 4,
+      "options": [
+       "economist",
+       "economy",
+       "evidence",
+       "emperor"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 5,
+      "options": [
+       "decoration",
+       "archaeology",
+       "agriculture",
+       "concrete"
+      ],
+      "answer": 2
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "A person who starts a new business is an ________.",
+     "options": [
+      "architect",
+      "economist",
+      "bricklayer",
+      "entrepreneur"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 2,
+     "q": "An ________ studies how money, jobs and prices work.",
+     "options": [
+      "artist",
+      "architect",
+      "bricklayer",
+      "economist"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "q": "The ________ of all the marks was ninety.",
+     "options": [
+      "economy",
+      "trade",
+      "product",
+      "total"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 4,
+     "q": "This painting is ________ more than a million dollars.",
+     "options": [
+      "total",
+      "product",
+      "worth",
+      "wealthy"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "q": "Bread is a basic ________ that everyone needs.",
+     "options": [
+      "monument",
+      "agriculture",
+      "commodity",
+      "accountant"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 6,
+     "q": "After the discovery of oil, the country became very ________.",
+     "options": [
+      "foreign",
+      "ancient",
+      "prosperous",
+      "limited"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 7,
+     "q": "A ________ family can afford a big house and a driver.",
+     "options": [
+      "foreign",
+      "social",
+      "civil",
+      "wealthy"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 8,
+     "q": "Fish and dates ________ for a big part of the village's income.",
+     "options": [
+      "ignore",
+      "account",
+      "list",
+      "sign"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "U4-L6",
+   "title": "The Sea, Oman and Islamic Heritage",
+   "title_ar": "البحر والتراث العماني والإسلامي",
+   "words": [
+    {
+     "en": "navigation",
+     "pos": "n",
+     "ar": "الملاحة / الإبحار",
+     "ex": "Sailors used the stars for navigation at night.",
+     "star": false
+    },
+    {
+     "en": "navigate",
+     "pos": "v",
+     "ar": "يبحر / يهتدي / يوجّه السفينة",
+     "ex": "Old sailors learned to navigate by the stars.",
+     "star": false
+    },
+    {
+     "en": "dhow",
+     "pos": "n",
+     "ar": "مركب الداو (سفينة شراعية)",
+     "ex": "The wooden dhow sailed from Sur to Zanzibar.",
+     "star": false
+    },
+    {
+     "en": "fleet",
+     "pos": "n",
+     "ar": "أسطول",
+     "ex": "A fleet of ships left the harbour at dawn.",
+     "star": false
+    },
+    {
+     "en": "sail",
+     "pos": "v",
+     "ar": "يبحر",
+     "ex": "They sail along the coast every summer.",
+     "star": true
+    },
+    {
+     "en": "sailor",
+     "pos": "n",
+     "ar": "بحّار",
+     "ex": "The sailor had visited many ports around the world.",
+     "star": false
+    },
+    {
+     "en": "building ships",
+     "pos": "phr",
+     "ar": "بناء السفن",
+     "ex": "Sur is known for building ships by hand.",
+     "star": true
+    },
+    {
+     "en": "frankincense",
+     "pos": "n",
+     "ar": "اللبان",
+     "ex": "Frankincense from Dhofar was sold in ancient markets.",
+     "star": false
+    },
+    {
+     "en": "fort",
+     "pos": "n",
+     "ar": "قلعة / حصن",
+     "ex": "Nizwa Fort is one of Oman's most visited places.",
+     "star": false
+    },
+    {
+     "en": "Islamic",
+     "pos": "adj",
+     "ar": "إسلامي",
+     "ex": "Islamic art often uses beautiful patterns and calligraphy.",
+     "star": false
+    },
+    {
+     "en": "mosque",
+     "pos": "n",
+     "ar": "مسجد",
+     "ex": "The Sultan Qaboos Grand Mosque is in Muscat.",
+     "star": true
+    },
+    {
+     "en": "religion",
+     "pos": "n",
+     "ar": "دين",
+     "ex": "Everyone has the right to practise their own religion.",
+     "star": false
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Oman has a long history of (1)_____ and trade across the seas. Omani (2)_____ sailed in wooden (3)_____ to India and East Africa, carrying dates, copper and (4)_____. A skilled sailor learned to (5)_____ using the sun and the stars.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "concrete",
+       "navigation",
+       "decoration",
+       "agriculture"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 2,
+      "options": [
+       "artists",
+       "sailors",
+       "architects",
+       "bricklayers"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 3,
+      "options": [
+       "forts",
+       "mosques",
+       "temples",
+       "dhows"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 4,
+      "options": [
+       "mosques",
+       "forts",
+       "gladiators",
+       "frankincense"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 5,
+      "options": [
+       "conquer",
+       "navigate",
+       "translate",
+       "construct"
+      ],
+      "answer": 1
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "Nizwa ________ is a famous castle built of stone and clay.",
+     "options": [
+      "Dhow",
+      "Fleet",
+      "Fort",
+      "Mosque"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "q": "A ________ is a traditional wooden Arab sailing boat.",
+     "options": [
+      "mosque",
+      "fort",
+      "fleet",
+      "dhow"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "q": "Muslims pray in a ________.",
+     "options": [
+      "dhow",
+      "mosque",
+      "market",
+      "fort"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 4,
+     "q": "A large group of ships under one command is a ________.",
+     "options": [
+      "caravan",
+      "fort",
+      "dhow",
+      "fleet"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 5,
+     "q": "Salalah is famous for ________, a sweet-smelling resin.",
+     "options": [
+      "frankincense",
+      "concrete",
+      "copper",
+      "bricks"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 6,
+     "q": "The captain studied the stars to ________ the ship at night.",
+     "options": [
+      "navigate",
+      "ignore",
+      "treat",
+      "construct"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 7,
+     "q": "He worked as a ________ on a ship for ten years.",
+     "options": [
+      "architect",
+      "sailor",
+      "accountant",
+      "bricklayer"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 8,
+     "q": "Islam is the main ________ in Oman.",
+     "options": [
+      "religion",
+      "society",
+      "economy",
+      "century"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "U4-L7",
+   "title": "Writing, Education and Skills",
+   "title_ar": "الكتابة والتعليم والمهارات",
+   "words": [
+    {
+     "en": "cuneiform",
+     "pos": "n",
+     "ar": "الكتابة المسمارية",
+     "ex": "Cuneiform was written by pressing a pen into wet clay.",
+     "star": false
+    },
+    {
+     "en": "hieroglyphics",
+     "pos": "n",
+     "ar": "الكتابة الهيروغليفية",
+     "ex": "Hieroglyphics use small pictures instead of letters.",
+     "star": false
+    },
+    {
+     "en": "clay tablets",
+     "pos": "n",
+     "ar": "ألواح الطين",
+     "ex": "The Sumerians wrote lists and letters on clay tablets.",
+     "star": false
+    },
+    {
+     "en": "forms of writing",
+     "pos": "n",
+     "ar": "أشكال الكتابة",
+     "ex": "Cuneiform and hieroglyphics are early forms of writing.",
+     "star": false
+    },
+    {
+     "en": "education",
+     "pos": "n",
+     "ar": "التعليم",
+     "ex": "Education opens the door to a better future.",
+     "star": true
+    },
+    {
+     "en": "educate",
+     "pos": "v",
+     "ar": "يعلّم / يثقّف",
+     "ex": "Schools educate children and prepare them for work.",
+     "star": true
+    },
+    {
+     "en": "knowledge",
+     "pos": "n",
+     "ar": "المعرفة",
+     "ex": "Books are a great source of knowledge.",
+     "star": false
+    },
+    {
+     "en": "skill",
+     "pos": "n",
+     "ar": "مهارة",
+     "ex": "Speaking clearly is an important skill.",
+     "star": true
+    },
+    {
+     "en": "skilled at",
+     "pos": "adj",
+     "ar": "ماهر في",
+     "ex": "She is skilled at solving difficult problems.",
+     "star": false
+    },
+    {
+     "en": "expertise",
+     "pos": "n",
+     "ar": "خبرة / مهارة متخصصة",
+     "ex": "The engineer has great expertise in building bridges.",
+     "star": false
+    },
+    {
+     "en": "research",
+     "pos": "n",
+     "ar": "بحث / دراسة",
+     "ex": "Do some research before you write your report.",
+     "star": true
+    },
+    {
+     "en": "describe",
+     "pos": "v",
+     "ar": "يصف",
+     "ex": "Can you describe what you saw at the museum?",
+     "star": false
+    },
+    {
+     "en": "apostrophe",
+     "pos": "n",
+     "ar": "الفاصلة العليا (')",
+     "ex": "Use an apostrophe in Ali's book.",
+     "star": false
+    },
+    {
+     "en": "thesaurus",
+     "pos": "n",
+     "ar": "قاموس مرادفات",
+     "ex": "A thesaurus helps you to find a better word.",
+     "star": false
+    },
+    {
+     "en": "leaflet",
+     "pos": "n",
+     "ar": "نشرة / منشور",
+     "ex": "The museum gave us a leaflet about the exhibition.",
+     "star": false
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "The Sumerians invented one of the first (1)_____ of writing, called cuneiform. They pressed a pen into wet clay to make marks on (2)_____. Scribes studied for years to gain (3)_____ in writing and counting. In Egypt, scribes used (4)_____, a system of picture signs. Today, (5)_____ is free for children in Oman, and every child can learn to read and write.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "thesauruses",
+       "leaflets",
+       "forms",
+       "apostrophes"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 2,
+      "options": [
+       "clay tablets",
+       "fleets",
+       "leaflets",
+       "sailors"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 3,
+      "options": [
+       "apostrophe",
+       "decoration",
+       "commodity",
+       "expertise"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 4,
+      "options": [
+       "leaflets",
+       "thesauruses",
+       "apostrophes",
+       "hieroglyphics"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 5,
+      "options": [
+       "leaflet",
+       "thesaurus",
+       "apostrophe",
+       "education"
+      ],
+      "answer": 3
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "She is ________ at drawing; her pictures are beautiful.",
+     "options": [
+      "skilled",
+      "proud",
+      "sorry",
+      "kind"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "Use a ________ to find another word for 'big'.",
+     "options": [
+      "leaflet",
+      "apostrophe",
+      "cuneiform",
+      "thesaurus"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "q": "Before you write, do some ________ on the internet and in books.",
+     "options": [
+      "research",
+      "apostrophe",
+      "thesaurus",
+      "hieroglyphics"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "q": "Please ________ the man you saw to the police.",
+     "options": [
+      "construct",
+      "conquer",
+      "describe",
+      "navigate"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "q": "The teacher said that ________ is the key to success.",
+     "options": [
+      "education",
+      "apostrophe",
+      "fleet",
+      "leaflet"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 6,
+     "q": "We use an ________ to show that a letter is missing, as in don't.",
+     "options": [
+      "leaflet",
+      "thesaurus",
+      "apostrophe",
+      "expertise"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 7,
+     "q": "A ________ is a short printed paper that gives information.",
+     "options": [
+      "apostrophe",
+      "leaflet",
+      "hieroglyphics",
+      "thesaurus"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 8,
+     "q": "Doctors ________ the public about healthy food on TV.",
+     "options": [
+      "conquer",
+      "sail",
+      "educate",
+      "ignore"
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "id": "U4-L8",
+   "title": "History Words",
+   "title_ar": "مفردات التاريخ",
+   "words": [
+    {
+     "en": "history",
+     "pos": "n",
+     "ar": "تاريخ",
+     "ex": "History helps us to learn from the past.",
+     "star": true
+    },
+    {
+     "en": "century",
+     "pos": "n",
+     "ar": "قرن",
+     "ex": "We now live in the twenty-first century.",
+     "star": false
+    },
+    {
+     "en": "BC",
+     "pos": "abbr",
+     "ar": "قبل الميلاد",
+     "ex": "The Great Pyramid was built about 2500 BC.",
+     "star": false
+    },
+    {
+     "en": "AD",
+     "pos": "abbr",
+     "ar": "بعد الميلاد",
+     "ex": "Rome lost its western empire in the fifth century AD.",
+     "star": false
+    },
+    {
+     "en": "chronological",
+     "pos": "adj",
+     "ar": "مرتّب زمنيًا",
+     "ex": "Put the events in chronological order.",
+     "star": false
+    },
+    {
+     "en": "biography",
+     "pos": "n",
+     "ar": "سيرة حياة (يكتبها شخص آخر)",
+     "ex": "She read a biography of a famous scientist.",
+     "star": false
+    },
+    {
+     "en": "achievement",
+     "pos": "n",
+     "ar": "إنجاز",
+     "ex": "Finishing the race was a great achievement.",
+     "star": true
+    },
+    {
+     "en": "renaissance",
+     "pos": "n",
+     "ar": "عصر النهضة / نهضة",
+     "ex": "The Renaissance brought new ideas in art and science to Europe.",
+     "star": false
+    },
+    {
+     "en": "collapse",
+     "pos": "v",
+     "ar": "ينهار / يسقط",
+     "ex": "The old bridge collapsed after the storm.",
+     "star": true
+    },
+    {
+     "en": "thrive",
+     "pos": "v",
+     "ar": "يزدهر / ينمو بقوة",
+     "ex": "Fish thrive in the warm waters of the Gulf.",
+     "star": false
+    },
+    {
+     "en": "during its time",
+     "pos": "phr",
+     "ar": "في عصرها / في زمنها",
+     "ex": "During its time, the city was the largest in the region.",
+     "star": false
+    },
+    {
+     "en": "earthquake",
+     "pos": "n",
+     "ar": "زلزال",
+     "ex": "The earthquake destroyed many buildings in the old town.",
+     "star": false
+    },
+    {
+     "en": "know for certain",
+     "pos": "phr v",
+     "ar": "يعرف بالتأكيد",
+     "ex": "Nobody knows for certain why the city was abandoned.",
+     "star": true
+    },
+    {
+     "en": "reflect on",
+     "pos": "phr v",
+     "ar": "يتأمل في / يفكّر مليًّا في",
+     "ex": "Take a moment to reflect on what you have learned.",
+     "star": false
+    },
+    {
+     "en": "war",
+     "pos": "n",
+     "ar": "حرب",
+     "ex": "The war lasted for many years and ruined the country.",
+     "star": true
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Egyptian civilisation lasted for more than three thousand years. Historians place its start around 3000 (1)_____, long before Roman times. They arrange the events in (2)_____ order, from the earliest to the latest. Egypt (3)_____ along the River Nile, and its kings left great monuments. Later, Rome fell after years of (4)_____ and money problems. Many centuries after that, a new period called the (5)_____ brought a love of art and learning to Europe.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "war",
+       "BC",
+       "AD",
+       "century"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 2,
+      "options": [
+       "chronological",
+       "universal",
+       "civilised",
+       "cultural"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 3,
+      "options": [
+       "reflected",
+       "collapsed",
+       "mentioned",
+       "thrived"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 4,
+      "options": [
+       "war",
+       "renaissance",
+       "biography",
+       "achievement"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 5,
+      "options": [
+       "Earthquake",
+       "Biography",
+       "Century",
+       "Renaissance"
+      ],
+      "answer": 3
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "The pyramids were built many ________ ago.",
+     "options": [
+      "biographies",
+      "centuries",
+      "earthquakes",
+      "achievements"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 2,
+     "q": "Julius Caesar was killed in 44 ________.",
+     "options": [
+      "BC",
+      "war",
+      "century",
+      "AD"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "q": "The library has a ________ of the traveller Ibn Battuta.",
+     "options": [
+      "earthquake",
+      "century",
+      "renaissance",
+      "biography"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 4,
+     "q": "Winning the gold medal was her greatest ________.",
+     "options": [
+      "history",
+      "biography",
+      "earthquake",
+      "achievement"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 5,
+     "q": "The city was almost destroyed by a powerful ________.",
+     "options": [
+      "renaissance",
+      "century",
+      "biography",
+      "earthquake"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 6,
+     "q": "Please take a few minutes to ________ on your day.",
+     "options": [
+      "mention",
+      "thrive",
+      "reflect",
+      "collapse"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 7,
+     "q": "Plants will not ________ without sunlight and water.",
+     "options": [
+      "collapse",
+      "thrive",
+      "reflect",
+      "apply"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 8,
+     "q": "Nobody can say ________ how the first writing began.",
+     "options": [
+      "at certain",
+      "for certain",
+      "with certain",
+      "by certain"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "U4-L9",
+   "title": "Describing Things",
+   "title_ar": "وصف الأشياء",
+   "words": [
+    {
+     "en": "absolutely",
+     "pos": "adv",
+     "ar": "تمامًا / كليًّا",
+     "ex": "The film was absolutely wonderful.",
+     "star": false
+    },
+    {
+     "en": "certainly",
+     "pos": "adv",
+     "ar": "بالتأكيد",
+     "ex": "You can certainly borrow my book.",
+     "star": false
+    },
+    {
+     "en": "definitely",
+     "pos": "adv",
+     "ar": "قطعًا / بلا شك",
+     "ex": "I will definitely visit the pyramids one day.",
+     "star": false
+    },
+    {
+     "en": "quite",
+     "pos": "adv",
+     "ar": "إلى حدٍّ ما / تمامًا",
+     "ex": "The test was quite difficult, but I passed.",
+     "star": false
+    },
+    {
+     "en": "really",
+     "pos": "adv",
+     "ar": "حقًّا / فعلًا",
+     "ex": "I really enjoyed the trip to the museum.",
+     "star": true
+    },
+    {
+     "en": "fairly",
+     "pos": "adv",
+     "ar": "إلى حدٍّ ما / بإنصاف",
+     "ex": "The exam was fairly easy for most students.",
+     "star": false
+    },
+    {
+     "en": "famous",
+     "pos": "adj",
+     "ar": "مشهور",
+     "ex": "Petra is famous all over the world.",
+     "star": true
+    },
+    {
+     "en": "well-known",
+     "pos": "adj",
+     "ar": "معروف / مشهور",
+     "ex": "Salalah is a well-known tourist city.",
+     "star": false
+    },
+    {
+     "en": "modern",
+     "pos": "adj",
+     "ar": "حديث / عصري",
+     "ex": "Modern cities have tall towers and wide roads.",
+     "star": true
+    },
+    {
+     "en": "foreign",
+     "pos": "adj",
+     "ar": "أجنبي / خارجي",
+     "ex": "She speaks two foreign languages.",
+     "star": false
+    },
+    {
+     "en": "reliable",
+     "pos": "adj",
+     "ar": "موثوق / يُعتمد عليه",
+     "ex": "A reliable source gives true information.",
+     "star": true
+    },
+    {
+     "en": "limited",
+     "pos": "adj",
+     "ar": "محدود",
+     "ex": "We have limited time, so please hurry.",
+     "star": false
+    },
+    {
+     "en": "glorious",
+     "pos": "adj",
+     "ar": "مجيد / رائع",
+     "ex": "The Islamic civilisation has a glorious history.",
+     "star": false
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "The old town is (1)_____ amazing at sunset. Visitors come from many (2)_____ countries to see it, and the town is (3)_____ for its sweet halwa. The local guides are friendly and (4)_____ ready to answer your questions. They also give (5)_____ information about the long history of the town.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "reliable",
+       "famous",
+       "absolutely",
+       "limited"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 2,
+      "options": [
+       "really",
+       "absolutely",
+       "foreign",
+       "definitely"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 3,
+      "options": [
+       "famous",
+       "certainly",
+       "quite",
+       "fairly"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 4,
+      "options": [
+       "foreign",
+       "modern",
+       "definitely",
+       "limited"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 5,
+      "options": [
+       "really",
+       "quite",
+       "reliable",
+       "absolutely"
+      ],
+      "answer": 2
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "The soup was ________ delicious; I could not stop eating.",
+     "options": [
+      "absolutely",
+      "limited",
+      "famous",
+      "fairly"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "'Will you come to my party?' 'Yes, ________!'",
+     "options": [
+      "certainly",
+      "foreign",
+      "modern",
+      "limited"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "q": "The room was ________ big, but not huge.",
+     "options": [
+      "famous",
+      "fairly",
+      "absolutely",
+      "reliable"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 4,
+     "q": "Dubai has many ________ buildings made of glass and steel.",
+     "options": [
+      "modern",
+      "absolutely",
+      "limited",
+      "reliable"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 5,
+     "q": "Do not trust that website; it is not ________.",
+     "options": [
+      "limited",
+      "foreign",
+      "modern",
+      "reliable"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 6,
+     "q": "She wants to study in a ________ country, far from home.",
+     "options": [
+      "glorious",
+      "reliable",
+      "foreign",
+      "limited"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 7,
+     "q": "The museum has only ________ space, so few people can enter.",
+     "options": [
+      "famous",
+      "limited",
+      "glorious",
+      "fairly"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 8,
+     "q": "I ________ enjoyed the concert; it was brilliant.",
+     "options": [
+      "limited",
+      "famous",
+      "really",
+      "modern"
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "id": "U4-L10",
+   "title": "Global Citizenship and Human Rights",
+   "title_ar": "المواطنة العالمية وحقوق الإنسان",
+   "words": [
+    {
+     "en": "global citizen",
+     "pos": "n",
+     "ar": "مواطن عالمي",
+     "ex": "A global citizen cares about people in every country.",
+     "star": false
+    },
+    {
+     "en": "global citizenship",
+     "pos": "n",
+     "ar": "المواطنة العالمية",
+     "ex": "Global citizenship teaches us to respect people everywhere.",
+     "star": false
+    },
+    {
+     "en": "global issues",
+     "pos": "n",
+     "ar": "قضايا عالمية",
+     "ex": "Climate change is one of the biggest global issues.",
+     "star": false
+    },
+    {
+     "en": "human rights",
+     "pos": "n",
+     "ar": "حقوق الإنسان",
+     "ex": "Human rights belong to every person in the world.",
+     "star": false
+    },
+    {
+     "en": "equal rights",
+     "pos": "n",
+     "ar": "حقوق متساوية",
+     "ex": "Boys and girls should have equal rights at school.",
+     "star": false
+    },
+    {
+     "en": "the same rights",
+     "pos": "n",
+     "ar": "نفس الحقوق",
+     "ex": "All citizens have the same rights under the law.",
+     "star": true
+    },
+    {
+     "en": "equality",
+     "pos": "n",
+     "ar": "المساواة",
+     "ex": "Equality means treating everyone fairly.",
+     "star": false
+    },
+    {
+     "en": "equal",
+     "pos": "adj",
+     "ar": "متساوٍ",
+     "ex": "All people are equal in the eyes of the law.",
+     "star": false
+    },
+    {
+     "en": "volunteer",
+     "pos": "n",
+     "ar": "متطوّع",
+     "ex": "She works as a volunteer at the animal shelter.",
+     "star": true
+    },
+    {
+     "en": "charity",
+     "pos": "n",
+     "ar": "جمعية خيرية / عمل خيري",
+     "ex": "Students raised money for a charity that helps children.",
+     "star": false
+    },
+    {
+     "en": "poverty",
+     "pos": "n",
+     "ar": "الفقر",
+     "ex": "Poverty means not having enough money for basic needs.",
+     "star": false
+    },
+    {
+     "en": "reduce poverty",
+     "pos": "phr v",
+     "ar": "يقلّل الفقر",
+     "ex": "Good schools can help to reduce poverty.",
+     "star": false
+    },
+    {
+     "en": "the right to life",
+     "pos": "n",
+     "ar": "الحق في الحياة",
+     "ex": "The right to life belongs to every human being.",
+     "star": true
+    },
+    {
+     "en": "the right to education",
+     "pos": "n",
+     "ar": "الحق في التعليم",
+     "ex": "The right to education means every child can go to school.",
+     "star": true
+    },
+    {
+     "en": "the right to a nationality",
+     "pos": "n",
+     "ar": "الحق في الجنسية",
+     "ex": "The right to a nationality gives a child a country.",
+     "star": true
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "A global (1)_____ cares about problems that affect the whole planet. Such people believe in (2)_____ for everyone, whatever their skin colour or religion. Many give their time as a (3)_____ for a (4)_____ that feeds hungry families. Their aim is to (5)_____ poverty in poor areas.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "sailor",
+       "emperor",
+       "citizen",
+       "architect"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 2,
+      "options": [
+       "decoration",
+       "treasure",
+       "monument",
+       "equality"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 3,
+      "options": [
+       "emperor",
+       "merchant",
+       "volunteer",
+       "sailor"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 4,
+      "options": [
+       "kingdom",
+       "fort",
+       "fleet",
+       "charity"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 5,
+      "options": [
+       "translate",
+       "ignore",
+       "reduce",
+       "sign"
+      ],
+      "answer": 2
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "Every child can go to school because of the right to ________.",
+     "options": [
+      "volunteer",
+      "charity",
+      "education",
+      "poverty"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "q": "Giving food to hungry people is a good act of ________.",
+     "options": [
+      "charity",
+      "poverty",
+      "citizenship",
+      "equality"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "q": "All people are born free and ________.",
+     "options": [
+      "equality",
+      "equals",
+      "equally",
+      "equal"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 4,
+     "q": "She joined the Red Crescent as a ________ to help after the floods.",
+     "options": [
+      "citizen",
+      "charity",
+      "volunteer",
+      "issue"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "q": "Water shortage and pollution are serious global ________.",
+     "options": [
+      "charities",
+      "citizens",
+      "rights",
+      "issues"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 6,
+     "q": "Lack of money for food, housing and health is called ________.",
+     "options": [
+      "poverty",
+      "education",
+      "charity",
+      "equality"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 7,
+     "q": "Laws that protect the basic freedoms of all people are called ________.",
+     "options": [
+      "human rights",
+      "global issues",
+      "poverty",
+      "charity work"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 8,
+     "q": "To help ________ poverty, governments build schools and create jobs.",
+     "options": [
+      "reduce",
+      "apply",
+      "ignore",
+      "mention"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "U4-L11",
+   "title": "The United Nations",
+   "title_ar": "الأمم المتحدة",
+   "words": [
+    {
+     "en": "The United Nations",
+     "pos": "n",
+     "ar": "الأمم المتحدة",
+     "ex": "The United Nations was founded after the Second World War.",
+     "star": true
+    },
+    {
+     "en": "The UN Charter",
+     "pos": "n",
+     "ar": "ميثاق الأمم المتحدة",
+     "ex": "The UN Charter is the founding document of the organisation.",
+     "star": true
+    },
+    {
+     "en": "official languages",
+     "pos": "n",
+     "ar": "اللغات الرسمية",
+     "ex": "The UN has six official languages, including Arabic.",
+     "star": false
+    },
+    {
+     "en": "unofficial",
+     "pos": "adj",
+     "ar": "غير رسمي",
+     "ex": "We had an unofficial meeting before the real one.",
+     "star": false
+    },
+    {
+     "en": "The Secretary General",
+     "pos": "n",
+     "ar": "الأمين العام",
+     "ex": "The Secretary General speaks on behalf of the United Nations.",
+     "star": true
+    },
+    {
+     "en": "sustainable development",
+     "pos": "n",
+     "ar": "التنمية المستدامة",
+     "ex": "Sustainable development protects nature for future generations.",
+     "star": false
+    },
+    {
+     "en": "maintain peace",
+     "pos": "phr v",
+     "ar": "يحافظ على السلام",
+     "ex": "Soldiers from many countries help to maintain peace in some regions.",
+     "star": false
+    },
+    {
+     "en": "friendly relations",
+     "pos": "n",
+     "ar": "علاقات ودّية",
+     "ex": "Oman has friendly relations with many countries.",
+     "star": false
+    },
+    {
+     "en": "international",
+     "pos": "adj",
+     "ar": "دولي",
+     "ex": "The international airport serves flights from many countries.",
+     "star": true
+    },
+    {
+     "en": "organisation",
+     "pos": "n",
+     "ar": "منظمة",
+     "ex": "The Red Crescent is an organisation that helps people.",
+     "star": true
+    },
+    {
+     "en": "global community",
+     "pos": "n",
+     "ar": "المجتمع العالمي",
+     "ex": "The global community must work together to protect the planet.",
+     "star": true
+    },
+    {
+     "en": "environment",
+     "pos": "n",
+     "ar": "البيئة",
+     "ex": "We must protect the environment for our children.",
+     "star": true
+    },
+    {
+     "en": "united",
+     "pos": "adj",
+     "ar": "متّحد / موحَّد",
+     "ex": "The team stayed united even when it was losing.",
+     "star": true
+    },
+    {
+     "en": "universal",
+     "pos": "adj",
+     "ar": "عالمي / شامل",
+     "ex": "Education should be a universal right for all children.",
+     "star": false
+    },
+    {
+     "en": "emergency",
+     "pos": "n",
+     "ar": "طوارئ / حالة طارئة",
+     "ex": "Call 9999 in an emergency.",
+     "star": false
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "The United Nations is an international (1)_____ that was set up in 1945 to (2)_____ peace in the world. It works to build (3)_____ relations between countries and to help people in (4)_____ such as floods and wars. Its six (5)_____ languages include Arabic and English.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "treasure",
+       "monument",
+       "organisation",
+       "kingdom"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 2,
+      "options": [
+       "ignore",
+       "maintain",
+       "estimate",
+       "conquer"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 3,
+      "options": [
+       "friendly",
+       "limited",
+       "unofficial",
+       "ancient"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 4,
+      "options": [
+       "emergencies",
+       "decorations",
+       "treasures",
+       "sculptures"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 5,
+      "options": [
+       "ancient",
+       "unofficial",
+       "official",
+       "wealthy"
+      ],
+      "answer": 2
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "The UN's chief official is called the ________.",
+     "options": [
+      "Architect",
+      "Secretary General",
+      "Emperor",
+      "Ambassador"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 2,
+     "q": "A meeting that is not formal or planned by the government is ________.",
+     "options": [
+      "universal",
+      "unofficial",
+      "international",
+      "united"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 3,
+     "q": "The UN has six ________ languages, such as Arabic, English and French.",
+     "options": [
+      "ancient",
+      "universal",
+      "official",
+      "modern"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "q": "Recycling and saving water help to protect the ________.",
+     "options": [
+      "organisation",
+      "environment",
+      "emergency",
+      "community"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "q": "Football is a ________ game, loved in almost every country.",
+     "options": [
+      "limited",
+      "universal",
+      "unofficial",
+      "reliable"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 6,
+     "q": "A fire or an earthquake is an example of an ________.",
+     "options": [
+      "community",
+      "environment",
+      "organisation",
+      "emergency"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 7,
+     "q": "________ development means growing without harming nature for future generations.",
+     "options": [
+      "Unofficial",
+      "Universal",
+      "Friendly",
+      "Sustainable"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 8,
+     "q": "Countries that cooperate and trade with each other have ________ relations.",
+     "options": [
+      "limited",
+      "ancient",
+      "friendly",
+      "poisonous"
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "id": "U4-L12",
+   "title": "Rights, Rules and Values",
+   "title_ar": "الحقوق والقواعد والقيم",
+   "words": [
+    {
+     "en": "the document",
+     "pos": "n",
+     "ar": "الوثيقة",
+     "ex": "The document lists the basic rights of all people.",
+     "star": true
+    },
+    {
+     "en": "The Universal Declaration",
+     "pos": "n",
+     "ar": "الإعلان العالمي (لحقوق الإنسان)",
+     "ex": "The Universal Declaration of Human Rights has thirty articles.",
+     "star": true
+    },
+    {
+     "en": "article",
+     "pos": "n",
+     "ar": "بند / مادة",
+     "ex": "Each article of the document explains one human right.",
+     "star": false
+    },
+    {
+     "en": "cooperation",
+     "pos": "n",
+     "ar": "تعاون",
+     "ex": "Cooperation between countries can solve big problems.",
+     "star": false
+    },
+    {
+     "en": "cooperate",
+     "pos": "v",
+     "ar": "يتعاون",
+     "ex": "Neighbours should cooperate to keep the street clean.",
+     "star": false
+    },
+    {
+     "en": "work in unity",
+     "pos": "phr v",
+     "ar": "يعمل متّحدين",
+     "ex": "The villagers worked in unity to rebuild the old well.",
+     "star": true
+    },
+    {
+     "en": "sign",
+     "pos": "v",
+     "ar": "يوقّع",
+     "ex": "Leaders sign the agreement at the end of the meeting.",
+     "star": false
+    },
+    {
+     "en": "freedom",
+     "pos": "n",
+     "ar": "الحرية",
+     "ex": "Freedom of speech lets people share their opinions.",
+     "star": false
+    },
+    {
+     "en": "free",
+     "pos": "adj",
+     "ar": "حرّ / مجاني",
+     "ex": "Every person should be free to choose their own religion.",
+     "star": false
+    },
+    {
+     "en": "security",
+     "pos": "n",
+     "ar": "الأمن",
+     "ex": "Guards keep the airport safe, so security is strong.",
+     "star": true
+    },
+    {
+     "en": "peace",
+     "pos": "n",
+     "ar": "السلام",
+     "ex": "After years of war, the two countries finally made peace.",
+     "star": true
+    },
+    {
+     "en": "treat equally",
+     "pos": "phr v",
+     "ar": "يعامل بالتساوي",
+     "ex": "A fair teacher treats all students equally.",
+     "star": false
+    },
+    {
+     "en": "rules",
+     "pos": "n",
+     "ar": "قواعد / قوانين",
+     "ex": "Every game has rules that players must follow.",
+     "star": false
+    },
+    {
+     "en": "revenge",
+     "pos": "n",
+     "ar": "انتقام / ثأر",
+     "ex": "Taking revenge never solves a problem.",
+     "star": false
+    },
+    {
+     "en": "an eye for an eye",
+     "pos": "phr",
+     "ar": "العين بالعين",
+     "ex": "'An eye for an eye' means getting revenge in the same way.",
+     "star": true
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "The Universal Declaration of Human Rights is a (1)_____ with thirty articles. It says that every person is born (2)_____ and equal, and should live in (3)_____ and safety. Governments should follow its (4)_____ and treat all citizens equally. Nations must (5)_____ to protect these rights for everyone.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "treasure",
+       "fleet",
+       "document",
+       "commodity"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 2,
+      "options": [
+       "foreign",
+       "free",
+       "wealthy",
+       "limited"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 3,
+      "options": [
+       "unity",
+       "revenge",
+       "rules",
+       "freedom"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 4,
+      "options": [
+       "articles",
+       "temples",
+       "bricks",
+       "dhows"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 5,
+      "options": [
+       "cooperate",
+       "collapse",
+       "ignore",
+       "conquer"
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "The students ________ the letter to show that they agree.",
+     "options": [
+      "signed",
+      "listed",
+      "mentioned",
+      "treated"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "Players who break the ________ may be sent off the pitch.",
+     "options": [
+      "rules",
+      "security",
+      "peace",
+      "revenge"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "q": "When people ________, they work together to reach a goal.",
+     "options": [
+      "conquer",
+      "ignore",
+      "collapse",
+      "cooperate"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 4,
+     "q": "The country has enjoyed ________ for many years since the war ended.",
+     "options": [
+      "revenge",
+      "document",
+      "peace",
+      "rules"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "q": "Extra ________ was in place at the stadium during the final.",
+     "options": [
+      "security",
+      "revenge",
+      "rules",
+      "freedom"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 6,
+     "q": "After the insult, he wanted ________, but his father told him to forgive.",
+     "options": [
+      "freedom",
+      "cooperation",
+      "revenge",
+      "security"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 7,
+     "q": "Journalists want the ________ to write the truth.",
+     "options": [
+      "freedom",
+      "document",
+      "revenge",
+      "article"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 8,
+     "q": "A fair judge must ________ everyone equally, rich or poor.",
+     "options": [
+      "ignore",
+      "sign",
+      "treat",
+      "estimate"
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "id": "U4-L13",
+   "title": "Word Families and Useful Verbs",
+   "title_ar": "عائلات الكلمات وأفعال مفيدة",
+   "words": [
+    {
+     "en": "respect",
+     "pos": "v",
+     "ar": "يحترم / احترام",
+     "ex": "We should respect our teachers and elders.",
+     "star": true
+    },
+    {
+     "en": "respectable",
+     "pos": "adj",
+     "ar": "جدير بالاحترام / محترم",
+     "ex": "He is a respectable man with an honest job.",
+     "star": false
+    },
+    {
+     "en": "poison",
+     "pos": "n",
+     "ar": "سمّ",
+     "ex": "Poison from the plant made the animal ill.",
+     "star": false
+    },
+    {
+     "en": "poisonous",
+     "pos": "adj",
+     "ar": "سامّ",
+     "ex": "Many mushrooms in the forest are poisonous.",
+     "star": false
+    },
+    {
+     "en": "judge",
+     "pos": "v",
+     "ar": "يحكم على",
+     "ex": "Do not judge a book by its cover.",
+     "star": false
+    },
+    {
+     "en": "realise",
+     "pos": "v",
+     "ar": "يدرك / يفطن",
+     "ex": "I realised that I had left my bag on the bus.",
+     "star": false
+    },
+    {
+     "en": "achieve",
+     "pos": "v",
+     "ar": "يحقّق / ينجز",
+     "ex": "With hard work, you can achieve your goals.",
+     "star": true
+    },
+    {
+     "en": "apply",
+     "pos": "v",
+     "ar": "يطبّق / يتقدّم بطلب",
+     "ex": "You must apply what you learn in class.",
+     "star": false
+    },
+    {
+     "en": "translate",
+     "pos": "v",
+     "ar": "يترجم",
+     "ex": "Can you translate this sentence into Arabic?",
+     "star": false
+    },
+    {
+     "en": "list",
+     "pos": "v",
+     "ar": "يذكر في قائمة / قائمة",
+     "ex": "Please list three reasons for your answer.",
+     "star": true
+    },
+    {
+     "en": "treat",
+     "pos": "v",
+     "ar": "يعامل / يعالج",
+     "ex": "Doctors treat patients with kindness.",
+     "star": false
+    },
+    {
+     "en": "estimate",
+     "pos": "v",
+     "ar": "يقدّر (تقديرًا تقريبيًا)",
+     "ex": "Scientists estimate that the temple is two thousand years old.",
+     "star": false
+    },
+    {
+     "en": "value",
+     "pos": "v",
+     "ar": "يقدّر / قيمة",
+     "ex": "We value honesty more than money.",
+     "star": true
+    },
+    {
+     "en": "suffer from",
+     "pos": "phr v",
+     "ar": "يعاني من",
+     "ex": "Many people suffer from headaches in hot weather.",
+     "star": false
+    },
+    {
+     "en": "ignore",
+     "pos": "v",
+     "ar": "يتجاهل / يغضّ الطرف عن",
+     "ex": "Do not ignore the warning signs on the road.",
+     "star": false
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Be careful when you walk in the desert. Some plants are (1)_____, and children should never touch them. People who (2)_____ from heat can become ill very fast, so they need water and shade. Many travellers (3)_____ the danger too late. Always (4)_____ the guide's advice, and do not (5)_____ the weather reports.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "respectable",
+       "wealthy",
+       "cultured",
+       "poisonous"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 2,
+      "options": [
+       "suffer",
+       "achieve",
+       "translate",
+       "apply"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 3,
+      "options": [
+       "realise",
+       "treat",
+       "list",
+       "translate"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 4,
+      "options": [
+       "estimate",
+       "translate",
+       "respect",
+       "achieve"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 5,
+      "options": [
+       "achieve",
+       "translate",
+       "ignore",
+       "list"
+      ],
+      "answer": 2
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "Please ________ the main ideas in your notebook.",
+     "options": [
+      "list",
+      "suffer",
+      "achieve",
+      "poison"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "The company asked her to ________ the English book into Arabic.",
+     "options": [
+      "translate",
+      "estimate",
+      "judge",
+      "apply"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "q": "It is hard to ________ the age of a tree without cutting it.",
+     "options": [
+      "respect",
+      "suffer",
+      "estimate",
+      "ignore"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "q": "He won the prize because he ________ his goals through hard work.",
+     "options": [
+      "estimated",
+      "ignored",
+      "achieved",
+      "treated"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "q": "We have no right to ________ people by the clothes they wear.",
+     "options": [
+      "judge",
+      "poison",
+      "list",
+      "translate"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 6,
+     "q": "A ________ person behaves well and is respected by the neighbours.",
+     "options": [
+      "respectable",
+      "foreign",
+      "limited",
+      "poisonous"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 7,
+     "q": "Doctors at the clinic ________ sick children for free.",
+     "options": [
+      "treat",
+      "apply",
+      "translate",
+      "list"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 8,
+     "q": "I want to ________ for a job at the new library.",
+     "options": [
+      "ignore",
+      "apply",
+      "realise",
+      "suffer"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "U4-L14",
+   "title": "More Useful Words",
+   "title_ar": "مفردات إضافية مفيدة",
+   "words": [
+    {
+     "en": "within",
+     "pos": "prep",
+     "ar": "خلال / في غضون / ضمن",
+     "ex": "The parcel will arrive within three days.",
+     "star": false
+    },
+    {
+     "en": "know / knew / known",
+     "pos": "v",
+     "ar": "يعرف",
+     "ex": "I have known my best friend for ten years.",
+     "star": true
+    },
+    {
+     "en": "mention",
+     "pos": "v",
+     "ar": "يذكر",
+     "ex": "Did the teacher mention the date of the test?",
+     "star": false
+    },
+    {
+     "en": "live",
+     "pos": "v",
+     "ar": "يعيش",
+     "ex": "Many families live in the old part of the city.",
+     "star": true
+    },
+    {
+     "en": "get married",
+     "pos": "phr v",
+     "ar": "يتزوّج",
+     "ex": "They plan to get married next summer.",
+     "star": true
+    },
+    {
+     "en": "regenerate",
+     "pos": "v",
+     "ar": "يتجدّد / يستعيد نموّه",
+     "ex": "Some plants regenerate quickly after a fire.",
+     "star": false
+    },
+    {
+     "en": "skin",
+     "pos": "n",
+     "ar": "البشرة / الجلد",
+     "ex": "Wear a hat to protect your skin from the sun.",
+     "star": false
+    },
+    {
+     "en": "content",
+     "pos": "n",
+     "ar": "محتوى",
+     "ex": "The content of the website is useful for students.",
+     "star": false
+    },
+    {
+     "en": "character",
+     "pos": "n",
+     "ar": "شخصية / طبع",
+     "ex": "The main character in the story is a brave girl.",
+     "star": false
+    },
+    {
+     "en": "enthusiasm",
+     "pos": "n",
+     "ar": "حماس",
+     "ex": "The students showed great enthusiasm for the trip.",
+     "star": false
+    },
+    {
+     "en": "promote",
+     "pos": "v",
+     "ar": "يشجّع / يروّج لـ / يرقّي",
+     "ex": "The campaign aims to promote healthy eating.",
+     "star": false
+    },
+    {
+     "en": "boutique",
+     "pos": "n",
+     "ar": "متجر صغير للأزياء",
+     "ex": "She bought a scarf at a small boutique.",
+     "star": false
+    },
+    {
+     "en": "ghoul",
+     "pos": "n",
+     "ar": "غول",
+     "ex": "In the old story, a ghoul lived in the dark cave.",
+     "star": false
+    },
+    {
+     "en": "responsible for",
+     "pos": "adj phr",
+     "ar": "مسؤول عن",
+     "ex": "The manager is responsible for the whole team.",
+     "star": false
+    },
+    {
+     "en": "famous for",
+     "pos": "adj phr",
+     "ar": "مشهور بـ",
+     "ex": "Nizwa is famous for its old fort and market.",
+     "star": true
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Nizwa is (1)_____ for its old fort and weekly market. (2)_____ a few minutes' walk of the fort, visitors can find a small (3)_____ that sells traditional clothes. The (4)_____ of the market, with its friendly sellers, is unique. Many visitors show great (5)_____ for the local crafts.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "mention",
+       "responsible",
+       "famous",
+       "promote"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 2,
+      "options": [
+       "Mention",
+       "Promote",
+       "Regenerate",
+       "Within"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 3,
+      "options": [
+       "skin",
+       "character",
+       "ghoul",
+       "boutique"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 4,
+      "options": [
+       "boutique",
+       "ghoul",
+       "character",
+       "skin"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 5,
+      "options": [
+       "skin",
+       "enthusiasm",
+       "ghoul",
+       "boutique"
+      ],
+      "answer": 1
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "We must finish the project ________ two weeks.",
+     "options": [
+      "promote",
+      "live",
+      "within",
+      "mention"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "q": "Please ________ your sources when you write the report.",
+     "options": [
+      "mention",
+      "promote",
+      "live",
+      "regenerate"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "q": "Sunscreen protects your ________ from the sun.",
+     "options": [
+      "content",
+      "character",
+      "skin",
+      "ghoul"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "q": "I have ________ my cousin since we were children.",
+     "options": [
+      "knew",
+      "knowing",
+      "know",
+      "known"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 5,
+     "q": "The website's ________ includes videos, photos and articles.",
+     "options": [
+      "boutique",
+      "skin",
+      "content",
+      "ghoul"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 6,
+     "q": "Honesty is the best part of his ________.",
+     "options": [
+      "character",
+      "enthusiasm",
+      "skin",
+      "boutique"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 7,
+     "q": "The ministry wants to ________ reading among young people.",
+     "options": [
+      "live",
+      "regenerate",
+      "promote",
+      "mention"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 8,
+     "q": "Our manager is ________ for training the new staff.",
+     "options": [
+      "within",
+      "regenerate",
+      "responsible",
+      "enthusiasm"
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ ],
+ "grammar": [
+  {
+   "id": "U4-G1",
+   "title": "Past Passive (was / were + past participle)",
+   "title_ar": "المبني للمجهول في الماضي",
+   "explain": [
+    {
+     "t": "rule",
+     "en": "We make the past passive with was / were + the past participle. Use was with a singular subject and were with a plural subject.",
+     "ar": "نكوّن المبني للمجهول في الماضي بـ was / were + التصريف الثالث للفعل (اسم المفعول). نستخدم was مع المفرد و were مع الجمع."
+    },
+    {
+     "t": "rule",
+     "en": "We use the passive when the action is more important than the person who did it, or when we do not know who did it. We use by + agent only if it is important.",
+     "ar": "نستخدم المبني للمجهول عندما يكون الحدث أهم من الفاعل أو عندما لا نعرف الفاعل. نضيف by + الفاعل فقط إذا كان مهمًّا."
+    },
+    {
+     "t": "table",
+     "title": "Active to passive",
+     "headers": [
+      "Active (past simple)",
+      "Passive (was / were + past participle)"
+     ],
+     "rows": [
+      [
+       "The Egyptians built the pyramids.",
+       "The pyramids were built by the Egyptians."
+      ],
+      [
+       "A king wrote the letter.",
+       "The letter was written by a king."
+      ],
+      [
+       "The Sumerians made clay tablets.",
+       "Clay tablets were made by the Sumerians."
+      ],
+      [
+       "Workers found a gold coin.",
+       "A gold coin was found by workers."
+      ],
+      [
+       "The Romans built roads across Europe.",
+       "Roads were built across Europe."
+      ]
+     ]
+    },
+    {
+     "t": "table",
+     "title": "Useful irregular past participles",
+     "headers": [
+      "Infinitive",
+      "Past simple",
+      "Past participle",
+      "Arabic"
+     ],
+     "rows": [
+      [
+       "build",
+       "built",
+       "built",
+       "يبني"
+      ],
+      [
+       "write",
+       "wrote",
+       "written",
+       "يكتب"
+      ],
+      [
+       "make",
+       "made",
+       "made",
+       "يصنع"
+      ],
+      [
+       "teach",
+       "taught",
+       "taught",
+       "يعلّم"
+      ],
+      [
+       "give",
+       "gave",
+       "given",
+       "يعطي"
+      ],
+      [
+       "find",
+       "found",
+       "found",
+       "يجد"
+      ],
+      [
+       "take",
+       "took",
+       "taken",
+       "يأخذ"
+      ],
+      [
+       "see",
+       "saw",
+       "seen",
+       "يرى"
+      ],
+      [
+       "draw",
+       "drew",
+       "drawn",
+       "يرسم"
+      ],
+      [
+       "break",
+       "broke",
+       "broken",
+       "يكسر"
+      ],
+      [
+       "steal",
+       "stole",
+       "stolen",
+       "يسرق"
+      ],
+      [
+       "choose",
+       "chose",
+       "chosen",
+       "يختار"
+      ]
+     ]
+    },
+    {
+     "t": "examples",
+     "items": [
+      {
+       "en": "The temple was built about 2,000 years ago.",
+       "ar": "بُني المعبد قبل نحو 2000 سنة."
+      },
+      {
+       "en": "The treasure was discovered by an archaeologist.",
+       "ar": "اكتُشف الكنز على يد عالم آثار."
+      },
+      {
+       "en": "The statues were made of stone.",
+       "ar": "صُنعت التماثيل من الحجر."
+      },
+      {
+       "en": "The old map wasn't found until last year.",
+       "ar": "لم يُعثر على الخريطة القديمة إلا في العام الماضي."
+      },
+      {
+       "en": "Was the fort built by the Portuguese? No, it wasn't.",
+       "ar": "هل بُني الحصن على يد البرتغاليين؟ لا."
+      }
+     ]
+    },
+    {
+     "t": "tip",
+     "en": "Negative: wasn't / weren't + past participle. Question: Was / Were + subject + past participle? Do not use did in the passive: The letter was written (NOT The letter did written).",
+     "ar": "النفي: wasn't / weren't + التصريف الثالث. السؤال: Was / Were + الفاعل + التصريف الثالث. لا نستخدم did في المبني للمجهول."
+    }
+   ],
+   "exercises": [
+    {
+     "title": "Exercise 1 — Choose the correct answer",
+     "kind": "choose",
+     "items": [
+      {
+       "n": 1,
+       "q": "The Great Wall [[1]] built over many centuries.",
+       "options": [
+        "was",
+        "were"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "q": "These clay tablets [[2]] found near the river.",
+       "options": [
+        "was",
+        "were"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 3,
+       "q": "The letter was [[3]] by the king himself.",
+       "options": [
+        "wrote",
+        "written"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 4,
+       "q": "Many ships [[4]] built in Sur long ago.",
+       "options": [
+        "were",
+        "was"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "q": "The pyramid [[5]] by thousands of workers.",
+       "options": [
+        "was built",
+        "were built"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 6,
+       "q": "Hieroglyphics were [[6]] on walls and on paper made from papyrus.",
+       "options": [
+        "write",
+        "written"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 7,
+       "q": "The tomb of Tutankhamun was [[7]] in 1922.",
+       "options": [
+        "found",
+        "find"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 8,
+       "q": "[[8]] the temple destroyed by an earthquake?",
+       "options": [
+        "Was",
+        "Were"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "title": "Exercise 2 — Complete the sentences with the past passive",
+     "kind": "fill",
+     "items": [
+      {
+       "n": 1,
+       "q": "The first dhows ________ (build) from wood. (use a plural verb)",
+       "answer": "were built"
+      },
+      {
+       "n": 2,
+       "q": "The pyramids ________ (make) of huge stone blocks.",
+       "answer": "were made"
+      },
+      {
+       "n": 3,
+       "q": "The old coin ________ (find) by a young boy.",
+       "answer": "was found"
+      },
+      {
+       "n": 4,
+       "q": "The museum ________ (open) in 1998 by the mayor.",
+       "answer": "was opened"
+      },
+      {
+       "n": 5,
+       "q": "Many books ________ (write) by hand in the past.",
+       "answer": "were written"
+      },
+      {
+       "n": 6,
+       "q": "The tomb ________ (discover) by Howard Carter.",
+       "answer": "was discovered"
+      },
+      {
+       "n": 7,
+       "q": "The paintings ________ (not / draw) by children.",
+       "answer": "weren't drawn"
+      },
+      {
+       "n": 8,
+       "q": "________ the Colosseum ________ (build) by the Romans? Yes, it was.",
+       "answer": "Was ... built"
+      }
+     ]
+    },
+    {
+     "title": "Exercise 3 — Practice dialogue",
+     "kind": "dialogue",
+     "lines": [
+      {
+       "speaker": "Huda",
+       "text": "Salim, our history teacher showed us a photo of the pyramids. They look amazing!"
+      },
+      {
+       "speaker": "Salim",
+       "text": "Yes! They [[1]] built by the ancient Egyptians more than four thousand years ago."
+      },
+      {
+       "speaker": "Huda",
+       "text": "Who [[2]] the Rosetta Stone found by?"
+      },
+      {
+       "speaker": "Salim",
+       "text": "It was [[3]] by French soldiers in 1799. It helped scholars to read hieroglyphics."
+      },
+      {
+       "speaker": "Huda",
+       "text": "That is interesting. Were the pyramids made of [[4]] bricks or stone?"
+      },
+      {
+       "speaker": "Salim",
+       "text": "Mostly stone. The blocks [[5]] moved by thousands of workers."
+      }
+     ],
+     "items": [
+      {
+       "n": 1,
+       "options": [
+        "was",
+        "were"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 2,
+       "options": [
+        "was",
+        "were"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "options": [
+        "found",
+        "find"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "options": [
+        "clay",
+        "clays"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "options": [
+        "was",
+        "were"
+       ],
+       "answer": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U4-G2",
+   "title": "Second Conditional (If + past simple, would + infinitive)",
+   "title_ar": "الجملة الشرطية الثانية",
+   "explain": [
+    {
+     "t": "rule",
+     "en": "We use the second conditional to talk about imaginary or unlikely situations in the present or future: If + past simple, would + infinitive.",
+     "ar": "نستخدم الجملة الشرطية الثانية للحديث عن مواقف خيالية أو غير محتملة في الحاضر أو المستقبل: If + الماضي البسيط، would + المصدر."
+    },
+    {
+     "t": "table",
+     "title": "Form",
+     "headers": [
+      "If clause (past simple)",
+      "Result clause (would + infinitive)"
+     ],
+     "rows": [
+      [
+       "If I lived in ancient Egypt,",
+       "I would see the pyramids being built."
+      ],
+      [
+       "If she had more money,",
+       "she would buy a dhow."
+      ],
+      [
+       "If we found a treasure,",
+       "we wouldn't keep it."
+      ],
+      [
+       "If they were kings,",
+       "they would help the poor."
+      ]
+     ]
+    },
+    {
+     "t": "rule",
+     "en": "After if we can use were for all persons: If I were a king, ... / If he were an architect, ... The result clause can come first: I would travel to Rome if I had a ticket.",
+     "ar": "بعد if يمكن استخدام were مع جميع الضمائر: If I were a king. يمكن أن تأتي جملة النتيجة أولًا دون فاصلة: I would travel to Rome if I had a ticket."
+    },
+    {
+     "t": "table",
+     "title": "Questions and short answers",
+     "headers": [
+      "Question",
+      "Short answer"
+     ],
+     "rows": [
+      [
+       "What would you do if you found an ancient coin?",
+       "I would give it to a museum."
+      ],
+      [
+       "Would you visit Egypt if you had the chance?",
+       "Yes, I would. / No, I wouldn't."
+      ],
+      [
+       "If you were an archaeologist, where would you work?",
+       "I would work in Oman."
+      ]
+     ]
+    },
+    {
+     "t": "examples",
+     "items": [
+      {
+       "en": "If I were an emperor, I would build schools for everyone.",
+       "ar": "لو كنت إمبراطورًا، لبنيت مدارس للجميع."
+      },
+      {
+       "en": "If we had a time machine, we would visit ancient Rome.",
+       "ar": "لو كان لدينا آلة زمن، لزرنا روما القديمة."
+      },
+      {
+       "en": "She wouldn't be tired if she slept early.",
+       "ar": "لن تكون متعبة لو نامت مبكرًا."
+      },
+      {
+       "en": "What would you do if you discovered a lost city?",
+       "ar": "ماذا ستفعل لو اكتشفت مدينة مفقودة؟"
+      }
+     ]
+    },
+    {
+     "t": "tip",
+     "en": "Do not use would in the if clause: If I had a boat, I would sail. (NOT If I would have a boat). The second conditional is not about real plans; for real possibilities use the first conditional (If it rains, we will stay home).",
+     "ar": "لا نستخدم would بعد if مباشرة. الشرطية الثانية لا تتحدث عن خطط حقيقية؛ أما الاحتمالات الواقعية فنستخدم معها الشرطية الأولى (If + مضارع، will + مصدر)."
+    }
+   ],
+   "exercises": [
+    {
+     "title": "Exercise 1 — Choose the correct answer",
+     "kind": "choose",
+     "items": [
+      {
+       "n": 1,
+       "q": "If I [[1]] a king, I would help poor people.",
+       "options": [
+        "were",
+        "would be"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "q": "If we found an ancient map, we [[2]] it to the museum.",
+       "options": [
+        "would take",
+        "took"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "q": "She would visit Rome if she [[3]] enough money.",
+       "options": [
+        "has",
+        "had"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 4,
+       "q": "If they [[4]] more time, they would finish the model of the pyramid.",
+       "options": [
+        "had",
+        "would have"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "q": "What [[5]] you do if you met an emperor?",
+       "options": [
+        "will",
+        "would"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 6,
+       "q": "If he were an architect, he [[6]] a beautiful mosque.",
+       "options": [
+        "would design",
+        "designed"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 7,
+       "q": "If the weather [[7]] cooler, we would play outside.",
+       "options": [
+        "were",
+        "would be"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 8,
+       "q": "I [[8]] be scared if I saw a snake in the desert.",
+       "options": [
+        "would",
+        "will"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "title": "Exercise 2 — Complete the sentences",
+     "kind": "fill",
+     "items": [
+      {
+       "n": 1,
+       "q": "If I ________ (be) an archaeologist, I would travel to Egypt.",
+       "answer": "were / was"
+      },
+      {
+       "n": 2,
+       "q": "If she ________ (have) a boat, she would sail to Zanzibar.",
+       "answer": "had"
+      },
+      {
+       "n": 3,
+       "q": "We ________ (visit) the pyramids if we had a holiday in Egypt.",
+       "answer": "would visit"
+      },
+      {
+       "n": 4,
+       "q": "If they found gold, they ________ (not / keep) it.",
+       "answer": "wouldn't keep"
+      },
+      {
+       "n": 5,
+       "q": "What ________ you ________ (do) if you won a prize?",
+       "answer": "would ... do"
+      },
+      {
+       "n": 6,
+       "q": "If it ________ (not / be) so hot, we would walk to the fort.",
+       "answer": "weren't"
+      },
+      {
+       "n": 7,
+       "q": "He ________ (learn) hieroglyphics if he lived in ancient Egypt.",
+       "answer": "would learn"
+      },
+      {
+       "n": 8,
+       "q": "If you ________ (know) the answer, would you tell me?",
+       "answer": "knew"
+      }
+     ]
+    },
+    {
+     "title": "Exercise 3 — Practice dialogue",
+     "kind": "dialogue",
+     "lines": [
+      {
+       "speaker": "Maryam",
+       "text": "Aisha, what would you do if you [[1]] a time machine?"
+      },
+      {
+       "speaker": "Aisha",
+       "text": "If I had one, I [[2]] visit ancient Rome and watch the gladiators."
+      },
+      {
+       "speaker": "Maryam",
+       "text": "Really? I would go to Egypt. If I [[3]] there, I would see the pyramids being built."
+      },
+      {
+       "speaker": "Aisha",
+       "text": "That sounds great. Would you stay there for a long time?"
+      },
+      {
+       "speaker": "Maryam",
+       "text": "No, I [[4]]. I would miss my family too much."
+      },
+      {
+       "speaker": "Aisha",
+       "text": "Me too! If I were you, I [[5]] a photo of everything and come back soon."
+      }
+     ],
+     "items": [
+      {
+       "n": 1,
+       "options": [
+        "had",
+        "would have"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "options": [
+        "would",
+        "will"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "options": [
+        "were",
+        "would be"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "options": [
+        "wouldn't",
+        "won't"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "options": [
+        "would take",
+        "took"
+       ],
+       "answer": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U4-G3",
+   "title": "Adjectives + Prepositions",
+   "title_ar": "الصفات + حروف الجر",
+   "explain": [
+    {
+     "t": "rule",
+     "en": "Many adjectives are followed by a fixed preposition. You must learn the adjective and its preposition together. After the preposition use a noun, a pronoun or the -ing form.",
+     "ar": "كثير من الصفات يتبعها حرف جر ثابت، ويجب حفظ الصفة مع حرف الجر معًا. بعد حرف الجر نستخدم اسمًا أو ضميرًا أو الفعل مع ing."
+    },
+    {
+     "t": "table",
+     "title": "Adjective + preposition",
+     "headers": [
+      "Adjective + preposition",
+      "Arabic",
+      "Example"
+     ],
+     "rows": [
+      [
+       "sorry about",
+       "آسف على / حزين بشأن",
+       "We are sorry about the delay."
+      ],
+      [
+       "interested in",
+       "مهتم بـ",
+       "I am interested in ancient history."
+      ],
+      [
+       "scared of",
+       "مرعوب من",
+       "She is scared of spiders."
+      ],
+      [
+       "responsible for",
+       "مسؤول عن",
+       "The guide is responsible for the group."
+      ],
+      [
+       "famous for",
+       "مشهور بـ",
+       "Egypt is famous for its pyramids."
+      ],
+      [
+       "surprised at",
+       "مندهش من",
+       "He was surprised at the news."
+      ],
+      [
+       "amazed at",
+       "مندهش من",
+       "We were amazed at the size of the temple."
+      ],
+      [
+       "kind to",
+       "عطوف على",
+       "Be kind to animals."
+      ],
+      [
+       "proud of",
+       "فخور بـ",
+       "Omar is proud of his country."
+      ],
+      [
+       "bored with",
+       "سئم من / متضجّر من",
+       "I am bored with this game."
+      ],
+      [
+       "different from",
+       "مختلف عن",
+       "Modern life is different from life in the past."
+      ],
+      [
+       "involved in",
+       "مشغول بـ / مشترك في",
+       "Many workers were involved in the project."
+      ],
+      [
+       "great at",
+       "عظيم في / بارع في",
+       "She is great at drawing."
+      ],
+      [
+       "stuffed with",
+       "ممتلئ بـ",
+       "The bag was stuffed with old coins."
+      ],
+      [
+       "brilliant at",
+       "بارع في",
+       "He is brilliant at maths."
+      ],
+      [
+       "delighted with",
+       "مسرور من",
+       "They were delighted with the result."
+      ]
+     ]
+    },
+    {
+     "t": "examples",
+     "items": [
+      {
+       "en": "Salalah is famous for its frankincense.",
+       "ar": "صلالة مشهورة باللبان."
+      },
+      {
+       "en": "The students are interested in learning about the Sumerians.",
+       "ar": "الطلاب مهتمون بالتعلم عن السومريين."
+      },
+      {
+       "en": "The king was proud of his strong fleet.",
+       "ar": "كان الملك فخورًا بأسطوله القوي."
+      },
+      {
+       "en": "Who is responsible for this museum?",
+       "ar": "من المسؤول عن هذا المتحف؟"
+      }
+     ]
+    },
+    {
+     "t": "tip",
+     "en": "Surprised at / amazed at have the same meaning. Different from is correct in British English (different to is also used). Do not translate the Arabic preposition word for word: interested IN (not interested of), scared OF.",
+     "ar": "surprised at و amazed at لهما المعنى نفسه. لا نترجم حرف الجر حرفيًّا من العربية، فنقول interested in وليس interested of، و scared of."
+    }
+   ],
+   "exercises": [
+    {
+     "title": "Exercise 1 — Choose the correct preposition",
+     "kind": "choose",
+     "items": [
+      {
+       "n": 1,
+       "q": "Omar is interested [[1]] collecting old coins.",
+       "options": [
+        "in",
+        "at",
+        "of"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "q": "My sister is brilliant [[2]] solving puzzles.",
+       "options": [
+        "at",
+        "with",
+        "for"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "q": "Many people were involved [[3]] the search for the lost ship.",
+       "options": [
+        "on",
+        "in",
+        "to"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 4,
+       "q": "Oman is famous [[4]] its forts and beaches.",
+       "options": [
+        "for",
+        "of",
+        "about"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "q": "Who is responsible [[5]] cleaning the classroom today?",
+       "options": [
+        "to",
+        "for",
+        "at"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 6,
+       "q": "I wasn't surprised [[6]] the result because he had studied hard.",
+       "options": [
+        "at",
+        "for",
+        "in"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 7,
+       "q": "We are very sorry [[7]] losing your book.",
+       "options": [
+        "of",
+        "with",
+        "about"
+       ],
+       "answer": 2
+      },
+      {
+       "n": 8,
+       "q": "The team was delighted [[8]] winning the cup.",
+       "options": [
+        "with",
+        "of",
+        "to"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 9,
+       "q": "Please be kind [[9]] new students.",
+       "options": [
+        "with",
+        "to",
+        "of"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 10,
+       "q": "Life in a village is different [[10]] life in a city.",
+       "options": [
+        "from",
+        "of",
+        "with"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "title": "Exercise 2 — Complete with the correct preposition",
+     "kind": "fill",
+     "bank": [
+      "at",
+      "of",
+      "for",
+      "with",
+      "in",
+      "from",
+      "to",
+      "about"
+     ],
+     "items": [
+      {
+       "n": 1,
+       "q": "The little girl is scared ________ the dark.",
+       "answer": "of"
+      },
+      {
+       "n": 2,
+       "q": "Egypt is famous ________ its ancient pyramids.",
+       "answer": "for"
+      },
+      {
+       "n": 3,
+       "q": "We were amazed ________ the beauty of the temple.",
+       "answer": "at"
+      },
+      {
+       "n": 4,
+       "q": "Are you bored ________ this long film?",
+       "answer": "with / of"
+      },
+      {
+       "n": 5,
+       "q": "He is proud ________ his grandfather, who was a sailor.",
+       "answer": "of"
+      },
+      {
+       "n": 6,
+       "q": "The old bag was stuffed ________ clay tablets.",
+       "answer": "with"
+      },
+      {
+       "n": 7,
+       "q": "She is great ________ painting pictures of forts.",
+       "answer": "at"
+      },
+      {
+       "n": 8,
+       "q": "Life in ancient times was very different ________ life today.",
+       "answer": "from"
+      },
+      {
+       "n": 9,
+       "q": "Many people were involved ________ building the dam.",
+       "answer": "in"
+      },
+      {
+       "n": 10,
+       "q": "The teacher was sorry ________ the mistake on the board.",
+       "answer": "about / for"
+      }
+     ]
+    },
+    {
+     "title": "Exercise 3 — Practice dialogue",
+     "kind": "dialogue",
+     "lines": [
+      {
+       "speaker": "Yousef",
+       "text": "Noor, are you interested [[1]] the history of Oman?"
+      },
+      {
+       "speaker": "Noor",
+       "text": "Yes, very much. I am proud [[2]] my country's long history."
+      },
+      {
+       "speaker": "Yousef",
+       "text": "Me too. Nizwa is famous [[3]] its fort and market."
+      },
+      {
+       "speaker": "Noor",
+       "text": "I was amazed [[4]] the size of the fort when I visited it last year."
+      },
+      {
+       "speaker": "Yousef",
+       "text": "Who is responsible [[5]] looking after such old buildings?"
+      },
+      {
+       "speaker": "Noor",
+       "text": "The Ministry of Heritage and Tourism does that important job."
+      }
+     ],
+     "items": [
+      {
+       "n": 1,
+       "options": [
+        "in",
+        "at"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "options": [
+        "of",
+        "with"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "options": [
+        "for",
+        "of"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "options": [
+        "at",
+        "for"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "options": [
+        "for",
+        "to"
+       ],
+       "answer": 0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

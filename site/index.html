@@ -270,7 +270,7 @@ td .mini{width:100%}
 <div class="gate" id="gate" hidden>
   <div class="box">
     <svg viewBox="0 -4 200 186" id="glogo"></svg>
-    <h2 style="font-size:26px;margin-top:6px">English <span style="color:var(--orange)">Summit</span> 11</h2>
+    <h2 style="font-size:26px;margin-top:6px">English <span style="color:var(--orange)">Summit</span> 10</h2>
     <p class="ar" style="margin:4px 0 12px">منصة قمة الإنجليزي · الصف الحادي عشر · الفصل الأول</p>
     <div id="gstep-login">
       <p class="small">Log in with the username and password from your teacher.<br><span class="ar">ادخل باسم المستخدم وكلمة المرور من معلمك.</span></p>
@@ -294,7 +294,7 @@ td .mini{width:100%}
 </div>
 
 <header class="top"><div class="in">
-  <a class="brand" href="#HUB"><span class="lg"><svg viewBox="0 -4 200 186" id="hlogo"></svg></span><b>English <span>Summit</span> 11</b></a>
+  <a class="brand" href="#HUB"><span class="lg"><svg viewBox="0 -4 200 186" id="hlogo"></svg></span><b>English <span>Summit</span> 10</b></a>
   <div class="tright"><span id="who" class="who" hidden></span><a href="#HW" id="bell" class="bell" title="My homework and messages" aria-label="Messages">🔔<i hidden>0</i></a><a href="#LOGOUT" class="lout" title="Log out">⎋ Log out</a></div>
   <nav class="nv" id="nav">
     <a href="#HUB" data-r="HUB">Home</a><a href="#HW" data-r="HW">My Homework</a><a href="#THEMES" data-r="THEMES">Themes</a><a href="#WRITE" data-r="WRITE">Writing Lab</a><a href="#PRACTICE" data-r="PRACTICE">Exam Practice</a><a href="#EXAMS" data-r="EXAMS">Exams</a><a href="#LIVE" data-r="LIVE">Live</a><a href="#SKILLS" data-r="SKILLS">My Skills</a>
@@ -1082,7 +1082,7 @@ async function teacherStudents(box){
    ${S.map(s => `<tr data-code="${esc(s.code)}" class="trow"><td><b>${esc(s.name || '—')}</b><div class="small muted">${esc(s.code)}</div></td><td>${ago(s.last_seen)}</td><td>${Math.round((s.minutes || 0))} min</td><td>${s.activities}</td>
      ${Object.keys(SKN).map(k => `<td>${k === 'writing' ? (s.writing_avg == null ? '<span class="muted">–</span>' : `<b>${s.writing_avg}/10</b>`) : pc(s.skills[k] && s.skills[k].pct)}</td>`).join('')}<td>${s.words_mastered}/${s.words_seen}</td><td>${s.hw_done}/${s.hw_total}</td></tr>`).join('')}</table></div>`;
   box.querySelectorAll('.trow').forEach(r => r.onclick = () => { TSTU = r.dataset.code; route(); });
-  $('#tcsv').onclick = () => csvDownload('English_Summit_11_students.csv', [['Name','Code','Last seen','Minutes','Logins','Activities','Vocabulary %','Grammar %','Listening %','Reading %','Writing (rating /10)','Words mastered','Homework done','Homework total'],
+  $('#tcsv').onclick = () => csvDownload('English_Summit_10_students.csv', [['Name','Code','Last seen','Minutes','Logins','Activities','Vocabulary %','Grammar %','Listening %','Reading %','Writing (rating /10)','Words mastered','Homework done','Homework total'],
     ...S.map(s => [s.name, s.code, s.last_seen ? new Date(s.last_seen).toLocaleString('en-GB') : '', s.minutes || 0, s.logins || 0, s.activities, ...['vocab','grammar','listening','reading'].map(k => s.skills[k] ? s.skills[k].pct : ''), s.writing_avg ?? '', s.words_mastered, s.hw_done, s.hw_total])]);
 }
 async function teacherProfile(box, code){
@@ -1892,7 +1892,7 @@ function home(){
    <div class="hgrid">
     ${card('#HW', '📝', 'My Homework', 'واجباتي', hwOpen.length ? `${hwOpen.length} to do` : 'All done ✔', 'var(--orange)', null)}
     ${card('#THEMES', '🏔', 'Themes', 'الثيمات', 'Words · grammar · games · theme tests', 'var(--t1)', Math.round([1,2,3,4].reduce((a, n) => a + themeProgress(n), 0) / 4))}
-    ${card('#WRITE', '✍', 'Writing Lab', 'مختبر الكتابة', 'Essays & e-mails in 9 stages · AI marking', 'var(--wr)', Math.round(100 * wlDone / (WT.length * WSTAGES.length)))}
+    ${card('#WRITE', '✍', 'Writing Lab', 'مختبر الكتابة', 'Chart & e-mails in 9 stages · AI marking', 'var(--wr)', Math.round(100 * wlDone / (WT.length * WSTAGES.length)))}
     ${card('#PRACTICE', '🎯', 'Exam Practice', 'تدريب الامتحان', 'Listening · Grammar & Vocab · Reading · Writing', 'var(--t3)', null)}
     ${card('#EXAMS', '📄', 'Exams', 'الاختبارات', '10 full model exams', 'var(--ex)', null)}
     ${card('#LIVE', '🎥', 'Live classes', 'الحصص المباشرة', nextLive ? 'Next: ' + fmtWhen(nextLive.starts) : 'No class scheduled', 'var(--t4)', null)}

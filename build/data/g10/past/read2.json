@@ -1,0 +1,659 @@
+[
+ {
+  "id": "R2-01",
+  "session": "G. 10 Sem I 1st Session 2025-2026",
+  "title": "",
+  "passage": [
+   "I believe that the Maya civilization was an advanced society. It began in 2000 BC and lasted for 3500 years. Maya people were good at farming, building stone buildings and pyramids. They lived in places like Mexico, Guatemala, and northern Belize. For me, one of the amazing things about the Maya was their buildings. They built stone buildings and pyramids for ceremonies and watching the sky. They used materials like limestone, sandstone, and stucco. Some of their most famous buildings are El Castillo and Canaa Pyramid. Building El Castillo was completed in 1050 AD in Chichen Itza city, and it has 91 steps on each side. The Canaa Pyramid is the tallest building in the city of Belize. It is about 43 meters high.",
+   "The pyramid was used by kings for special events and ceremonies. Another amazing thing about the Maya was their study of the stars. They created two calendars to record months: Haab' and Tzolk'in. The Haab' was known as the solar calendar and it was a system of 365-day with 18 months, each with 20 days. It was used for agriculture, so they could know when to plant crops. On the other hand, Tzolk'in is a 260-day calendar, divided into 13 numbers and 20-day names. It was used for religious ceremonies and predicting lucky days.",
+   "Moreover, the Maya were very smart farmers. They made steps on hills, called terraces, to stop soil loss. This idea helped them grow many crops such as corn, beans, and sweet potatoes. Their farming methods show how well they understood nature and how to take care of it.",
+   "The Maya also had a very good writing system. They used glyphs, which are small pictures and symbols. These glyphs helped them write about history, stories, and important records. The Maya carved their writing on stone and wrote on paper made from tree bark. However, the Maya did not use writing for everyday speaking. They spoke their language, but they did not write down conversations.",
+   "The Maya civilization did not disappear because Maya families and their children continued to live in Central America. In 1839, John Stephens was one of the first people to visit and study the old Maya cities. Stephens wrote books about the buildings, pyramids, and carvings he saw. Before Stephens, the Spanish had come to these lands. They saw some Maya ruins, but they did not understand them or study them. The Spanish were more focused on taking control of the land.",
+   "The Maya civilization was very advanced. They were great builders, farmers, and thinkers. Their knowledge and culture are still important today, and they deserve respect for all they achieved."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "When did the Maya civilization start?",
+    "hint": "(year)",
+    "answer": "(In) 2000 BC"
+   },
+   {
+    "n": 2,
+    "q": "What materials did they use in building the pyramids?",
+    "hint": "(List one)",
+    "answer": "limestone/sandstone/stucco"
+   },
+   {
+    "n": 3,
+    "q": "Where did the Maya build the Canaa Pyramid?",
+    "hint": "(city)",
+    "answer": "Belize"
+   },
+   {
+    "n": 4,
+    "q": "How many months are in Haab' calendar?",
+    "hint": "",
+    "answer": "18 (months)"
+   },
+   {
+    "n": 5,
+    "q": "What did the Maya use the Tzolk'in calendar for?",
+    "hint": "(List one)",
+    "answer": "Religious ceremonies/predicting lucky days"
+   },
+   {
+    "n": 6,
+    "q": "Who was the first to study the Maya?",
+    "hint": "",
+    "answer": "John/Stephens/John Stephens"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Terraces helped in growing different crops.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "The Maya used pictures and symbols in their writing system.",
+    "answer": true
+   },
+   {
+    "n": 9,
+    "statement": "Maya people wrote their conversation.",
+    "answer": false
+   },
+   {
+    "n": 10,
+    "statement": "The Spanish saw Maya's ruins.",
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "R2-02",
+  "session": "G. 10 Sem I 2nd Session 2025-2026",
+  "title": "",
+  "passage": [
+   "The mantis shrimp are colourful and small sea creatures that lives in warm oceans. Many people believe that shrimp are weak and harmless creatures, but the mantis shrimp proves this idea wrong. It has very strong claws, as well as special eyes. The claws are used to attack small creatures with so much power that they can break the shells of crabs. Mantis shrimp are also amazing for their eyes because they can move independently.",
+   "Mantis shrimp lived safely in oceans around Southeast Asia and the Indo-Pacific. They preferred rocky coral reefs as the reefs gave them homes and food. So, their populations were healthy and strong. However, in 1995, scientists started to notice the effect of climate change on ocean life. Rising ocean temperatures have caused coral to lose their colour and die. This destroyed the reefs that mantis shrimp depended on for protection and hunting grounds. Without healthy reefs, mantis shrimp had fewer places to hide from dangers.",
+   "I believe that life in the past was easier for mantis shrimp. Coral reefs were strong, and young shrimps could grow safely. Scientists found that - many years ago - more than 70% of mantis shrimp populations lived in healthy coral reef systems. They lived in large numbers and showed interesting actions, like fights for places recorded up to 15 times a day in some reef areas.",
+   "Currently, with coral loss and warmer seas, their lives are changing. Over the past three decades, global coral cover has declined by nearly 50%, mainly due to rising ocean temperatures. Because of this, mantis shrimp have smaller homes and fight more often than before. These changes are serious threats, as they reduce mantis shrimp's population.",
+   "I think that the continuous climate change will make the future of mantis shrimp difficult. In some areas, they might disappear completely. They may try to move to deeper or cooler waters, but this will change the balance of the ocean food chain. Because many mantis shrimps live in coral reefs at depths of 40 meters, when those waters heat; the mantis shrimp may try to move to deeper places towards cooler reefs. However, deeper and cooler waters provide too little food for mantis shrimp such as crabs and snails, so mantis shrimp may find it hard to live there.",
+   "In conclusion, there is still hope if people help. If we make less air pollution, the Earth will not get so hot. Cleaning the oceans and protecting coral reefs can help mantis shrimp survive. When we save the reefs, we also help many other sea creatures."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What do the mantis shrimps use to break shells?",
+    "hint": "",
+    "answer": "Their strong claws"
+   },
+   {
+    "n": 2,
+    "q": "Why are mantis shrimp eyes amazing? Because ________",
+    "hint": "",
+    "answer": "they move independently"
+   },
+   {
+    "n": 3,
+    "q": "What type of coral reefs do mantis shrimp prefer to live in?",
+    "hint": "",
+    "answer": "Rocky coral reefs"
+   },
+   {
+    "n": 4,
+    "q": "When did scientists notice the effect of climate change?",
+    "hint": "(year)",
+    "answer": "1995"
+   },
+   {
+    "n": 5,
+    "q": "How many daily fights for places happened in reefs?",
+    "hint": "",
+    "answer": "15 times a day"
+   },
+   {
+    "n": 6,
+    "q": "How deep may mantis shrimp move to find cooler reefs?",
+    "hint": "",
+    "answer": "40 meters"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Smaller places make mantis shrimp fight less.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Mantis shrimp moving deeper can change the ocean food chain.",
+    "answer": true
+   },
+   {
+    "n": 9,
+    "statement": "Cooler habitats might have enough food for mantis shrimp.",
+    "answer": false
+   },
+   {
+    "n": 10,
+    "statement": "Humans can save mantis shrimp population by cleaning the oceans.",
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "R2-03",
+  "session": "G. 10 Sem I 1st Session 2024-2025",
+  "title": "",
+  "passage": [
+   "Magazines have been an important part of the media landscape for decades. From fashion and health to technology and news, they have covered a wide range of topics. However, with the rise of the internet, many people wonder if magazines are still relevant today. Despite facing challenges, both versions of print and digital magazines continue to play a significant role in providing information, entertainment, and education.",
+   "One major change in the magazine industry is the shift from print to digital. In recent years, many magazines that were once only available in print, have digital versions that can be read on smartphones, tablets, and computers. This digital shift has allowed magazines to reach a wider audience. The first digital magazine called 'Electric Word' was published in 1985 by Goldcrest Publishing in the UK. It was on a floppy disk and talked about technology and digital culture. This was the start of digital magazines. Today, digital magazines have become more convenient, as readers can read them anytime and anywhere. Additionally, their interactive features make the reading experience more engaging.",
+   "However, the transition to digital magazine has not been easy. Many print magazines have experienced a decline in sales. As a result, some magazines have had to close down, and others have printed fewer copies. For the magazines that are still printed, they focus on high-quality content that is different from what you can find online. Specialised print magazines that target young audiences, focusing on hobbies, lifestyle, or professional interests, have remained popular.",
+   "Despite these challenges, print magazines offer some advantages over other forms of media. They provide detailed articles which can be more reliable than quick online articles. Many readers also appreciate the physical experience of flipping pages through a print magazine which cannot be found in digital forms.",
+   "In terms of advertising, magazines still hold value. Advertisements in print magazines are often seen as more valuable compared to online advertisements. Additionally, magazine readers tend to spend more time reading and engaging with the content, which means they are more likely to see and respond to advertisements.",
+   "In conclusion, even though magazines have faced challenges in the digital age, they are still important. Both print and digital magazines have their own unique benefits, and readers continue to enjoy them for various reasons. As technology continues to develop, magazines will likely adapt further, offering new ways to engage and inform their audiences."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What allowed magazines to reach a wider audience?",
+    "hint": "",
+    "answer": "(the) digital shift"
+   },
+   {
+    "n": 2,
+    "q": "When was the first online magazine published?",
+    "hint": "",
+    "answer": "1985"
+   },
+   {
+    "n": 3,
+    "q": "How was the first digital magazine in the UK distributed?",
+    "hint": "",
+    "answer": "On floppy disks"
+   },
+   {
+    "n": 4,
+    "q": "What makes digital magazines more engaging?",
+    "hint": "",
+    "answer": "Interactive features"
+   },
+   {
+    "n": 5,
+    "q": "Why did some print magazines close down? Because of ________",
+    "hint": "",
+    "answer": "a decline in sales"
+   },
+   {
+    "n": 6,
+    "q": "Who do specialised print magazines target?",
+    "hint": "",
+    "answer": "Young audiences"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Print magazines provide detailed articles.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "According to the text, readers can flip pages in digital magazines.",
+    "answer": false
+   },
+   {
+    "n": 9,
+    "statement": "Advertisements are still valuable in print magazines.",
+    "answer": true
+   },
+   {
+    "n": 10,
+    "statement": "Print magazines do not have any unique benefits.",
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "R2-04",
+  "session": "G. 10 Sem I 2nd Session 2024-2025",
+  "title": "",
+  "passage": [
+   "Polar bears are large white bears that live in the Arctic region. They are known for their thick fur and ability to swim in icy waters. However, climate change is having a serious effect on polar bears and their environment. This text will evaluate how climate change impacts these animals.",
+   "The main harmful effect of climate change on polar bears is the melting of sea ice. As temperatures rise, the ice melts earlier in spring and forms later in autumn. This means polar bears have less time to hunt and they may struggle to find enough food as they depend mainly on seals leading to weight loss and poor health. In fact, scientific studies have shown that some polar bears are experiencing high rates of starvation due to less hunting opportunities.",
+   "Climate change also disturbs the polar bears' breeding patterns. Female polar bears need solid ice to build houses for their cubs. If the ice melts too soon, mothers may not find safe places to raise their babies. Polar bears usually give birth to 1 to 3 cubs each time, with 2 cubs being the most common. This can lead to fewer cubs surviving which affects the entire population of polar bears. Additional to climate change, there are biological factors affecting their breeding factors such as the mother's age and health.",
+   "Furthermore, climate change also forces polar bears to swim longer distances. As the ice disappears, they must travel farther to find solid ice or food. Studies indicate that some polar bears have been spotted swimming over 60 miles to find ice, which can make them tired and reduce their chances of survival. Polar bears prefer swimming individually, while other Arctic animals such as penguins and seals swim in groups.",
+   "Local people in the Arctic depend on polar bears for food and clothes. Therefore, the decline in their numbers can threaten the life of local people. They use the fur of polar bears to make heavy coats, boots and blankets to help them survive in the cold weather. Moreover, polar bears play an important role in the cultural practice of the local people in the Arctic. For example, they decorate their houses with the teeth and claws of polar bears to show power and to protect them from bad luck.",
+   "In conclusion, climate change has a major impact on polar bears. Melting ice, changing breeding patterns, and increased swimming distances are some of the challenges they face. To protect polar bears and their habitat, we must take actions to reduce the effects of climate change to ensure a sustainable future for these animals."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What is the main harmful impact of climate change on polar bears? The ________",
+    "hint": "",
+    "answer": "melting of sea ice"
+   },
+   {
+    "n": 2,
+    "q": "What type of animals do polar bears hunt?",
+    "hint": "",
+    "answer": "seals"
+   },
+   {
+    "n": 3,
+    "q": "Why do some polar bears experience starvation? Because of ________",
+    "hint": "",
+    "answer": "less hunting opportunities/less time to hunt/struggle to find food/melting sea ice/temperatures rise"
+   },
+   {
+    "n": 4,
+    "q": "How many cubs do polar bears most commonly give birth to?",
+    "hint": "",
+    "answer": "2 cubs"
+   },
+   {
+    "n": 5,
+    "q": "What biological factors affect polar bears breeding?",
+    "hint": "(list one)",
+    "answer": "mother's age/health"
+   },
+   {
+    "n": 6,
+    "q": "How many miles do some polar bears swim to find ice?",
+    "hint": "",
+    "answer": "over 60 miles"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Polar bears swim in groups.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Local people in the Arctic catch polar bears for food only.",
+    "answer": false
+   },
+   {
+    "n": 9,
+    "statement": "The fur of polar bears is used to make boots in the Arctic.",
+    "answer": true
+   },
+   {
+    "n": 10,
+    "statement": "Arctic people use polar bears' claws to protect them from bad luck.",
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "R2-05",
+  "session": "G. 10 Sem I 1st Session 2023-2024",
+  "title": "",
+  "passage": [
+   "Elon Musk is an American entrepreneur who has made a significant impact on the world in various fields, including technology, aerospace, and transportation. He is recognized by his high intelligence that helps him succeed in making new creations.",
+   "Musk's journey began in Pretoria city in South Africa, where he was born on June 28, 1971. He showed an early interest in computers and technology and learned how to program at the age of twelve. At the age of seventeen, he moved to Canada to study physics and economics at Queen's University. He transferred later to the University of Pennsylvania, where he earned bachelor's degrees in both fields. After graduating, Musk moved to California to earn a doctorate degree in applied physics at Stanford University. However, he dropped out after just two days to start his own businesses.",
+   "His first successful business was Zip2, a company that provides maps and business directories to online newspapers. He sold Zip2 to Compaq Computers in 1999 for 307 million dollars. Musk's next business was forming PayPal. PayPal has become a very successful online payment platform, and Musk was its CEO until 2002. In that same year, Musk founded SpaceX, a company with the ambitious goal of making space travel cheaper and accessible to everyone. SpaceX has succeeded in developing reusable rockets and launching cargo to the International Space Station.",
+   "In 2004, Musk started investing in Tesla, an electric car company that was founded earlier in 2003. He became Tesla's CEO in 2008. Under his leadership, the company has become the world's leading manufacturer of electric vehicles. Tesla's cars are known for their beautiful design and advanced technology.",
+   "Musk's vision extends far beyond electric cars and space travel. He is the co-founder of OpenAI and Neuralink companies, which aim at producing safe technologies for humanity. OpenAI researches the use of artificial intelligence (AI) to develop machine learning, while Neuralink develops brain-machine interfaces (BMIs) that enable human interaction with machines. Also, Musk has been a strong supporter of education that he has donated millions of dollars to several educational institutions.",
+   "To sum, Elon Musk is a visionary businessman who has made significant contributions to several fields. His companies are at the front of innovation, and his work is helping to shape the future of the world. He is a real inspiration to the world."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "Where was Elon Musk born?",
+    "hint": "(country)",
+    "answer": "South Africa"
+   },
+   {
+    "n": 2,
+    "q": "How old was Musk when he learned computer programming?",
+    "hint": "",
+    "answer": "(age of) 12/twelve (years old)"
+   },
+   {
+    "n": 3,
+    "q": "Which fields did Musk study at Queen's University?",
+    "hint": "",
+    "answer": "physics and economics (accept both or one)"
+   },
+   {
+    "n": 4,
+    "q": "Why did Musk drop out of Stanford University?",
+    "hint": "",
+    "answer": "(to) start (his own) businesses"
+   },
+   {
+    "n": 5,
+    "q": "What was Musk's first successful business?",
+    "hint": "",
+    "answer": "Zip2/(company for maps & business directories)"
+   },
+   {
+    "n": 6,
+    "q": "When did Musk found SpaceX company?",
+    "hint": "",
+    "answer": "(in) 2002"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "SpaceX was not successful in developing reusable rockets.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Musk became the CEO of Tesla in 2008.",
+    "answer": true
+   },
+   {
+    "n": 9,
+    "statement": "Neuralink and OpenAI companies produce safe technologies for humans.",
+    "answer": true
+   },
+   {
+    "n": 10,
+    "statement": "Millions of dollars have been donated by Elon Musk to healthcare institutions.",
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "R2-06",
+  "session": "G. 10 Sem I 2nd Session 2023-2024",
+  "title": "",
+  "passage": [
+   "Climate change refers to long-term changes in temperature and weather patterns on Earth. It is mainly caused by human activities that release large amounts of greenhouse gases into the atmosphere. This change does not only affect humans but also has great impacts on different animals like turtles.",
+   "For instance, the impacts of climate change severely harm sea turtles, which lay their eggs on beaches. Due to rising sea levels, these beaches are disappearing. This means that sea turtles are losing their nesting places.",
+   "Generally, sea turtles need an average temperature of 29 degrees celsius to help eggs hatch safely, and to have equal numbers of male and female turtles. However, the increasing temperature of nesting beaches is affecting gender diversity; cooler sand produces male turtles, while warmer sand produces females. With rising temperatures, scientists predict that there will be more female turtles than males. To solve this issue, scientists at Junquillal Beach built nurseries with cooler temperature to help them grow in equal numbers.",
+   "Hot ocean temperatures also have a negative impact on the coral reefs, which are an important food source for sea turtles. Rising sea temperatures have caused coral reefs to bleach, which leads to the death of parts of the corals. This has affected the Caribbean Sea, which has already lost almost 50% of its corals since 2005, because of the high sea temperatures.",
+   "To face these challenges, governments started searching for solutions. One effective solution is using renewable energy like solar and wind powers, which can slow down the rate of climate change and reduce its impact on turtle habitats. That is because it reduces the amount of greenhouse gases released into the atmosphere.",
+   "Another solution for protecting turtles is creating Marine Protected Areas (MPAs) for sea turtles. These are closed areas where sea turtles can grow and nest safely. It is a way of protecting the turtles' natural habitats.",
+   "To end, turtles are not alone in facing the challenges of climate change. Many other animals, from polar bears in the Arctic to coral reefs in the ocean, are also feeling the great impacts of changing climate. It's a global issue that affects various ecosystems and species. People and governments need to work together to protect these animals and their natural habitats to keep the balance of nature."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What is the main cause of climate change?",
+    "hint": "",
+    "answer": "Human activities"
+   },
+   {
+    "n": 2,
+    "q": "Why are nesting beaches disappearing? Because of ________",
+    "hint": "",
+    "answer": "rising sea levels"
+   },
+   {
+    "n": 3,
+    "q": "What is the best temperature for turtle eggs to hatch safely?",
+    "hint": "",
+    "answer": "29 degrees celsius"
+   },
+   {
+    "n": 4,
+    "q": "Which turtle gender grows in cooler sands?",
+    "hint": "",
+    "answer": "Male(s)/male turtles"
+   },
+   {
+    "n": 5,
+    "q": "Where did scientists build cooler nurseries for turtles?",
+    "hint": "",
+    "answer": "(at) Junquillal Beach"
+   },
+   {
+    "n": 6,
+    "q": "What is turtles' main source of food?",
+    "hint": "",
+    "answer": "coral reefs/corals/reefs"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Coral reefs are suffering from a \"bleaching\" effect due to rising sea temperatures.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "The Caribbean Sea has lost almost all of its coral reefs since 2005.",
+    "answer": false
+   },
+   {
+    "n": 9,
+    "statement": "Solar and wind powers can slow down the rate of climate change.",
+    "answer": true
+   },
+   {
+    "n": 10,
+    "statement": "MPAs are unsafe places for sea turtles to nest and grow.",
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "R2-07",
+  "session": "G. 10 Sem I 1st Session 2022-2023 (M)",
+  "title": "",
+  "passage": [
+   "Air pollution is one of the most serious problems facing the world today. When something is burned, bad chemicals in the smoke can go into the air. These bad chemicals cause problems like global warming and acid rain. There are many causes of air pollution, but the major one is cars which emit tones of pollution into the air every day. The Environmental Protection Agency (EPA) estimates that cars cause nearly 75% of the carbon pollution in the US.",
+   "In fact, most people with cars say they need their cars, and they cannot live without them. For example, the US is a car-loving country. The average number of cars needed is two cars per a family. It was reported, in 2020, there were 11.3 million cars just in New York city.",
+   "As a result, rather than asking people to stop driving, a better idea might be to make something that people can use instead of cars. This new thing should not pollute the air. That is why Dean Kamen invented the Segway in 1999 in the US. This Segway has two wheels, a place for the driver to stand on and a handle for the driver to hold on to. Driving a Segway is very different from driving a car. Instead of stepping on a paddle to go forward, the driver simply leans forward. Leaning back slows it down. To turn left, the driver simply leans left. It depends on body movement. It is super easy, but needs practice at the beginning to avoid accidents.",
+   "The main benefit of Segway is that it does not burn gasoline. It runs on electricity. Moreover, it is suitable for short distances in crowded cities. For example, the UAE government tried many projects to reduce the country carbon footprint such as providing Segways in Dubai. In fact, there are 2.000 Segways available for rent in the city. To unlock the Segway, you have to pay only 3 Emirati Dirhams.",
+   "Unfortunately, the Segway will not replace the cars because most people using their cars to drive long distances to work. They live outside of cities and drive into the city every day. You cannot drive the Segway that far because it goes too slowly. It can go to only about 20 kilometers per hour.",
+   "To sum up, Segways have been sold since 2001. Nowadays, they are relatively new and quite expensive. However, they can make a big difference because they are ecofriendly and quiet too. Perhaps, in time, they will become cheaper, and everyone will have a Segway for short distance travelling. Changing small habits can play a big role in saving the environment."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "According to EPA, how much carbon pollution is caused by cars in the US?",
+    "hint": "",
+    "answer": "75%"
+   },
+   {
+    "n": 2,
+    "q": "Where did the number of cars reach 11.3 million?",
+    "hint": "",
+    "answer": "New York (city) (US can be also accepted)"
+   },
+   {
+    "n": 3,
+    "q": "When was the Segway invented?",
+    "hint": "",
+    "answer": "1999"
+   },
+   {
+    "n": 4,
+    "q": "Why do people need to practice driving the segway a lot at the beginning?",
+    "hint": "",
+    "answer": "To avoid accidents/it's different from driving a car/it depends on body movement"
+   },
+   {
+    "n": 5,
+    "q": "How fast can the Segway go?",
+    "hint": "",
+    "answer": "20 kilometres per hour/20 km/h"
+   },
+   {
+    "n": 6,
+    "q": "Which city provides Segways for rent?",
+    "hint": "",
+    "answer": "Dubai"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Driving a Segway is similar to driving a car.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "The Segway can be used for short and long distances.",
+    "answer": false
+   },
+   {
+    "n": 9,
+    "statement": "Segways were put in markets in 2001.",
+    "answer": true
+   },
+   {
+    "n": 10,
+    "statement": "In the future, Segways will be more expensive.",
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "R2-08",
+  "session": "G. 10 Sem I 1st Session 2022-2023 (E)",
+  "title": "The Compressed Air Car",
+  "passage": [
+   "As gas and petrol prices continue to rise in the world, many people think that there are other alternatives to these fossil fuels. Tesla, which is an electric car, appeared in 2003 to be one of the solutions for improving emissions, reducing energy costs, and having a clean environment. Nowadays, there is another need to produce a new type of cars called the compressed air cars.",
+   "The compressed air car will be designed to produce zero-emissions, so the main benefit of this type of cars is that it produces no pollution from its tailpipes because there is no fuel being burned by the engine. Moreover, this car can cost only $ 2 compared with $ 6 to refill an electric car tank. Because of less pollution and cheaper running costs, the compressed air car seems like a real possibility for the future.",
+   "In addition, the compressed air cars will be designed to be very lightweight, so they will be able to travel for long distances with less energy. Filling the tank will not be costly because the air will be the main fuel of this car.",
+   "On the other hand, the compressed air car has a lot of potential benefits, it has many drawbacks. First, the compressed air car can only drive at a speed of about 56 Kilometres per hour, which is simply not fast enough for most consumers who need at least 100 kilometres per hour. Also, there is a problem of refilling the tanks because the compressor needs a type of fuel source, whether it is fossil fuels, hydrogen, or an electric motor. So, this means that pollution might occur.",
+   "Making the compressed air cars is a great idea, but they will not work efficiently nowadays like fully electric cars, hybrid cars and normal engine cars. People need to drive cars with high performance and suitable speed. However, Zero Pollution Motors has succeeded to manufacture the AIRPod 2.0 Compressed Air-Powered Car. It seems to be the most famous compressed air car on the market. With a price of just over $10,000, the AIRPod could be cheaper than some fully electric cars. The AIRPod is able to achieve city speeds of about 32-48 kilometres per hour with a range of around 160 kilometres per compressed air tank. While you can charge your electric car in your house in four hours, you can take the AIRPod car to a gas station to refill it in three minutes only."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "When was Tesla first made?",
+    "hint": "",
+    "answer": "(in) 2003"
+   },
+   {
+    "n": 2,
+    "q": "Why do compressed air cars use less energy?",
+    "hint": "",
+    "answer": "(because) they are very lightweight/lightweight"
+   },
+   {
+    "n": 3,
+    "q": "How fast does a compressed air car go?",
+    "hint": "",
+    "answer": "56 KPH/fifty six kilometres per hour"
+   },
+   {
+    "n": 4,
+    "q": "Which company produced AIRPod 2.0 cars?",
+    "hint": "",
+    "answer": "Zero Pollution Motors"
+   },
+   {
+    "n": 5,
+    "q": "How much does an AIRPod car cost?",
+    "hint": "",
+    "answer": "(just over) 10,000$"
+   },
+   {
+    "n": 6,
+    "q": "How long does it take to refill AIRPod tank in gas stations?",
+    "hint": "",
+    "answer": "three minutes (only)/3 minutes"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Compressed air cars will reduce using fossil fuels in the future.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "Filling electric car tanks is cheaper than filling compressed air cars.",
+    "answer": false
+   },
+   {
+    "n": 9,
+    "statement": "Compressed air cars don't need fossil fuels to run the compressor.",
+    "answer": false
+   },
+   {
+    "n": 10,
+    "statement": "Drivers need to refill their AIRPod car tanks every 160 km.",
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "R2-09",
+  "session": "G. 10 Sem I 2nd Session 2022-2023",
+  "title": "",
+  "passage": [
+   "In a room at Stanford University, scientists are studying a small animal called a gecko. It's an amazing animal because it can move very quickly up and down a tree and it can even walk upside down on ceilings. The scientists are particularly interested in the gecko's feet. They want to use the same design on their own robot. The metal robot looks very similar to the gecko. It has four feet which can also walk up walls made of glass or plastic. However, it still has a more difficult time when it tries to walk upside down.",
+   "Animals and plants can teach humans a lot about design and engineering. As a result, many engineers, scientists and designers spend time studying them. When they have a problem, nature often has the answer. This science is called biomimetics. Bio- means “studying living things” and mimetics means “copying the movement of things”. In other words, scientists - or biomimetics - study animals and plants in order to copy their design.",
+   "Take, for example, a whale. Engineers in Canada are studying their flippers because they move so effectively through water. The engineers believe the shape can also improve the movement of wind turbines. Similarly, the boxfish is another animal from the sea which is helping car manufacturers in Germany. Mercedes Benz is using the shape of the fish for one of its new cars. The shape makes it faster and more fuel efficient.",
+   "Velcro is probably the most famous example of biomimetics. Most people have some Velcro on an item of clothing. It was invented by the Swiss engineer George de Mestral in 1948. He was walking in the countryside when he pulled a plant's bur from his trousers. He noticed how the bur stuck so well to his clothes. He worked on his idea and the result was Velcro, which became an affordable alternative to the traditional zip.",
+   "In 1982, Wilhelm Bartlott was another inventor who had a great idea when he was studying the leaves of a lotus plant. Bartlott noticed that water always ran off the leaf. When he had a closer look, he also noticed how the leaf cleaned itself. Bartlott copied the leaf's special surface and now you can find it in specialised paint products where water and dirt never stay on the paint.",
+   "In conclusion, biomimetics has helped to design our world and there are many more future possibilities. Unfortunately, it might take a long time to discover all the possibilities. This isn't really surprising because it's taken nature thousands of years to design its animals and plants."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "Which part of gecko's body is being studied by scientists?",
+    "hint": "",
+    "answer": "feet"
+   },
+   {
+    "n": 2,
+    "q": "Why do scientists study animals and plants?",
+    "hint": "",
+    "answer": "to copy their design"
+   },
+   {
+    "n": 3,
+    "q": "Which animal is under study in Canada?",
+    "hint": "",
+    "answer": "(a/the) whale"
+   },
+   {
+    "n": 4,
+    "q": "Where is fish being used to improve cars?",
+    "hint": "(Country)",
+    "answer": "Germany"
+   },
+   {
+    "n": 5,
+    "q": "Who invented the Velcro used in clothing?",
+    "hint": "",
+    "answer": "George de Mestral"
+   },
+   {
+    "n": 6,
+    "q": "What are the leaves of lotus plant used for?",
+    "hint": "",
+    "answer": "making paint (products)/painting/paint (products)"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "The gecko-like robot can walk on plastic walls.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "Only scientists can benefit from studying animals and plants.",
+    "answer": false
+   },
+   {
+    "n": 9,
+    "statement": "Engineers study the boxfish to improve wind turbines.",
+    "answer": false
+   },
+   {
+    "n": 10,
+    "statement": "Wilhelm Bartlott discovered that the leaves of lotus plants can clean themselves.",
+    "answer": true
+   }
+  ]
+ }
+]

@@ -1,0 +1,574 @@
+{
+ "id": 8,
+ "title": "Model Exam 8",
+ "listening1": {
+  "context": "You are going to hear a conversation between Salma and Yousef.",
+  "script": [
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "Hi, Yousef. Have you started the history project yet?"
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "Hi, Salma. Yes, I have, and I have already read two books about it. I have chosen my topic. I first thought about Muscat and its port, but Nizwa and its famous fort are more interesting."
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "Great choice. I visited Nizwa once with my family, but I was very young. When was the fort built?"
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "Imam Sultan bin Saif built it in the seventeenth century. Many people think it is much older, but it was not built in the sixteenth century."
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "How long did the building work take?"
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "About twelve years. It was not two years or twenty years. The workers had no machines, so they used stones, clay and local materials."
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "That is amazing. I did not know that. What is the most famous part of the fort?"
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "The huge round tower. It is built of stone and it is very strong. The gate and the old well are nice too, but the tower is the main attraction. From the top, you can see the whole town and the palm trees."
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "I would love to see it. Is there anything else to see in Nizwa?"
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "Yes, the goat market near the fort. It is open on Friday morning, not on Thursday, and many families come to buy and sell animals."
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "Then Friday is the best day for a visit. How will you get there?"
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "We could take the bus, but it is slow, so my uncle will take us in his car."
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "Can I come with you? I would really like to see the fort."
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "Of course! I will bring a notebook to write notes. Could you bring something to take photos?"
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "Yes, I will bring my camera. I will also bring a bottle of water, because it will be hot."
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "Wonderful. Then we can show your photos in my presentation. I also want to add some old pictures of the fort from the library."
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "That is a good idea. Our teacher loves projects with pictures. She says they make history much easier to understand."
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "I agree. I hope we get a high mark, because this project is worth a lot of points this term."
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "I cannot wait. Let us leave early on Friday morning, so we can avoid the heat."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "What is Yousef's history project about?",
+    "options": [
+     "Nizwa and its fort",
+     "Bahla and its market",
+     "Muscat and its port"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "In which century was Nizwa Fort built?",
+    "options": [
+     "The sixteenth century",
+     "The nineteenth century",
+     "The seventeenth century"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "How long did the building work take?",
+    "options": [
+     "About twelve years",
+     "About two years",
+     "About twenty years"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "What is the most famous part of the fort?",
+    "options": [
+     "The old well",
+     "The round tower",
+     "The main gate"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "On which day is the goat market open?",
+    "options": [
+     "Thursday",
+     "Saturday",
+     "Friday"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "How will they travel to Nizwa?",
+    "options": [
+     "By bus",
+     "By car",
+     "By bicycle"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "What will Salma bring?",
+    "options": [
+     "A notebook",
+     "A map",
+     "A camera"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about recycling plastic.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Hello, everyone. Today I would like to talk about recycling plastic, and why it matters for our planet. Plastic is very useful. We use it for bottles, bags, toys and even parts of cars. It is cheap, light and strong. However, these same qualities cause a big problem. Plastic does not rot like food or paper. A plastic bottle can stay in the environment for hundreds of years before it breaks into tiny pieces. Every year, about eight million tonnes of plastic end up in the oceans of the world. Sea animals suffer a lot. For example, sea turtles often eat plastic bags by mistake, because the bags look like jellyfish. This can make the animals very sick, and some of them die. So what can we do? The first answer is recycling. When we recycle plastic, factories melt old bottles and make new things from them. Old plastic bottles can become clothes, bags or even park benches. Recycling also uses less energy than making new plastic from oil, so it helps to fight climate change. To recycle well, we must follow three simple steps. First, sort your rubbish and put plastic in a separate bin. Second, make sure the bottles are clean, because dirty plastic cannot be recycled. Third, take the bottles to a recycling point in your town or school. Many shopping centres have one near the entrance. Recycling is good, but reducing and reusing are even better. If you use a strong bag again and again, you will need fewer new bags. You can also carry a metal water bottle instead of buying plastic bottles every day. Remember, every small action counts. If each student in our school recycles one bottle a day, we will keep thousands of bottles out of the sea every month. Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "How long can a plastic bottle stay in the environment?",
+    "hint": "",
+    "answer": "Hundreds of years"
+   },
+   {
+    "n": 2,
+    "q": "How many tonnes of plastic end up in the oceans every year?",
+    "hint": "(number)",
+    "answer": "(About) eight million/8 million/8,000,000"
+   },
+   {
+    "n": 3,
+    "q": "What can old plastic bottles become?",
+    "hint": "(list one)",
+    "answer": "Clothes/Bags/Park benches"
+   },
+   {
+    "n": 4,
+    "q": "Sea turtles eat plastic bags because the bags look like ________.",
+    "hint": "",
+    "answer": "Jellyfish"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "Recycling plastic uses more energy than making new plastic.",
+    "answer": false
+   },
+   {
+    "n": 6,
+    "statement": "Plastic bottles should be clean before they are recycled.",
+    "answer": true
+   },
+   {
+    "n": 7,
+    "statement": "Reducing and reusing are less important than recycling.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Using a strong bag many times means you need fewer new bags.",
+    "answer": true
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "An (1)_____ is a person who studies the past by digging at old places and looking at what people left behind. This work gives us (2)_____ about how people lived in ancient times. For example, experts have found tools, pots and jewellery made of (3)_____, a red-brown metal. These objects show that people in that (4)_____ traded with their neighbours and practised (5)_____ along the rivers, where the land was good for growing crops. Thanks to such discoveries, we can understand the achievements of the people who lived thousands of years ago.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "citizen",
+     "blogger",
+     "consumer",
+     "archaeologist"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 2,
+    "options": [
+     "evidence",
+     "commodity",
+     "biography",
+     "debate"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "coal",
+     "copper",
+     "charge",
+     "culture"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "civilisation",
+     "atmosphere",
+     "emission",
+     "button"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "cooperation",
+     "agriculture",
+     "archaeology",
+     "chronology"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Salma, I [[1]] be able to come to the museum tomorrow because I have an exam."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "What a pity! I think the museum is [[2]] interesting than the fort we visited last year."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "I know. Old coins are kept in glass boxes there, and the oldest ones [[3]] found near Sohar."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Yes, I have wanted to visit it [[4]] two years."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Then go with Huda, [[5]] she loves history too."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Good idea. I will ask her today."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "won't",
+     "will"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "more",
+     "most"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "was",
+     "were"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "since",
+     "for"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "so",
+     "because"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "reading1": {
+  "title": "The Rise of Streaming",
+  "passage": [
+   "Not long ago, if you wanted to watch a film, you had two choices. You could wait until it was on television, or you could buy or rent a DVD from a shop. Music was similar, because people bought CDs and played them at home. Today, most people use streaming services instead.",
+   "Streaming means watching or listening to something over the internet without keeping a copy on your device. The video or song arrives in small pieces while you are watching, so you can start almost at once. For this reason, you need a good internet connection.",
+   "One of the best-known services is Netflix. It started in 1997 as a company that sent DVDs to customers by post. In 2007, it began to stream films and series on the internet, and the number of customers grew quickly. Another famous service is Spotify, which began in Sweden in 2008. It lets users listen to millions of songs.",
+   "Streaming has many advantages. First, you can watch what you want, when you want, on a phone, a tablet or a television. Second, there is a huge choice, from cartoons to documentaries. Third, a monthly subscription is often cheaper than buying many DVDs or CDs.",
+   "However, there are some disadvantages. Streaming does not work well when the internet is slow. The monthly fees of several services can also add up. And because the next episode starts automatically, some people watch for hours and forget to study, sleep or exercise. Experts say this can reduce the attention span of young people.",
+   "So how can we enjoy streaming in a healthy way? Experts advise people to set a time limit before they start, to turn off automatic play and to take short breaks. It is also a good idea to choose programmes that teach us something new, such as documentaries about nature or history.",
+   "In conclusion, streaming has changed the way we enjoy entertainment. Used wisely, it is a wonderful tool. Used without control, it can waste our time."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "What did people do before streaming to watch a film?",
+    "options": [
+     "They watched it only in cinemas.",
+     "They downloaded it to their phones.",
+     "They bought or rented a DVD."
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "q": "What does streaming mean?",
+    "options": [
+     "Watching or listening online without keeping a copy",
+     "Buying a film and keeping it forever",
+     "Recording a programme from television"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "How did Netflix start?",
+    "options": [
+     "It sent DVDs to customers by post.",
+     "It sold music CDs in shops.",
+     "It showed films on television."
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "Why can a subscription be better than buying DVDs?",
+    "options": [
+     "The films are longer.",
+     "It is often cheaper.",
+     "There are no advertisements."
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "What problem does automatic play cause?",
+    "options": [
+     "The internet becomes slower.",
+     "The screen gets too hot.",
+     "Some people watch for hours."
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "What kind of programmes does the writer suggest watching?",
+    "options": [
+     "Programmes that teach something new",
+     "Programmes with a lot of music",
+     "Programmes for young children"
+    ],
+    "answer": 0
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "Netflix began to stream films and series in ________. (year)",
+    "answer": "2007"
+   },
+   {
+    "n": 8,
+    "q": "Spotify began in ________. (country)",
+    "answer": "Sweden"
+   },
+   {
+    "n": 9,
+    "q": "Streaming does not work well when the internet is ________.",
+    "answer": "slow"
+   },
+   {
+    "n": 10,
+    "q": "Too much streaming can reduce the ________ of young people.",
+    "answer": "attention span"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "Solar Farms in the Desert",
+  "passage": [
+   "Deserts cover large parts of our planet, and most of them have something in common: a huge amount of sunshine. Because the sky is usually clear, the sun shines on the sand for many hours every day. Engineers have realised that this free energy can be turned into electricity, so they are building solar farms in deserts around the world.",
+   "A solar farm is a large area covered with thousands of solar panels. Each panel changes sunlight into electricity, and wires carry the electricity to homes, schools and factories. Deserts are good places for these farms for two reasons. First, they receive more sunlight than most other places. Second, the land is usually empty, so nobody needs to leave their home.",
+   "Oman is also using this idea. In 2021, a large solar plant opened near Ibri, and it sends clean electricity to the national network. Other desert countries, such as Egypt and the United Arab Emirates, also have large solar parks.",
+   "However, desert solar farms face some problems. The first is dust. Wind blows sand and dust onto the panels, and a dirty panel makes less electricity. Because of this, workers must clean the panels regularly, and in some farms special machines do this job. The second problem is heat. Panels work best in strong light but not in extreme heat, so very hot days can reduce the power they produce.",
+   "The third problem is distance. Many deserts are far from big cities, so companies must build long wires to carry the electricity. This costs money and takes time.",
+   "There is also the problem of night. Solar panels cannot make electricity when the sun goes down. To solve this, engineers store extra energy in large batteries during the day and use it in the evening.",
+   "Even with these problems, solar farms have important advantages. They do not burn fuel, so they do not release harmful gases into the air. After the panels are built, the sun's energy is free. As the technology gets cheaper, more desert countries will probably build solar farms, and they will help the world to fight climate change."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "Why is the sun strong for many hours in deserts? Because the sky is usually ________.",
+    "hint": "",
+    "answer": "clear"
+   },
+   {
+    "n": 2,
+    "q": "When did the large solar plant near Ibri open?",
+    "hint": "(year)",
+    "answer": "(In) 2021"
+   },
+   {
+    "n": 3,
+    "q": "What makes a dirty solar panel produce less electricity?",
+    "hint": "",
+    "answer": "Dust/Sand and dust"
+   },
+   {
+    "n": 4,
+    "q": "What do the workers use to clean the panels in some farms?",
+    "hint": "",
+    "answer": "(Special) machines"
+   },
+   {
+    "n": 5,
+    "q": "Why must companies build long wires? Because many deserts are ________.",
+    "hint": "",
+    "answer": "far from big cities/far from cities"
+   },
+   {
+    "n": 6,
+    "q": "When do people use the energy that is stored in batteries?",
+    "hint": "",
+    "answer": "(In) the evening/At night"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Deserts usually have cloudy skies.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Extreme heat can reduce the power of solar panels.",
+    "answer": true
+   },
+   {
+    "n": 9,
+    "statement": "Batteries store extra energy for use in the evening.",
+    "answer": true
+   },
+   {
+    "n": 10,
+    "statement": "Solar farms release harmful gases into the air.",
+    "answer": false
+   }
+  ]
+ },
+ "chart": {
+  "title": "Favourite Ancient Civilisations of Boys and Girls",
+  "ylabel": "Percentage of Students",
+  "unit": "%",
+  "categories": [
+   "Egyptian",
+   "Roman",
+   "Greek",
+   "Chinese",
+   "Maya"
+  ],
+  "series": [
+   {
+    "name": "Boys",
+    "values": [
+     50,
+     40,
+     25,
+     20,
+     15
+    ]
+   },
+   {
+    "name": "Girls",
+    "values": [
+     45,
+     15,
+     35,
+     10,
+     30
+    ]
+   }
+  ],
+  "model": "The bar chart illustrates the favourite ancient civilisations of boys and girls in a school. Overall, the Egyptian civilisation was the most popular civilisation for both boys and girls.\nFirstly, the most popular civilisation for boys was the Egyptian, with 50%. This was followed by the Roman (40%), the Greek (25%) and the Chinese (20%). However, the least popular civilisation for boys was the Maya, with only 15%.\nSimilarly, the most popular civilisation for girls was the Egyptian, with 45%. This was followed by the Greek (35%), the Maya (30%) and the Roman (15%). However, the least popular civilisation for girls was the Chinese, with only 10%.\nTo summarize, both boys and girls liked the Egyptian civilisation. However, the biggest difference was in the Roman civilisation, where 40% of boys chose it, whereas 15% of girls did.",
+  "note": "Boys: Egyptian 50, Roman 40, Greek 25, Chinese 20, Maya 15. Girls: Egyptian 45, Greek 35, Maya 30, Roman 15, Chinese 10. Biggest gap: Roman (25 points)."
+ },
+ "email": {
+  "formal": true,
+  "situation": "Imagine you are Salim/Salma. You would like your class to visit a museum, and you want to ask your teacher for permission.",
+  "task": "Write a formal email to your teacher proposing a class trip to a museum. In your email include the following:",
+  "bullets": [
+   "Which museum you suggest and when to go.",
+   "What students can learn there.",
+   "How the trip can be organised."
+  ],
+  "model": "Dear Mr Hamdan,\n\nI hope this email finds you in good health and high spirits. I am writing this email to propose a class trip to the National Museum in Muscat.\n\nFirst, I suggest that we visit the museum next month. For example, we could go on a Tuesday morning because the museum is quieter then. Moreover, it is easy to reach by bus from our school.\n\nSecond, students can learn a lot about Omani history, old weapons and traditional crafts. However, a trip needs good planning. Therefore, we could travel by school bus and each student could pay a small fee of two rials.\n\nThank you for your time and attention. I look forward to your response. Please let me know if you need any further information.\n\nYours sincerely,\nSalim"
+ }
+}

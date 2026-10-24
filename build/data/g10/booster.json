@@ -1,0 +1,3203 @@
+{
+ "grammar": [
+  {
+   "id": "GB-1",
+   "title": "Articles: a / an / the / no article",
+   "title_ar": "أدوات التعريف والتنكير",
+   "explain": [
+    {
+     "t": "rule",
+     "en": "Use a / an for one thing when we mention it for the first time. Use a before a consonant sound and an before a vowel sound.",
+     "ar": "نستخدم a أو an مع اسم مفرد معدود عند ذكره لأول مرة. نستخدم a قبل صوت ساكن (a book) و an قبل صوت متحرك (an apple, an hour)."
+    },
+    {
+     "t": "rule",
+     "en": "Use the when the listener knows which thing we mean, when it is the only one, or when we mention it again.",
+     "ar": "نستخدم the عندما يكون الشيء معروفًا للمستمع، أو وحيدًا (the sun)، أو عندما نكرر ذكره."
+    },
+    {
+     "t": "table",
+     "headers": [
+      "Article",
+      "When we use it",
+      "Example"
+     ],
+     "rows": [
+      [
+       "a / an",
+       "first mention, one thing, jobs",
+       "She is a teacher."
+      ],
+      [
+       "the",
+       "known, unique, second mention",
+       "The sun is hot."
+      ],
+      [
+       "no article",
+       "plural / uncountable in general, meals, sports, by + transport",
+       "I like tea. We play football. He goes by bus."
+      ]
+     ]
+    },
+    {
+     "t": "examples",
+     "items": [
+      {
+       "en": "I bought a bag. The bag is blue.",
+       "ar": "اشتريت حقيبة. الحقيبة زرقاء."
+      },
+      {
+       "en": "My uncle is an engineer.",
+       "ar": "عمي مهندس."
+      },
+      {
+       "en": "We have lunch at one o'clock.",
+       "ar": "نتناول الغداء في الواحدة."
+      }
+     ]
+    },
+    {
+     "t": "tip",
+     "en": "The sound matters, not the letter: an hour, a university.",
+     "ar": "انتبه للصوت لا للحرف: an hour (الهاء لا تُنطق) و a university (تبدأ بصوت y)."
+    }
+   ],
+   "exercises": [
+    {
+     "title": "Exercise 1 — Choose the correct answer",
+     "kind": "choose",
+     "items": [
+      {
+       "n": 1,
+       "q": "My father is [[1]] engineer.",
+       "options": [
+        "a",
+        "an"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 2,
+       "q": "I saw a film yesterday. [[2]] film was very funny.",
+       "options": [
+        "A",
+        "The"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 3,
+       "q": "Oman is [[3]] beautiful country.",
+       "options": [
+        "a",
+        "an"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "q": "She goes to school by [[4]] bus.",
+       "options": [
+        "a",
+        "the",
+        "no article"
+       ],
+       "answer": 2
+      },
+      {
+       "n": 5,
+       "q": "Can you close [[5]] window, please?",
+       "options": [
+        "a",
+        "the"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 6,
+       "q": "He is [[6]] honest boy.",
+       "options": [
+        "a",
+        "an"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 7,
+       "q": "[[7]] sun rises in the east.",
+       "options": [
+        "A",
+        "The"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 8,
+       "q": "My brother plays [[8]] football every weekend.",
+       "options": [
+        "a",
+        "the",
+        "no article"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "title": "Exercise 2 — Complete the sentences",
+     "kind": "fill",
+     "bank": [
+      "a",
+      "an",
+      "the",
+      "–"
+     ],
+     "items": [
+      {
+       "n": 1,
+       "q": "I have ________ umbrella in my bag.",
+       "answer": "an"
+      },
+      {
+       "n": 2,
+       "q": "She is ________ university student.",
+       "answer": "a"
+      },
+      {
+       "n": 3,
+       "q": "________ moon is bright tonight.",
+       "answer": "The"
+      },
+      {
+       "n": 4,
+       "q": "We have ________ breakfast at seven.",
+       "answer": "–"
+      },
+      {
+       "n": 5,
+       "q": "He bought a car and a bike. ________ car is red.",
+       "answer": "The"
+      },
+      {
+       "n": 6,
+       "q": "It takes ________ hour to get there.",
+       "answer": "an"
+      }
+     ]
+    },
+    {
+     "title": "Exercise 3 — Practice dialogue",
+     "kind": "dialogue",
+     "lines": [
+      {
+       "speaker": "Huda",
+       "text": "Salim, do you want to come to [[1]] library after school?"
+      },
+      {
+       "speaker": "Salim",
+       "text": "Yes, I need [[2]] book about space."
+      },
+      {
+       "speaker": "Huda",
+       "text": "Me too. My teacher gave us [[3]] interesting project."
+      },
+      {
+       "speaker": "Salim",
+       "text": "Good idea. I usually go home by [[4]] bus."
+      },
+      {
+       "speaker": "Huda",
+       "text": "OK. I will meet you at [[5]] gate at four o'clock."
+      }
+     ],
+     "items": [
+      {
+       "n": 1,
+       "options": [
+        "a",
+        "the"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 2,
+       "options": [
+        "a",
+        "an"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "options": [
+        "a",
+        "an"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 4,
+       "options": [
+        "–",
+        "the"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "options": [
+        "a",
+        "the"
+       ],
+       "answer": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "GB-2",
+   "title": "Prepositions of time and place: at / on / in",
+   "title_ar": "حروف الجر للزمان والمكان",
+   "explain": [
+    {
+     "t": "rule",
+     "en": "Use at for exact times and small points, on for days, dates and surfaces, and in for months, years, seasons, parts of the day and enclosed places.",
+     "ar": "نستخدم at مع الساعة والنقاط المحددة، و on مع الأيام والتواريخ والأسطح، و in مع الأشهر والسنوات والفصول وأجزاء اليوم والأماكن المغلقة."
+    },
+    {
+     "t": "table",
+     "headers": [
+      "",
+      "at",
+      "on",
+      "in"
+     ],
+     "rows": [
+      [
+       "Time",
+       "at 5 o'clock, at night",
+       "on Monday, on 5 May",
+       "in July, in 2020, in the morning"
+      ],
+      [
+       "Place",
+       "at the bus stop, at school",
+       "on the table, on the wall",
+       "in the room, in Oman"
+      ]
+     ]
+    },
+    {
+     "t": "examples",
+     "items": [
+      {
+       "en": "The lesson starts at eight o'clock.",
+       "ar": "يبدأ الدرس في الساعة الثامنة."
+      },
+      {
+       "en": "We have a test on Sunday.",
+       "ar": "لدينا اختبار يوم الأحد."
+      },
+      {
+       "en": "She was born in 2010.",
+       "ar": "وُلدت عام 2010."
+      }
+     ]
+    },
+    {
+     "t": "tip",
+     "en": "We say in the morning but on Friday morning.",
+     "ar": "نقول in the morning لكن on Friday morning عند ذكر اليوم."
+    }
+   ],
+   "exercises": [
+    {
+     "title": "Exercise 1 — Choose the correct answer",
+     "kind": "choose",
+     "items": [
+      {
+       "n": 1,
+       "q": "The lesson starts [[1]] eight o'clock.",
+       "options": [
+        "at",
+        "on",
+        "in"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "q": "My birthday is [[2]] March.",
+       "options": [
+        "at",
+        "on",
+        "in"
+       ],
+       "answer": 2
+      },
+      {
+       "n": 3,
+       "q": "We have a test [[3]] Sunday.",
+       "options": [
+        "at",
+        "on",
+        "in"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 4,
+       "q": "She was born [[4]] 2010.",
+       "options": [
+        "at",
+        "on",
+        "in"
+       ],
+       "answer": 2
+      },
+      {
+       "n": 5,
+       "q": "The book is [[5]] the table.",
+       "options": [
+        "at",
+        "on",
+        "in"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 6,
+       "q": "He lives [[6]] a small village.",
+       "options": [
+        "at",
+        "on",
+        "in"
+       ],
+       "answer": 2
+      },
+      {
+       "n": 7,
+       "q": "I wake up early [[7]] the morning.",
+       "options": [
+        "at",
+        "on",
+        "in"
+       ],
+       "answer": 2
+      },
+      {
+       "n": 8,
+       "q": "We meet [[8]] the bus stop.",
+       "options": [
+        "at",
+        "on",
+        "in"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "title": "Exercise 2 — Complete the sentences",
+     "kind": "fill",
+     "bank": [
+      "at",
+      "on",
+      "in",
+      "from"
+     ],
+     "items": [
+      {
+       "n": 1,
+       "q": "The shop closes ________ night.",
+       "answer": "at"
+      },
+      {
+       "n": 2,
+       "q": "Ali was ________ the kitchen.",
+       "answer": "in"
+      },
+      {
+       "n": 3,
+       "q": "We visit our grandparents ________ Fridays.",
+       "answer": "on"
+      },
+      {
+       "n": 4,
+       "q": "The picture is ________ the wall.",
+       "answer": "on"
+      },
+      {
+       "n": 5,
+       "q": "I worked there ________ 2019 to 2024.",
+       "answer": "from"
+      },
+      {
+       "n": 6,
+       "q": "The train arrives ________ 6:30.",
+       "answer": "at"
+      }
+     ]
+    },
+    {
+     "title": "Exercise 3 — Practice dialogue",
+     "kind": "dialogue",
+     "lines": [
+      {
+       "speaker": "Noor",
+       "text": "What time does the museum open [[1]] Saturday?"
+      },
+      {
+       "speaker": "Maryam",
+       "text": "It opens [[2]] nine o'clock."
+      },
+      {
+       "speaker": "Noor",
+       "text": "Great. Shall we meet [[3]] the entrance?"
+      },
+      {
+       "speaker": "Maryam",
+       "text": "OK. I will be there [[4]] the morning, before the crowd."
+      },
+      {
+       "speaker": "Noor",
+       "text": "Perfect. I will bring the tickets. They are [[5]] my school bag."
+      }
+     ],
+     "items": [
+      {
+       "n": 1,
+       "options": [
+        "on",
+        "at"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "options": [
+        "at",
+        "in"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "options": [
+        "at",
+        "on"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "options": [
+        "in",
+        "on"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "options": [
+        "on",
+        "in"
+       ],
+       "answer": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "GB-3",
+   "title": "have / has, was / were, there is / there are",
+   "title_ar": "have/has وwas/were وthere is/are",
+   "explain": [
+    {
+     "t": "rule",
+     "en": "Use has with he, she, it and have with I, you, we, they. Use was with I, he, she, it and were with you, we, they.",
+     "ar": "نستخدم has مع he/she/it و have مع I/you/we/they. ونستخدم was مع I/he/she/it و were مع you/we/they."
+    },
+    {
+     "t": "rule",
+     "en": "Use there is with singular and uncountable nouns, and there are with plural nouns.",
+     "ar": "نستخدم there is مع المفرد وغير المعدود، و there are مع الجمع."
+    },
+    {
+     "t": "table",
+     "headers": [
+      "Subject",
+      "Present",
+      "Past"
+     ],
+     "rows": [
+      [
+       "I",
+       "have / am",
+       "had / was"
+      ],
+      [
+       "he / she / it",
+       "has / is",
+       "had / was"
+      ],
+      [
+       "you / we / they",
+       "have / are",
+       "had / were"
+      ]
+     ]
+    },
+    {
+     "t": "examples",
+     "items": [
+      {
+       "en": "She has two brothers.",
+       "ar": "لديها أخوان."
+      },
+      {
+       "en": "They were at home yesterday.",
+       "ar": "كانوا في البيت أمس."
+      },
+      {
+       "en": "There is some milk, and there are two eggs.",
+       "ar": "يوجد بعض الحليب وبيضتان."
+      }
+     ]
+    },
+    {
+     "t": "tip",
+     "en": "Uncountable nouns (milk, water, homework) take is: Is there any water?",
+     "ar": "الأسماء غير المعدودة (milk, water, homework) تأخذ is: Is there any water?"
+    }
+   ],
+   "exercises": [
+    {
+     "title": "Exercise 1 — Choose the correct answer",
+     "kind": "choose",
+     "items": [
+      {
+       "n": 1,
+       "q": "She [[1]] two brothers.",
+       "options": [
+        "have",
+        "has"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 2,
+       "q": "They [[2]] at home yesterday.",
+       "options": [
+        "was",
+        "were"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 3,
+       "q": "There [[3]] a pen on the desk.",
+       "options": [
+        "is",
+        "are"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "q": "There [[4]] many students in the hall.",
+       "options": [
+        "is",
+        "are"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 5,
+       "q": "I [[5]] a new phone.",
+       "options": [
+        "have",
+        "has"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 6,
+       "q": "The weather [[6]] very hot last week.",
+       "options": [
+        "was",
+        "were"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 7,
+       "q": "[[7]] there any milk in the fridge?",
+       "options": [
+        "Is",
+        "Are"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 8,
+       "q": "My parents [[8]] a big house.",
+       "options": [
+        "have",
+        "has"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "title": "Exercise 2 — Complete the sentences",
+     "kind": "fill",
+     "items": [
+      {
+       "n": 1,
+       "q": "Yesterday, we ________ (be) in Salalah.",
+       "answer": "were"
+      },
+      {
+       "n": 2,
+       "q": "He ________ (have) a bike.",
+       "answer": "has"
+      },
+      {
+       "n": 3,
+       "q": "There ________ some books on the shelf.",
+       "answer": "are"
+      },
+      {
+       "n": 4,
+       "q": "There ________ a cat in the garden.",
+       "answer": "is"
+      },
+      {
+       "n": 5,
+       "q": "I ________ (be) not at school last Monday.",
+       "answer": "was"
+      },
+      {
+       "n": 6,
+       "q": "________ you at the party last night?",
+       "answer": "Were"
+      }
+     ]
+    },
+    {
+     "title": "Exercise 3 — Practice dialogue",
+     "kind": "dialogue",
+     "lines": [
+      {
+       "speaker": "Hamad",
+       "text": "Where [[1]] you yesterday? You were not at school."
+      },
+      {
+       "speaker": "Ali",
+       "text": "I [[2]] at the dentist."
+      },
+      {
+       "speaker": "Hamad",
+       "text": "Oh no! Did you [[3]] a toothache?"
+      },
+      {
+       "speaker": "Ali",
+       "text": "Yes, but now I am fine. [[4]] there any homework for me?"
+      },
+      {
+       "speaker": "Hamad",
+       "text": "Yes, there [[5]] two exercises in the book."
+      }
+     ],
+     "items": [
+      {
+       "n": 1,
+       "options": [
+        "was",
+        "were"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 2,
+       "options": [
+        "was",
+        "were"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "options": [
+        "have",
+        "had"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "options": [
+        "Is",
+        "Are"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "options": [
+        "is",
+        "are"
+       ],
+       "answer": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "GB-4",
+   "title": "Present simple vs present continuous",
+   "title_ar": "المضارع البسيط مقابل المضارع المستمر",
+   "explain": [
+    {
+     "t": "rule",
+     "en": "Use the present simple for habits, facts and timetables: every day, always, usually, never.",
+     "ar": "نستخدم المضارع البسيط للعادات والحقائق والجداول: every day, always, usually, never."
+    },
+    {
+     "t": "rule",
+     "en": "Use the present continuous (am / is / are + verb-ing) for actions happening now or around now: now, at the moment, look!, listen!",
+     "ar": "نستخدم المضارع المستمر (am/is/are + verb-ing) لما يحدث الآن: now, at the moment, look!, listen!"
+    },
+    {
+     "t": "table",
+     "headers": [
+      "",
+      "Present simple",
+      "Present continuous"
+     ],
+     "rows": [
+      [
+       "Positive",
+       "He plays tennis.",
+       "He is playing tennis."
+      ],
+      [
+       "Negative",
+       "He does not play.",
+       "He is not playing."
+      ],
+      [
+       "Question",
+       "Does he play?",
+       "Is he playing?"
+      ]
+     ]
+    },
+    {
+     "t": "examples",
+     "items": [
+      {
+       "en": "Salma goes to school by bus every day.",
+       "ar": "تذهب سلمى إلى المدرسة بالحافلة كل يوم."
+      },
+      {
+       "en": "Be quiet! The teacher is talking.",
+       "ar": "اهدأ! المعلم يتحدث."
+      },
+      {
+       "en": "Water boils at 100 degrees.",
+       "ar": "يغلي الماء عند 100 درجة."
+      }
+     ]
+    },
+    {
+     "t": "tip",
+     "en": "Do not use the continuous for facts: The sun rises (not is rising) in the east.",
+     "ar": "لا نستخدم المستمر مع الحقائق: The sun rises in the east."
+    }
+   ],
+   "exercises": [
+    {
+     "title": "Exercise 1 — Choose the correct answer",
+     "kind": "choose",
+     "items": [
+      {
+       "n": 1,
+       "q": "Salma [[1]] to school by bus every day.",
+       "options": [
+        "goes",
+        "is going"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "q": "Look! The baby [[2]].",
+       "options": [
+        "sleeps",
+        "is sleeping"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 3,
+       "q": "I [[3]] my homework at the moment.",
+       "options": [
+        "do",
+        "am doing"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 4,
+       "q": "Water [[4]] at 100 degrees.",
+       "options": [
+        "boils",
+        "is boiling"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "q": "They [[5]] football on Fridays.",
+       "options": [
+        "play",
+        "are playing"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 6,
+       "q": "Be quiet! The teacher [[6]].",
+       "options": [
+        "is talking",
+        "talks"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 7,
+       "q": "He [[7]] like fish.",
+       "options": [
+        "doesn't",
+        "isn't"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 8,
+       "q": "What [[8]] you doing now?",
+       "options": [
+        "are",
+        "do"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "title": "Exercise 2 — Complete the sentences",
+     "kind": "fill",
+     "items": [
+      {
+       "n": 1,
+       "q": "My mother ________ (cook) dinner every evening.",
+       "answer": "cooks"
+      },
+      {
+       "n": 2,
+       "q": "Listen! Someone ________ (knock) at the door.",
+       "answer": "is knocking"
+      },
+      {
+       "n": 3,
+       "q": "We ________ (not / go) to school on Fridays.",
+       "answer": "do not go"
+      },
+      {
+       "n": 4,
+       "q": "Look at the sky! It ________ (rain).",
+       "answer": "is raining"
+      },
+      {
+       "n": 5,
+       "q": "Yousef ________ (not / watch) TV now; he is studying.",
+       "answer": "is not watching"
+      },
+      {
+       "n": 6,
+       "q": "The sun ________ (rise) in the east.",
+       "answer": "rises"
+      }
+     ]
+    },
+    {
+     "title": "Exercise 3 — Practice dialogue",
+     "kind": "dialogue",
+     "lines": [
+      {
+       "speaker": "Aisha",
+       "text": "Hi Yousef! What [[1]] you doing?"
+      },
+      {
+       "speaker": "Yousef",
+       "text": "I [[2]] for the science test."
+      },
+      {
+       "speaker": "Aisha",
+       "text": "Do you usually [[3]] at night?"
+      },
+      {
+       "speaker": "Yousef",
+       "text": "No, I usually [[4]] in the afternoon."
+      },
+      {
+       "speaker": "Aisha",
+       "text": "Good luck! Our teacher always [[5]] us a lot of homework."
+      }
+     ],
+     "items": [
+      {
+       "n": 1,
+       "options": [
+        "are",
+        "do"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "options": [
+        "study",
+        "am studying"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 3,
+       "options": [
+        "study",
+        "studies"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "options": [
+        "study",
+        "am studying"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "options": [
+        "gives",
+        "is giving"
+       ],
+       "answer": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "GB-5",
+   "title": "Past simple vs past continuous",
+   "title_ar": "الماضي البسيط مقابل الماضي المستمر",
+   "explain": [
+    {
+     "t": "rule",
+     "en": "Use the past simple for a finished action in the past: yesterday, last week, in 2020.",
+     "ar": "نستخدم الماضي البسيط لحدث انتهى في الماضي: yesterday, last week, in 2020."
+    },
+    {
+     "t": "rule",
+     "en": "Use the past continuous (was / were + verb-ing) for a longer action in progress. A shorter action (past simple) interrupts it with when; use while for the long action.",
+     "ar": "نستخدم الماضي المستمر (was/were + verb-ing) لحدث كان مستمرًا. والحدث القصير الذي يقاطعه يكون ماضيًا بسيطًا مع when، و while مع الحدث الطويل."
+    },
+    {
+     "t": "table",
+     "headers": [
+      "",
+      "Past simple",
+      "Past continuous"
+     ],
+     "rows": [
+      [
+       "Positive",
+       "She watched TV.",
+       "She was watching TV."
+      ],
+      [
+       "Negative",
+       "She did not watch TV.",
+       "She was not watching TV."
+      ],
+      [
+       "Question",
+       "Did she watch TV?",
+       "Was she watching TV?"
+      ]
+     ]
+    },
+    {
+     "t": "examples",
+     "items": [
+      {
+       "en": "I was watching TV when the phone rang.",
+       "ar": "كنت أشاهد التلفاز عندما رنّ الهاتف."
+      },
+      {
+       "en": "While we were eating, it started to rain.",
+       "ar": "بينما كنا نأكل بدأ المطر."
+      },
+      {
+       "en": "He broke his leg last year.",
+       "ar": "كسر ساقه العام الماضي."
+      }
+     ]
+    },
+    {
+     "t": "tip",
+     "en": "After did, use the base verb: Did you see him? (not Did you saw).",
+     "ar": "بعد did نستخدم الفعل في صورته الأصلية: Did you see him?"
+    }
+   ],
+   "exercises": [
+    {
+     "title": "Exercise 1 — Choose the correct answer",
+     "kind": "choose",
+     "items": [
+      {
+       "n": 1,
+       "q": "I [[1]] TV when the phone rang.",
+       "options": [
+        "watched",
+        "was watching"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 2,
+       "q": "She [[2]] to Muscat last week.",
+       "options": [
+        "went",
+        "was going"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "q": "While we [[3]] lunch, it started to rain.",
+       "options": [
+        "ate",
+        "were eating"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 4,
+       "q": "He [[4]] his leg when he was playing football.",
+       "options": [
+        "broke",
+        "was breaking"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "q": "They [[5]] the museum yesterday.",
+       "options": [
+        "visited",
+        "were visiting"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 6,
+       "q": "What [[6]] you doing at eight o'clock last night?",
+       "options": [
+        "were",
+        "did"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 7,
+       "q": "I [[7]] a strange noise and woke up.",
+       "options": [
+        "heard",
+        "was hearing"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 8,
+       "q": "It [[8]] when we left home.",
+       "options": [
+        "was raining",
+        "rained"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "title": "Exercise 2 — Complete the sentences",
+     "kind": "fill",
+     "items": [
+      {
+       "n": 1,
+       "q": "He ________ (walk) to school yesterday.",
+       "answer": "walked"
+      },
+      {
+       "n": 2,
+       "q": "We ________ (play) cards when the lights went out.",
+       "answer": "were playing"
+      },
+      {
+       "n": 3,
+       "q": "She ________ (not / see) the accident.",
+       "answer": "did not see"
+      },
+      {
+       "n": 4,
+       "q": "While I ________ (cook), my brother arrived.",
+       "answer": "was cooking"
+      },
+      {
+       "n": 5,
+       "q": "They ________ (buy) a new car last month.",
+       "answer": "bought"
+      },
+      {
+       "n": 6,
+       "q": "________ you sleeping when I called? (sleep)",
+       "answer": "Were"
+      }
+     ]
+    },
+    {
+     "title": "Exercise 3 — Practice dialogue",
+     "kind": "dialogue",
+     "lines": [
+      {
+       "speaker": "Majid",
+       "text": "Why did you not answer my call last night?"
+      },
+      {
+       "speaker": "Sultan",
+       "text": "I [[1]] a shower when you called."
+      },
+      {
+       "speaker": "Majid",
+       "text": "Oh. And what [[2]] after that?"
+      },
+      {
+       "speaker": "Sultan",
+       "text": "I [[3]] my homework and then I went to bed."
+      },
+      {
+       "speaker": "Majid",
+       "text": "I called again at nine. What [[4]] at that time?"
+      },
+      {
+       "speaker": "Sultan",
+       "text": "I [[5]] to music, so I did not hear it."
+      }
+     ],
+     "items": [
+      {
+       "n": 1,
+       "options": [
+        "had",
+        "was having"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 2,
+       "options": [
+        "did you do",
+        "were you doing"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "options": [
+        "finished",
+        "was finishing"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "options": [
+        "did you do",
+        "were you doing"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 5,
+       "options": [
+        "listened",
+        "was listening"
+       ],
+       "answer": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "GB-6",
+   "title": "Present perfect: for, since, already, yet, just, ever",
+   "title_ar": "المضارع التام",
+   "explain": [
+    {
+     "t": "rule",
+     "en": "Form: have / has + past participle. We use it for experiences, for results now, and for actions that started in the past and continue until now.",
+     "ar": "التكوين: have/has + التصريف الثالث للفعل. نستخدمه للخبرات، وللنتائج الحالية، ولأحداث بدأت في الماضي وما زالت مستمرة."
+    },
+    {
+     "t": "table",
+     "headers": [
+      "Word",
+      "Use",
+      "Example"
+     ],
+     "rows": [
+      [
+       "for",
+       "a period of time",
+       "for three years"
+      ],
+      [
+       "since",
+       "a starting point",
+       "since 2018"
+      ],
+      [
+       "already",
+       "positive, earlier than expected",
+       "I have already eaten."
+      ],
+      [
+       "yet",
+       "negative and questions, at the end",
+       "I haven't finished yet."
+      ],
+      [
+       "just",
+       "a very short time ago",
+       "She has just left."
+      ],
+      [
+       "ever / never",
+       "life experience",
+       "Have you ever been to Nizwa?"
+      ]
+     ]
+    },
+    {
+     "t": "examples",
+     "items": [
+      {
+       "en": "I have lived here since 2018.",
+       "ar": "أعيش هنا منذ عام 2018."
+      },
+      {
+       "en": "She has studied English for five years.",
+       "ar": "تدرس الإنجليزية منذ خمس سنوات."
+      },
+      {
+       "en": "They have been to Dubai three times.",
+       "ar": "ذهبوا إلى دبي ثلاث مرات."
+      }
+     ]
+    },
+    {
+     "t": "tip",
+     "en": "been = went and came back; gone = went and is not back.",
+     "ar": "been تعني ذهب وعاد، أما gone فتعني ذهب ولم يعد بعد."
+    }
+   ],
+   "exercises": [
+    {
+     "title": "Exercise 1 — Choose the correct answer",
+     "kind": "choose",
+     "items": [
+      {
+       "n": 1,
+       "q": "I have lived here [[1]] 2018.",
+       "options": [
+        "for",
+        "since"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 2,
+       "q": "She has studied English [[2]] five years.",
+       "options": [
+        "for",
+        "since"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "q": "I have not finished my homework [[3]].",
+       "options": [
+        "yet",
+        "already"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "q": "He has [[4]] left the house.",
+       "options": [
+        "just",
+        "yet"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "q": "Have you [[5]] visited Nizwa Fort?",
+       "options": [
+        "ever",
+        "already"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 6,
+       "q": "We have [[6]] eaten, thanks.",
+       "options": [
+        "already",
+        "yet"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 7,
+       "q": "They [[7]] to Dubai three times.",
+       "options": [
+        "have been",
+        "have gone"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 8,
+       "q": "My uncle has worked here [[8]] a long time.",
+       "options": [
+        "for",
+        "since"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "title": "Exercise 2 — Complete the sentences",
+     "kind": "fill",
+     "items": [
+      {
+       "n": 1,
+       "q": "I ________ (see) that film twice.",
+       "answer": "have seen"
+      },
+      {
+       "n": 2,
+       "q": "She ________ (live) in Sur since 2015.",
+       "answer": "has lived"
+      },
+      {
+       "n": 3,
+       "q": "We ________ (not / eat) lunch yet.",
+       "answer": "have not eaten"
+      },
+      {
+       "n": 4,
+       "q": "Have you ever ________ (ride) a camel?",
+       "answer": "ridden"
+      },
+      {
+       "n": 5,
+       "q": "He has ________ (break) his phone.",
+       "answer": "broken"
+      },
+      {
+       "n": 6,
+       "q": "They ________ (be) friends for ten years.",
+       "answer": "have been"
+      }
+     ]
+    },
+    {
+     "title": "Exercise 3 — Practice dialogue",
+     "kind": "dialogue",
+     "lines": [
+      {
+       "speaker": "Huda",
+       "text": "Have you [[1]] your project?"
+      },
+      {
+       "speaker": "Aisha",
+       "text": "Not [[2]]. I am still working on it."
+      },
+      {
+       "speaker": "Huda",
+       "text": "How long have you worked on it?"
+      },
+      {
+       "speaker": "Aisha",
+       "text": "I have worked on it [[3]] three days."
+      },
+      {
+       "speaker": "Huda",
+       "text": "I have [[4]] finished mine. Shall I help you?"
+      },
+      {
+       "speaker": "Aisha",
+       "text": "Yes, please! I have not [[5]] such a difficult project before."
+      }
+     ],
+     "items": [
+      {
+       "n": 1,
+       "options": [
+        "finished",
+        "finish"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "options": [
+        "yet",
+        "already"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "options": [
+        "for",
+        "since"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "options": [
+        "already",
+        "yet"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "options": [
+        "done",
+        "did"
+       ],
+       "answer": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "GB-7",
+   "title": "Quantifiers: some, any, much, many, a lot of, few, little",
+   "title_ar": "أدوات الكمية",
+   "explain": [
+    {
+     "t": "rule",
+     "en": "Many and a few go with countable nouns (books). Much and a little go with uncountable nouns (water). Use a lot of with both.",
+     "ar": "نستخدم many وa few مع المعدود (books)، و much وa little مع غير المعدود (water)، و a lot of مع النوعين."
+    },
+    {
+     "t": "rule",
+     "en": "Use some in positive sentences and offers; use any in negatives and questions. Few / little (without a) mean almost none.",
+     "ar": "نستخدم some في الإثبات والعرض، و any في النفي والسؤال. وكلمتا few / little بدون a تعنيان قليل جدًا تقريبًا لا يوجد."
+    },
+    {
+     "t": "table",
+     "headers": [
+      "",
+      "Countable",
+      "Uncountable"
+     ],
+     "rows": [
+      [
+       "positive",
+       "many, a few, some",
+       "a little, some"
+      ],
+      [
+       "negative / question",
+       "many, any",
+       "much, any"
+      ],
+      [
+       "both",
+       "a lot of",
+       "a lot of"
+      ]
+     ]
+    },
+    {
+     "t": "examples",
+     "items": [
+      {
+       "en": "How many students are in your class?",
+       "ar": "كم طالبًا في صفك؟"
+      },
+      {
+       "en": "There isn't much milk left.",
+       "ar": "لم يتبقَّ حليب كثير."
+      },
+      {
+       "en": "I have a few friends in Salalah.",
+       "ar": "لدي بضعة أصدقاء في صلالة."
+      }
+     ]
+    },
+    {
+     "t": "tip",
+     "en": "a few / a little = some (positive); few / little = not enough (negative idea).",
+     "ar": "a few / a little بمعنى بعض (إيجابي)، أما few / little فتعني غير كافٍ (سلبي)."
+    }
+   ],
+   "exercises": [
+    {
+     "title": "Exercise 1 — Choose the correct answer",
+     "kind": "choose",
+     "items": [
+      {
+       "n": 1,
+       "q": "How [[1]] students are in your class?",
+       "options": [
+        "many",
+        "much"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "q": "There isn't [[2]] milk left.",
+       "options": [
+        "much",
+        "many"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "q": "I have [[3]] friends in Salalah, so I am not alone.",
+       "options": [
+        "a few",
+        "a little"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "q": "Would you like [[4]] tea?",
+       "options": [
+        "some",
+        "any"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "q": "Do we have [[5]] eggs?",
+       "options": [
+        "any",
+        "some"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 6,
+       "q": "She has [[6]] money, so she cannot buy the bike.",
+       "options": [
+        "little",
+        "few"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 7,
+       "q": "He does not have [[7]] free time.",
+       "options": [
+        "many",
+        "much"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 8,
+       "q": "There are [[8]] cars on the road today.",
+       "options": [
+        "a lot of",
+        "much"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "title": "Exercise 2 — Complete the sentences",
+     "kind": "fill",
+     "bank": [
+      "some",
+      "any",
+      "much",
+      "many",
+      "a few",
+      "a little",
+      "a lot of"
+     ],
+     "items": [
+      {
+       "n": 1,
+       "q": "How ________ water do you drink a day?",
+       "answer": "much"
+      },
+      {
+       "n": 2,
+       "q": "There are not ________ chairs in the room.",
+       "answer": "any / many"
+      },
+      {
+       "n": 3,
+       "q": "I only want ________ sugar in my tea, please; just one spoon.",
+       "answer": "a little"
+      },
+      {
+       "n": 4,
+       "q": "How ________ brothers do you have?",
+       "answer": "many"
+      },
+      {
+       "n": 5,
+       "q": "We saw ________ camels in the desert, about fifty of them.",
+       "answer": "a lot of / many"
+      },
+      {
+       "n": 6,
+       "q": "He invited ________ friends to his party, only three.",
+       "answer": "a few"
+      }
+     ]
+    },
+    {
+     "title": "Exercise 3 — Practice dialogue",
+     "kind": "dialogue",
+     "lines": [
+      {
+       "speaker": "Maryam",
+       "text": "Let us make a cake. Do we have [[1]] flour?"
+      },
+      {
+       "speaker": "Salma",
+       "text": "Yes, but not [[2]]."
+      },
+      {
+       "speaker": "Maryam",
+       "text": "How [[3]] eggs do we need?"
+      },
+      {
+       "speaker": "Salma",
+       "text": "Just [[4]] eggs, maybe three."
+      },
+      {
+       "speaker": "Maryam",
+       "text": "And I will put [[5]] sugar in it."
+      }
+     ],
+     "items": [
+      {
+       "n": 1,
+       "options": [
+        "any",
+        "some"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "options": [
+        "much",
+        "many"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "options": [
+        "many",
+        "much"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "options": [
+        "a few",
+        "a little"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "options": [
+        "a little",
+        "a few"
+       ],
+       "answer": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "GB-8",
+   "title": "Infinitive (to + verb) vs -ing form",
+   "title_ar": "المصدر مع to مقابل صيغة -ing",
+   "explain": [
+    {
+     "t": "rule",
+     "en": "Some verbs are followed by -ing: enjoy, finish, mind, keep, avoid, suggest. Some verbs are followed by to + verb: want, need, decide, hope, plan, learn, would like.",
+     "ar": "بعض الأفعال يأتي بعدها -ing مثل enjoy, finish, mind, keep, avoid, suggest. وبعضها يأتي بعده to + فعل مثل want, need, decide, hope, plan, learn, would like."
+    },
+    {
+     "t": "rule",
+     "en": "After a preposition use -ing (good at, interested in). Use to + verb to show purpose.",
+     "ar": "بعد حرف الجر نستخدم -ing (good at, interested in). ونستخدم to + فعل للتعبير عن الغرض."
+    },
+    {
+     "t": "table",
+     "headers": [
+      "+ -ing",
+      "+ to infinitive",
+      "Both"
+     ],
+     "rows": [
+      [
+       "enjoy, finish, mind",
+       "want, need, decide",
+       "like, love, hate"
+      ],
+      [
+       "keep, avoid, suggest",
+       "hope, plan, learn",
+       "start, begin"
+      ]
+     ]
+    },
+    {
+     "t": "examples",
+     "items": [
+      {
+       "en": "I enjoy reading books.",
+       "ar": "أستمتع بقراءة الكتب."
+      },
+      {
+       "en": "She wants to be a doctor.",
+       "ar": "تريد أن تصبح طبيبة."
+      },
+      {
+       "en": "We went to the shop to buy bread.",
+       "ar": "ذهبنا إلى المتجر لشراء الخبز."
+      }
+     ]
+    },
+    {
+     "t": "tip",
+     "en": "Say I am good at drawing, not good at draw.",
+     "ar": "نقول good at drawing وليس good at draw."
+    }
+   ],
+   "exercises": [
+    {
+     "title": "Exercise 1 — Choose the correct answer",
+     "kind": "choose",
+     "items": [
+      {
+       "n": 1,
+       "q": "I enjoy [[1]] books.",
+       "options": [
+        "reading",
+        "to read"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "q": "She wants [[2]] a doctor.",
+       "options": [
+        "to be",
+        "being"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "q": "He decided [[3]] a new phone.",
+       "options": [
+        "to buy",
+        "buying"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "q": "They finished [[4]] the project.",
+       "options": [
+        "writing",
+        "to write"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "q": "I am good at [[5]] pictures.",
+       "options": [
+        "drawing",
+        "to draw"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 6,
+       "q": "We went to the shop [[6]] some bread.",
+       "options": [
+        "to buy",
+        "buying"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 7,
+       "q": "Would you like [[7]] with us?",
+       "options": [
+        "to come",
+        "coming"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 8,
+       "q": "He avoids [[8]] sweets.",
+       "options": [
+        "eating",
+        "to eat"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "title": "Exercise 2 — Complete the sentences",
+     "kind": "fill",
+     "items": [
+      {
+       "n": 1,
+       "q": "My sister hopes ________ (study) medicine.",
+       "answer": "to study"
+      },
+      {
+       "n": 2,
+       "q": "Do you mind ________ (close) the door?",
+       "answer": "closing"
+      },
+      {
+       "n": 3,
+       "q": "I am planning ________ (visit) my cousin.",
+       "answer": "to visit"
+      },
+      {
+       "n": 4,
+       "q": "She keeps ________ (talk) in class.",
+       "answer": "talking"
+      },
+      {
+       "n": 5,
+       "q": "He learned ________ (swim) at the age of six.",
+       "answer": "to swim"
+      },
+      {
+       "n": 6,
+       "q": "They are interested in ________ (learn) French.",
+       "answer": "learning"
+      }
+     ]
+    },
+    {
+     "title": "Exercise 3 — Practice dialogue",
+     "kind": "dialogue",
+     "lines": [
+      {
+       "speaker": "Ali",
+       "text": "What do you want [[1]] after school?"
+      },
+      {
+       "speaker": "Hamad",
+       "text": "I would like [[2]] a programmer."
+      },
+      {
+       "speaker": "Ali",
+       "text": "Wow! Are you good at [[3]] computers?"
+      },
+      {
+       "speaker": "Hamad",
+       "text": "Yes, I enjoy [[4]] with them every day."
+      },
+      {
+       "speaker": "Ali",
+       "text": "Good luck! I need [[5]] harder in maths."
+      }
+     ],
+     "items": [
+      {
+       "n": 1,
+       "options": [
+        "to do",
+        "doing"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "options": [
+        "to be",
+        "being"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "options": [
+        "using",
+        "to use"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "options": [
+        "working",
+        "to work"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "options": [
+        "to study",
+        "studying"
+       ],
+       "answer": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "GB-9",
+   "title": "Modal verbs: should, must, have to, can, could",
+   "title_ar": "الأفعال الناقصة",
+   "explain": [
+    {
+     "t": "rule",
+     "en": "Modal verbs are followed by the base verb (no to, no -s). Should gives advice; must / have to show obligation; mustn't shows prohibition; don't have to means it is not necessary.",
+     "ar": "بعد الأفعال الناقصة نستخدم الفعل الأصلي (بدون to أو s). should للنصيحة، و must / have to للإلزام، و mustn't للمنع، و don't have to تعني ليس ضروريًا."
+    },
+    {
+     "t": "table",
+     "headers": [
+      "Modal",
+      "Meaning",
+      "Example"
+     ],
+     "rows": [
+      [
+       "should / shouldn't",
+       "advice",
+       "You should sleep early."
+      ],
+      [
+       "must",
+       "strong duty",
+       "I must finish this today."
+      ],
+      [
+       "mustn't",
+       "forbidden",
+       "You mustn't run here."
+      ],
+      [
+       "have to / has to",
+       "rule or necessity",
+       "We have to wear a uniform."
+      ],
+      [
+       "don't have to",
+       "not necessary",
+       "You don't have to come."
+      ],
+      [
+       "can / could",
+       "ability, permission, request",
+       "Could I use your pen?"
+      ]
+     ]
+    },
+    {
+     "t": "examples",
+     "items": [
+      {
+       "en": "You should drink more water.",
+       "ar": "يجب أن تشرب ماءً أكثر."
+      },
+      {
+       "en": "You mustn't touch that wire.",
+       "ar": "يُمنع أن تلمس ذلك السلك."
+      },
+      {
+       "en": "When I was five, I could swim.",
+       "ar": "عندما كنت في الخامسة كنت أستطيع السباحة."
+      }
+     ]
+    },
+    {
+     "t": "tip",
+     "en": "mustn't and don't have to are very different: one is forbidden, the other is not needed.",
+     "ar": "الفرق كبير: mustn't ممنوع، أما don't have to فغير مطلوب."
+    }
+   ],
+   "exercises": [
+    {
+     "title": "Exercise 1 — Choose the correct answer",
+     "kind": "choose",
+     "items": [
+      {
+       "n": 1,
+       "q": "You [[1]] drink more water; it is good for you.",
+       "options": [
+        "should",
+        "mustn't"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "q": "You [[2]] run in the corridors. It is against the rules.",
+       "options": [
+        "mustn't",
+        "don't have to"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "q": "Tomorrow is a holiday, so we [[3]] wake up early.",
+       "options": [
+        "don't have to",
+        "mustn't"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "q": "[[4]] I use your pen, please?",
+       "options": [
+        "Can",
+        "Must"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "q": "When I was five, I [[5]] swim.",
+       "options": [
+        "could",
+        "can"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 6,
+       "q": "Students [[6]] wear a uniform at our school.",
+       "options": [
+        "have to",
+        "has to"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 7,
+       "q": "He has a headache. He [[7]] see a doctor.",
+       "options": [
+        "should",
+        "can"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 8,
+       "q": "She [[8]] speak three languages.",
+       "options": [
+        "can",
+        "must"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "title": "Exercise 2 — Complete the sentences",
+     "kind": "fill",
+     "bank": [
+      "should",
+      "shouldn't",
+      "mustn't",
+      "could",
+      "have to",
+      "don't have to",
+      "can't"
+     ],
+     "items": [
+      {
+       "n": 1,
+       "q": "It is dangerous. You ________ touch that wire.",
+       "answer": "mustn't / shouldn't"
+      },
+      {
+       "n": 2,
+       "q": "You ________ eat so much fast food; it is unhealthy.",
+       "answer": "shouldn't"
+      },
+      {
+       "n": 3,
+       "q": "I ________ read when I was four years old.",
+       "answer": "could"
+      },
+      {
+       "n": 4,
+       "q": "We ________ do homework tonight; the teacher did not give any.",
+       "answer": "don't have to"
+      },
+      {
+       "n": 5,
+       "q": "Visitors ________ take off their shoes before entering the mosque.",
+       "answer": "have to"
+      },
+      {
+       "n": 6,
+       "q": "Sorry, I ________ come to your party because I am travelling.",
+       "answer": "can't"
+      }
+     ]
+    },
+    {
+     "title": "Exercise 3 — Practice dialogue",
+     "kind": "dialogue",
+     "lines": [
+      {
+       "speaker": "Salma",
+       "text": "I have a bad cough."
+      },
+      {
+       "speaker": "Noor",
+       "text": "You [[1]] see a doctor."
+      },
+      {
+       "speaker": "Salma",
+       "text": "I know, but I [[2]] go to school today. We have a test."
+      },
+      {
+       "speaker": "Noor",
+       "text": "[[3]] you walk to school with that cough? My dad can drive you."
+      },
+      {
+       "speaker": "Salma",
+       "text": "Thank you! You are kind."
+      },
+      {
+       "speaker": "Noor",
+       "text": "You [[4]] stay warm and drink hot tea. And remember, you [[5]] share your cup with others."
+      }
+     ],
+     "items": [
+      {
+       "n": 1,
+       "options": [
+        "should",
+        "can't"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "options": [
+        "have to",
+        "don't have to"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "options": [
+        "Can",
+        "Must"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "options": [
+        "should",
+        "mustn't"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "options": [
+        "mustn't",
+        "should"
+       ],
+       "answer": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "GB-10",
+   "title": "Question forms and question words",
+   "title_ar": "تكوين الأسئلة وأدوات الاستفهام",
+   "explain": [
+    {
+     "t": "rule",
+     "en": "Question order: question word + auxiliary (do / does / did / am / is / are / was / were) + subject + verb. When the question word is the subject (Who broke the window?) there is no auxiliary.",
+     "ar": "ترتيب السؤال: أداة الاستفهام + فعل مساعد + الفاعل + الفعل. وعندما تكون الأداة هي الفاعل (Who broke the window?) لا نستخدم فعلًا مساعدًا."
+    },
+    {
+     "t": "table",
+     "headers": [
+      "Question word",
+      "Asks about",
+      "Example"
+     ],
+     "rows": [
+      [
+       "what / which",
+       "things",
+       "What is your name?"
+      ],
+      [
+       "where / when",
+       "place / time",
+       "When does it start?"
+      ],
+      [
+       "who / whose",
+       "person / owner",
+       "Whose bag is this?"
+      ],
+      [
+       "why / how",
+       "reason / way",
+       "How do you go to school?"
+      ],
+      [
+       "how many / much / old / often / long",
+       "number, amount, age, frequency, length",
+       "How often do you play?"
+      ]
+     ]
+    },
+    {
+     "t": "examples",
+     "items": [
+      {
+       "en": "Where does your brother live?",
+       "ar": "أين يسكن أخوك؟"
+      },
+      {
+       "en": "What time did the film start?",
+       "ar": "في أي ساعة بدأ الفيلم؟"
+      },
+      {
+       "en": "Who broke the window?",
+       "ar": "من كسر النافذة؟"
+      }
+     ]
+    },
+    {
+     "t": "tip",
+     "en": "After does / did use the base verb: Where did he go? (not Where did he went).",
+     "ar": "بعد does / did نستخدم الفعل الأصلي: Where did he go?"
+    }
+   ],
+   "exercises": [
+    {
+     "title": "Exercise 1 — Choose the correct answer",
+     "kind": "choose",
+     "items": [
+      {
+       "n": 1,
+       "q": "[[1]] does your brother live?",
+       "options": [
+        "Where",
+        "Who"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "q": "[[2]] you like pizza?",
+       "options": [
+        "Do",
+        "Does"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "q": "How [[3]] brothers have you got?",
+       "options": [
+        "many",
+        "much"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "q": "What time [[4]] the film start?",
+       "options": [
+        "does",
+        "do"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "q": "Where [[5]] you go last summer?",
+       "options": [
+        "did",
+        "do"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 6,
+       "q": "[[6]] is that bag? It is very nice.",
+       "options": [
+        "Whose",
+        "Who"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 7,
+       "q": "Who [[7]] the window?",
+       "options": [
+        "broke",
+        "did break"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 8,
+       "q": "[[8]] old is your sister?",
+       "options": [
+        "How",
+        "What"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "title": "Exercise 2 — Complete the sentences",
+     "kind": "fill",
+     "bank": [
+      "When",
+      "How",
+      "Who",
+      "Why",
+      "What time",
+      "How many"
+     ],
+     "items": [
+      {
+       "n": 1,
+       "q": "________ is your birthday? It is on 5 May.",
+       "answer": "When"
+      },
+      {
+       "n": 2,
+       "q": "________ do you come to school? By bus.",
+       "answer": "How"
+      },
+      {
+       "n": 3,
+       "q": "________ is that man? He is my uncle.",
+       "answer": "Who"
+      },
+      {
+       "n": 4,
+       "q": "________ is she crying? Because she lost her phone.",
+       "answer": "Why"
+      },
+      {
+       "n": 5,
+       "q": "________ does the lesson finish? At half past one.",
+       "answer": "What time"
+      },
+      {
+       "n": 6,
+       "q": "________ books did you borrow? Three.",
+       "answer": "How many"
+      }
+     ]
+    },
+    {
+     "title": "Exercise 3 — Practice dialogue",
+     "kind": "dialogue",
+     "lines": [
+      {
+       "speaker": "Salim",
+       "text": "Hi Hamad! Where [[1]] you go yesterday?"
+      },
+      {
+       "speaker": "Hamad",
+       "text": "I went to the sports centre."
+      },
+      {
+       "speaker": "Salim",
+       "text": "[[2]] did you go with?"
+      },
+      {
+       "speaker": "Hamad",
+       "text": "My cousin. We played tennis."
+      },
+      {
+       "speaker": "Salim",
+       "text": "[[3]] do you play there?"
+      },
+      {
+       "speaker": "Hamad",
+       "text": "Twice a week. Would you like to join?"
+      },
+      {
+       "speaker": "Salim",
+       "text": "Yes! [[4]] time does it start?"
+      },
+      {
+       "speaker": "Hamad",
+       "text": "At five. [[5]] you got a racket?"
+      }
+     ],
+     "items": [
+      {
+       "n": 1,
+       "options": [
+        "did",
+        "do"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "options": [
+        "Who",
+        "What"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "options": [
+        "How often",
+        "How much"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "options": [
+        "What",
+        "Which"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "options": [
+        "Have",
+        "Has"
+       ],
+       "answer": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "phrasal": [
+  {
+   "pv": "back sb/sth up",
+   "ar": "يدعم / يؤيد",
+   "meaning": "to support sb or show that sth is true",
+   "ex": "My friends backed me up at the meeting."
+  },
+  {
+   "pv": "back up",
+   "ar": "ينسخ احتياطيًا",
+   "meaning": "to make a copy of computer files",
+   "ex": "Always back up your photos before you update the phone."
+  },
+  {
+   "pv": "bring sb up",
+   "ar": "يربّي",
+   "meaning": "to look after a child until he or she is an adult",
+   "ex": "Her grandmother brought her up."
+  },
+  {
+   "pv": "come across",
+   "ar": "يصادف",
+   "meaning": "to meet or find sb/sth by chance",
+   "ex": "I came across an old photo in the drawer."
+  },
+  {
+   "pv": "deal with",
+   "ar": "يتعامل مع",
+   "meaning": "to take action to solve a problem or handle sth",
+   "ex": "The teacher dealt with the problem quickly."
+  },
+  {
+   "pv": "find out",
+   "ar": "يكتشف",
+   "meaning": "to get information by asking or studying",
+   "ex": "Let us find out what time the bus leaves."
+  },
+  {
+   "pv": "give sth away",
+   "ar": "يتبرع به / يتخلص منه مجانًا",
+   "meaning": "to give sth free to sb",
+   "ex": "We gave away our old toys to the charity shop."
+  },
+  {
+   "pv": "go ahead",
+   "ar": "يمضي قدمًا / يستمر",
+   "meaning": "to proceed or begin",
+   "ex": "Please go ahead and start the presentation."
+  },
+  {
+   "pv": "go away",
+   "ar": "يبتعد / يسافر",
+   "meaning": "to leave a place or leave home for a time",
+   "ex": "The family went away for the weekend."
+  },
+  {
+   "pv": "go back",
+   "ar": "يعود",
+   "meaning": "to return to a place",
+   "ex": "I want to go back to Muscat in the summer."
+  },
+  {
+   "pv": "go in",
+   "ar": "يدخل",
+   "meaning": "to enter a place",
+   "ex": "The teacher knocked and then went in."
+  },
+  {
+   "pv": "go into",
+   "ar": "يناقش بالتفصيل",
+   "meaning": "to talk about or explain sth in detail",
+   "ex": "I will not go into the details now."
+  },
+  {
+   "pv": "go online / offline",
+   "ar": "يتصل / ينقطع عن الإنترنت",
+   "meaning": "to start or stop using the internet",
+   "ex": "I go online every evening to check my emails."
+  },
+  {
+   "pv": "hang up",
+   "ar": "ينهي المكالمة",
+   "meaning": "to end a phone call",
+   "ex": "He said goodbye and hung up."
+  },
+  {
+   "pv": "hurry up",
+   "ar": "يسرع",
+   "meaning": "to move or do sth more quickly",
+   "ex": "Hurry up, or we will be late for school."
+  },
+  {
+   "pv": "keep up with",
+   "ar": "يواكب / يجاري",
+   "meaning": "to move or progress at the same speed as sb/sth",
+   "ex": "It is hard to keep up with new technology."
+  },
+  {
+   "pv": "log in / on",
+   "ar": "يسجل الدخول",
+   "meaning": "to enter a computer system with a password",
+   "ex": "Log in to the school website to see your marks."
+  },
+  {
+   "pv": "log out / off",
+   "ar": "يسجل الخروج",
+   "meaning": "to leave a computer system",
+   "ex": "Do not forget to log out of your account."
+  },
+  {
+   "pv": "look after",
+   "ar": "يعتني بـ",
+   "meaning": "to take care of sb or sth",
+   "ex": "Huda looks after her little sister after school."
+  },
+  {
+   "pv": "look for",
+   "ar": "يبحث عن",
+   "meaning": "to try to find sb or sth",
+   "ex": "I am looking for my keys."
+  },
+  {
+   "pv": "look in",
+   "ar": "يمرّ لزيارة قصيرة",
+   "meaning": "to visit sb for a short time",
+   "ex": "I will look in on my grandmother on the way home."
+  },
+  {
+   "pv": "look out",
+   "ar": "ينتبه / يحذر",
+   "meaning": "to be careful",
+   "ex": "Look out! The floor is wet."
+  },
+  {
+   "pv": "look round",
+   "ar": "يتجول / يلتفت",
+   "meaning": "to walk around a place and see it, or turn your head",
+   "ex": "We looked round the old market for an hour."
+  },
+  {
+   "pv": "look through",
+   "ar": "يتصفح / يطالع",
+   "meaning": "to read or check sth quickly",
+   "ex": "She looked through her notes before the exam."
+  },
+  {
+   "pv": "look up",
+   "ar": "يبحث عن معلومة في (قاموس)",
+   "meaning": "to find information in a book or on a computer",
+   "ex": "Look up the new word in your dictionary."
+  },
+  {
+   "pv": "make sth up",
+   "ar": "يخترع / يؤلف",
+   "meaning": "to invent sth, such as a story or an excuse",
+   "ex": "He made up a story about a talking camel."
+  },
+  {
+   "pv": "plug sth in",
+   "ar": "يوصل بالكهرباء",
+   "meaning": "to connect a device to the electricity supply",
+   "ex": "Plug the charger in, please."
+  },
+  {
+   "pv": "run away",
+   "ar": "يهرب",
+   "meaning": "to escape from a place",
+   "ex": "The cat ran away when it saw the dog."
+  },
+  {
+   "pv": "run out of",
+   "ar": "ينفد منه",
+   "meaning": "to use all of sth so that none is left",
+   "ex": "We have run out of paper."
+  },
+  {
+   "pv": "scroll through",
+   "ar": "يمرّر الشاشة لتصفح",
+   "meaning": "to move up or down a screen to read or look",
+   "ex": "I scroll through the news every morning."
+  },
+  {
+   "pv": "set up",
+   "ar": "يؤسس / يجهز",
+   "meaning": "to start a business or prepare equipment",
+   "ex": "My uncle set up a small company last year."
+  },
+  {
+   "pv": "sign up",
+   "ar": "يسجل / يشترك",
+   "meaning": "to put your name on a list or join a course",
+   "ex": "Many students signed up for the science club."
+  },
+  {
+   "pv": "switch on / off",
+   "ar": "يشغل / يطفئ",
+   "meaning": "to press a switch to start or stop electric power",
+   "ex": "Please switch off the lights when you leave."
+  },
+  {
+   "pv": "throw sth away",
+   "ar": "يرمي / يتخلص من",
+   "meaning": "to get rid of sth you do not want",
+   "ex": "Do not throw away old bottles; recycle them."
+  },
+  {
+   "pv": "turn up",
+   "ar": "يصل / يظهر",
+   "meaning": "to arrive or appear",
+   "ex": "Only ten students turned up for the trip."
+  },
+  {
+   "pv": "turn sth down",
+   "ar": "يخفض الصوت / يرفض",
+   "meaning": "to lower the sound or heat, or to refuse sth",
+   "ex": "Turn the music down, please."
+  },
+  {
+   "pv": "turn sth off",
+   "ar": "يطفئ",
+   "meaning": "to stop a machine or light working",
+   "ex": "Turn off your phone in the exam."
+  },
+  {
+   "pv": "turn sth on",
+   "ar": "يشغل / يفتح",
+   "meaning": "to start a machine or light working",
+   "ex": "Turn on the computer and open the file."
+  },
+  {
+   "pv": "find sb out",
+   "ar": "يكتشف أمر شخص",
+   "meaning": "to discover that sb has done sth wrong",
+   "ex": "The teacher found him out when he copied the answers."
+  },
+  {
+   "pv": "keep sth up",
+   "ar": "يحافظ على المستوى",
+   "meaning": "to continue sth at a high level",
+   "ex": "Keep up the good work, Ali!"
+  },
+  {
+   "pv": "look up (raise eyes)",
+   "ar": "يرفع بصره",
+   "meaning": "to raise your eyes",
+   "ex": "She looked up from her book and smiled."
+  }
+ ],
+ "irregular": [
+  {
+   "base": "be",
+   "past": "was / were",
+   "pp": "been",
+   "ar": "يكون"
+  },
+  {
+   "base": "become",
+   "past": "became",
+   "pp": "become",
+   "ar": "يصبح"
+  },
+  {
+   "base": "begin",
+   "past": "began",
+   "pp": "begun",
+   "ar": "يبدأ"
+  },
+  {
+   "base": "blow",
+   "past": "blew",
+   "pp": "blown",
+   "ar": "ينفخ"
+  },
+  {
+   "base": "break",
+   "past": "broke",
+   "pp": "broken",
+   "ar": "يكسر"
+  },
+  {
+   "base": "bring",
+   "past": "brought",
+   "pp": "brought",
+   "ar": "يجلب"
+  },
+  {
+   "base": "build",
+   "past": "built",
+   "pp": "built",
+   "ar": "يبني"
+  },
+  {
+   "base": "buy",
+   "past": "bought",
+   "pp": "bought",
+   "ar": "يشتري"
+  },
+  {
+   "base": "catch",
+   "past": "caught",
+   "pp": "caught",
+   "ar": "يلتقط / يمسك"
+  },
+  {
+   "base": "come",
+   "past": "came",
+   "pp": "come",
+   "ar": "يأتي"
+  },
+  {
+   "base": "cut",
+   "past": "cut",
+   "pp": "cut",
+   "ar": "يقطع"
+  },
+  {
+   "base": "do / does",
+   "past": "did",
+   "pp": "done",
+   "ar": "يفعل"
+  },
+  {
+   "base": "draw",
+   "past": "drew",
+   "pp": "drawn",
+   "ar": "يرسم"
+  },
+  {
+   "base": "drink",
+   "past": "drank",
+   "pp": "drunk",
+   "ar": "يشرب"
+  },
+  {
+   "base": "drive",
+   "past": "drove",
+   "pp": "driven",
+   "ar": "يقود"
+  },
+  {
+   "base": "eat",
+   "past": "ate",
+   "pp": "eaten",
+   "ar": "يأكل"
+  },
+  {
+   "base": "fall",
+   "past": "fell",
+   "pp": "fallen",
+   "ar": "يقع / يسقط"
+  },
+  {
+   "base": "feel",
+   "past": "felt",
+   "pp": "felt",
+   "ar": "يشعر"
+  },
+  {
+   "base": "find",
+   "past": "found",
+   "pp": "found",
+   "ar": "يجد"
+  },
+  {
+   "base": "fly",
+   "past": "flew",
+   "pp": "flown",
+   "ar": "يطير"
+  },
+  {
+   "base": "forget",
+   "past": "forgot",
+   "pp": "forgotten",
+   "ar": "ينسى"
+  },
+  {
+   "base": "get",
+   "past": "got",
+   "pp": "got",
+   "ar": "يحصل على"
+  },
+  {
+   "base": "give",
+   "past": "gave",
+   "pp": "given",
+   "ar": "يعطي"
+  },
+  {
+   "base": "go",
+   "past": "went",
+   "pp": "gone",
+   "ar": "يذهب"
+  },
+  {
+   "base": "have",
+   "past": "had",
+   "pp": "had",
+   "ar": "يملك"
+  },
+  {
+   "base": "hear",
+   "past": "heard",
+   "pp": "heard",
+   "ar": "يسمع"
+  },
+  {
+   "base": "hit",
+   "past": "hit",
+   "pp": "hit",
+   "ar": "يضرب"
+  },
+  {
+   "base": "hold",
+   "past": "held",
+   "pp": "held",
+   "ar": "يمسك / يقبض"
+  },
+  {
+   "base": "keep",
+   "past": "kept",
+   "pp": "kept",
+   "ar": "يحتفظ / يحافظ"
+  },
+  {
+   "base": "know",
+   "past": "knew",
+   "pp": "known",
+   "ar": "يعرف"
+  },
+  {
+   "base": "learn",
+   "past": "learnt",
+   "pp": "learnt",
+   "ar": "يتعلم"
+  },
+  {
+   "base": "leave",
+   "past": "left",
+   "pp": "left",
+   "ar": "يغادر / يترك"
+  },
+  {
+   "base": "let",
+   "past": "let",
+   "pp": "let",
+   "ar": "يدع / يسمح"
+  },
+  {
+   "base": "lose",
+   "past": "lost",
+   "pp": "lost",
+   "ar": "يخسر / يفقد"
+  },
+  {
+   "base": "make",
+   "past": "made",
+   "pp": "made",
+   "ar": "يصنع / يجعل"
+  },
+  {
+   "base": "meet",
+   "past": "met",
+   "pp": "met",
+   "ar": "يقابل"
+  },
+  {
+   "base": "pay",
+   "past": "paid",
+   "pp": "paid",
+   "ar": "يدفع"
+  },
+  {
+   "base": "put",
+   "past": "put",
+   "pp": "put",
+   "ar": "يضع"
+  },
+  {
+   "base": "read",
+   "past": "read",
+   "pp": "read",
+   "ar": "يقرأ"
+  },
+  {
+   "base": "ride",
+   "past": "rode",
+   "pp": "ridden",
+   "ar": "يركب"
+  },
+  {
+   "base": "ring",
+   "past": "rang",
+   "pp": "rung",
+   "ar": "يرنّ"
+  },
+  {
+   "base": "run",
+   "past": "ran",
+   "pp": "run",
+   "ar": "يركض"
+  },
+  {
+   "base": "say",
+   "past": "said",
+   "pp": "said",
+   "ar": "يقول"
+  },
+  {
+   "base": "see",
+   "past": "saw",
+   "pp": "seen",
+   "ar": "يرى"
+  },
+  {
+   "base": "sell",
+   "past": "sold",
+   "pp": "sold",
+   "ar": "يبيع"
+  },
+  {
+   "base": "send",
+   "past": "sent",
+   "pp": "sent",
+   "ar": "يرسل"
+  },
+  {
+   "base": "sing",
+   "past": "sang",
+   "pp": "sung",
+   "ar": "يغني"
+  },
+  {
+   "base": "sit",
+   "past": "sat",
+   "pp": "sat",
+   "ar": "يجلس"
+  },
+  {
+   "base": "sleep",
+   "past": "slept",
+   "pp": "slept",
+   "ar": "ينام"
+  },
+  {
+   "base": "speak",
+   "past": "spoke",
+   "pp": "spoken",
+   "ar": "يتحدث"
+  },
+  {
+   "base": "spend",
+   "past": "spent",
+   "pp": "spent",
+   "ar": "ينفق / يقضي"
+  },
+  {
+   "base": "stand",
+   "past": "stood",
+   "pp": "stood",
+   "ar": "يقف"
+  },
+  {
+   "base": "steal",
+   "past": "stole",
+   "pp": "stolen",
+   "ar": "يسرق"
+  },
+  {
+   "base": "swim",
+   "past": "swam",
+   "pp": "swum",
+   "ar": "يسبح"
+  },
+  {
+   "base": "take",
+   "past": "took",
+   "pp": "taken",
+   "ar": "يأخذ"
+  },
+  {
+   "base": "teach",
+   "past": "taught",
+   "pp": "taught",
+   "ar": "يعلّم"
+  },
+  {
+   "base": "tell",
+   "past": "told",
+   "pp": "told",
+   "ar": "يخبر"
+  },
+  {
+   "base": "think",
+   "past": "thought",
+   "pp": "thought",
+   "ar": "يفكر / يظن"
+  },
+  {
+   "base": "throw",
+   "past": "threw",
+   "pp": "thrown",
+   "ar": "يرمي"
+  },
+  {
+   "base": "understand",
+   "past": "understood",
+   "pp": "understood",
+   "ar": "يفهم"
+  },
+  {
+   "base": "wake",
+   "past": "woke",
+   "pp": "woken",
+   "ar": "يستيقظ"
+  },
+  {
+   "base": "wear",
+   "past": "wore",
+   "pp": "worn",
+   "ar": "يلبس"
+  },
+  {
+   "base": "win",
+   "past": "won",
+   "pp": "won",
+   "ar": "يفوز"
+  },
+  {
+   "base": "write",
+   "past": "wrote",
+   "pp": "written",
+   "ar": "يكتب"
+  }
+ ]
+}

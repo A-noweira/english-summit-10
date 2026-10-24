@@ -1,0 +1,599 @@
+{
+ "id": 2,
+ "title": "Model Exam 2",
+ "listening1": {
+  "context": "You are going to hear a conversation between Noor and Yousef.",
+  "script": [
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "Hi Yousef! Good news. I spoke to the principal this morning, and he has agreed to our recycling campaign."
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "That is wonderful! I have been worried about the school yard for a long time. At every break time I see rubbish on the ground."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "Me too. Plastic bottles are the biggest problem, much bigger than paper bags or food waste. That is why this campaign is so important."
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "How long will it last? One week is not enough for students to change their habits."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "I agree. The principal suggested a whole month, but that is too long. Two weeks is better, and he accepted that."
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "Great. Now we must plan everything carefully. Where shall we put the first bins?"
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "The main gate is too far from the classes. I think the best place is next to the canteen, because everybody buys drinks there."
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "Good idea. We will need about ten bins at the start. What about colours? We need different bins for different materials."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "Yellow for plastic, green for cans and blue for paper. Many countries use the same colours, so students will understand them quickly."
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "Perfect. We also need posters to tell everyone about the campaign. They must be colourful and easy to read."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "The art club can make them. I asked Ms Maryam yesterday, and she said yes. I wanted the science club first, but they are busy with the science fair."
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "What about a prize? Students will work harder if there is something to win. They need a good reason to take part."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "The class that recycles the most will win a trip to the beach. I thought about a pizza party, but a trip is more exciting."
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "Fantastic! The students will love that. Who will take the recycling away?"
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "A local company will collect it every Thursday. Not on Sunday, because the school is very busy on that day."
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "That is very helpful. Then we are ready. Shall we tell the whole school about the campaign in tomorrow's assembly?"
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "Yes, let's do that. I will prepare a short speech tonight, and you can bring the posters. I am sure this campaign will make our school cleaner and greener."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "What is the biggest problem in the school yard?",
+    "options": [
+     "paper bags",
+     "food waste",
+     "plastic bottles"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "q": "How long will the campaign last?",
+    "options": [
+     "one week",
+     "two weeks",
+     "one month"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "Where will the first bins be?",
+    "options": [
+     "next to the canteen",
+     "near the main gate",
+     "in the library"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "Which colour will the paper bins be?",
+    "options": [
+     "yellow",
+     "green",
+     "blue"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "Which club will make the posters?",
+    "options": [
+     "the science club",
+     "the art club",
+     "the English club"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "What will the winning class get?",
+    "options": [
+     "a trip to the beach",
+     "a pizza party",
+     "a cinema ticket"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 7,
+    "q": "On which day will a company collect the recycling?",
+    "options": [
+     "Sunday",
+     "Wednesday",
+     "Thursday"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about the history of Omani sailors and trade.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Welcome, everyone. Today's talk is about Omani sailors and the trade routes of the sea."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Oman has a very long coast, and for thousands of years its people have lived by the sea. More than four thousand years ago, ancient Oman was known as Magan. Its people sold copper to the cities of Mesopotamia. Copper was a very valuable metal because people used it to make tools and weapons."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Later, Oman became famous for another product. This was frankincense, a sweet-smelling resin that comes from trees in Dhofar, in the south. Traders carried it by land and by sea to Egypt, Rome and India. It was very valuable, and many people used it in their temples and homes."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "The traders needed good ships. Omani shipbuilders made wooden boats called dhows. They did not use iron nails. Instead, they sewed the wooden planks together with rope made from coconut fibre. Some years ago, a copy of an old ship called the Jewel of Muscat was built in this traditional way, and it sailed from Oman to Singapore."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Sailors also used the seasonal winds, called monsoon winds. In summer the wind blows in one direction, and in winter it changes direction. Sailors waited for the right wind to cross the Indian Ocean to India and to come back home again."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "One of the most important ports was Sohar. It was a rich and busy city more than a thousand years ago, and it is linked to the legend of Sinbad the Sailor. Sailors from Sohar travelled to East Africa and India. Some even sailed as far as China, which was a very long journey."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Trade did more than bring money to Oman. Merchants brought spices, cloth and new ideas from many countries, and they took Omani goods and ideas with them. Because of this, Oman became a meeting place for different cultures."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Today, the sea is still important to Oman. Many people work in ports, and visitors can see traditional dhows in places like Muscat and Sur. These beautiful boats remind us of the proud sea history of our country."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "Which metal did ancient Oman sell to Mesopotamia?",
+    "hint": "(metal)",
+    "answer": "Copper"
+   },
+   {
+    "n": 2,
+    "q": "Which sweet-smelling product comes from trees in Dhofar?",
+    "hint": "",
+    "answer": "Frankincense"
+   },
+   {
+    "n": 3,
+    "q": "What did shipbuilders use to sew the planks together?",
+    "hint": "",
+    "answer": "(Rope made from) coconut fibre"
+   },
+   {
+    "n": 4,
+    "q": "Which port is linked to the legend of Sinbad the Sailor?",
+    "hint": "(city)",
+    "answer": "Sohar"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "Dhow builders used iron nails to join the planks.",
+    "answer": false
+   },
+   {
+    "n": 6,
+    "statement": "Sailors used seasonal winds to cross the ocean.",
+    "answer": true
+   },
+   {
+    "n": 7,
+    "statement": "Sohar was a small village with little trade.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Some Omani sailors travelled as far as China.",
+    "answer": true
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Our school has started a campaign to (1)_____ the amount of rubbish we produce. Every day, students put plastic bottles, paper and cans into special bins, so that these materials can be (2)_____ into new products. In the past, most of our waste ended up in the ground, which was harmful to the (3)_____. Experts say that burning fossil fuels is one of the main causes of global warming, and one of its (4)_____ is more floods and droughts. If everybody changes their daily (5)_____, we can protect our planet. The students of Grade Ten are very proud of this campaign, and they hope other schools will follow their example.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "increase",
+     "burn",
+     "download",
+     "reduce"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 2,
+    "options": [
+     "converted",
+     "blogged",
+     "downloaded",
+     "installed"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "gender",
+     "environment",
+     "entrepreneur",
+     "empire"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "inventions",
+     "citizens",
+     "empires",
+     "consequences"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 5,
+    "options": [
+     "habits",
+     "fossils",
+     "droughts",
+     "pictures"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Have you seen the new recycling bins? They [[1]] placed near the canteen yesterday."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Yes, I have. The yard is [[2]] than it was last year."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Students care about the planet, [[3]] they recycle every day."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "How [[4]] bottles did we collect last week?"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "About two hundred. If we collect more, we [[5]] win the prize."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "I hope so. It will be a great trip."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "was",
+     "were"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "cleaner",
+     "more clean"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "because",
+     "so"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "many",
+     "much"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "will",
+     "would"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "reading1": {
+  "title": "The Story of the Internet",
+  "passage": [
+   "Today, it is hard to imagine life without the internet. We use it every day to study, to talk to friends, to watch videos and to shop. More than five billion people around the world are now online. However, the internet is not very old, and its story began more than fifty years ago.",
+   "In the 1960s, scientists in the United States wanted computers in different places to share information. They built a small network called ARPANET. In 1969, the first message was sent from one computer to another. Only two letters were sent before the system stopped working. Still, the test showed that the idea was possible.",
+   "In 1971, an engineer named Ray Tomlinson sent the first email between two computers. He chose the @ symbol to separate the name of the user from the name of the computer. Email quickly became popular with scientists and universities.",
+   "The internet became much easier to use because of the World Wide Web. It was invented by a British scientist, Tim Berners-Lee, in 1989, while he was working at CERN in Switzerland. People often think that the web and the internet are the same, but the web is only one service that runs on the internet. In 1991, the first website went online.",
+   "In the 1990s, home computers became cheaper, and many families connected to the internet by telephone lines. Search engines helped people to find information, and the first online shops appeared. After the year 2000, faster connections made it possible to watch videos and listen to music online. Smartphones, which became popular after 2007, put the internet in everyone's pocket.",
+   "The internet has brought many benefits. Students can learn from teachers in other countries, and companies can sell their products all over the world. However, there are also problems, such as fake news, cyber bullying and too much screen time. Experts say that we should learn to use the internet wisely, protect our personal information and take regular breaks from our screens."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "When did the story of the internet begin?",
+    "options": [
+     "Less than ten years ago",
+     "More than fifty years ago",
+     "About two hundred years ago"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "What happened to the first message in 1969?",
+    "options": [
+     "It arrived without any problem.",
+     "It was lost for many years.",
+     "The system stopped before it finished."
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "Why did Ray Tomlinson choose the @ symbol?",
+    "options": [
+     "To separate the user's name from the computer's name",
+     "To make emails shorter",
+     "To show the time of the message"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "What is true about the World Wide Web?",
+    "options": [
+     "It was invented before ARPANET.",
+     "It is exactly the same as the internet.",
+     "It is one service that runs on the internet."
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "What helped people to find information in the 1990s?",
+    "options": [
+     "Search engines",
+     "Smartphones",
+     "Online videos"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "What do experts say about the internet?",
+    "options": [
+     "Children should not use it.",
+     "We should stop online shopping.",
+     "We should use it wisely."
+    ],
+    "answer": 2
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "The first email was sent in ________. (year)",
+    "answer": "1971"
+   },
+   {
+    "n": 8,
+    "q": "Tim Berners-Lee was working at CERN in ________ when he invented the web.",
+    "answer": "Switzerland"
+   },
+   {
+    "n": 9,
+    "q": "In the 1990s, home computers became ________.",
+    "answer": "cheaper"
+   },
+   {
+    "n": 10,
+    "q": "One problem of the internet is cyber bullying, and another is too much ________ time.",
+    "answer": "screen"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "Energy from the Earth",
+  "passage": [
+   "Geothermal energy is the heat that comes from inside the Earth. The word geothermal comes from two Greek words: geo, which means Earth, and therme, which means heat. The Earth is like a giant ball of hot rock. At the centre, the temperature is thousands of degrees, and some of this heat slowly moves up towards the surface.",
+   "In some places, this heat is easy to see. Hot springs, geysers and volcanoes are all signs of heat under the ground. People have used hot springs for bathing for thousands of years. In Oman, there are hot springs near Rustaq and Nakhal, and many visitors enjoy them.",
+   "To produce electricity, engineers drill deep wells into the ground until they reach very hot water or steam. The steam rises to the surface through pipes and turns a turbine. The turbine drives a generator, which makes electricity. After that, the water is cooled and sent back underground so that it can be heated again.",
+   "Geothermal energy has several advantages. First, it is clean because it produces very little pollution compared with coal or gas. Second, it is reliable. Solar panels need sunshine and wind turbines need wind, but the heat under the ground is always there, day and night, in every season. Third, a geothermal power station does not need a large area of land.",
+   "Iceland is a good example of a country that uses this energy well. Because it has many volcanoes and hot springs, most of its homes are heated with geothermal hot water. Geothermal power also gives Iceland a large part of its electricity.",
+   "However, geothermal energy has some disadvantages. Power stations can only be built in places where hot rocks are close to the surface. Drilling deep wells is very expensive, and sometimes small amounts of gas can escape from under the ground. In addition, there is a small risk of earth tremors near some stations.",
+   "Today, geothermal energy supplies only a small part of the world's electricity. However, scientists believe that it has a bright future. New drilling methods may allow more countries to use the heat under their feet."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What does the word geo mean?",
+    "hint": "",
+    "answer": "Earth"
+   },
+   {
+    "n": 2,
+    "q": "Name one place in Oman where there are hot springs.",
+    "hint": "(place)",
+    "answer": "Rustaq / Nakhal"
+   },
+   {
+    "n": 3,
+    "q": "What do engineers drill to reach hot water or steam?",
+    "hint": "",
+    "answer": "Deep wells"
+   },
+   {
+    "n": 4,
+    "q": "What turns the turbine?",
+    "hint": "",
+    "answer": "Steam"
+   },
+   {
+    "n": 5,
+    "q": "Why is geothermal energy reliable? Because ________",
+    "hint": "",
+    "answer": "the heat is always there, day and night / in every season"
+   },
+   {
+    "n": 6,
+    "q": "Which country heats most of its homes with geothermal hot water?",
+    "hint": "(country)",
+    "answer": "Iceland"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "The water is sent back underground to be heated again.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "A geothermal power station needs a very large area of land.",
+    "answer": false
+   },
+   {
+    "n": 9,
+    "statement": "Geothermal power stations can be built anywhere.",
+    "answer": false
+   },
+   {
+    "n": 10,
+    "statement": "Drilling deep wells costs a lot of money.",
+    "answer": true
+   }
+  ]
+ },
+ "chart": {
+  "title": "Energy-Saving Habits of Families in One Town",
+  "ylabel": "Percentage of Families",
+  "unit": "%",
+  "categories": [
+   "Switching off lights",
+   "Using LED bulbs",
+   "Closing curtains",
+   "Using solar heaters"
+  ],
+  "series": [
+   {
+    "name": "2020",
+    "values": [
+     60,
+     30,
+     15,
+     5
+    ]
+   },
+   {
+    "name": "2024",
+    "values": [
+     65,
+     70,
+     40,
+     35
+    ]
+   }
+  ],
+  "model": "The bar chart illustrates energy-saving habits in 2020 and 2024. Overall, switching off lights was most popular in 2020, whereas using LED bulbs was most popular in 2024.\nFirstly, the most popular habit in 2020 was switching off lights, with 60% of families. This was followed by using LED bulbs (30%) and closing curtains (15%). However, the least popular habit in 2020 was using solar heaters, with only 5% of families.\nIn contrast, the most popular habit in 2024 was using LED bulbs, with 70% of families. This was followed by switching off lights (65%) and closing curtains (40%). However, the least popular habit in 2024 was using solar heaters, with only 35% of families.\nTo summarize, switching off lights was popular in both years. However, the biggest difference was in using LED bulbs, where 30% chose it in 2020, whereas 70% did in 2024."
+ },
+ "email": {
+  "formal": true,
+  "situation": "Imagine you are Sultan, a student at your school. The school pays a lot of money for electricity every month.",
+  "task": "Write a formal email to your principal, Mr Hamdan, and suggest installing solar panels at the school. In your email, write about:",
+  "bullets": [
+   "why solar panels would be useful",
+   "where the panels could be placed",
+   "how the school could pay for them"
+  ],
+  "model": "Dear Mr Hamdan,\n\nI hope this email finds you in good health and high spirits. I am writing this email to recommend installing solar panels at our school.\n\nFirst, solar panels would save the school a lot of money on electricity. For example, the air conditioners use much power every day. Moreover, solar energy is clean and helps to protect the environment.\n\nSecond, the panels could be placed on the roof of the main building, because it gets strong sunshine. Moreover, the school could pay for them with help from parents and local companies. Therefore, the cost would be small.\n\nThank you for your time and attention. I look forward to your response. Please let me know if you need any further information.\n\nYours sincerely,\nSultan"
+ }
+}

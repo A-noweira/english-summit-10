@@ -1,0 +1,695 @@
+[
+ {
+  "id": "L1-01",
+  "session": "Sem I 1st Session 2025-2026",
+  "context": "You are going to hear a conversation between Huda and Ali.",
+  "items": [
+   {
+    "n": 1,
+    "q": "Ali did the research because his ________ asked him to do it.",
+    "options": [
+     "teacher",
+     "friend",
+     "brother"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "Ali will submit the research in ________.",
+    "options": [
+     "May",
+     "June",
+     "July"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "Huda is still working on ________ research and hasn't finished it yet.",
+    "options": [
+     "online education",
+     "screen time",
+     "internet addiction"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "q": "The resource that Huda used the most in her research was ________.",
+    "options": [
+     "articles",
+     "websites",
+     "surveys"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "At age 15, about ________ million people use social media.",
+    "options": [
+     "150",
+     "200",
+     "500"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "Instagram is the most common social media program in ________.",
+    "options": [
+     "India",
+     "the USA",
+     "Brazil"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "Huda will send the research file to Ali using ________.",
+    "options": [
+     "email",
+     "a flash drive",
+     "WhatsApp"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "L1-02",
+  "session": "Sem I 2nd Session 2025-2026",
+  "context": "You are going to hear a conversation between Hamed and his mother.",
+  "items": [
+   {
+    "n": 1,
+    "q": "The competition Hamed wants to participate in will be held in ________.",
+    "options": [
+     "Oman",
+     "Kuwait",
+     "UAE"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "This year the competition is called ________.",
+    "options": [
+     "Future Speakers Contest",
+     "Young Voices Challenge",
+     "Young Innovators Talk"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "The competition will be held in ________ this year.",
+    "options": [
+     "April",
+     "May",
+     "June"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "Hamed's friend, ________ is going to participate in the competition.",
+    "options": [
+     "Zaid",
+     "Omar",
+     "Sami"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "Hamed would like to speak about ________.",
+    "options": [
+     "climate change",
+     "civilization",
+     "social media"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "Finally, Hamed chose to talk about ________.",
+    "options": [
+     "Ancient Egypt",
+     "Roman Empire",
+     "Islamic Heritage"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "After his mother talked to him, Hamed felt ________.",
+    "options": [
+     "afraid",
+     "confused",
+     "excited"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "L1-03",
+  "session": "Sem I 1st Session 2024-2025",
+  "context": "You are going to hear a conversation between Sara and Alex.",
+  "items": [
+   {
+    "n": 1,
+    "q": "Wind energy was first used in ________.",
+    "options": [
+     "China",
+     "Netherlands",
+     "Egypt"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "q": "Europeans depended on wind turbines to ________.",
+    "options": [
+     "grind grain",
+     "sail boats",
+     "pump water"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "The first wind turbine to produce electricity was built by ________.",
+    "options": [
+     "James Blyth",
+     "Charles Brush",
+     "Werner Siemens"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "The most expensive material in wind turbines was ________.",
+    "options": [
+     "wood",
+     "steel",
+     "cloth"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "The USA had the first turbine to generate electricity in ________.",
+    "options": [
+     "1887",
+     "1888",
+     "1899"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "Today, the third most common renewable energy used is ________ energy.",
+    "options": [
+     "solar",
+     "wind",
+     "hydropower"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 7,
+    "q": "Sara got her information about renewable energy from a ________.",
+    "options": [
+     "book",
+     "documentary",
+     "podcast"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "L1-04",
+  "session": "Sem I 2nd Session 2024-2025",
+  "context": "You are going to hear a conversation between Emma and her teacher Mike.",
+  "items": [
+   {
+    "n": 1,
+    "q": "The process of changing sunlight into electricity is called solar ________.",
+    "options": [
+     "effect",
+     "emissions",
+     "quality"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "There are ________ types of solar panels.",
+    "options": [
+     "1",
+     "2",
+     "5"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "Single crystal panels are less ________.",
+    "options": [
+     "efficient",
+     "sustainable",
+     "affordable"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "Solar panels need regular ________.",
+    "options": [
+     "maintenance",
+     "charging",
+     "cleaning"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "Solar panels increase ________ in the air.",
+    "options": [
+     "carbon dioxide",
+     "oxygen",
+     "temperature"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "Effectiveness of solar panels depends on the ________.",
+    "options": [
+     "cost",
+     "size",
+     "weather"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "Solar panels use stored energy at night through ________ systems.",
+    "options": [
+     "battery",
+     "installation",
+     "information"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "L1-05",
+  "session": "Sem I 1st Session 2023-2024",
+  "context": "You are going to hear a conversation between a mother and her son.",
+  "items": [
+   {
+    "n": 1,
+    "q": "The son is feeling ________.",
+    "options": [
+     "confused",
+     "stressed",
+     "happy"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "Next week, he will have ________.",
+    "options": [
+     "a party to arrange",
+     "a project to submit",
+     "many exams"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "He studies at ________.",
+    "options": [
+     "home",
+     "college",
+     "institute"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "q": "________ is the main cause of distraction for him.",
+    "options": [
+     "Friends' gatherings",
+     "Social media",
+     "Evening classes"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "Keeping the phone in another room and setting a time limit ________ for him.",
+    "options": [
+     "worked well",
+     "was quite helpful",
+     "didn't work"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "His mother suggested using ________ apps to help him focus.",
+    "options": [
+     "Freedom and FocusMe",
+     "ClickUp and flipd",
+     "Focus and flipd"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 7,
+    "q": "The son ________ his mother's last advice.",
+    "options": [
+     "will try",
+     "wasn't sure about",
+     "didn't like"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "L1-06",
+  "session": "Sem I 2nd Session 2023-2024",
+  "context": "You are going to hear an interview at a hotel between a man and a woman.",
+  "items": [
+   {
+    "n": 1,
+    "q": "The woman is applying for a job as a ________.",
+    "options": [
+     "nurse",
+     "receptionist",
+     "waitress"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "She has worked at the hotel for ________ years.",
+    "options": [
+     "three",
+     "four",
+     "five"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "She left her last job because ________.",
+    "options": [
+     "her parents moved house",
+     "the hotel closed",
+     "she wanted a change"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "q": "She asks for ________.",
+    "options": [
+     "facilities",
+     "transportation",
+     "medical care"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "The training course will take ________ months.",
+    "options": [
+     "4",
+     "3",
+     "2"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "She will get a salary of ________ Omani Rials.",
+    "options": [
+     "300",
+     "305",
+     "350"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "The hotel manager says he will contact her by ________.",
+    "options": [
+     "phone",
+     "e-mail",
+     "fax"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "L1-07",
+  "session": "Sem I 1st Session 2022-2023",
+  "context": "You are going to hear a conversation between a father and his daughter.",
+  "items": [
+   {
+    "n": 1,
+    "q": "Sara has already finished her ________ test.",
+    "options": [
+     "Biology",
+     "English",
+     "Maths"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "Last year, the theme of the competition was about ________.",
+    "options": [
+     "climate change",
+     "pollution reduction",
+     "space"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "The robot is designed to ________.",
+    "options": [
+     "clean the house",
+     "cook dinner",
+     "swallow plastic from the ocean"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "Sara's school is participating with ________ teams.",
+    "options": [
+     "2",
+     "3",
+     "4"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "Sara's team has to finish the project by ________.",
+    "options": [
+     "January",
+     "November",
+     "September"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "The winners will receive ________ Omani Rials in the final stage.",
+    "options": [
+     "75",
+     "570",
+     "750"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "Sara's father is ________ about her participation in the competition.",
+    "options": [
+     "worried",
+     "excited",
+     "frustrated"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "L1-08",
+  "session": "Sem I 2nd Session 2022-2023",
+  "context": "You are going to hear a conversation between a university professor and her student.",
+  "items": [
+   {
+    "n": 1,
+    "q": "Ali missed his class because he went to the wrong room No. ________.",
+    "options": [
+     "30",
+     "113",
+     "214"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "q": "The room has been recently changed because of ________.",
+    "options": [
+     "his friend's disability",
+     "its small size",
+     "its broken smart board"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "Ali's father is now in the hospital because of ________.",
+    "options": [
+     "heart disease",
+     "blood pressure",
+     "a car accident"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "Ali has ________ to choose from to do his project.",
+    "options": [
+     "one option",
+     "two options",
+     "three options"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "Ali decided not to write a report because he doesn't have ________.",
+    "options": [
+     "self-confidence",
+     "interest",
+     "an iPad"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "Ahmed and Salim will present their topic on the ________ of February.",
+    "options": [
+     "5th",
+     "10th",
+     "15th"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "Ali decided to give a presentation about ________.",
+    "options": [
+     "Sumerians",
+     "Ancient Egypt",
+     "Ancient Rome"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "L1-09",
+  "session": "Sem I 1st Session 2019-2020",
+  "context": "You are going to hear a conversation between a student researcher (Jessica) and her professor, Dr Henry.",
+  "items": [
+   {
+    "n": 1,
+    "q": "Jessica is collecting information about how climate change has affected the world's ________.",
+    "options": [
+     "population",
+     "environment",
+     "economy"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "q": "Since 1980, climate change has cost countries ________.",
+    "options": [
+     "$1.6 trillion",
+     "$1.6 billion",
+     "$1.6 million"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "'Munich Re', the insurance company lost about $24 billion in the Californian ________.",
+    "options": [
+     "floods",
+     "droughts",
+     "wildfires"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "If climate change continues, ________ million people in the fish industry will lose their jobs.",
+    "options": [
+     "3",
+     "23",
+     "56"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "Many people have ________ flooded coastlines, drought lands and areas of extreme disasters.",
+    "options": [
+     "had to leave",
+     "migrated to",
+     "settled in"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "Jessica suggests sending her questions to Dr Henry by ________.",
+    "options": [
+     "Twitter",
+     "Email",
+     "WhatsApp"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "They arrange to meet on ________.",
+    "options": [
+     "Tuesday",
+     "Wednesday",
+     "Thursday"
+    ],
+    "answer": 2
+   }
+  ]
+ }
+]

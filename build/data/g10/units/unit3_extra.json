@@ -1,0 +1,1861 @@
+{
+ "U3-L1": {
+  "mcq2": [
+   {
+    "q": "The new hospital will be ________ by solar panels on its roof.",
+    "options": [
+     "power",
+     "powered",
+     "powers",
+     "powering"
+    ],
+    "answer": 1,
+    "n": 1
+   },
+   {
+    "q": "The company ________ the village with clean water every day.",
+    "options": [
+     "supplies",
+     "charges",
+     "collects",
+     "burns"
+    ],
+    "answer": 0,
+    "n": 2
+   },
+   {
+    "q": "After running for ten minutes, I felt a lot of ________ coming from my body.",
+    "options": [
+     "charge",
+     "supply",
+     "plant",
+     "heat"
+    ],
+    "answer": 3,
+    "n": 3
+   },
+   {
+    "q": "To ________ something means to make it.",
+    "options": [
+     "collect",
+     "charge",
+     "produce",
+     "help"
+    ],
+    "answer": 2,
+    "n": 4
+   },
+   {
+    "q": "Bees ________ nectar from flowers and take it back to their hive.",
+    "options": [
+     "generate",
+     "collect",
+     "supply",
+     "power"
+    ],
+    "answer": 1,
+    "n": 5
+   },
+   {
+    "q": "We use ________ to run lights, fans and computers.",
+    "options": [
+     "electricity",
+     "electric",
+     "electrician",
+     "electrically"
+    ],
+    "answer": 0,
+    "n": 6
+   },
+   {
+    "q": "A ________ burns coal or gas to make electricity for a whole city.",
+    "options": [
+     "battery",
+     "bakery",
+     "garage",
+     "power plant"
+    ],
+    "answer": 3,
+    "n": 7
+   },
+   {
+    "q": "Electric cars need ________ at a station before a long trip.",
+    "options": [
+     "charged",
+     "charges",
+     "charging",
+     "charge"
+    ],
+    "answer": 2,
+    "n": 8
+   },
+   {
+    "q": "The Sun is the main source of ________ for life on Earth.",
+    "options": [
+     "energetic",
+     "energy",
+     "energise",
+     "energetically"
+    ],
+    "answer": 1,
+    "n": 9
+   },
+   {
+    "q": "The ________ of fuel to the island was cut off during the storm.",
+    "options": [
+     "supply",
+     "supplied",
+     "supplying",
+     "supplier"
+    ],
+    "answer": 0,
+    "n": 10
+   }
+  ],
+  "exam": {
+   "passage": "On our camping trip in the mountains, we had no (1)_____ because there were no cables nearby. My uncle brought a small solar device that can (2)_____ sunlight all day long. In the evening, we used it to (3)_____ our phones and a small lamp. We also made tea on a fire, because fire gives us (4)_____ as well as light. My uncle says clean sources like the sun can (5)_____ our homes in the future, so more people should use them.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "rubbish",
+      "weather",
+      "electricity",
+      "leaflet"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "options": [
+      "collect",
+      "burn",
+      "invent",
+      "install"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "options": [
+      "charge",
+      "record",
+      "sort",
+      "renew"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "options": [
+      "waste",
+      "fact",
+      "heat",
+      "wind"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "options": [
+      "reduce",
+      "attach",
+      "power",
+      "evaluate"
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ },
+ "U3-L2": {
+  "mcq2": [
+   {
+    "q": "Gas is a ________ source of energy because new gas takes millions of years to form.",
+    "options": [
+     "renewable",
+     "unlimited",
+     "sustainable",
+     "non-renewable"
+    ],
+    "answer": 3,
+    "n": 1
+   },
+   {
+    "q": "We should save water because the amount of fresh water in some countries is ________.",
+    "options": [
+     "unlimited",
+     "endless",
+     "limited",
+     "natural"
+    ],
+    "answer": 2,
+    "n": 2
+   },
+   {
+    "q": "We have ________ of paper, so please buy some more.",
+    "options": [
+     "run into",
+     "run out",
+     "run away",
+     "run over"
+    ],
+    "answer": 1,
+    "n": 3
+   },
+   {
+    "q": "Bamboo is a ________ material because it grows back quickly.",
+    "options": [
+     "sustainable",
+     "limited",
+     "harmful",
+     "expensive"
+    ],
+    "answer": 0,
+    "n": 4
+   },
+   {
+    "q": "Electric cars are more ________ than petrol cars because they make less smoke.",
+    "options": [
+     "stressful",
+     "colourful",
+     "dangerous",
+     "eco-friendly"
+    ],
+    "answer": 3,
+    "n": 5
+   },
+   {
+    "q": "She is a very ________ girl and always smiles at new students.",
+    "options": [
+     "environmental",
+     "natural",
+     "friendly",
+     "limited"
+    ],
+    "answer": 2,
+    "n": 6
+   },
+   {
+    "q": "Rain, rivers and trees are ________ resources.",
+    "options": [
+     "formal",
+     "natural",
+     "massive",
+     "essential"
+    ],
+    "answer": 1,
+    "n": 7
+   },
+   {
+    "q": "The ________ of the desert is hot and dry in summer.",
+    "options": [
+     "environment",
+     "environmental",
+     "environmentally",
+     "environments"
+    ],
+    "answer": 0,
+    "n": 8
+   },
+   {
+    "q": "Planting trees is an ________ project.",
+    "options": [
+     "environmentally",
+     "environment",
+     "friendly",
+     "environmental"
+    ],
+    "answer": 3,
+    "n": 9
+   },
+   {
+    "q": "The word 'unlimited' means ________.",
+    "options": [
+     "there is no end to it",
+     "there is only a little of it",
+     "it is very expensive",
+     "it is bad for health"
+    ],
+    "answer": 0,
+    "n": 10
+   }
+  ],
+  "exam": {
+   "passage": "Our school started a green club to protect the (1)_____. Members say that we cannot use oil and gas forever because they are (2)_____ and one day will (3)_____. So the club asked the headteacher to choose (4)_____ sources, such as the sun and the wind, for our school buildings. The students also hope that everyone will use (5)_____ products, for example paper bags instead of plastic ones, to keep our country clean. The headteacher liked the idea and promised to talk about it at the next staff meeting.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "equipment",
+      "entrance",
+      "environment",
+      "evidence"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "options": [
+      "non-renewable",
+      "renewable",
+      "eco-friendly",
+      "unlimited"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "options": [
+      "run out",
+      "log in",
+      "look for",
+      "pass through"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "options": [
+      "harmful",
+      "formal",
+      "renewable",
+      "stressful"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "options": [
+      "dangerous",
+      "unsuitable",
+      "eco-friendly",
+      "expensive"
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ },
+ "U3-L3": {
+  "mcq2": [
+   {
+    "q": "Cars need ________ such as petrol or diesel to move.",
+    "options": [
+     "pollution",
+     "rubbish",
+     "fuel",
+     "oilfield"
+    ],
+    "answer": 2,
+    "n": 1
+   },
+   {
+    "q": "Coal, oil and natural gas are all ________ fuels.",
+    "options": [
+     "solar",
+     "fossil",
+     "wind",
+     "tidal"
+    ],
+    "answer": 1,
+    "n": 2
+   },
+   {
+    "q": "Many families cook with ________ from a metal cylinder.",
+    "options": [
+     "gas",
+     "dam",
+     "waves",
+     "wind"
+    ],
+    "answer": 0,
+    "n": 3
+   },
+   {
+    "q": "Plastic rubbish in the sea is a serious kind of ________.",
+    "options": [
+     "fuel",
+     "electricity",
+     "capacity",
+     "pollution"
+    ],
+    "answer": 3,
+    "n": 4
+   },
+   {
+    "q": "Please put your ________ in the bin, not on the floor.",
+    "options": [
+     "fuel",
+     "oil",
+     "rubbish",
+     "coal"
+    ],
+    "answer": 2,
+    "n": 5
+   },
+   {
+    "q": "Be careful! The soup is very hot and could ________ your tongue.",
+    "options": [
+     "sort",
+     "burn",
+     "reduce",
+     "collect"
+    ],
+    "answer": 1,
+    "n": 6
+   },
+   {
+    "q": "Workers ________ the letters by city before sending them.",
+    "options": [
+     "sort",
+     "burn",
+     "reduce",
+     "pump"
+    ],
+    "answer": 0,
+    "n": 7
+   },
+   {
+    "q": "We can ________ waste by using both sides of the paper.",
+    "options": [
+     "increase",
+     "burn",
+     "install",
+     "reduce"
+    ],
+    "answer": 3,
+    "n": 8
+   },
+   {
+    "q": "A thick, dark liquid found under the ground and used to make petrol is called ________.",
+    "options": [
+     "coal",
+     "rubbish",
+     "oil",
+     "water"
+    ],
+    "answer": 2,
+    "n": 9
+   },
+   {
+    "q": "The city's ________ system collects, sorts and recycles rubbish.",
+    "options": [
+     "fossil fuel",
+     "waste management",
+     "oilfield",
+     "pollution"
+    ],
+    "answer": 1,
+    "n": 10
+   }
+  ],
+  "exam": {
+   "passage": "Last Saturday our class cleaned a beach near Muscat. We found a lot of (1)_____, such as plastic bottles and old bags. We had to (2)_____ it into plastic, paper and metal before taking it to the recycling centre. Our teacher explained that a dirty beach is a kind of (3)_____ that can harm sea animals. Good (4)_____ can keep our cities and coasts clean. We also promised to (5)_____ the amount of plastic we use at home. Everyone agreed that it was a tiring but very useful morning.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "fuel",
+      "steam",
+      "rubbish",
+      "oil"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "options": [
+      "sort",
+      "burn",
+      "supply",
+      "charge"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "options": [
+      "pollution",
+      "electricity",
+      "energy",
+      "capacity"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "options": [
+      "wind farm",
+      "fossil fuel",
+      "waste management",
+      "power plant"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "options": [
+      "increase",
+      "install",
+      "reduce",
+      "attach"
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ },
+ "U3-L4": {
+  "mcq2": [
+   {
+    "q": "The ________ blew the leaves across the playground.",
+    "options": [
+     "wind",
+     "dam",
+     "turbine",
+     "kinetic"
+    ],
+    "answer": 0,
+    "n": 1
+   },
+   {
+    "q": "The long blades of the ________ turn slowly in the breeze.",
+    "options": [
+     "dam",
+     "wave",
+     "farm",
+     "turbine"
+    ],
+    "answer": 3,
+    "n": 2
+   },
+   {
+    "q": "Water falling through the pipes of a ________ turns machines that make electricity.",
+    "options": [
+     "wind farm",
+     "oilfield",
+     "hydroelectric dam",
+     "waves"
+    ],
+    "answer": 2,
+    "n": 3
+   },
+   {
+    "q": "Hydropower means electricity made from the movement of ________.",
+    "options": [
+     "coal",
+     "water",
+     "sunlight",
+     "rubbish"
+    ],
+    "answer": 1,
+    "n": 4
+   },
+   {
+    "q": "Kinetic energy is the energy an object has because of its ________.",
+    "options": [
+     "colour",
+     "price",
+     "movement",
+     "name"
+    ],
+    "answer": 2,
+    "n": 5
+   },
+   {
+    "q": "________ power uses the up-and-down movement of the sea to make electricity.",
+    "options": [
+     "Wave",
+     "Wind",
+     "Solar",
+     "Coal"
+    ],
+    "answer": 0,
+    "n": 6
+   },
+   {
+    "q": "A wind ________ has many turbines working together on a hill.",
+    "options": [
+     "garden",
+     "field",
+     "house",
+     "farm"
+    ],
+    "answer": 3,
+    "n": 7
+   },
+   {
+    "q": "Wind ________ is produced when the blades of turbines turn.",
+    "options": [
+     "wave",
+     "dam",
+     "energy",
+     "speed"
+    ],
+    "answer": 2,
+    "n": 8
+   },
+   {
+    "q": "Wind power does not need to ________ fuel, so it makes no smoke.",
+    "options": [
+     "install",
+     "burn",
+     "attach",
+     "evaluate"
+    ],
+    "answer": 1,
+    "n": 9
+   },
+   {
+    "q": "The Aswan High Dam, built across the River Nile in Egypt, is a very large ________.",
+    "options": [
+     "dam",
+     "turbine",
+     "wave",
+     "oilfield"
+    ],
+    "answer": 0,
+    "n": 10
+   }
+  ],
+  "exam": {
+   "passage": "Imagine a small island with strong sea breezes. The government built a (1)_____ with twenty tall machines on a hill. Each (2)_____ changes the movement of the air into electricity. On the coast, engineers also use the (3)_____ of the sea to make power. This is called (4)_____. Because this kind of (5)_____ is clean, the island hopes to stop using oil in the future. Visitors to the island often say that the air there feels fresh, and the sea looks beautiful at sunset.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "oilfield",
+      "leaflet",
+      "wind farm",
+      "geyser"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "options": [
+      "turbine",
+      "partner",
+      "request",
+      "greeting"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "options": [
+      "waves",
+      "coal",
+      "residents",
+      "rubbish"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "options": [
+      "solar power",
+      "geothermal energy",
+      "wave power",
+      "biomass"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "options": [
+      "fuel",
+      "charge",
+      "energy",
+      "waste"
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ },
+ "U3-L5": {
+  "mcq2": [
+   {
+    "q": "________ is the star that gives the Earth light and heat.",
+    "options": [
+     "The Moon",
+     "A geyser",
+     "A nucleus",
+     "The Sun"
+    ],
+    "answer": 3,
+    "n": 1
+   },
+   {
+    "q": "The Sun is the source of ________ energy.",
+    "options": [
+     "geothermal",
+     "nuclear",
+     "solar",
+     "tidal"
+    ],
+    "answer": 2,
+    "n": 2
+   },
+   {
+    "q": "Our school has put new ________ on the roof to collect sunlight.",
+    "options": [
+     "wind turbines",
+     "solar panels",
+     "steam engines",
+     "oilfields"
+    ],
+    "answer": 1,
+    "n": 3
+   },
+   {
+    "q": "Geothermal energy comes from the natural heat inside the ________.",
+    "options": [
+     "Earth",
+     "Sun",
+     "sea",
+     "wind"
+    ],
+    "answer": 0,
+    "n": 4
+   },
+   {
+    "q": "When water boils, it turns into ________.",
+    "options": [
+     "ice",
+     "oil",
+     "coal",
+     "steam"
+    ],
+    "answer": 3,
+    "n": 5
+   },
+   {
+    "q": "Nuclear power comes from the energy inside the ________ of an atom.",
+    "options": [
+     "waves",
+     "geyser",
+     "nucleus",
+     "sunlight"
+    ],
+    "answer": 2,
+    "n": 6
+   },
+   {
+    "q": "Plant material and animal waste that is used to make energy is called ________.",
+    "options": [
+     "geyser",
+     "biomass",
+     "nucleus",
+     "sunlight"
+    ],
+    "answer": 1,
+    "n": 7
+   },
+   {
+    "q": "Some buses use ________ made from vegetable oil instead of petrol.",
+    "options": [
+     "biofuel",
+     "steam",
+     "sunlight",
+     "nucleus"
+    ],
+    "answer": 0,
+    "n": 8
+   },
+   {
+    "q": "Iceland is famous for its ________, which shoot hot water high into the air.",
+    "options": [
+     "dams",
+     "turbines",
+     "leaflets",
+     "geysers"
+    ],
+    "answer": 3,
+    "n": 9
+   },
+   {
+    "q": "Solar ________ is made when sunlight is changed into electricity.",
+    "options": [
+     "nucleus",
+     "steam",
+     "power",
+     "biomass"
+    ],
+    "answer": 2,
+    "n": 10
+   }
+  ],
+  "exam": {
+   "passage": "Iceland is a cold country, but under its ground there is a lot of (1)_____ heat. Engineers use it to make (2)_____ that turns turbines and produces electricity. This is called (3)_____ energy. Tourists also visit hot water jets called (4)_____ that shoot into the air. In sunny countries like Oman, many people prefer (5)_____ panels because the sun shines nearly every day. Both ways of getting clean energy are better for the air than burning fuel, so experts hope more countries will use them soon.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "formal",
+      "famous",
+      "natural",
+      "extra"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "options": [
+      "steam",
+      "rubbish",
+      "coal",
+      "leaflet"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "options": [
+      "geothermal",
+      "nuclear",
+      "tidal",
+      "kinetic"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "options": [
+      "dams",
+      "wind farms",
+      "geysers",
+      "generators"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "options": [
+      "geothermal",
+      "tidal",
+      "solar",
+      "kinetic"
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ },
+ "U3-L6": {
+  "mcq2": [
+   {
+    "q": "The telephone was an important ________ of the nineteenth century.",
+    "options": [
+     "inventor",
+     "invention",
+     "invent",
+     "inventing"
+    ],
+    "answer": 1,
+    "n": 1
+   },
+   {
+    "q": "Thomas Edison was a famous ________ who improved the electric light bulb.",
+    "options": [
+     "inventor",
+     "invention",
+     "vehicle",
+     "capacity"
+    ],
+    "answer": 0,
+    "n": 2
+   },
+   {
+    "q": "Engineers will ________ new solar panels on the school roof next week.",
+    "options": [
+     "invent",
+     "approximately",
+     "convert",
+     "install"
+    ],
+    "answer": 3,
+    "n": 3
+   },
+   {
+    "q": "There is not enough ________ in my bag for another book.",
+    "options": [
+     "vehicle",
+     "invention",
+     "space",
+     "megawatt"
+    ],
+    "answer": 2,
+    "n": 4
+   },
+   {
+    "q": "The football stadium has a ________ of about forty thousand people.",
+    "options": [
+     "megawatt",
+     "capacity",
+     "vehicle",
+     "trolley"
+    ],
+    "answer": 1,
+    "n": 5
+   },
+   {
+    "q": "In the supermarket, Mum put the bags into a ________.",
+    "options": [
+     "shopping trolley",
+     "megawatt",
+     "generator",
+     "attachment"
+    ],
+    "answer": 0,
+    "n": 6
+   },
+   {
+    "q": "One megawatt is one ________ watts.",
+    "options": [
+     "thousand",
+     "hundred",
+     "billion",
+     "million"
+    ],
+    "answer": 3,
+    "n": 7
+   },
+   {
+    "q": "A driver must learn how to ________ a bus safely.",
+    "options": [
+     "invent",
+     "install",
+     "operate",
+     "push"
+    ],
+    "answer": 2,
+    "n": 8
+   },
+   {
+    "q": "Sunlight can ________ clear glass and warm the room.",
+    "options": [
+     "run out",
+     "pass through",
+     "help with",
+     "look for"
+    ],
+    "answer": 1,
+    "n": 9
+   },
+   {
+    "q": "The word 'approximately' means ________.",
+    "options": [
+     "exactly",
+     "about",
+     "never",
+     "easily"
+    ],
+    "answer": 1,
+    "n": 10
+   }
+  ],
+  "exam": {
+   "passage": "Salim is a young (1)_____ who loves making new things. His latest (2)_____ is a small machine that can (3)_____ the movement of a bicycle wheel into electricity for a light. He plans to (4)_____ it on every bike in his village. The device is (5)_____ cheap to make, so many families can afford it, and the roads will be safer for riders at night. His teacher was so proud of him that she asked him to show the machine to the whole school.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "resident",
+      "partner",
+      "inventor",
+      "greeting"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "options": [
+      "invention",
+      "attachment",
+      "leaflet",
+      "closing"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "options": [
+      "convert",
+      "attach",
+      "sort",
+      "renew"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "options": [
+      "differ",
+      "imagine",
+      "install",
+      "burn"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "options": [
+      "hopefully",
+      "creatively",
+      "relatively",
+      "extra"
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ },
+ "U3-L7": {
+  "mcq2": [
+   {
+    "q": "One big ________ of living near the school is that I can walk there.",
+    "options": [
+     "advantage",
+     "disadvantage",
+     "request",
+     "purpose"
+    ],
+    "answer": 0,
+    "n": 1
+   },
+   {
+    "q": "The only ________ of the new phone is its high price.",
+    "options": [
+     "benefit",
+     "advantage",
+     "potential",
+     "disadvantage"
+    ],
+    "answer": 3,
+    "n": 2
+   },
+   {
+    "q": "Regular exercise has many health ________.",
+    "options": [
+     "disadvantages",
+     "types",
+     "benefits",
+     "partners"
+    ],
+    "answer": 2,
+    "n": 3
+   },
+   {
+    "q": "This medicine is very ________; my cough has gone.",
+    "options": [
+     "harmful",
+     "effective",
+     "expensive",
+     "dangerous"
+    ],
+    "answer": 1,
+    "n": 4
+   },
+   {
+    "q": "That car is too ________ for us because we can only pay a little.",
+    "options": [
+     "expensive",
+     "cheap",
+     "essential",
+     "harmful"
+    ],
+    "answer": 0,
+    "n": 5
+   },
+   {
+    "q": "Tickets for children are ________ on Sundays, only two rials.",
+    "options": [
+     "expensive",
+     "dangerous",
+     "stressful",
+     "cheap"
+    ],
+    "answer": 3,
+    "n": 6
+   },
+   {
+    "q": "Before you buy a phone, you should ________ the price and the battery life.",
+    "options": [
+     "attach",
+     "record",
+     "consider",
+     "supply"
+    ],
+    "answer": 2,
+    "n": 7
+   },
+   {
+    "q": "The young player has great ________ and may become a star.",
+    "options": [
+     "advantage",
+     "potential",
+     "type",
+     "benefit"
+    ],
+    "answer": 1,
+    "n": 8
+   },
+   {
+    "q": "A student who uses critical thinking usually ________.",
+    "options": [
+     "asks questions before accepting an idea",
+     "believes everything he reads",
+     "never listens to others",
+     "copies his friend's answers"
+    ],
+    "answer": 0,
+    "n": 9
+   },
+   {
+    "q": "I will be back in ________ minutes.",
+    "options": [
+     "a type of",
+     "an advantage of",
+     "a benefit of",
+     "a couple of"
+    ],
+    "answer": 3,
+    "n": 10
+   }
+  ],
+  "exam": {
+   "passage": "Many families are thinking about buying electric cars. One big (1)_____ is that these cars do not make smoke, so they are not (2)_____ to the air. The cost of electricity is also (3)_____ compared with petrol. The main (4)_____ is the high price of the car at the beginning. Before buying one, every family should (5)_____ both sides carefully and decide what is best for them. Talking about the good and bad points together helps them to avoid making a hasty choice.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "purpose",
+      "greeting",
+      "advantage",
+      "attachment"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "options": [
+      "harmful",
+      "essential",
+      "effective",
+      "peaceful"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "options": [
+      "cheap",
+      "expensive",
+      "dangerous",
+      "massive"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "options": [
+      "benefit",
+      "potential",
+      "disadvantage",
+      "solution"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "options": [
+      "install",
+      "push",
+      "consider",
+      "collect"
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ },
+ "U3-L8": {
+  "mcq2": [
+   {
+    "q": "The dam is so ________ that it can be seen from far away.",
+    "options": [
+     "peaceful",
+     "stressful",
+     "massive",
+     "useful"
+    ],
+    "answer": 2,
+    "n": 1
+   },
+   {
+    "q": "The word 'enormous' means ________.",
+    "options": [
+     "very small",
+     "very old",
+     "very quiet",
+     "very big"
+    ],
+    "answer": 3,
+    "n": 2
+   },
+   {
+    "q": "The village is ________ for its delicious dates.",
+    "options": [
+     "various",
+     "famous",
+     "extra",
+     "stressful"
+    ],
+    "answer": 1,
+    "n": 3
+   },
+   {
+    "q": "Her bedroom is full of ________ pictures in red, yellow and blue.",
+    "options": [
+     "colourful",
+     "stressful",
+     "massive",
+     "peaceful"
+    ],
+    "answer": 0,
+    "n": 4
+   },
+   {
+    "q": "What a ________ view of the mountains!",
+    "options": [
+     "stressful",
+     "extra",
+     "various",
+     "beautiful"
+    ],
+    "answer": 3,
+    "n": 5
+   },
+   {
+    "q": "Thanks for the ________ advice; I understand the lesson now.",
+    "options": [
+     "harmful",
+     "stressful",
+     "helpful",
+     "enormous"
+    ],
+    "answer": 2,
+    "n": 6
+   },
+   {
+    "q": "A mobile phone is a very ________ tool for students.",
+    "options": [
+     "enormous",
+     "useful",
+     "famous",
+     "various"
+    ],
+    "answer": 1,
+    "n": 7
+   },
+   {
+    "q": "A ________ engine can pull heavy trucks up steep hills.",
+    "options": [
+     "powerful",
+     "peaceful",
+     "colourful",
+     "extra"
+    ],
+    "answer": 0,
+    "n": 8
+   },
+   {
+    "q": "A ________ meeting finishes all the work on time.",
+    "options": [
+     "stressful",
+     "massive",
+     "colourful",
+     "productive"
+    ],
+    "answer": 3,
+    "n": 9
+   },
+   {
+    "q": "Can I have ________ time to finish the test?",
+    "options": [
+     "massive",
+     "famous",
+     "extra",
+     "colourful"
+    ],
+    "answer": 2,
+    "n": 10
+   }
+  ],
+  "exam": {
+   "passage": "Last weekend we visited the souq in Nizwa. It is (1)_____ for its silver, pottery and dates. The market can be (2)_____ at midday because it is hot and crowded, but the cool fort next to it is quiet and (3)_____. The sellers were very (4)_____ and showed us how the things are made. We bought a (5)_____ rug with red, green and blue patterns to put in our living room. We all agreed that it was one of the best trips of the year.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "various",
+      "extra",
+      "famous",
+      "productive"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "options": [
+      "stressful",
+      "helpful",
+      "beautiful",
+      "useful"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "options": [
+      "peaceful",
+      "enormous",
+      "extra",
+      "powerful"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "options": [
+      "stressful",
+      "massive",
+      "helpful",
+      "various"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "options": [
+      "extra",
+      "powerful",
+      "colourful",
+      "productive"
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ },
+ "U3-L9": {
+  "mcq2": [
+   {
+    "q": "Artists ________ beautiful pictures from simple colours.",
+    "options": [
+     "differ",
+     "create",
+     "imagine",
+     "evaluate"
+    ],
+    "answer": 1,
+    "n": 1
+   },
+   {
+    "q": "She is a very ________ writer with many original ideas.",
+    "options": [
+     "creative",
+     "creatively",
+     "creativity",
+     "create"
+    ],
+    "answer": 0,
+    "n": 2
+   },
+   {
+    "q": "The children decorated the classroom ________ using paper and paint.",
+    "options": [
+     "creative",
+     "creativity",
+     "create",
+     "creatively"
+    ],
+    "answer": 3,
+    "n": 3
+   },
+   {
+    "q": "Heavy coats are ________ for hot weather.",
+    "options": [
+     "suitable",
+     "possible",
+     "unsuitable",
+     "creative"
+    ],
+    "answer": 2,
+    "n": 4
+   },
+   {
+    "q": "Is it ________ to finish this project by tomorrow? We have only two hours.",
+    "options": [
+     "impossible",
+     "possible",
+     "suitable",
+     "creative"
+    ],
+    "answer": 1,
+    "n": 5
+   },
+   {
+    "q": "Can you ________ life without mobile phones?",
+    "options": [
+     "imagine",
+     "create",
+     "evaluate",
+     "differ"
+    ],
+    "answer": 0,
+    "n": 6
+   },
+   {
+    "q": "The teacher will give an ________ of your work after the project.",
+    "options": [
+     "evaluate",
+     "evaluating",
+     "evaluated",
+     "evaluation"
+    ],
+    "answer": 3,
+    "n": 7
+   },
+   {
+    "q": "There is a big ________ in temperature between day and night in the desert.",
+    "options": [
+     "different",
+     "differ",
+     "difference",
+     "differently"
+    ],
+    "answer": 2,
+    "n": 8
+   },
+   {
+    "q": "The word 'differ' means ________.",
+    "options": [
+     "to make something new",
+     "to be not the same",
+     "to judge how good something is",
+     "to think of a picture in your mind"
+    ],
+    "answer": 1,
+    "n": 9
+   },
+   {
+    "q": "My two brothers are very ________; one likes sports and the other likes reading.",
+    "options": [
+     "difference",
+     "different",
+     "differ",
+     "differently"
+    ],
+    "answer": 1,
+    "n": 10
+   }
+  ],
+  "exam": {
+   "passage": "Our school held a science fair last month. Students had to (1)_____ a model that uses renewable energy. Hamad is very (2)_____, so he built a tiny boat that moves with the wind. He used wood because it is (3)_____ for a boat: it floats. Every model was (4)_____ from the others, so the judges had a hard job. They made an (5)_____ of each project using a simple chart. Everyone left the hall feeling happy and proud, and many students said they wanted to join the club next year.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "evaluate",
+      "differ",
+      "create",
+      "renew"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "options": [
+      "creative",
+      "peaceful",
+      "stressful",
+      "expensive"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "options": [
+      "suitable",
+      "unsuitable",
+      "impossible",
+      "harmful"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "options": [
+      "difference",
+      "differ",
+      "different",
+      "differently"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "options": [
+      "difference",
+      "creativity",
+      "evaluation",
+      "invention"
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ },
+ "U3-L10": {
+  "mcq2": [
+   {
+    "q": "In the noun 'contrast' (a clear difference), the stress is on the ________.",
+    "options": [
+     "second syllable",
+     "both syllables equally",
+     "neither syllable",
+     "first syllable"
+    ],
+    "answer": 3,
+    "n": 1
+   },
+   {
+    "q": "In the verb 'increase' (to become bigger), the stress is on the ________.",
+    "options": [
+     "both syllables equally",
+     "neither syllable",
+     "first syllable",
+     "second syllable"
+    ],
+    "answer": 3,
+    "n": 2
+   },
+   {
+    "q": "In the noun 'conflict' (a serious disagreement), the stress is on the ________.",
+    "options": [
+     "neither syllable",
+     "first syllable",
+     "second syllable",
+     "both syllables equally"
+    ],
+    "answer": 1,
+    "n": 3
+   },
+   {
+    "q": "In the verb 'suspect' (to think someone may be guilty), the stress is on the ________.",
+    "options": [
+     "first syllable",
+     "second syllable",
+     "both syllables equally",
+     "neither syllable"
+    ],
+    "answer": 1,
+    "n": 4
+   },
+   {
+    "q": "In the sentence 'They will project the film on the wall', the word 'project' is a ________.",
+    "options": [
+     "adjective",
+     "adverb",
+     "noun",
+     "verb"
+    ],
+    "answer": 3,
+    "n": 5
+   },
+   {
+    "q": "In the sentence 'We are making progress', the word 'progress' is a ________.",
+    "options": [
+     "adverb",
+     "noun",
+     "verb",
+     "adjective"
+    ],
+    "answer": 1,
+    "n": 6
+   },
+   {
+    "q": "In the sentence 'Please do not insult your friend', the word 'insult' is a ________.",
+    "options": [
+     "verb",
+     "adjective",
+     "adverb",
+     "noun"
+    ],
+    "answer": 0,
+    "n": 7
+   },
+   {
+    "q": "In most two-syllable noun and verb pairs like 'record', the noun has its stress on the ________.",
+    "options": [
+     "first syllable",
+     "second syllable",
+     "both syllables equally",
+     "neither syllable"
+    ],
+    "answer": 0,
+    "n": 8
+   },
+   {
+    "q": "The noun 'present' means ________.",
+    "options": [
+     "a gift",
+     "to give a talk",
+     "to disagree",
+     "to grow bigger"
+    ],
+    "answer": 0,
+    "n": 9
+   },
+   {
+    "q": "The verb 'decrease' means ________.",
+    "options": [
+     "to become bigger",
+     "to disagree",
+     "to become smaller",
+     "to give a gift"
+    ],
+    "answer": 2,
+    "n": 10
+   }
+  ],
+  "exam": {
+   "passage": "Last month our class did a (1)_____ about saving energy. First, we had to (2)_____ ideas on the internet. Then each pair planned to (3)_____ its results to the class. Some students saw a big (4)_____ between old and new light bulbs. They also noticed that the numbers on the electricity meter began to (5)_____ every week after we switched off the lights. Our teacher was pleased with our work and said we could show the chart to the other classes.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "insult",
+      "conflict",
+      "project",
+      "suspect"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "options": [
+      "research",
+      "insult",
+      "suspect",
+      "object"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "options": [
+      "present",
+      "insult",
+      "suspect",
+      "conflict"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "options": [
+      "insult",
+      "suspect",
+      "contrast",
+      "record"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "options": [
+      "increase",
+      "insult",
+      "decrease",
+      "object"
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ },
+ "U3-L11": {
+  "mcq2": [
+   {
+    "q": "I sent an ________ to my teacher to ask about the homework.",
+    "options": [
+     "email",
+     "leaflet",
+     "closing",
+     "partner"
+    ],
+    "answer": 0,
+    "n": 1
+   },
+   {
+    "q": "Please open the ________ to see the photos I sent you.",
+    "options": [
+     "greeting",
+     "fact",
+     "residents",
+     "attachment"
+    ],
+    "answer": 3,
+    "n": 2
+   },
+   {
+    "q": "In a formal email, we begin with a ________ such as 'Dear Mr Ahmed'.",
+    "options": [
+     "leaflet",
+     "fact",
+     "greeting",
+     "purpose"
+    ],
+    "answer": 2,
+    "n": 3
+   },
+   {
+    "q": "We end an email with a ________ such as 'Best wishes'.",
+    "options": [
+     "greeting",
+     "closing",
+     "request",
+     "fact"
+    ],
+    "answer": 1,
+    "n": 4
+   },
+   {
+    "q": "He wrote a polite ________ to the headteacher for a day off.",
+    "options": [
+     "request",
+     "leaflet",
+     "closing",
+     "fact"
+    ],
+    "answer": 0,
+    "n": 5
+   },
+   {
+    "q": "The main ________ of my email is to ask about the price.",
+    "options": [
+     "greeting",
+     "attachment",
+     "partner",
+     "purpose"
+    ],
+    "answer": 3,
+    "n": 6
+   },
+   {
+    "q": "'Hey, what's up?' is an ________ way to talk to a close friend.",
+    "options": [
+     "formal",
+     "essential",
+     "informal",
+     "harmful"
+    ],
+    "answer": 2,
+    "n": 7
+   },
+   {
+    "q": "Our school and a local company are ________ in the recycling project.",
+    "options": [
+     "residents",
+     "partners",
+     "leaflets",
+     "facts"
+    ],
+    "answer": 1,
+    "n": 8
+   },
+   {
+    "q": "During her ________, Noor showed ten slides about solar energy.",
+    "options": [
+     "presentation",
+     "attachment",
+     "greeting",
+     "closing"
+    ],
+    "answer": 0,
+    "n": 9
+   },
+   {
+    "q": "'Water boils at 100 degrees Celsius at sea level' is a ________, not an opinion.",
+    "options": [
+     "request",
+     "greeting",
+     "closing",
+     "fact"
+    ],
+    "answer": 3,
+    "n": 10
+   }
+  ],
+  "exam": {
+   "passage": "Our school wanted to teach the (1)_____ of the village about saving water. The students designed a (2)_____ with pictures and simple (3)_____ about how much water we waste. They also prepared a (4)_____ for the village meeting, using slides. Finally, they sent an (5)_____ to the council to ask for a meeting, and the council agreed to help with the next steps. Everyone in the village was pleased because the students had worked very hard on the project for several weeks.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "partners",
+      "greetings",
+      "residents",
+      "requests"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "options": [
+      "leaflet",
+      "attachment",
+      "closing",
+      "greeting"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "options": [
+      "facts",
+      "greetings",
+      "purposes",
+      "closings"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "options": [
+      "request",
+      "attachment",
+      "presentation",
+      "closing"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "options": [
+      "fact",
+      "solution",
+      "email",
+      "purpose"
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ }
+}

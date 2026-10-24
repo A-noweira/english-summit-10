@@ -1,0 +1,2199 @@
+{
+ "U2-L1": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "The word 'climate' describes the ________ weather of a place over many years.",
+    "options": [
+     "waves",
+     "ocean",
+     "marine",
+     "average"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 2,
+    "q": "Jupiter is the largest ________ in our solar system.",
+    "options": [
+     "ocean",
+     "planet",
+     "climate",
+     "atmosphere"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "The doctor measured my ________ with a thermometer and said I had a fever.",
+    "options": [
+     "temperature",
+     "rainfall",
+     "climate",
+     "atmosphere"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "The Pacific is the largest ________ on Earth.",
+    "options": [
+     "marine",
+     "planet",
+     "ocean",
+     "atmosphere"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "A ________ biologist studies animals and plants that live in the sea.",
+    "options": [
+     "atmosphere",
+     "average",
+     "marine",
+     "warmer"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "Because of ________, many places now have hotter summers than before.",
+    "options": [
+     "climate change",
+     "rainfall",
+     "waves",
+     "weather"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 7,
+    "q": "Heavy ________ in the mountains filled the wadis with water.",
+    "options": [
+     "heat",
+     "rainfall",
+     "planet",
+     "marine"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 8,
+    "q": "The word 'warmer' is the comparative form of ________.",
+    "options": [
+     "warmly",
+     "warmth",
+     "warmest",
+     "warm"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 9,
+    "q": "The layer of gases around the Earth is called the ________.",
+    "options": [
+     "atmosphere",
+     "ocean",
+     "planet",
+     "climate"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 10,
+    "q": "The sea was calm, with only small ________ reaching the shore.",
+    "options": [
+     "heat",
+     "average",
+     "waves",
+     "climate"
+    ],
+    "answer": 2
+   }
+  ],
+  "exam": {
+   "passage": "Salim lives in a coastal town. The (1)_____ there is hot and humid in summer, and the (2)_____ often goes above forty degrees. In the evening he walks along the beach and watches the (3)_____ break on the sand. His father is a (4)_____ scientist who studies fish and corals in the (5)_____. Salim hopes to follow his father and work to protect the sea one day. He often tells his friends that the sea gives food and work to millions of people. After school, he helps his father clean the small boat and checks the nets carefully.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "planet",
+      "marine",
+      "climate",
+      "average"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "options": [
+      "rainfall",
+      "atmosphere",
+      "temperature",
+      "waves"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 3,
+     "options": [
+      "waves",
+      "heat",
+      "climate",
+      "planet"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "options": [
+      "warmer",
+      "marine",
+      "average",
+      "atmosphere"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "options": [
+      "atmosphere",
+      "heat",
+      "average",
+      "ocean"
+     ],
+     "answer": 3
+    }
+   ]
+  }
+ },
+ "U2-L2": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "The ________ at the North Pole is getting smaller each summer.",
+    "options": [
+     "ice cap",
+     "tonne",
+     "emission",
+     "greenhouse gas"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "If we do nothing, the situation will ________.",
+    "options": [
+     "get over",
+     "get along",
+     "get worse",
+     "get across"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "A chocolate bar will ________ if you leave it in a hot car.",
+    "options": [
+     "trap",
+     "melt",
+     "sink",
+     "release"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "q": "A rise in ________ is a danger to islands and coastal cities.",
+    "options": [
+     "ice cap",
+     "tonne",
+     "emission",
+     "sea level"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 5,
+    "q": "Global ________ is the slow rise in the Earth's average temperature.",
+    "options": [
+     "cooling",
+     "freezing",
+     "melting",
+     "warming"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 6,
+    "q": "The factory produced five hundred ________ of waste last year.",
+    "options": [
+     "degrees",
+     "tonnes",
+     "glaciers",
+     "gases"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "Plants take in ________ from the air to make their food.",
+    "options": [
+     "emissions",
+     "glaciers",
+     "carbon dioxide",
+     "plastic"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 8,
+    "q": "Many countries have promised to cut their carbon ________ by 2050.",
+    "options": [
+     "emissions",
+     "glaciers",
+     "tonnes",
+     "ice caps"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 9,
+    "q": "The ________ in the Alps are getting smaller because of higher temperatures.",
+    "options": [
+     "greenhouse gases",
+     "glaciers",
+     "emissions",
+     "tonnes"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 10,
+    "q": "The word 'global' in 'global temperatures' means ________.",
+    "options": [
+     "in one city",
+     "under the ground",
+     "very small",
+     "in the whole world"
+    ],
+    "answer": 3
+   }
+  ],
+  "exam": {
+   "passage": "Hamad read a report about a small island country. Scientists say that (1)_____ is making the ice in the Arctic (2)_____, so the (3)_____ is rising around the world. Many cities near the coast are in danger. The report says rich countries must reduce their (4)_____ of carbon dioxide, a (5)_____ that traps heat in the air. Hamad shared the report with his classmates and asked them to think about what they can do. At the end of the lesson, the teacher showed a short film about the problem and gave the students some simple ideas for their own homes.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "tonne",
+      "glacier",
+      "emission",
+      "global warming"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 2,
+     "options": [
+      "trap",
+      "absorb",
+      "release",
+      "melt"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "options": [
+      "tonne",
+      "sea level",
+      "emission",
+      "glacier"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 4,
+     "options": [
+      "glaciers",
+      "ice caps",
+      "emissions",
+      "levels"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "options": [
+      "greenhouse gas",
+      "ice cap",
+      "glacier",
+      "tonne"
+     ],
+     "answer": 0
+    }
+   ]
+  }
+ },
+ "U2-L3": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "The earthquake was a terrible natural ________.",
+    "options": [
+     "heat wave",
+     "disaster",
+     "drought",
+     "flood"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "During the ________, the temperature stayed above forty-five degrees for a week.",
+    "options": [
+     "flood",
+     "waves",
+     "trend",
+     "heat wave"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 3,
+    "q": "The storm caused ________ damage to hundreds of homes.",
+    "options": [
+     "concerned",
+     "eco-friendly",
+     "devastating",
+     "reusable"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "Heavy rain caused a ________ in the valley, and the road was covered with water.",
+    "options": [
+     "flood",
+     "drought",
+     "heat wave",
+     "threat"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "Be careful! The old bridge is in great ________.",
+    "options": [
+     "danger",
+     "risk",
+     "threat",
+     "trend"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "People who do not wear seat belts take a big ________.",
+    "options": [
+     "threat",
+     "disaster",
+     "risk",
+     "drought"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "The word 'severe' means ________.",
+    "options": [
+     "very small",
+     "very old",
+     "very cheap",
+     "very serious or bad"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 8,
+    "q": "He ________ a very hot summer when he lived in Kuwait.",
+    "options": [
+     "affected",
+     "experienced",
+     "contributed",
+     "referred"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 9,
+    "q": "Scientists warn that ________ weather, such as very strong storms, will become more common.",
+    "options": [
+     "concerned",
+     "reusable",
+     "extreme",
+     "official"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 10,
+    "q": "The long drought had ________ results, and most of the crops died.",
+    "options": [
+     "disastrous",
+     "reusable",
+     "official",
+     "eco-friendly"
+    ],
+    "answer": 0
+   }
+  ],
+  "exam": {
+   "passage": "Last month, a strong storm hit a coastal village. The (1)_____ winds and heavy rain caused a (2)_____ that covered the roads with water. The damage was (3)_____, and many families lost their homes. Experts say that storms like this are a (4)_____ to all coastal towns, so people should always be (5)_____ about the weather and listen to official warnings. The villagers helped each other, shared food and water, and cleaned the streets together. The local radio also gave useful news every hour during the week.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "severe",
+      "reusable",
+      "official",
+      "recycled"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "options": [
+      "flood",
+      "drought",
+      "heat wave",
+      "habit"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "options": [
+      "eco-friendly",
+      "reusable",
+      "devastating",
+      "single-use"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "options": [
+      "trend",
+      "slogan",
+      "habit",
+      "threat"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 5,
+     "options": [
+      "reusable",
+      "concerned",
+      "official",
+      "marine"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ },
+ "U2-L4": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "A ________ eats eucalyptus leaves and sleeps for many hours a day.",
+    "options": [
+     "polar bear",
+     "turtle",
+     "koala",
+     "crop"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "q": "A ________ lives most of its life in the sea and has a hard shell.",
+    "options": [
+     "turtle",
+     "koala",
+     "polar bear",
+     "crop"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "Birds ________ in spring, and the chicks come out a few weeks later.",
+    "options": [
+     "cut down",
+     "give away",
+     "find out",
+     "lay eggs"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 4,
+    "q": "Wheat and barley are important ________ in many countries.",
+    "options": [
+     "habitats",
+     "crops",
+     "forests",
+     "impacts"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "Farmers use modern machines in ________ to grow more food.",
+    "options": [
+     "habitat",
+     "agriculture",
+     "impact",
+     "environment"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "Tropical ________ are home to thousands of different animals.",
+    "options": [
+     "crops",
+     "waves",
+     "tonnes",
+     "forests"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 7,
+    "q": "Fish need clean water to ________ in the river.",
+    "options": [
+     "survive",
+     "contribute",
+     "afford",
+     "release"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 8,
+    "q": "The natural home of an animal or plant is its ________.",
+    "options": [
+     "crop",
+     "climate",
+     "habitat",
+     "trend"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 9,
+    "q": "The film had a strong ________ on the audience, and many people cried.",
+    "options": [
+     "habitat",
+     "crop",
+     "forest",
+     "impact"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 10,
+    "q": "Only three ________ of the shipwreck were found alive.",
+    "options": [
+     "survival",
+     "survivors",
+     "surviving",
+     "survive"
+    ],
+    "answer": 1
+   }
+  ],
+  "exam": {
+   "passage": "Green turtles travel long distances to (1)_____ on the beaches where they were born. Their eggs need a safe (2)_____ with warm sand. If beaches become too hot, fewer baby turtles can (3)_____. People can have a big (4)_____ on these animals, so we should protect the (5)_____ and keep the beaches clean for them. Last summer, a group of volunteers walked along the shore every night and counted the nests carefully. Their work gave scientists very useful information about these gentle animals.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "find out",
+      "lay eggs",
+      "give away",
+      "switch off"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 2,
+     "options": [
+      "crop",
+      "habitat",
+      "slogan",
+      "forest"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 3,
+     "options": [
+      "afford",
+      "absorb",
+      "trap",
+      "survive"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 4,
+     "options": [
+      "impact",
+      "crop",
+      "habitat",
+      "symbol"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 5,
+     "options": [
+      "slogan",
+      "tonne",
+      "environment",
+      "debate"
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ },
+ "U2-L5": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "What is the ________ of eating too much sugar? It can damage your teeth.",
+    "options": [
+     "affect",
+     "cause",
+     "trend",
+     "effect"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 2,
+    "q": "Using your phone late at night can ________ your sleep.",
+    "options": [
+     "effect",
+     "affect",
+     "cause",
+     "consequence"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "Spending ________ amounts of time on video games is bad for your eyes.",
+    "options": [
+     "excessive",
+     "reusable",
+     "official",
+     "marine"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "Coal, oil and natural gas are all ________.",
+    "options": [
+     "crops",
+     "habitats",
+     "fossil fuels",
+     "glaciers"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "Studying hard every day can ________ success in the exam.",
+    "options": [
+     "result of",
+     "burn",
+     "result in",
+     "refer to"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "From his big smile, I can ________ that he passed the test.",
+    "options": [
+     "infer",
+     "affect",
+     "burn",
+     "cause"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 7,
+    "q": "The ________ of staying up late was that Ali fell asleep in class.",
+    "options": [
+     "trend",
+     "consequence",
+     "decade",
+     "cause"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 8,
+    "q": "The word 'decade' means a period of ________ years.",
+    "options": [
+     "one hundred",
+     "five",
+     "twenty",
+     "ten"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 9,
+    "q": "There is a clear ________ of rising temperatures in the data for the last fifty years.",
+    "options": [
+     "trend",
+     "tonne",
+     "habitat",
+     "slogan"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 10,
+    "q": "People use fire to ________ wood and cook food.",
+    "options": [
+     "melt",
+     "absorb",
+     "burn",
+     "trap"
+    ],
+    "answer": 2
+   }
+  ],
+  "exam": {
+   "passage": "Scientists have studied the Earth's climate for over a hundred years. They found that burning (1)_____, such as coal and oil, is a main (2)_____ of global warming. Looking at the data, experts can (3)_____ that human (4)_____ has changed the climate. One serious (5)_____ is the rise in sea levels, which is a danger for people who live near the coast. The scientists also present their results in simple graphs so that students, teachers and families can understand the facts easily and talk about them together.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "crops",
+      "glaciers",
+      "fossil fuels",
+      "forests"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "options": [
+      "trend",
+      "tonne",
+      "cause",
+      "slogan"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 3,
+     "options": [
+      "infer",
+      "burn",
+      "affect",
+      "afford"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "options": [
+      "habitat",
+      "activity",
+      "slogan",
+      "tonne"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "options": [
+      "cause",
+      "activity",
+      "habit",
+      "consequence"
+     ],
+     "answer": 3
+    }
+   ]
+  }
+ },
+ "U2-L6": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "Rubbish is buried in ________ outside the city.",
+    "options": [
+     "landfill sites",
+     "koalas",
+     "crops",
+     "waves"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "This notebook is made of ________ paper, so no new trees were cut down.",
+    "options": [
+     "severe",
+     "excessive",
+     "recycled",
+     "climate-related"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "Many shops now sell food in less ________ to reduce waste.",
+    "options": [
+     "habitat",
+     "packaging",
+     "trend",
+     "tonne"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "q": "The word 'reusable' means that you can ________ it again.",
+    "options": [
+     "sell",
+     "throw",
+     "burn",
+     "use"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 5,
+    "q": "________ is rubbish dropped in public places such as parks and beaches.",
+    "options": [
+     "Packaging",
+     "Material",
+     "Agriculture",
+     "Litter"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 6,
+    "q": "Plastic is a ________ that is made from oil.",
+    "options": [
+     "crop",
+     "material",
+     "habitat",
+     "trend"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "A ________ cup is thrown away after one use.",
+    "options": [
+     "reusable",
+     "recycled",
+     "single-use",
+     "eco-friendly"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 8,
+    "q": "We separate paper, glass and metal so that factories can ________ them.",
+    "options": [
+     "recycle",
+     "refer",
+     "afford",
+     "design"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 9,
+    "q": "Fish can die when they swallow ________ in the sea.",
+    "options": [
+     "recycled",
+     "plastic waste",
+     "reusable",
+     "single-use"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 10,
+    "q": "Please do not give me a ________; I can drink from the glass.",
+    "options": [
+     "landfill",
+     "packaging",
+     "litter",
+     "plastic straw"
+    ],
+    "answer": 3
+   }
+  ],
+  "exam": {
+   "passage": "Last Saturday, our school cleaned the beach. We found a lot of (1)_____, such as drinks bottles, cans and bags. Most of it was (2)_____ plastic, which people use once and throw away. The teacher explained that it is better to (3)_____ glass and metal, and to use (4)_____ bags when we shop. She also asked shops to use less (5)_____ for their goods. At the end of the morning we were tired, but proud of our work, and the beach looked clean and beautiful again. Everyone promised to come back next month.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "habitat",
+      "crops",
+      "tonnes",
+      "litter"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 2,
+     "options": [
+      "reusable",
+      "recycled",
+      "eco-friendly",
+      "single-use"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "options": [
+      "infer",
+      "recycle",
+      "afford",
+      "absorb"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 4,
+     "options": [
+      "single-use",
+      "excessive",
+      "reusable",
+      "disastrous"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "options": [
+      "packaging",
+      "pollution",
+      "climate",
+      "habitat"
+     ],
+     "answer": 0
+    }
+   ]
+  }
+ },
+ "U2-L7": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "The ________ has built new schools in every town.",
+    "options": [
+     "individual",
+     "government",
+     "contributor",
+     "slogan"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "Our school has a ________ of recycling paper in every classroom.",
+    "options": [
+     "individual",
+     "consumer",
+     "contributor",
+     "policy"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 3,
+    "q": "He is a ________ student who always does his homework on time.",
+    "options": [
+     "official",
+     "officially",
+     "responsible",
+     "responsibility"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "When Maryam broke the window, she ________ and paid for it.",
+    "options": [
+     "took responsibility",
+     "gave away",
+     "looked for",
+     "switched off"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "The doctor gave the school an ________ report about the students' health.",
+    "options": [
+     "official",
+     "officially",
+     "officer",
+     "offices"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "The new rules ________ how much water farmers can use.",
+    "options": [
+     "contribute",
+     "blame",
+     "regulate",
+     "refer"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "Factories are ________ most of the smoke in the city.",
+    "options": [
+     "to lead to",
+     "to take part",
+     "to find out",
+     "to blame for"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 8,
+    "q": "Everyone should ________ the class project by sharing ideas.",
+    "options": [
+     "be to blame for",
+     "contribute to",
+     "refer to",
+     "switch off"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 9,
+    "q": "Companies have a ________ to look after their workers and the environment.",
+    "options": [
+     "contributor",
+     "consumer",
+     "social responsibility",
+     "government"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 10,
+    "q": "A ________ to the school fund gave one hundred rials.",
+    "options": [
+     "contributor",
+     "consumer",
+     "responsible",
+     "official"
+    ],
+    "answer": 0
+   }
+  ],
+  "exam": {
+   "passage": "Many people believe that protecting nature is the job of the (1)_____, which makes laws and (2)_____ factories. However, every (3)_____ also has a (4)_____ to look after the planet. For example, a (5)_____ can choose to buy products with less plastic, and that choice can help to change what shops sell. In class, we agreed that a clean country needs good laws, careful companies and honest citizens, and that all of them must work together every single day. In the end, both sides are important.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "government",
+      "consumer",
+      "glacier",
+      "koala"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "options": [
+      "regulates",
+      "absorbs",
+      "melts",
+      "traps"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "options": [
+      "policy",
+      "slogan",
+      "individual",
+      "official"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "options": [
+      "trend",
+      "decade",
+      "slogan",
+      "responsibility"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 5,
+     "options": [
+      "tonne",
+      "consumer",
+      "glacier",
+      "habitat"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ },
+ "U2-L8": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "Taking the bus instead of a car helps to reduce your carbon ________.",
+    "options": [
+     "policy",
+     "habit",
+     "footprint",
+     "trend"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "q": "Using ________, such as buses and trains, means fewer cars on the road.",
+    "options": [
+     "public transport",
+     "cooker",
+     "air conditioning",
+     "habit"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "She cooked the rice on the ________ in the kitchen.",
+    "options": [
+     "habit",
+     "slogan",
+     "crop",
+     "cooker"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 4,
+    "q": "Wind and solar energy are ________ because they will not run out.",
+    "options": [
+     "excessive",
+     "sustainable",
+     "severe",
+     "single-use"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "A small change in your ________ life, such as using a bottle, can help the planet.",
+    "options": [
+     "official",
+     "daily",
+     "severe",
+     "marine"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "Children who watch TV all day ________ do well in exams.",
+    "options": [
+     "are likely to",
+     "refer to",
+     "lead to",
+     "are unlikely to"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 7,
+    "q": "Clean, ________ products are made without harming nature.",
+    "options": [
+     "eco-friendly",
+     "single-use",
+     "excessive",
+     "severe"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 8,
+    "q": "In summer, ________ keeps rooms cool, but it uses a lot of electricity.",
+    "options": [
+     "public transport",
+     "cooker",
+     "air conditioning",
+     "habit"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 9,
+    "q": "Switching to LED bulbs can ________ the electricity we use.",
+    "options": [
+     "release",
+     "design",
+     "trap",
+     "reduce"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 10,
+    "q": "A fridge, a washing machine and a cooker are all ________.",
+    "options": [
+     "public transport",
+     "electrical appliances",
+     "carbon footprints",
+     "daily lives"
+    ],
+    "answer": 1
+   }
+  ],
+  "exam": {
+   "passage": "Sara's family wants to live in a more (1)_____ way. They have changed their (2)_____ at home: they use fewer electrical (3)_____ and keep the (4)_____ off in winter. They also walk to the shops when they can. Now their carbon (5)_____ is much smaller than it was last year. Her little brother helps too: he turns the lights out when he leaves a room. The family hopes that other neighbours will copy their simple ideas and enjoy the savings.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "excessive",
+      "eco-friendly",
+      "severe",
+      "official"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 2,
+     "options": [
+      "policies",
+      "habits",
+      "slogans",
+      "tonnes"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 3,
+     "options": [
+      "habitats",
+      "crops",
+      "glaciers",
+      "appliances"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 4,
+     "options": [
+      "air conditioning",
+      "public transport",
+      "packaging",
+      "landfill"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 5,
+     "options": [
+      "habit",
+      "policy",
+      "footprint",
+      "tonne"
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ },
+ "U2-L9": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "Please ________ the lights when you leave the room.",
+    "options": [
+     "turn up",
+     "fill up",
+     "give away",
+     "switch off"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 2,
+    "q": "I want to ________ what time the museum opens, so I will check online.",
+    "options": [
+     "give away",
+     "find out",
+     "fill up",
+     "switch off"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "Our car is almost empty, so we must ________ at the petrol station.",
+    "options": [
+     "fill up",
+     "give away",
+     "cut down",
+     "turn down"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "It is too loud. Can you ________ the music, please?",
+    "options": [
+     "fill up",
+     "look for",
+     "turn down",
+     "refer to"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "Doctors tell people to ________ on sugar to stay healthy.",
+    "options": [
+     "throw away",
+     "end up",
+     "cut down",
+     "lead to"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "Ali decided to ________ his old books to the school library.",
+    "options": [
+     "give away",
+     "find out",
+     "cut down",
+     "switch off"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 7,
+    "q": "I am ________ my glasses. Have you seen them?",
+    "options": [
+     "finding out",
+     "looking for",
+     "referring to",
+     "filling up"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 8,
+    "q": "Too much screen time can ________ poor sleep.",
+    "options": [
+     "refer to",
+     "end up",
+     "switch off",
+     "lead to"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 9,
+    "q": "If you do not plan carefully, you may ________ in trouble.",
+    "options": [
+     "end up",
+     "cut down",
+     "fill up",
+     "turn down"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 10,
+    "q": "In your essay, please ________ the table on page ten.",
+    "options": [
+     "switch off",
+     "throw away",
+     "refer to",
+     "fill up"
+    ],
+    "answer": 2
+   }
+  ],
+  "exam": {
+   "passage": "Last week, our class decided to (1)_____ how much electricity the school uses. We (2)_____ the lights and computers in empty rooms to save energy, and the teacher asked everyone to (3)_____ on paper. Old books were not (4)_____. Instead, they were (5)_____ to students who needed them, and our school library became tidier too. The students wrote a short report and showed it to the head teacher, who thanked them warmly. Next term the class plans to repeat the project with other schools.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "give away",
+      "fill up",
+      "find out",
+      "switch off"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "options": [
+      "filled up",
+      "referred to",
+      "switched off",
+      "ended up"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 3,
+     "options": [
+      "cut down",
+      "end up",
+      "lead to",
+      "refer to"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "options": [
+      "filled up",
+      "thrown away",
+      "turned down",
+      "found out"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "options": [
+      "cut down",
+      "filled up",
+      "turned down",
+      "given away"
+     ],
+     "answer": 3
+    }
+   ]
+  }
+ },
+ "U2-L10": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "Greenhouse gases ________ heat in the atmosphere.",
+    "options": [
+     "trap",
+     "design",
+     "afford",
+     "sell"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "The factory ________ smoke into the air every day.",
+    "options": [
+     "absorbs",
+     "designs",
+     "releases",
+     "affords"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "Prices have ________; a loaf of bread now costs more.",
+    "options": [
+     "rose",
+     "risen",
+     "rising",
+     "raised"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "q": "The shop owner ________ fruit and vegetables at the market.",
+    "options": [
+     "pays",
+     "designs",
+     "traps",
+     "sells"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 5,
+    "q": "We usually ________ for the shopping by card.",
+    "options": [
+     "buy",
+     "sell",
+     "deal",
+     "pay"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 6,
+    "q": "Local councils must ________ the problem of rubbish in the streets.",
+    "options": [
+     "afford",
+     "deal with",
+     "sell",
+     "absorb"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "Strong waves can ________ boats and harbours.",
+    "options": [
+     "design",
+     "absorb",
+     "damage",
+     "release"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 8,
+    "q": "The number of cars will ________ if the roads stay cheap.",
+    "options": [
+     "increase",
+     "release",
+     "damage",
+     "absorb"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 9,
+    "q": "Architects ________ buildings and draw plans for them.",
+    "options": [
+     "pay",
+     "design",
+     "trap",
+     "rise"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 10,
+    "q": "She saved money for a year so that she could ________ a bicycle.",
+    "options": [
+     "design",
+     "trap",
+     "release",
+     "afford"
+    ],
+    "answer": 3
+   }
+  ],
+  "exam": {
+   "passage": "Many cities now (1)_____ with the problem of traffic. Some governments (2)_____ new roads, but others ask people to use buses. Car owners must (3)_____ for fuel, and its price keeps (4)_____. Families who cannot (5)_____ a car can travel on the cheap bus, which also helps to keep the air cleaner for everyone in the city. The council also plans to plant more trees along the main streets. Many residents say they are happy with the plan and want it to start as soon as possible.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "pay",
+      "sell",
+      "buy",
+      "deal"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 2,
+     "options": [
+      "absorb",
+      "trap",
+      "release",
+      "design"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "options": [
+      "sell",
+      "pay",
+      "trap",
+      "absorb"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 4,
+     "options": [
+      "rose",
+      "risen",
+      "rising",
+      "raise"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "options": [
+      "afford",
+      "design",
+      "release",
+      "damage"
+     ],
+     "answer": 0
+    }
+   ]
+  }
+ },
+ "U2-L11": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "We waited at the ________ for ten minutes before the bus came.",
+    "options": [
+     "roadworks",
+     "bus stop",
+     "armchair",
+     "textbook"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "The ________ was so loud that the baby woke up.",
+    "options": [
+     "classmate",
+     "ice cream",
+     "armchair",
+     "thunderstorm"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 3,
+    "q": "The sun was very bright, so he put on his ________.",
+    "options": [
+     "armchair",
+     "textbook",
+     "sunglasses",
+     "alarm clock"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "My wife's mother is my ________.",
+    "options": [
+     "mother-in-law",
+     "classmate",
+     "passers-by",
+     "cinema-fan"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "Several ________ stopped to help the injured man.",
+    "options": [
+     "passers-by",
+     "passer-bys",
+     "passers-bys",
+     "passer-bies"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "My cousin is a ________, so she is just learning to walk.",
+    "options": [
+     "one-years-old",
+     "one-year-olds",
+     "one-year-old",
+     "one years old"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "In summer, I like to eat ________ after lunch.",
+    "options": [
+     "heart attack",
+     "alarm clock",
+     "dry-cleaning",
+     "ice cream"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 8,
+    "q": "He is a big ________ and goes to the cinema every weekend.",
+    "options": [
+     "armchair",
+     "cinema-fan",
+     "thunderstorm",
+     "alarm clock"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 9,
+    "q": "The ________ in the classroom broke down, so we opened the windows.",
+    "options": [
+     "alarm clock",
+     "ice cream",
+     "air conditioner",
+     "armchair"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 10,
+    "q": "A ________ happens when blood cannot reach part of the heart.",
+    "options": [
+     "heart attack",
+     "thunderstorm",
+     "roadworks",
+     "sunglasses"
+    ],
+    "answer": 0
+   }
+  ],
+  "exam": {
+   "passage": "Huda was sitting in a comfortable (1)_____ and reading her science (2)_____ for the test. Suddenly, a loud (3)_____ started outside, so she closed the window. Later, she walked to the (4)_____ to meet her (5)_____, and they went home together by bus. It was a busy day, but she felt ready for the exam. She had a cold drink and a snack, and her mother asked about the lesson. Huda smiled and said that she had learned many new words that afternoon.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "armchair",
+      "bus stop",
+      "alarm clock",
+      "roadworks"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "options": [
+      "textbook",
+      "sunglasses",
+      "armchair",
+      "ice cream"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "options": [
+      "classmate",
+      "textbook",
+      "thunderstorm",
+      "armchair"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "options": [
+      "heart attack",
+      "ice cream",
+      "sunglasses",
+      "bus stop"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 5,
+     "options": [
+      "thunderstorm",
+      "classmate",
+      "armchair",
+      "roadworks"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ },
+ "U2-L12": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "Each ________ in the article tells you what the next part is about.",
+    "options": [
+     "slogan",
+     "symbol",
+     "subheading",
+     "evidence"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "q": "A scientist who knows a lot about the climate is a climate ________.",
+    "options": [
+     "expert",
+     "symbol",
+     "slogan",
+     "issue"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "The police found no ________ that he had broken the window.",
+    "options": [
+     "slogan",
+     "symbol",
+     "image",
+     "evidence"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 4,
+    "q": "A white dove is a ________ of peace.",
+    "options": [
+     "slogan",
+     "symbol",
+     "heading",
+     "debate"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "We should save water so that there will be enough for the ________.",
+    "options": [
+     "debate",
+     "future",
+     "image",
+     "heading"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "Climate change is one of the biggest ________ facing the world today.",
+    "options": [
+     "issue",
+     "issuing",
+     "issued",
+     "issues"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 7,
+    "q": "I love sweets, ________ chocolate.",
+    "options": [
+     "in particular",
+     "instead of",
+     "unless",
+     "as a result"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 8,
+    "q": "The ________ on the poster shows a child planting a tree.",
+    "options": [
+     "slogan",
+     "heading",
+     "image",
+     "debate"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 9,
+    "q": "We need ________ now, not just more words.",
+    "options": [
+     "slogan",
+     "image",
+     "symbol",
+     "action"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 10,
+    "q": "A short, catchy sentence on a poster that people remember is a ________.",
+    "options": [
+     "heading",
+     "slogan",
+     "symbol",
+     "image"
+    ],
+    "answer": 1
+   }
+  ],
+  "exam": {
+   "passage": "Last month our class made a poster for an environmental campaign. The (1)_____ at the top said 'Save Our Seas'. Below it, we added an (2)_____ of a turtle caught in a plastic bag. An (3)_____ from the university gave a talk and showed us clear (4)_____ that the oceans are getting dirtier. She asked us to think about the (5)_____ of our planet. Our teacher was very pleased and hung the poster on the school wall, where hundreds of students and visitors could read it every day this month.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "evidence",
+      "heading",
+      "expert",
+      "future"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 2,
+     "options": [
+      "debate",
+      "image",
+      "evidence",
+      "expert"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 3,
+     "options": [
+      "image",
+      "slogan",
+      "symbol",
+      "expert"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 4,
+     "options": [
+      "evidence",
+      "slogan",
+      "heading",
+      "symbol"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 5,
+     "options": [
+      "subheading",
+      "slogan",
+      "future",
+      "debate"
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ },
+ "U2-L13": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "I like fruit. ________, I like vegetables.",
+    "options": [
+     "Unless",
+     "Due to",
+     "Instead of",
+     "In addition"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 2,
+    "q": "I will not go out ________ my homework is finished.",
+    "options": [
+     "because of",
+     "unless",
+     "therefore",
+     "instead"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "The flight was late ________ bad weather.",
+    "options": [
+     "due to",
+     "unless",
+     "therefore",
+     "consequently"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "The shop had no milk, so I bought juice ________.",
+    "options": [
+     "unless",
+     "due to",
+     "instead",
+     "because of"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "Many sea animals are in danger. ________, people should use less plastic.",
+    "options": [
+     "Unless",
+     "Because of",
+     "Therefore",
+     "Instead of"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "She drank water ________ fizzy drinks.",
+    "options": [
+     "instead of",
+     "unless",
+     "therefore",
+     "in addition"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 7,
+    "q": "There are many ways to save energy, ________ switching off lights.",
+    "options": [
+     "unless",
+     "for example",
+     "instead of",
+     "due to"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 8,
+    "q": "He did not train. ________, he lost the match.",
+    "options": [
+     "Unless",
+     "Because of",
+     "Due to",
+     "As a result"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 9,
+    "q": "'I think you are right.' Here, the speaker is ________ the idea.",
+    "options": [
+     "agreeing with",
+     "disagreeing with",
+     "instead of",
+     "due to"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 10,
+    "q": "A reason why we should not do something is an ________ it.",
+    "options": [
+     "argument for",
+     "due to",
+     "argument against",
+     "in addition"
+    ],
+    "answer": 2
+   }
+  ],
+  "exam": {
+   "passage": "Our class held a debate on school uniform. One strong (1)_____ uniform is that it makes all students look equal. (2)_____, it saves time in the morning. However, some students said they would not wear it (3)_____ it was comfortable. They preferred jeans (4)_____ a formal suit. The teacher thanked everyone and said, 'We will vote on it, (5)_____ the final decision will be fair.' Afterwards, the class wrote a short report about the debate and the teacher displayed it on the notice board for the whole school to read.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "argument against",
+      "unless",
+      "argument for",
+      "instead"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "options": [
+      "Unless",
+      "Due to",
+      "In addition",
+      "Instead of"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 3,
+     "options": [
+      "unless",
+      "due to",
+      "consequently",
+      "because of"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "options": [
+      "unless",
+      "instead of",
+      "therefore",
+      "due to"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "options": [
+      "unless",
+      "instead of",
+      "due to",
+      "so"
+     ],
+     "answer": 3
+    }
+   ]
+  }
+ }
+}

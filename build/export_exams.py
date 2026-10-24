@@ -14,7 +14,7 @@ Exam entry shape (everything optional except id/label/kind):
 Numbering: L1 1-7 · L2 8-15 · grammar 16-20 · vocabulary 21-25 · R1 26-35 · R2 36-45 · writing 1 (/5) + 2 (/10)."""
 import json, os, re, glob
 
-SRC = '/home/claude/es10/data'
+SRC = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'g10')
 J = lambda p: json.load(open(os.path.join(SRC, p), encoding='utf-8'))
 
 

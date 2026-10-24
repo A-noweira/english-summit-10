@@ -1,0 +1,4167 @@
+{
+ "unit": 3,
+ "title": "Renewable Energy",
+ "title_ar": "الطاقة المتجددة",
+ "theme_color": "#2e8b57",
+ "lessons": [
+  {
+   "id": "U3-L1",
+   "title": "Energy Basics",
+   "title_ar": "أساسيات الطاقة",
+   "words": [
+    {
+     "en": "energy",
+     "pos": "n",
+     "ar": "طاقة",
+     "ex": "Food gives our bodies the energy we need.",
+     "star": true
+    },
+    {
+     "en": "power",
+     "pos": "n",
+     "ar": "طاقة / قوة",
+     "ex": "Solar panels can give power to a whole village.",
+     "star": true
+    },
+    {
+     "en": "to power",
+     "pos": "v",
+     "ar": "يشغّل / يزوّد بالطاقة",
+     "ex": "A small motor powers the fan on my desk.",
+     "star": true
+    },
+    {
+     "en": "electricity",
+     "pos": "n",
+     "ar": "كهرباء",
+     "ex": "Electricity reaches almost every home in Oman.",
+     "star": true
+    },
+    {
+     "en": "generate",
+     "pos": "v",
+     "ar": "يولّد / ينتج",
+     "ex": "Wind turbines generate electricity when the wind blows.",
+     "star": true
+    },
+    {
+     "en": "generator",
+     "pos": "n",
+     "ar": "مولّد كهربائي",
+     "ex": "The hospital has a generator for power cuts.",
+     "star": false
+    },
+    {
+     "en": "produce",
+     "pos": "v",
+     "ar": "ينتج",
+     "ex": "This plant produces enough electricity for a small town.",
+     "star": true
+    },
+    {
+     "en": "heat",
+     "pos": "n",
+     "ar": "حرارة",
+     "ex": "Metal pipes carry heat from the sun to the water.",
+     "star": false
+    },
+    {
+     "en": "charge",
+     "pos": "v",
+     "ar": "يشحن",
+     "ex": "I charge my phone every night.",
+     "star": false
+    },
+    {
+     "en": "power plant",
+     "pos": "n",
+     "ar": "محطة توليد الكهرباء",
+     "ex": "The new power plant is near the coast.",
+     "star": true
+    },
+    {
+     "en": "collect",
+     "pos": "v",
+     "ar": "يجمع",
+     "ex": "Solar panels collect energy from the sun.",
+     "star": false
+    },
+    {
+     "en": "supply",
+     "pos": "v",
+     "ar": "يزوّد / يمدّ",
+     "ex": "Dams supply water to many farms.",
+     "star": false
+    },
+    {
+     "en": "provide … with",
+     "pos": "phr",
+     "ar": "يزوّد … بـ",
+     "ex": "The farm provides the village with fresh vegetables.",
+     "star": true
+    },
+    {
+     "en": "help with",
+     "pos": "phr v",
+     "ar": "يساعد في",
+     "ex": "Can you help me with my energy project?",
+     "star": true
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Every home needs (1)_____ for lights, fans and air conditioners. A big (2)_____ burns fuel to (3)_____ it, and cables carry it to our houses. Solar panels work in a different way: they (4)_____ sunlight and change it into power. If there is a power cut, a small (5)_____ can keep a hospital working. Many countries now want cleaner ways to make power for their growing cities and factories.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "rubbish",
+       "steam",
+       "electricity",
+       "space"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 2,
+      "options": [
+       "power plant",
+       "oilfield",
+       "dam",
+       "leaflet"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 3,
+      "options": [
+       "collect",
+       "charge",
+       "generate",
+       "attach"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 4,
+      "options": [
+       "collect",
+       "push",
+       "install",
+       "sort"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 5,
+      "options": [
+       "turbine",
+       "vehicle",
+       "generator",
+       "greeting"
+      ],
+      "answer": 2
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "Wind turbines ________ electricity when the wind is strong.",
+     "options": [
+      "charge",
+      "collect",
+      "help",
+      "generate"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 2,
+     "q": "Please ________ your tablet before the lesson because the battery is low.",
+     "options": [
+      "generate",
+      "charge",
+      "supply",
+      "produce"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 3,
+     "q": "The school provides students ________ free books.",
+     "options": [
+      "of",
+      "by",
+      "into",
+      "with"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 4,
+     "q": "A machine that makes electricity is called a ________.",
+     "options": [
+      "vehicle",
+      "generator",
+      "leaflet",
+      "turbine blade"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "q": "Solar panels ________ energy from sunlight.",
+     "options": [
+      "sort",
+      "renew",
+      "attach",
+      "collect"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 6,
+     "q": "The ________ at the edge of the city supplies power to thousands of homes.",
+     "options": [
+      "leaflet",
+      "power plant",
+      "oilfield",
+      "dam wall"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 7,
+     "q": "Dams ________ water to farms in dry areas.",
+     "options": [
+      "differ",
+      "attach",
+      "reduce",
+      "supply"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 8,
+     "q": "Salim asked his sister to help ________ his science project.",
+     "options": [
+      "of",
+      "with",
+      "by",
+      "into"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "U3-L2",
+   "title": "Renewable and Non-renewable",
+   "title_ar": "المتجددة وغير المتجددة",
+   "words": [
+    {
+     "en": "renew",
+     "pos": "v",
+     "ar": "يجدد",
+     "ex": "We renew our library books every month.",
+     "star": true
+    },
+    {
+     "en": "renewable",
+     "pos": "adj",
+     "ar": "متجدد",
+     "ex": "Wind and sun are renewable sources of energy.",
+     "star": true
+    },
+    {
+     "en": "non-renewable",
+     "pos": "adj",
+     "ar": "غير متجدد",
+     "ex": "Oil is a non-renewable resource.",
+     "star": true
+    },
+    {
+     "en": "renewable energy sources",
+     "pos": "n",
+     "ar": "مصادر الطاقة المتجددة",
+     "ex": "Solar and wind are renewable energy sources.",
+     "star": true
+    },
+    {
+     "en": "non-renewable energy sources",
+     "pos": "n",
+     "ar": "مصادر الطاقة غير المتجددة",
+     "ex": "Coal and gas are non-renewable energy sources.",
+     "star": true
+    },
+    {
+     "en": "limited",
+     "pos": "adj",
+     "ar": "محدود",
+     "ex": "Oil is limited, so one day it will finish.",
+     "star": false
+    },
+    {
+     "en": "unlimited",
+     "pos": "adj",
+     "ar": "غير محدود",
+     "ex": "The sun gives us an unlimited supply of light.",
+     "star": false
+    },
+    {
+     "en": "run out",
+     "pos": "phr v",
+     "ar": "ينفد / ينتهي",
+     "ex": "If we waste water, it may run out.",
+     "star": true
+    },
+    {
+     "en": "sustainable",
+     "pos": "adj",
+     "ar": "مستدام",
+     "ex": "Solar power is a sustainable way to make electricity.",
+     "star": false
+    },
+    {
+     "en": "eco-friendly",
+     "pos": "adj",
+     "ar": "صديق للبيئة",
+     "ex": "She uses an eco-friendly bag instead of a plastic one.",
+     "star": false
+    },
+    {
+     "en": "friendly",
+     "pos": "adj",
+     "ar": "غير ضار / ودود",
+     "ex": "Electric buses are friendly to the environment.",
+     "star": false
+    },
+    {
+     "en": "natural",
+     "pos": "adj",
+     "ar": "طبيعي",
+     "ex": "Wind and water are natural sources of power.",
+     "star": true
+    },
+    {
+     "en": "environment",
+     "pos": "n",
+     "ar": "البيئة",
+     "ex": "We must protect the environment for future generations.",
+     "star": true
+    },
+    {
+     "en": "environmental",
+     "pos": "adj",
+     "ar": "بيئي",
+     "ex": "Pollution is an environmental problem.",
+     "star": false
+    },
+    {
+     "en": "environmentally",
+     "pos": "adv",
+     "ar": "بيئيًا",
+     "ex": "Environmentally friendly products do not harm nature.",
+     "star": false
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Oil, coal and gas are (1)_____ energy sources because they take millions of years to form. The amount we can use is (2)_____, so one day they will (3)_____. Wind and sun are different. They are (4)_____ sources that nature gives us again and again, so many countries want to use them to protect the (5)_____ and keep our air clean.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "unlimited",
+       "non-renewable",
+       "sustainable",
+       "colourful"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 2,
+      "options": [
+       "unlimited",
+       "enormous",
+       "various",
+       "limited"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 3,
+      "options": [
+       "renew",
+       "run out",
+       "charge",
+       "install"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 4,
+      "options": [
+       "non-renewable",
+       "harmful",
+       "limited",
+       "renewable"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 5,
+      "options": [
+       "electricity",
+       "environment",
+       "rubbish",
+       "heat"
+      ],
+      "answer": 1
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "Solar energy will never ________ because the sun keeps shining.",
+     "options": [
+      "run up",
+      "run over",
+      "run into",
+      "run out"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 2,
+     "q": "A resource that can be used again and again is ________.",
+     "options": [
+      "non-renewable",
+      "renewable",
+      "limited",
+      "harmful"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 3,
+     "q": "Which of these is a non-renewable energy source?",
+     "options": [
+      "wind",
+      "sunlight",
+      "waves",
+      "coal"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 4,
+     "q": "Plastic bags are not ________ friendly.",
+     "options": [
+      "environment",
+      "environmentally",
+      "environmental",
+      "environments"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "q": "Cutting down too many trees is an ________ problem.",
+     "options": [
+      "environment",
+      "environmentally",
+      "environments",
+      "environmental"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 6,
+     "q": "The opposite of 'limited' is ________.",
+     "options": [
+      "sustainable",
+      "unlimited",
+      "non-renewable",
+      "natural"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 7,
+     "q": "Farmers want a ________ way of using water so that it lasts for many years.",
+     "options": [
+      "harmful",
+      "expensive",
+      "stressful",
+      "sustainable"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 8,
+     "q": "I need to ________ my passport before it ends next month.",
+     "options": [
+      "generate",
+      "renew",
+      "produce",
+      "charge"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "U3-L3",
+   "title": "Fossil Fuels and Waste",
+   "title_ar": "الوقود الأحفوري والنفايات",
+   "words": [
+    {
+     "en": "fossil fuel",
+     "pos": "n",
+     "ar": "وقود أحفوري",
+     "ex": "Fossil fuels formed from plants and animals that died long ago.",
+     "star": true
+    },
+    {
+     "en": "oil",
+     "pos": "n",
+     "ar": "نفط",
+     "ex": "Oman sells oil to many countries.",
+     "star": false
+    },
+    {
+     "en": "oilfield",
+     "pos": "n",
+     "ar": "حقل نفط",
+     "ex": "Workers drill deep into the ground at the oilfield.",
+     "star": false
+    },
+    {
+     "en": "coal",
+     "pos": "n",
+     "ar": "فحم حجري",
+     "ex": "Some power plants burn coal to make electricity.",
+     "star": false
+    },
+    {
+     "en": "natural gas",
+     "pos": "n",
+     "ar": "غاز طبيعي",
+     "ex": "Natural gas is burned in many power plants.",
+     "star": true
+    },
+    {
+     "en": "gas",
+     "pos": "n",
+     "ar": "غاز",
+     "ex": "Cooking gas comes in heavy metal cylinders.",
+     "star": true
+    },
+    {
+     "en": "fuel",
+     "pos": "n",
+     "ar": "وقود",
+     "ex": "Cars need fuel to move.",
+     "star": true
+    },
+    {
+     "en": "burn",
+     "pos": "v",
+     "ar": "يحرق / يحترق",
+     "ex": "When coal burns, it gives out heat and smoke.",
+     "star": true
+    },
+    {
+     "en": "pollution",
+     "pos": "n",
+     "ar": "تلوث",
+     "ex": "Smoke from factories causes air pollution.",
+     "star": true
+    },
+    {
+     "en": "rubbish",
+     "pos": "n",
+     "ar": "قمامة / نفايات",
+     "ex": "Please put your rubbish in the bin.",
+     "star": false
+    },
+    {
+     "en": "waste management",
+     "pos": "n",
+     "ar": "إدارة النفايات",
+     "ex": "Good waste management keeps our streets clean.",
+     "star": false
+    },
+    {
+     "en": "sort",
+     "pos": "v",
+     "ar": "يفرز / يصنّف",
+     "ex": "We sort rubbish into paper, plastic and glass.",
+     "star": false
+    },
+    {
+     "en": "reduce",
+     "pos": "v",
+     "ar": "يقلل",
+     "ex": "We can reduce pollution by using public transport.",
+     "star": true
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Cars, planes and many factories need (1)_____ to work. A lot of it comes from (2)_____, a thick liquid that is pumped from deep under the ground. When we (3)_____ fuel, it makes smoke and gases that cause (4)_____. To (5)_____ this problem, countries are building more solar and wind farms and teaching people to save energy.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "rubbish",
+       "fuel",
+       "steam",
+       "space"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 2,
+      "options": [
+       "coal",
+       "biomass",
+       "sunlight",
+       "oil"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 3,
+      "options": [
+       "sort",
+       "burn",
+       "collect",
+       "install"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 4,
+      "options": [
+       "benefit",
+       "solution",
+       "invention",
+       "pollution"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 5,
+      "options": [
+       "increase",
+       "reduce",
+       "produce",
+       "generate"
+      ],
+      "answer": 1
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "We ________ our rubbish into paper, plastic and metal.",
+     "options": [
+      "burn",
+      "charge",
+      "sort",
+      "renew"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "q": "Coal is a ________ fuel.",
+     "options": [
+      "fossil",
+      "tidal",
+      "solar",
+      "wave"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "q": "Workers found a new ________ in the desert and began to drill for oil.",
+     "options": [
+      "dam",
+      "turbine",
+      "oilfield",
+      "leaflet"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "q": "Smoke from old cars increases air ________.",
+     "options": [
+      "pollution",
+      "capacity",
+      "energy",
+      "creativity"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 5,
+     "q": "Good ________ includes collecting, sorting and recycling rubbish.",
+     "options": [
+      "wave power",
+      "wind farm",
+      "waste management",
+      "tidal power"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 6,
+     "q": "When wood ________, it gives out heat and light.",
+     "options": [
+      "burns",
+      "sorts",
+      "reduces",
+      "collects"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 7,
+     "q": "Which of these is NOT a fossil fuel?",
+     "options": [
+      "coal",
+      "natural gas",
+      "wind",
+      "oil"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 8,
+     "q": "The government wants to ________ the use of plastic bags.",
+     "options": [
+      "reduce",
+      "charge",
+      "generate",
+      "supply"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "U3-L4",
+   "title": "Wind and Water",
+   "title_ar": "الرياح والمياه",
+   "words": [
+    {
+     "en": "the wind",
+     "pos": "n",
+     "ar": "الرياح",
+     "ex": "The wind is strong along the coast.",
+     "star": true
+    },
+    {
+     "en": "wind power",
+     "pos": "n",
+     "ar": "طاقة الرياح",
+     "ex": "Wind power does not make any smoke.",
+     "star": true
+    },
+    {
+     "en": "wind energy",
+     "pos": "n",
+     "ar": "طاقة الرياح",
+     "ex": "Wind energy can be changed into electricity.",
+     "star": true
+    },
+    {
+     "en": "wind farm",
+     "pos": "n",
+     "ar": "مزرعة رياح",
+     "ex": "A wind farm has many tall turbines.",
+     "star": true
+    },
+    {
+     "en": "wind turbine",
+     "pos": "n",
+     "ar": "توربين الرياح",
+     "ex": "Each wind turbine has three long blades.",
+     "star": true
+    },
+    {
+     "en": "turbine",
+     "pos": "n",
+     "ar": "توربين",
+     "ex": "Moving water turns the turbine inside a dam.",
+     "star": true
+    },
+    {
+     "en": "hydropower",
+     "pos": "n",
+     "ar": "الطاقة الكهرومائية",
+     "ex": "Hydropower uses fast-moving water to make electricity.",
+     "star": true
+    },
+    {
+     "en": "hydroelectric dam",
+     "pos": "n",
+     "ar": "سد كهرومائي",
+     "ex": "A hydroelectric dam stores water behind a huge wall.",
+     "star": false
+    },
+    {
+     "en": "dam",
+     "pos": "n",
+     "ar": "سد",
+     "ex": "The dam holds back the water of the river.",
+     "star": false
+    },
+    {
+     "en": "waves",
+     "pos": "n",
+     "ar": "أمواج",
+     "ex": "Big waves hit the beach during the storm.",
+     "star": false
+    },
+    {
+     "en": "wave power",
+     "pos": "n",
+     "ar": "طاقة الأمواج",
+     "ex": "Wave power uses the movement of the sea.",
+     "star": true
+    },
+    {
+     "en": "tidal power",
+     "pos": "n",
+     "ar": "طاقة المد والجزر",
+     "ex": "Tidal power depends on the rise and fall of the sea.",
+     "star": true
+    },
+    {
+     "en": "kinetic energy",
+     "pos": "n",
+     "ar": "الطاقة الحركية",
+     "ex": "A moving car has kinetic energy.",
+     "star": false
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "On windy hills, a (1)_____ can have dozens of tall machines. Each (2)_____ turns when the wind pushes its blades, and the movement is changed into electricity. Water can also make power. Behind a (3)_____, a river builds a deep lake, and the falling water turns machines to produce (4)_____. In some countries, engineers also use the movement of the sea, called (5)_____, to make electricity.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "wind farm",
+       "oilfield",
+       "dam",
+       "geyser"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 2,
+      "options": [
+       "dam",
+       "wave",
+       "turbine",
+       "geyser"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 3,
+      "options": [
+       "dam",
+       "turbine",
+       "oilfield",
+       "wave"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 4,
+      "options": [
+       "biomass",
+       "coal",
+       "hydropower",
+       "natural gas"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 5,
+      "options": [
+       "wave power",
+       "wind power",
+       "solar power",
+       "coal"
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "Tidal power depends on the rise and fall of the ________.",
+     "options": [
+      "wind",
+      "sun",
+      "sea",
+      "coal"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "q": "A ________ is a strong wall built across a river to hold back water.",
+     "options": [
+      "dam",
+      "turbine",
+      "wave",
+      "wind farm"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "q": "Any moving object, like a rolling ball, has ________ energy.",
+     "options": [
+      "nuclear",
+      "tidal",
+      "kinetic",
+      "geothermal"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "q": "The ________ of the sea were so high that the boats stayed in the harbour.",
+     "options": [
+      "waves",
+      "dams",
+      "turbines",
+      "farms"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 5,
+     "q": "Which machine has long blades that turn in the wind?",
+     "options": [
+      "a hydroelectric dam",
+      "a power plant",
+      "a wind turbine",
+      "an oilfield"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 6,
+     "q": "A ________ is a place where many wind turbines work together.",
+     "options": [
+      "wind farm",
+      "wave power",
+      "geyser",
+      "oilfield"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 7,
+     "q": "Energy from fast-moving water is called ________.",
+     "options": [
+      "biomass",
+      "geothermal energy",
+      "hydropower",
+      "biofuel"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 8,
+     "q": "Wind ________ is clean and renewable.",
+     "options": [
+      "power",
+      "plant",
+      "fuel",
+      "rubbish"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "U3-L5",
+   "title": "Sun, Heat and Earth",
+   "title_ar": "الشمس والحرارة والأرض",
+   "words": [
+    {
+     "en": "the sun",
+     "pos": "n",
+     "ar": "الشمس",
+     "ex": "The sun rises early in summer.",
+     "star": false
+    },
+    {
+     "en": "sunlight",
+     "pos": "n",
+     "ar": "ضوء الشمس",
+     "ex": "Plants need sunlight to grow.",
+     "star": false
+    },
+    {
+     "en": "solar energy",
+     "pos": "n",
+     "ar": "الطاقة الشمسية",
+     "ex": "Solar energy comes from the sun.",
+     "star": true
+    },
+    {
+     "en": "solar power",
+     "pos": "n",
+     "ar": "الطاقة الشمسية (الكهرباء)",
+     "ex": "Solar power is very useful in sunny countries like Oman.",
+     "star": true
+    },
+    {
+     "en": "solar panels",
+     "pos": "n",
+     "ar": "ألواح شمسية",
+     "ex": "They put solar panels on the roof of the school.",
+     "star": true
+    },
+    {
+     "en": "geothermal energy",
+     "pos": "n",
+     "ar": "طاقة حرارة باطن الأرض",
+     "ex": "Geothermal energy uses heat from deep inside the Earth.",
+     "star": true
+    },
+    {
+     "en": "natural heat",
+     "pos": "n",
+     "ar": "حرارة طبيعية",
+     "ex": "In Iceland, natural heat from the ground warms many homes.",
+     "star": true
+    },
+    {
+     "en": "steam",
+     "pos": "n",
+     "ar": "بخار",
+     "ex": "Steam from boiling water can turn a turbine.",
+     "star": false
+    },
+    {
+     "en": "geyser",
+     "pos": "n",
+     "ar": "ينبوع ماء حار",
+     "ex": "A geyser shoots hot water and steam into the air.",
+     "star": false
+    },
+    {
+     "en": "nuclear power",
+     "pos": "n",
+     "ar": "الطاقة النووية",
+     "ex": "Nuclear power makes a lot of electricity from a small amount of fuel.",
+     "star": true
+    },
+    {
+     "en": "nucleus",
+     "pos": "n",
+     "ar": "نواة",
+     "ex": "The nucleus is the centre of an atom.",
+     "star": false
+    },
+    {
+     "en": "biomass",
+     "pos": "n",
+     "ar": "الكتلة الحيوية",
+     "ex": "Biomass includes wood, plants and animal waste.",
+     "star": true
+    },
+    {
+     "en": "biofuel",
+     "pos": "n",
+     "ar": "وقود حيوي",
+     "ex": "Some buses run on biofuel made from plants.",
+     "star": true
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Oman has long, hot summers, so the (1)_____ shines for most of the year. (2)_____ on a roof can collect sunlight and turn it into electricity. Under the ground, rocks are very hot. In some countries, engineers use this natural heat to make (3)_____, which turns turbines. This is called (4)_____ energy. Farmers can also make (5)_____ from plants and animal waste to run vehicles.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "sun",
+       "steam",
+       "nucleus",
+       "biomass"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 2,
+      "options": [
+       "Geysers",
+       "Nuclei",
+       "Solar panels",
+       "Dams"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 3,
+      "options": [
+       "steam",
+       "biofuel",
+       "oil",
+       "coal"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 4,
+      "options": [
+       "tidal",
+       "hydro",
+       "geothermal",
+       "kinetic"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 5,
+      "options": [
+       "biofuel",
+       "steam",
+       "sunlight",
+       "rubbish"
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "Plants need ________ to make their food.",
+     "options": [
+      "steam",
+      "sunlight",
+      "biofuel",
+      "rubbish"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 2,
+     "q": "A ________ shoots hot water and steam out of the ground.",
+     "options": [
+      "nucleus",
+      "turbine",
+      "dam",
+      "geyser"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "q": "The ________ is the central part of an atom.",
+     "options": [
+      "geyser",
+      "nucleus",
+      "biomass",
+      "turbine"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 4,
+     "q": "Wood and plant waste are examples of ________.",
+     "options": [
+      "steam",
+      "coal",
+      "sunlight",
+      "biomass"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 5,
+     "q": "Which type of energy comes from heat under the Earth?",
+     "options": [
+      "tidal power",
+      "geothermal energy",
+      "wave power",
+      "wind energy"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 6,
+     "q": "Some cars can run on ________ made from plants.",
+     "options": [
+      "steam",
+      "nucleus",
+      "sunlight",
+      "biofuel"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 7,
+     "q": "________ panels change sunlight into electricity.",
+     "options": [
+      "Tidal",
+      "Solar",
+      "Nuclear",
+      "Geothermal"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 8,
+     "q": "Boiling water makes ________ that can turn a turbine.",
+     "options": [
+      "biomass",
+      "coal",
+      "oil",
+      "steam"
+     ],
+     "answer": 3
+    }
+   ]
+  },
+  {
+   "id": "U3-L6",
+   "title": "Technology and Inventions",
+   "title_ar": "التكنولوجيا والاختراعات",
+   "words": [
+    {
+     "en": "invent",
+     "pos": "v",
+     "ar": "يخترع",
+     "ex": "Students at the university invented a small wind turbine.",
+     "star": false
+    },
+    {
+     "en": "inventor",
+     "pos": "n",
+     "ar": "مخترع",
+     "ex": "The inventor showed us her new machine.",
+     "star": false
+    },
+    {
+     "en": "invention",
+     "pos": "n",
+     "ar": "اختراع",
+     "ex": "The telephone is a very useful invention.",
+     "star": false
+    },
+    {
+     "en": "convert",
+     "pos": "v",
+     "ar": "يحوّل (إلى)",
+     "ex": "Solar panels convert sunlight into electricity.",
+     "star": false
+    },
+    {
+     "en": "install",
+     "pos": "v",
+     "ar": "يركّب / يثبّت",
+     "ex": "Workers will install the panels next week.",
+     "star": false
+    },
+    {
+     "en": "operate",
+     "pos": "v",
+     "ar": "يشغّل / يدير",
+     "ex": "One person can operate this machine.",
+     "star": false
+    },
+    {
+     "en": "capacity",
+     "pos": "n",
+     "ar": "سعة / قدرة",
+     "ex": "The new power plant has a large capacity.",
+     "star": false
+    },
+    {
+     "en": "megawatt (MW)",
+     "pos": "n",
+     "ar": "ميغاواط",
+     "ex": "The wind farm produces ten megawatts of power.",
+     "star": false
+    },
+    {
+     "en": "vehicle",
+     "pos": "n",
+     "ar": "مركبة",
+     "ex": "Electric vehicles are quiet and clean.",
+     "star": false
+    },
+    {
+     "en": "space",
+     "pos": "n",
+     "ar": "الفضاء / مساحة",
+     "ex": "Satellites use solar panels in space.",
+     "star": false
+    },
+    {
+     "en": "shopping trolley",
+     "pos": "n",
+     "ar": "عربة تسوّق",
+     "ex": "The shopping trolley got heavy when it was full.",
+     "star": false
+    },
+    {
+     "en": "push",
+     "pos": "v",
+     "ar": "يدفع",
+     "ex": "Push the button to start the machine.",
+     "star": false
+    },
+    {
+     "en": "pass through",
+     "pos": "phr v",
+     "ar": "يمرّ عبر",
+     "ex": "Water passes through the turbine and turns it.",
+     "star": false
+    },
+    {
+     "en": "approximately",
+     "pos": "adv",
+     "ar": "تقريبًا",
+     "ex": "The farm covers approximately fifty hectares.",
+     "star": false
+    },
+    {
+     "en": "relatively",
+     "pos": "adv",
+     "ar": "نسبيًا",
+     "ex": "Solar panels are relatively cheap today.",
+     "star": false
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Many students want to become (1)_____ and make useful machines. A good (2)_____ can change our lives. For example, solar panels (3)_____ sunlight into electricity, and they are easy to (4)_____ on the roof of a house. A large power plant has a high (5)_____ and can supply thousands of homes.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "megawatts",
+       "vehicles",
+       "turbines",
+       "inventors"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 2,
+      "options": [
+       "capacity",
+       "invention",
+       "trolley",
+       "megawatt"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 3,
+      "options": [
+       "push",
+       "operate",
+       "pass through",
+       "convert"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 4,
+      "options": [
+       "invent",
+       "install",
+       "push",
+       "convert"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 5,
+      "options": [
+       "space",
+       "invention",
+       "vehicle",
+       "capacity"
+      ],
+      "answer": 3
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "Ali learned how to ________ the new machine.",
+     "options": [
+      "invent",
+      "operate",
+      "convert",
+      "attach"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 2,
+     "q": "Electric ________ do not make smoke.",
+     "options": [
+      "inventors",
+      "capacities",
+      "trolleys",
+      "vehicles"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "q": "Water must pass ________ the turbine to make it turn.",
+     "options": [
+      "out",
+      "through",
+      "by",
+      "off"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 4,
+     "q": "The wind farm has a capacity of fifty ________.",
+     "options": [
+      "inventions",
+      "vehicles",
+      "generators",
+      "megawatts"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 5,
+     "q": "A person who invents something is an ________.",
+     "options": [
+      "invention",
+      "inventor",
+      "operator",
+      "install"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 6,
+     "q": "The village has ________ two hundred houses.",
+     "options": [
+      "creatively",
+      "hopefully",
+      "formally",
+      "approximately"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 7,
+     "q": "Engines ________ the energy of fuel into movement.",
+     "options": [
+      "install",
+      "convert",
+      "push",
+      "attach"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 8,
+     "q": "Solar panels were once expensive, but today they are ________ cheap.",
+     "options": [
+      "creatively",
+      "formally",
+      "hopefully",
+      "relatively"
+     ],
+     "answer": 3
+    }
+   ]
+  },
+  {
+   "id": "U3-L7",
+   "title": "Advantages and Disadvantages",
+   "title_ar": "المزايا والعيوب",
+   "words": [
+    {
+     "en": "advantage",
+     "pos": "n",
+     "ar": "ميزة",
+     "ex": "One advantage of solar power is that sunlight is free.",
+     "star": true
+    },
+    {
+     "en": "disadvantage",
+     "pos": "n",
+     "ar": "عيب",
+     "ex": "A disadvantage of wind power is that the wind does not always blow.",
+     "star": true
+    },
+    {
+     "en": "benefit",
+     "pos": "n",
+     "ar": "فائدة / منفعة",
+     "ex": "Clean air is one benefit of renewable energy.",
+     "star": false
+    },
+    {
+     "en": "harmful",
+     "pos": "adj",
+     "ar": "ضار / مؤذٍ",
+     "ex": "Smoke from factories is harmful to our health.",
+     "star": false
+    },
+    {
+     "en": "dangerous",
+     "pos": "adj",
+     "ar": "خطير",
+     "ex": "Nuclear waste is dangerous and must be stored safely.",
+     "star": false
+    },
+    {
+     "en": "effective",
+     "pos": "adj",
+     "ar": "فعّال / مؤثر",
+     "ex": "Solar panels are effective in sunny places.",
+     "star": false
+    },
+    {
+     "en": "expensive",
+     "pos": "adj",
+     "ar": "غالٍ",
+     "ex": "Building a dam can be very expensive.",
+     "star": false
+    },
+    {
+     "en": "cheap",
+     "pos": "adj",
+     "ar": "رخيص",
+     "ex": "Candles are cheap, but they give little light.",
+     "star": false
+    },
+    {
+     "en": "essential",
+     "pos": "adj",
+     "ar": "أساسي / ضروري",
+     "ex": "Water is essential for life.",
+     "star": false
+    },
+    {
+     "en": "potential",
+     "pos": "n",
+     "ar": "إمكانية / قدرة محتملة",
+     "ex": "Oman has great potential for solar power.",
+     "star": false
+    },
+    {
+     "en": "consider",
+     "pos": "v",
+     "ar": "يفكر في / يضع في الاعتبار",
+     "ex": "We should consider the cost before we decide.",
+     "star": false
+    },
+    {
+     "en": "critical thinking",
+     "pos": "n",
+     "ar": "التفكير الناقد",
+     "ex": "Critical thinking helps you choose the best idea.",
+     "star": false
+    },
+    {
+     "en": "hopefully",
+     "pos": "adv",
+     "ar": "نأمل / آمل أن",
+     "ex": "Hopefully, the new wind farm will open next year.",
+     "star": false
+    },
+    {
+     "en": "a couple of",
+     "pos": "phr",
+     "ar": "اثنان / بضعة",
+     "ex": "We waited a couple of minutes for the bus.",
+     "star": true
+    },
+    {
+     "en": "type",
+     "pos": "n",
+     "ar": "نوع",
+     "ex": "What type of energy does your school use?",
+     "star": true
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Every energy source has good and bad points. One (1)_____ of solar power is that sunlight is free. A (2)_____ is that panels can be (3)_____ to buy at first. On the other hand, burning coal is (4)_____ to the air and to people's health. Before choosing a source, a wise country will (5)_____ all these points carefully.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "capacity",
+       "invention",
+       "potential",
+       "advantage"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 2,
+      "options": [
+       "advantage",
+       "disadvantage",
+       "type",
+       "benefit"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 3,
+      "options": [
+       "cheap",
+       "essential",
+       "effective",
+       "expensive"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 4,
+      "options": [
+       "essential",
+       "harmful",
+       "cheap",
+       "colourful"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 5,
+      "options": [
+       "operate",
+       "renew",
+       "convert",
+       "consider"
+      ],
+      "answer": 3
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "________, the weather will be sunny tomorrow, so we can use the solar oven.",
+     "options": [
+      "Hopefully",
+      "Relatively",
+      "Formally",
+      "Creatively"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "Fresh water is ________ for all living things.",
+     "options": [
+      "cheap",
+      "harmful",
+      "essential",
+      "expensive"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 3,
+     "q": "I need to buy ________ pens for the exam.",
+     "options": [
+      "a couple of",
+      "a type of",
+      "a benefit of",
+      "a capacity of"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "q": "Which of these is an advantage of renewable energy?",
+     "options": [
+      "It makes a lot of smoke.",
+      "It always costs a lot to build.",
+      "It does not run out.",
+      "It harms the soil."
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "q": "________ thinking means looking carefully at ideas before you decide.",
+     "options": [
+      "Critical",
+      "Essential",
+      "Harmful",
+      "Potential"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 6,
+     "q": "Chemicals in the river are ________ to fish.",
+     "options": [
+      "effective",
+      "cheap",
+      "harmful",
+      "essential"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 7,
+     "q": "What ________ of energy does the school use?",
+     "options": [
+      "type",
+      "benefit",
+      "advantage",
+      "capacity"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 8,
+     "q": "Climbing the mountain without a guide is ________.",
+     "options": [
+      "cheap",
+      "effective",
+      "dangerous",
+      "essential"
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "id": "U3-L8",
+   "title": "Describing Things",
+   "title_ar": "وصف الأشياء",
+   "words": [
+    {
+     "en": "massive",
+     "pos": "adj",
+     "ar": "ضخم",
+     "ex": "A massive dam stands across the valley.",
+     "star": false
+    },
+    {
+     "en": "enormous",
+     "pos": "adj",
+     "ar": "هائل / ضخم",
+     "ex": "An enormous wind farm covers the hills.",
+     "star": false
+    },
+    {
+     "en": "powerful",
+     "pos": "adj",
+     "ar": "قوي",
+     "ex": "A powerful engine drives the ship.",
+     "star": false
+    },
+    {
+     "en": "productive",
+     "pos": "adj",
+     "ar": "مثمر / منتج",
+     "ex": "The farm was very productive this year.",
+     "star": false
+    },
+    {
+     "en": "various",
+     "pos": "adj",
+     "ar": "متنوع / مختلف",
+     "ex": "There are various ways to save energy.",
+     "star": false
+    },
+    {
+     "en": "colourful",
+     "pos": "adj",
+     "ar": "زاهي الألوان",
+     "ex": "The colourful poster showed different energy sources.",
+     "star": false
+    },
+    {
+     "en": "helpful",
+     "pos": "adj",
+     "ar": "مفيد / متعاون",
+     "ex": "The guide was very helpful.",
+     "star": false
+    },
+    {
+     "en": "useful",
+     "pos": "adj",
+     "ar": "مفيد",
+     "ex": "A torch is useful during a power cut.",
+     "star": false
+    },
+    {
+     "en": "peaceful",
+     "pos": "adj",
+     "ar": "مسالم / هادئ",
+     "ex": "The village is peaceful at night.",
+     "star": false
+    },
+    {
+     "en": "beautiful",
+     "pos": "adj",
+     "ar": "جميل",
+     "ex": "A beautiful beach lies near the wind farm.",
+     "star": false
+    },
+    {
+     "en": "famous",
+     "pos": "adj",
+     "ar": "مشهور",
+     "ex": "Oman is famous for its mountains and beaches.",
+     "star": true
+    },
+    {
+     "en": "stressful",
+     "pos": "adj",
+     "ar": "مرهق / مجهد",
+     "ex": "Exam week can be stressful.",
+     "star": false
+    },
+    {
+     "en": "extra",
+     "pos": "adj",
+     "ar": "إضافي",
+     "ex": "We need extra batteries for the trip.",
+     "star": false
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Our class visited a solar farm in the desert last week. The trip was not (1)_____ at all; it was relaxing and fun. The solar farm was so (2)_____ that we could not see the end of the panels. The guide was very (3)_____ and answered all our questions. He told us that there are (4)_____ ways to save energy at home. Then he gave us a poster so (5)_____ that it looked like a rainbow.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "enormous",
+       "productive",
+       "stressful",
+       "various"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 2,
+      "options": [
+       "enormous",
+       "peaceful",
+       "helpful",
+       "useful"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 3,
+      "options": [
+       "massive",
+       "powerful",
+       "helpful",
+       "colourful"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 4,
+      "options": [
+       "various",
+       "famous",
+       "beautiful",
+       "stressful"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 5,
+      "options": [
+       "stressful",
+       "famous",
+       "colourful",
+       "productive"
+      ],
+      "answer": 2
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "The sound of the sea made the evening calm and ________.",
+     "options": [
+      "peaceful",
+      "stressful",
+      "powerful",
+      "enormous"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "q": "A ________ storm broke the old wind turbine.",
+     "options": [
+      "peaceful",
+      "helpful",
+      "powerful",
+      "colourful"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 3,
+     "q": "Which word means 'very, very big'?",
+     "options": [
+      "enormous",
+      "famous",
+      "helpful",
+      "various"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "q": "This land is ________: it gives us a lot of dates every year.",
+     "options": [
+      "stressful",
+      "peaceful",
+      "productive",
+      "extra"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "q": "We sell ________ kinds of solar lamps in our shop.",
+     "options": [
+      "various",
+      "famous",
+      "peaceful",
+      "stressful"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 6,
+     "q": "Studying all night before the exam can be very ________.",
+     "options": [
+      "colourful",
+      "helpful",
+      "stressful",
+      "productive"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 7,
+     "q": "Salma brought ________ pens in case someone forgot one.",
+     "options": [
+      "extra",
+      "various",
+      "powerful",
+      "peaceful"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 8,
+     "q": "The map was ________: it showed us the quickest way.",
+     "options": [
+      "stressful",
+      "peaceful",
+      "useful",
+      "enormous"
+     ],
+     "answer": 2
+    }
+   ]
+  },
+  {
+   "id": "U3-L9",
+   "title": "Word Families",
+   "title_ar": "عائلات الكلمات",
+   "words": [
+    {
+     "en": "create",
+     "pos": "v",
+     "ar": "يبدع / يخلق",
+     "ex": "Artists create beautiful posters about energy.",
+     "star": true
+    },
+    {
+     "en": "creative",
+     "pos": "adj",
+     "ar": "مبدع",
+     "ex": "She is a creative student with many ideas.",
+     "star": false
+    },
+    {
+     "en": "creatively",
+     "pos": "adv",
+     "ar": "بشكل إبداعي",
+     "ex": "The team solved the problem creatively.",
+     "star": false
+    },
+    {
+     "en": "creativity",
+     "pos": "n",
+     "ar": "الإبداع",
+     "ex": "Creativity helps us find new energy solutions.",
+     "star": false
+    },
+    {
+     "en": "suitable",
+     "pos": "adj",
+     "ar": "مناسب",
+     "ex": "This roof is suitable for solar panels.",
+     "star": false
+    },
+    {
+     "en": "unsuitable",
+     "pos": "adj",
+     "ar": "غير مناسب",
+     "ex": "A narrow stream is unsuitable for a big dam.",
+     "star": false
+    },
+    {
+     "en": "possible",
+     "pos": "adj",
+     "ar": "ممكن",
+     "ex": "It is possible to charge a phone with the sun.",
+     "star": false
+    },
+    {
+     "en": "impossible",
+     "pos": "adj",
+     "ar": "مستحيل",
+     "ex": "It is impossible to see the sun at midnight.",
+     "star": false
+    },
+    {
+     "en": "evaluate",
+     "pos": "v",
+     "ar": "يقيّم",
+     "ex": "Engineers evaluate each idea before they build.",
+     "star": false
+    },
+    {
+     "en": "evaluation",
+     "pos": "n",
+     "ar": "تقييم",
+     "ex": "The evaluation showed that the project was a success.",
+     "star": false
+    },
+    {
+     "en": "differ",
+     "pos": "v",
+     "ar": "يختلف",
+     "ex": "Wind farms differ from power plants that burn coal.",
+     "star": true
+    },
+    {
+     "en": "difference",
+     "pos": "n",
+     "ar": "فرق / اختلاف",
+     "ex": "There is a big difference between solar and wind power.",
+     "star": false
+    },
+    {
+     "en": "different",
+     "pos": "adj",
+     "ar": "مختلف",
+     "ex": "Each country uses different energy sources.",
+     "star": true
+    },
+    {
+     "en": "imagine",
+     "pos": "v",
+     "ar": "يتخيل",
+     "ex": "Imagine a city powered only by the sun.",
+     "star": false
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Our teacher asked us to (1)_____ a poster about renewable energy. Huda is very (2)_____, so she drew a funny wind turbine with a smiling face. Her group worked on the project (3)_____ and used old boxes to make a model. After the presentations, the teacher gave an (4)_____ of every poster. She said it was (5)_____ to choose only one winner because all the posters were excellent.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "creative",
+       "creatively",
+       "create",
+       "creativity"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 2,
+      "options": [
+       "creative",
+       "create",
+       "creativity",
+       "creatively"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 3,
+      "options": [
+       "creative",
+       "create",
+       "creatively",
+       "creativity"
+      ],
+      "answer": 2
+     },
+     {
+      "n": 4,
+      "options": [
+       "evaluation",
+       "evaluate",
+       "evaluated",
+       "evaluating"
+      ],
+      "answer": 0
+     },
+     {
+      "n": 5,
+      "options": [
+       "possible",
+       "suitable",
+       "impossible",
+       "different"
+      ],
+      "answer": 2
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "The ________ between the two designs is small.",
+     "options": [
+      "differ",
+      "different",
+      "differently",
+      "difference"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 2,
+     "q": "Wind and solar power ________ in the way they make electricity.",
+     "options": [
+      "difference",
+      "differ",
+      "different",
+      "differently"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 3,
+     "q": "This is a ________ place for a wind farm because it is windy all year.",
+     "options": [
+      "unsuitable",
+      "impossible",
+      "harmful",
+      "suitable"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 4,
+     "q": "Mohammed has a lot of ________ and always finds new ways to solve problems.",
+     "options": [
+      "create",
+      "creativity",
+      "creative",
+      "creatively"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "q": "We must ________ each idea before we choose the best one.",
+     "options": [
+      "evaluation",
+      "evaluated",
+      "evaluating",
+      "evaluate"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 6,
+     "q": "________ a world without electricity.",
+     "options": [
+      "Create",
+      "Imagine",
+      "Differ",
+      "Evaluate"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 7,
+     "q": "It is ________ to build a dam in a place with no river.",
+     "options": [
+      "possible",
+      "creative",
+      "suitable",
+      "impossible"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 8,
+     "q": "A small stream is ________ for a hydroelectric dam.",
+     "options": [
+      "suitable",
+      "unsuitable",
+      "possible",
+      "creative"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "U3-L10",
+   "title": "Stress in Two-syllable Words",
+   "title_ar": "نبر الكلمات ذات المقطعين",
+   "words": [
+    {
+     "en": "contrast",
+     "pos": "n / v",
+     "ar": "تباين / يقارن بين",
+     "ex": "The contrast is clear; let us contrast the two designs.",
+     "note": "CON-trast (n) / con-TRAST (v)",
+     "star": false
+    },
+    {
+     "en": "record",
+     "pos": "n / v",
+     "ar": "سجل / يسجّل",
+     "ex": "We record the wind speed and keep a record of it.",
+     "note": "REC-ord (n) / re-CORD (v)",
+     "star": false
+    },
+    {
+     "en": "suspect",
+     "pos": "n / v",
+     "ar": "مشتبه به / يشتبه",
+     "ex": "Police suspect the man, so he is now a suspect.",
+     "note": "SUS-pect (n) / sus-PECT (v)",
+     "star": false
+    },
+    {
+     "en": "present",
+     "pos": "n / v",
+     "ar": "هدية / يقدّم",
+     "ex": "I will present my project, and I have a present for you.",
+     "note": "PRES-ent (n) / pre-SENT (v)",
+     "star": true
+    },
+    {
+     "en": "object",
+     "pos": "n / v",
+     "ar": "شيء / يعترض",
+     "ex": "Some residents object to the tall object near their houses.",
+     "note": "OB-ject (n) / ob-JECT (v)",
+     "star": false
+    },
+    {
+     "en": "project",
+     "pos": "n / v",
+     "ar": "مشروع / يعرض على الشاشة",
+     "ex": "We will project the map on the screen for our project.",
+     "note": "PROJ-ect (n) / pro-JECT (v)",
+     "star": true
+    },
+    {
+     "en": "research",
+     "pos": "n / v",
+     "ar": "بحث / يبحث",
+     "ex": "Students research solar power, and their research is good.",
+     "note": "RE-search (n) / re-SEARCH (v)",
+     "star": true
+    },
+    {
+     "en": "decrease",
+     "pos": "n / v",
+     "ar": "نقص / ينقص",
+     "ex": "Oil use will decrease, and the decrease will help nature.",
+     "note": "DE-crease (n) / de-CREASE (v)",
+     "star": false
+    },
+    {
+     "en": "increase",
+     "pos": "n / v",
+     "ar": "زيادة / يزداد",
+     "ex": "Demand will increase, so the increase is large.",
+     "note": "IN-crease (n) / in-CREASE (v)",
+     "star": true
+    },
+    {
+     "en": "progress",
+     "pos": "n / v",
+     "ar": "تقدّم / يتقدّم",
+     "ex": "The progress is slow, but the project will progress.",
+     "note": "PROG-ress (n) / pro-GRESS (v)",
+     "star": false
+    },
+    {
+     "en": "insult",
+     "pos": "n / v",
+     "ar": "إهانة / يهين",
+     "ex": "Do not insult people, because an insult hurts.",
+     "note": "IN-sult (n) / in-SULT (v)",
+     "star": false
+    },
+    {
+     "en": "conflict",
+     "pos": "n / v",
+     "ar": "نزاع / يتعارض",
+     "ex": "Their ideas conflict, but the conflict is not serious.",
+     "note": "CON-flict (n) / con-FLICT (v)",
+     "star": false
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Mr Hamad asked us to do a (1)_____ on wave power. We had to (2)_____ the topic in the library and then (3)_____ our findings to the class. After the talk, the teacher said we had made good (4)_____. He also asked us to keep a (5)_____ of our results.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "insult",
+       "project",
+       "conflict",
+       "suspect"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 2,
+      "options": [
+       "insult",
+       "object",
+       "suspect",
+       "research"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 3,
+      "options": [
+       "insult",
+       "present",
+       "conflict",
+       "contrast"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 4,
+      "options": [
+       "conflict",
+       "insult",
+       "decrease",
+       "progress"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 5,
+      "options": [
+       "suspect",
+       "record",
+       "object",
+       "increase"
+      ],
+      "answer": 1
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "We ________ the wind speed every hour.",
+     "options": [
+      "insult",
+      "object",
+      "suspect",
+      "record"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 2,
+     "q": "The noun 'record' (a written report) has its stress ________.",
+     "options": [
+      "on the second syllable",
+      "on the first syllable",
+      "on both syllables",
+      "on no syllable"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 3,
+     "q": "Scientists ________ new ways to store solar energy.",
+     "options": [
+      "insult",
+      "suspect",
+      "contrast",
+      "research"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 4,
+     "q": "A ________ in the number of cars will reduce pollution.",
+     "options": [
+      "project",
+      "decrease",
+      "conflict",
+      "insult"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "q": "The verb 'object' (to disagree) has its stress ________.",
+     "options": [
+      "on the first syllable",
+      "on both syllables",
+      "on no syllable",
+      "on the second syllable"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 6,
+     "q": "My brother gave me a birthday ________.",
+     "options": [
+      "progress",
+      "present",
+      "insult",
+      "conflict"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 7,
+     "q": "Some neighbours ________ to the new power plant because of the noise.",
+     "options": [
+      "record",
+      "insult",
+      "present",
+      "object"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 8,
+     "q": "The students are making good ________ in their science project.",
+     "options": [
+      "suspect",
+      "progress",
+      "contrast",
+      "conflict"
+     ],
+     "answer": 1
+    }
+   ]
+  },
+  {
+   "id": "U3-L11",
+   "title": "Emails and Presentations",
+   "title_ar": "الرسائل والعروض التقديمية",
+   "words": [
+    {
+     "en": "email",
+     "pos": "n",
+     "ar": "بريد إلكتروني / رسالة إلكترونية",
+     "ex": "I sent an email to the manager of the wind farm.",
+     "star": false
+    },
+    {
+     "en": "attach",
+     "pos": "v",
+     "ar": "يرفق",
+     "ex": "Please attach the photos to your email.",
+     "star": false
+    },
+    {
+     "en": "attachment",
+     "pos": "n",
+     "ar": "مرفق",
+     "ex": "Open the attachment to see the table.",
+     "star": false
+    },
+    {
+     "en": "formal",
+     "pos": "adj",
+     "ar": "رسمي",
+     "ex": "Write a formal email to your headteacher.",
+     "star": false
+    },
+    {
+     "en": "informal",
+     "pos": "adj",
+     "ar": "غير رسمي",
+     "ex": "We use an informal style when we write to friends.",
+     "star": false
+    },
+    {
+     "en": "greeting",
+     "pos": "n",
+     "ar": "تحية",
+     "ex": "Begin your email with a polite greeting.",
+     "star": false
+    },
+    {
+     "en": "closing",
+     "pos": "n",
+     "ar": "عبارة الختام",
+     "ex": "Yours sincerely is a formal closing.",
+     "star": false
+    },
+    {
+     "en": "request",
+     "pos": "n",
+     "ar": "طلب",
+     "ex": "He sent a request for more information about solar panels.",
+     "star": false
+    },
+    {
+     "en": "presentation",
+     "pos": "n",
+     "ar": "عرض تقديمي",
+     "ex": "Our group gave a presentation about wave power.",
+     "star": false
+    },
+    {
+     "en": "leaflet",
+     "pos": "n",
+     "ar": "نشرة / منشور",
+     "ex": "The leaflet explains how to save electricity.",
+     "star": false
+    },
+    {
+     "en": "solution",
+     "pos": "n",
+     "ar": "حل",
+     "ex": "Solar panels are one solution to the energy problem.",
+     "star": false
+    },
+    {
+     "en": "residents",
+     "pos": "n",
+     "ar": "السكان",
+     "ex": "The residents of the village use solar lamps.",
+     "star": false
+    },
+    {
+     "en": "purpose",
+     "pos": "n",
+     "ar": "الغرض / الهدف",
+     "ex": "What is the purpose of your email?",
+     "star": false
+    },
+    {
+     "en": "partner",
+     "pos": "n",
+     "ar": "شريك / زميل",
+     "ex": "Work with a partner and discuss the question.",
+     "star": false
+    },
+    {
+     "en": "fact",
+     "pos": "n",
+     "ar": "حقيقة",
+     "ex": "It is a fact that the sun is a star.",
+     "star": true
+    }
+   ],
+   "cloze": {
+    "intro": "Choose the correct word to complete the text.",
+    "passage": "Last week, Maryam sent a (1)_____ to the manager of a solar company. She asked for information about prices. Because it was a (2)_____ message, she began with a polite (3)_____ and wrote 'Yours sincerely' at the end. She explained the (4)_____ of her email: she needed information for her school project. She also sent the photos of her model as (5)_____.",
+    "items": [
+     {
+      "n": 1,
+      "options": [
+       "partner",
+       "request",
+       "fact",
+       "purpose"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 2,
+      "options": [
+       "informal",
+       "famous",
+       "various",
+       "formal"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 3,
+      "options": [
+       "closing",
+       "greeting",
+       "request",
+       "solution"
+      ],
+      "answer": 1
+     },
+     {
+      "n": 4,
+      "options": [
+       "fact",
+       "partner",
+       "leaflet",
+       "purpose"
+      ],
+      "answer": 3
+     },
+     {
+      "n": 5,
+      "options": [
+       "greetings",
+       "attachments",
+       "solutions",
+       "partners"
+      ],
+      "answer": 1
+     }
+    ]
+   },
+   "mcq": [
+    {
+     "n": 1,
+     "q": "Write a ________ email to your headteacher, not a casual one.",
+     "options": [
+      "informal",
+      "colourful",
+      "formal",
+      "extra"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "q": "'Hi Sara!' is an example of an ________ greeting.",
+     "options": [
+      "informal",
+      "formal",
+      "essential",
+      "unsuitable"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "q": "Our group will give a ________ about wind farms to the class.",
+     "options": [
+      "attachment",
+      "greeting",
+      "presentation",
+      "leaflet"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "q": "Take a ________ from the desk; it explains how to recycle.",
+     "options": [
+      "leaflet",
+      "partner",
+      "residents",
+      "closing"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 5,
+     "q": "The ________ of the village complained about the noise.",
+     "options": [
+      "partners",
+      "leaflets",
+      "residents",
+      "facts"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 6,
+     "q": "Do not forget to ________ your photo to the email.",
+     "options": [
+      "attach",
+      "collect",
+      "push",
+      "burn"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 7,
+     "q": "Wind power is one ________ to the problem of air pollution.",
+     "options": [
+      "greeting",
+      "request",
+      "solution",
+      "attachment"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 8,
+     "q": "It is a ________ that the Earth goes around the sun.",
+     "options": [
+      "fact",
+      "partner",
+      "greeting",
+      "closing"
+     ],
+     "answer": 0
+    }
+   ]
+  }
+ ],
+ "grammar": [
+  {
+   "id": "U3-G1",
+   "title": "Adding Information: also, in addition, moreover",
+   "title_ar": "إضافة المعلومات",
+   "explain": [
+    {
+     "t": "rule",
+     "en": "Use also, in addition and moreover to add one more point to what you have already said.",
+     "ar": "نستخدم also و in addition و moreover لإضافة معلومة أو فكرة جديدة إلى ما ذكرناه سابقًا، وتعني: أيضًا / بالإضافة إلى ذلك / علاوة على ذلك."
+    },
+    {
+     "t": "table",
+     "title": "Linkers that add information",
+     "headers": [
+      "Linker",
+      "Where it goes",
+      "Example"
+     ],
+     "rows": [
+      [
+       "also",
+       "before the main verb, after am / is / are, or at the end",
+       "Solar power is clean. It is also free."
+      ],
+      [
+       "in addition",
+       "at the start of a sentence + comma",
+       "In addition, it makes no noise."
+      ],
+      [
+       "moreover",
+       "at the start of a sentence + comma (more formal)",
+       "Moreover, panels last for many years."
+      ],
+      [
+       "in addition to",
+       "+ noun or verb-ing",
+       "In addition to wind power, Oman can use the sun."
+      ],
+      [
+       "and",
+       "joins two words or two short ideas",
+       "Wind and sun are renewable."
+      ]
+     ]
+    },
+    {
+     "t": "examples",
+     "items": [
+      {
+       "en": "Wind power is clean. It also saves money.",
+       "ar": "طاقة الرياح نظيفة. وهي أيضًا توفّر المال."
+      },
+      {
+       "en": "Hydropower is reliable. In addition, it can store water for dry months.",
+       "ar": "الطاقة الكهرومائية موثوقة. بالإضافة إلى ذلك، يمكنها تخزين الماء لأشهر الجفاف."
+      },
+      {
+       "en": "Geothermal energy is steady. Moreover, it does not need much space.",
+       "ar": "طاقة باطن الأرض ثابتة. علاوة على ذلك، لا تحتاج إلى مساحة كبيرة."
+      },
+      {
+       "en": "In addition to creating jobs, wind farms protect the air.",
+       "ar": "بالإضافة إلى توفير الوظائف، تحمي مزارع الرياح الهواء."
+      }
+     ]
+    },
+    {
+     "t": "tip",
+     "en": "Put a comma after In addition and Moreover. Do not write 'In addition' before a noun: say 'In addition to + noun'.",
+     "ar": "ضع فاصلة بعد In addition و Moreover في بداية الجملة. وقبل الاسم نقول In addition to وليس In addition فقط."
+    }
+   ],
+   "exercises": [
+    {
+     "title": "Exercise 1 — Choose the correct answer",
+     "kind": "choose",
+     "items": [
+      {
+       "n": 1,
+       "q": "Wind power is clean. [[1]], it is renewable.",
+       "options": [
+        "Moreover",
+        "However"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "q": "Solar panels are cheap. They are [[2]] easy to install.",
+       "options": [
+        "however",
+        "also"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 3,
+       "q": "Hydropower is reliable. [[3]] it is clean.",
+       "options": [
+        "Therefore,",
+        "In addition,"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 4,
+       "q": "Oman has strong sunshine. It [[4]] has long coastlines.",
+       "options": [
+        "in addition",
+        "also"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 5,
+       "q": "[[5]] wind farms, many countries build solar farms.",
+       "options": [
+        "In addition to",
+        "Moreover"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 6,
+       "q": "Geothermal energy is steady. [[6]], it needs little space.",
+       "options": [
+        "Moreover",
+        "Because"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 7,
+       "q": "Coal is cheap. It is [[7]] harmful to the air.",
+       "options": [
+        "on the other hand",
+        "also"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 8,
+       "q": "Wind turbines make power. [[8]] creating jobs, they protect the air.",
+       "options": [
+        "In addition to",
+        "In addition"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "title": "Exercise 2 — Complete the sentences",
+     "kind": "fill",
+     "items": [
+      {
+       "n": 1,
+       "q": "Biofuel is made from plants. ________, it can be used in ordinary cars.",
+       "answer": "Moreover / In addition"
+      },
+      {
+       "n": 2,
+       "q": "Wind turbines make electricity. They ________ create jobs.",
+       "answer": "also"
+      },
+      {
+       "n": 3,
+       "q": "________ solar panels, the school installed a small wind turbine.",
+       "answer": "In addition to"
+      },
+      {
+       "n": 4,
+       "q": "Hydropower is clean. ________, it can supply water to farms.",
+       "answer": "In addition / Moreover"
+      },
+      {
+       "n": 5,
+       "q": "The dam is strong. It is ________ very safe.",
+       "answer": "also"
+      },
+      {
+       "n": 6,
+       "q": "________ saving money, renewable energy protects nature.",
+       "answer": "In addition to"
+      },
+      {
+       "n": 7,
+       "q": "Our school recycles paper. ________, we collect plastic bottles.",
+       "answer": "In addition / Moreover"
+      },
+      {
+       "n": 8,
+       "q": "Solar lamps are cheap. They ________ last for a long time.",
+       "answer": "also"
+      }
+     ],
+     "bank": [
+      "also",
+      "in addition",
+      "moreover",
+      "in addition to"
+     ]
+    },
+    {
+     "lines": [
+      {
+       "speaker": "Huda",
+       "text": "Why do you like solar energy, Ali?"
+      },
+      {
+       "speaker": "Ali",
+       "text": "It is clean. It is [[1]] free once the panels are installed."
+      },
+      {
+       "speaker": "Huda",
+       "text": "[[2]], it is quiet, so it does not disturb the neighbours."
+      },
+      {
+       "speaker": "Ali",
+       "text": "Yes. [[3]] saving money, it protects the environment."
+      },
+      {
+       "speaker": "Huda",
+       "text": "I agree. Wind farms [[4]] produce clean power."
+      },
+      {
+       "speaker": "Ali",
+       "text": "True. [[5]], both sources will never run out."
+      }
+     ],
+     "items": [
+      {
+       "n": 1,
+       "options": [
+        "also",
+        "however"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "options": [
+        "But",
+        "Moreover"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 3,
+       "options": [
+        "In addition to",
+        "In addition"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "options": [
+        "also",
+        "in addition"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "options": [
+        "In addition",
+        "In addition to"
+       ],
+       "answer": 0
+      }
+     ],
+     "title": "Exercise 3 — Practice dialogue",
+     "kind": "dialogue"
+    }
+   ]
+  },
+  {
+   "id": "U3-G2",
+   "title": "Contrast: but, however, on the other hand, although",
+   "title_ar": "التعبير عن التضاد",
+   "explain": [
+    {
+     "t": "rule",
+     "en": "Use contrast words to show that two ideas are different or surprising together.",
+     "ar": "نستخدم أدوات التضاد لإظهار الاختلاف بين فكرتين أو لإظهار أن الفكرة الثانية عكس المتوقع من الأولى."
+    },
+    {
+     "t": "table",
+     "title": "Contrast linkers",
+     "headers": [
+      "Linker",
+      "Meaning",
+      "Example"
+     ],
+     "rows": [
+      [
+       "but",
+       "لكن — joins two clauses, comma before it",
+       "Solar panels are expensive, but they save money later."
+      ],
+      [
+       "however",
+       "ومع ذلك — starts a new sentence, comma after it",
+       "Coal is cheap. However, it harms the air."
+      ],
+      [
+       "on the other hand",
+       "من ناحية أخرى — compares two things or sides",
+       "Oil will run out. Wind, on the other hand, will not."
+      ],
+      [
+       "although",
+       "مع أنّ — + a full clause",
+       "Although it was cloudy, the panels still made power."
+      ]
+     ]
+    },
+    {
+     "t": "examples",
+     "items": [
+      {
+       "en": "The dam is very expensive, but it gives cheap power for many years.",
+       "ar": "السد مكلف جدًا، لكنه يعطي طاقة رخيصة لسنوات طويلة."
+      },
+      {
+       "en": "Wind power is clean. However, the wind does not blow all the time.",
+       "ar": "طاقة الرياح نظيفة. ومع ذلك، فالرياح لا تهب طوال الوقت."
+      },
+      {
+       "en": "Coal is non-renewable. Solar energy, on the other hand, is renewable.",
+       "ar": "الفحم غير متجدد. أما الطاقة الشمسية فمتجددة."
+      },
+      {
+       "en": "Although the sun was strong, the workers kept installing the panels.",
+       "ar": "مع أن الشمس كانت قوية، واصل العمال تركيب الألواح."
+      }
+     ]
+    },
+    {
+     "t": "tip",
+     "en": "Never use although and but together in one sentence. Use a full stop (or semicolon) before However, not a comma.",
+     "ar": "لا نستخدم although و but معًا في الجملة نفسها. وقبل However نضع نقطة (أو فاصلة منقوطة) وليس فاصلة عادية، وبعدها فاصلة."
+    }
+   ],
+   "exercises": [
+    {
+     "title": "Exercise 1 — Choose the correct answer",
+     "kind": "choose",
+     "items": [
+      {
+       "n": 1,
+       "q": "Solar panels are expensive, [[1]] they save money later.",
+       "options": [
+        "but",
+        "however"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "q": "[[2]] wind is free, wind farms cost a lot to build.",
+       "options": [
+        "But",
+        "Although"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 3,
+       "q": "Coal is cheap. [[3]], it harms the air.",
+       "options": [
+        "Although",
+        "However"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 4,
+       "q": "Oil is useful. On the [[4]] hand, it will run out one day.",
+       "options": [
+        "other",
+        "another"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "q": "[[5]] it was cloudy, the solar panels still made some power.",
+       "options": [
+        "However",
+        "Although"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 6,
+       "q": "The dam is very expensive, [[6]] it gives cheap power for years.",
+       "options": [
+        "however",
+        "but"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 7,
+       "q": "Wind is renewable. Coal, [[7]], is not.",
+       "options": [
+        "although",
+        "on the other hand"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 8,
+       "q": "Solar energy is clean. [[8]], it only works in the daytime.",
+       "options": [
+        "Although",
+        "However"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "title": "Exercise 2 — Complete the sentences (you can use a word more than once)",
+     "kind": "fill",
+     "items": [
+      {
+       "n": 1,
+       "q": "The sun shines every day in Oman, ________ solar panels need cleaning often.",
+       "answer": "but"
+      },
+      {
+       "n": 2,
+       "q": "________ nuclear power is powerful, it can be dangerous.",
+       "answer": "Although"
+      },
+      {
+       "n": 3,
+       "q": "Geothermal energy is steady. ________, it is only available in some places.",
+       "answer": "However / On the other hand"
+      },
+      {
+       "n": 4,
+       "q": "Petrol cars are cheap to buy. Electric cars, ________, cost less to run.",
+       "answer": "on the other hand"
+      },
+      {
+       "n": 5,
+       "q": "Wind power is clean. ________, the turbines can be noisy.",
+       "answer": "However / On the other hand"
+      },
+      {
+       "n": 6,
+       "q": "I wanted to visit the wind farm, ________ it was closed.",
+       "answer": "but"
+      },
+      {
+       "n": 7,
+       "q": "________ the wind was weak, the turbine kept turning slowly.",
+       "answer": "Although"
+      },
+      {
+       "n": 8,
+       "q": "Biofuel is renewable, ________ it can make food more expensive.",
+       "answer": "but"
+      }
+     ],
+     "bank": [
+      "but",
+      "however",
+      "on the other hand",
+      "although"
+     ]
+    },
+    {
+     "lines": [
+      {
+       "speaker": "Noor",
+       "text": "I think nuclear power is a good idea. [[1]] it is expensive to build, it makes a lot of electricity."
+      },
+      {
+       "speaker": "Salim",
+       "text": "True. [[2]], it can be dangerous if there is an accident."
+      },
+      {
+       "speaker": "Noor",
+       "text": "Wind power is safe. Solar power, [[3]], needs a lot of space."
+      },
+      {
+       "speaker": "Salim",
+       "text": "Yes, panels can go on roofs, [[4]] wind turbines need open land."
+      },
+      {
+       "speaker": "Noor",
+       "text": "Good point. [[5]] each source has problems, we should use several of them."
+      }
+     ],
+     "items": [
+      {
+       "n": 1,
+       "options": [
+        "Although",
+        "However"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "options": [
+        "However",
+        "Although"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "options": [
+        "on the other hand",
+        "but"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "options": [
+        "but",
+        "however"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "options": [
+        "However",
+        "Although"
+       ],
+       "answer": 1
+      }
+     ],
+     "title": "Exercise 3 — Practice dialogue",
+     "kind": "dialogue"
+    }
+   ]
+  },
+  {
+   "id": "U3-G3",
+   "title": "Reason and Result: because, so, therefore",
+   "title_ar": "السبب والنتيجة",
+   "explain": [
+    {
+     "t": "rule",
+     "en": "Because, since and as give the reason. So and therefore give the result.",
+     "ar": "الكلمات because و since و as تعطي السبب (لماذا حدث الشيء؟)، أما so و therefore فتعطي النتيجة (ماذا حدث بعد ذلك؟)."
+    },
+    {
+     "t": "table",
+     "title": "Reason and result",
+     "headers": [
+      "Linker",
+      "Shows",
+      "How to use it"
+     ],
+     "rows": [
+      [
+       "because",
+       "reason (لأن)",
+       "+ clause: We use panels because sunlight is free."
+      ],
+      [
+       "because of",
+       "reason (بسبب)",
+       "+ noun: The match stopped because of the storm."
+      ],
+      [
+       "since / as",
+       "reason (بما أنّ)",
+       "+ clause, often at the start: Since oil is limited, we need new energy."
+      ],
+      [
+       "so",
+       "result (لذلك)",
+       "after a comma: It was windy, so the turbine turned fast."
+      ],
+      [
+       "therefore",
+       "result (وبالتالي)",
+       "new sentence + comma: Oil is limited. Therefore, we must save it."
+      ]
+     ]
+    },
+    {
+     "t": "examples",
+     "items": [
+      {
+       "en": "Solar lamps are popular because they are cheap.",
+       "ar": "المصابيح الشمسية شائعة لأنها رخيصة."
+      },
+      {
+       "en": "There was a power cut because of a fault in the cable.",
+       "ar": "انقطعت الكهرباء بسبب عطل في الكابل."
+      },
+      {
+       "en": "The village is far from the city, so it has solar panels.",
+       "ar": "القرية بعيدة عن المدينة، لذلك فيها ألواح شمسية."
+      },
+      {
+       "en": "Fossil fuels cause pollution. Therefore, many countries use clean energy.",
+       "ar": "الوقود الأحفوري يسبب التلوث. وبالتالي تستخدم دول كثيرة الطاقة النظيفة."
+      }
+     ]
+    },
+    {
+     "t": "tip",
+     "en": "Do not use because and so in the same sentence. Say 'Because it was cloudy, we used the generator' OR 'It was cloudy, so we used the generator'.",
+     "ar": "لا نستخدم because و so في الجملة نفسها. نقول: Because ... , ... أو ... , so ... وليس الاثنين معًا."
+    }
+   ],
+   "exercises": [
+    {
+     "title": "Exercise 1 — Choose the correct answer",
+     "kind": "choose",
+     "items": [
+      {
+       "n": 1,
+       "q": "We use solar panels [[1]] sunlight is free.",
+       "options": [
+        "because",
+        "so"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "q": "The wind was strong, [[2]] the turbine turned fast.",
+       "options": [
+        "because",
+        "so"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 3,
+       "q": "The match was cancelled [[3]] the storm.",
+       "options": [
+        "because",
+        "because of"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 4,
+       "q": "Oil is limited. [[4]], countries are looking for new energy.",
+       "options": [
+        "Therefore",
+        "Because"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "q": "[[5]] the dam is old, engineers check it every month.",
+       "options": [
+        "So",
+        "Since"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 6,
+       "q": "Salma was tired, [[6]] she went to bed early.",
+       "options": [
+        "so",
+        "because"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 7,
+       "q": "There was a power cut [[7]] a fault in the cable.",
+       "options": [
+        "because",
+        "because of"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 8,
+       "q": "[[8]] it was getting dark, we switched on the solar lamp.",
+       "options": [
+        "As",
+        "Therefore"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "title": "Exercise 2 — Complete the sentences",
+     "kind": "fill",
+     "items": [
+      {
+       "n": 1,
+       "q": "The school installed solar panels ________ it wants to save money.",
+       "answer": "because / since / as"
+      },
+      {
+       "n": 2,
+       "q": "The school wants to save money, ________ it installed solar panels.",
+       "answer": "so"
+      },
+      {
+       "n": 3,
+       "q": "The match was stopped ________ the heavy rain.",
+       "answer": "because of"
+      },
+      {
+       "n": 4,
+       "q": "Fossil fuels cause pollution. ________, many people prefer clean energy.",
+       "answer": "Therefore"
+      },
+      {
+       "n": 5,
+       "q": "________ the wind farm is near the sea, the wind is strong all year.",
+       "answer": "Since / As / Because"
+      },
+      {
+       "n": 6,
+       "q": "Coal is dirty, ________ many countries are closing coal plants.",
+       "answer": "so"
+      },
+      {
+       "n": 7,
+       "q": "The village has no electricity ________ it is far from the city.",
+       "answer": "because / since / as"
+      },
+      {
+       "n": 8,
+       "q": "The factory closed for a day ________ a problem with the generator.",
+       "answer": "because of"
+      }
+     ],
+     "bank": [
+      "because",
+      "because of",
+      "so",
+      "therefore",
+      "since",
+      "as"
+     ]
+    },
+    {
+     "lines": [
+      {
+       "speaker": "Maryam",
+       "text": "Why is the school turning off the air conditioners?"
+      },
+      {
+       "speaker": "Hamad",
+       "text": "The electricity bill was too high, [[1]] the headteacher asked us to save energy."
+      },
+      {
+       "speaker": "Maryam",
+       "text": "I see. [[2]] we turn off the lights, we save money."
+      },
+      {
+       "speaker": "Hamad",
+       "text": "Yes. We came on foot [[3]] the road works near the school."
+      },
+      {
+       "speaker": "Maryam",
+       "text": "Solar panels are expensive. [[4]], some schools cannot buy them."
+      },
+      {
+       "speaker": "Hamad",
+       "text": "That is true, [[5]] we should ask the ministry for help."
+      }
+     ],
+     "items": [
+      {
+       "n": 1,
+       "options": [
+        "because",
+        "so"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 2,
+       "options": [
+        "Because",
+        "So"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 3,
+       "options": [
+        "because",
+        "because of"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 4,
+       "options": [
+        "Therefore",
+        "Because"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "options": [
+        "because",
+        "so"
+       ],
+       "answer": 1
+      }
+     ],
+     "title": "Exercise 3 — Practice dialogue",
+     "kind": "dialogue"
+    }
+   ]
+  },
+  {
+   "id": "U3-G4",
+   "title": "More Linking Words in Exam Questions: when, before, after, that, to, too … to, so … that",
+   "title_ar": "أدوات ربط أخرى في أسئلة الامتحان",
+   "explain": [
+    {
+     "t": "rule",
+     "en": "These linking words join ideas about time, purpose, degree and reported information.",
+     "ar": "هذه الأدوات تربط الأفكار من حيث الزمن (when / before / after) والغرض (to) والدرجة (too ... to / so ... that) والمعلومة المنقولة (that)."
+    },
+    {
+     "t": "table",
+     "title": "Linking words in exam dialogues",
+     "headers": [
+      "Word",
+      "Use",
+      "Example"
+     ],
+     "rows": [
+      [
+       "when",
+       "at the same time (عندما)",
+       "The turbine starts when the wind blows."
+      ],
+      [
+       "before",
+       "earlier than another action (قبل أن)",
+       "Check the panels before you switch on the system."
+      ],
+      [
+       "after",
+       "later than another action (بعد أن)",
+       "After the sun sets, the panels stop working."
+      ],
+      [
+       "that",
+       "after think, say, know, believe",
+       "I think that solar energy is the best choice."
+      ],
+      [
+       "to + verb",
+       "purpose (للـ / من أجل أن)",
+       "We use panels to make electricity."
+      ],
+      [
+       "too + adjective + to",
+       "more than needed, so it is not possible",
+       "It is too hot to work outside."
+      ],
+      [
+       "so + adjective + that",
+       "a result of a very strong quality",
+       "The wind was so strong that the school closed."
+      ]
+     ]
+    },
+    {
+     "t": "examples",
+     "items": [
+      {
+       "en": "Turn off the lights when you leave the room.",
+       "ar": "أطفئ الأنوار عندما تغادر الغرفة."
+      },
+      {
+       "en": "We wrote a report after we visited the wind farm.",
+       "ar": "كتبنا تقريرًا بعد أن زرنا مزرعة الرياح."
+      },
+      {
+       "en": "The box was too heavy for one person to carry.",
+       "ar": "كان الصندوق أثقل من أن يحمله شخص واحد."
+      },
+      {
+       "en": "The panel was so hot that nobody could touch it.",
+       "ar": "كان اللوح ساخنًا جدًا لدرجة أن أحدًا لم يستطع لمسه."
+      }
+     ]
+    },
+    {
+     "t": "tip",
+     "en": "Too means 'more than we need' and gives a negative idea. Compare: 'The tea is too hot to drink' and 'The tea is so hot that I cannot drink it'.",
+     "ar": "كلمة too تعني \"أكثر من اللازم\" وتعطي معنى سلبيًا (too hot to drink). أما so ... that فتعطي النتيجة بجملة كاملة بعد that."
+    }
+   ],
+   "exercises": [
+    {
+     "title": "Exercise 1 — Choose the correct answer",
+     "kind": "choose",
+     "items": [
+      {
+       "n": 1,
+       "q": "Turn off the lights [[1]] you leave the room.",
+       "options": [
+        "when",
+        "that",
+        "to"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "q": "[[2]] we finished the project, we presented it to the class.",
+       "options": [
+        "To",
+        "After",
+        "Too"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 3,
+       "q": "The sun is [[3]] hot to stay outside at noon.",
+       "options": [
+        "too",
+        "so"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "q": "It was [[4]] windy that the school closed.",
+       "options": [
+        "too",
+        "so"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 5,
+       "q": "We use solar panels [[5]] make electricity.",
+       "options": [
+        "to",
+        "for",
+        "that"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 6,
+       "q": "Put on your safety glasses [[6]] you start the experiment.",
+       "options": [
+        "after",
+        "before"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 7,
+       "q": "I think [[7]] solar energy is the best choice.",
+       "options": [
+        "that",
+        "to"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 8,
+       "q": "The panel is too heavy [[8]] one person to carry.",
+       "options": [
+        "for",
+        "that",
+        "so"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "title": "Exercise 2 — Complete the sentences",
+     "kind": "fill",
+     "items": [
+      {
+       "n": 1,
+       "q": "The turbine starts ________ the wind blows.",
+       "answer": "when"
+      },
+      {
+       "n": 2,
+       "q": "The water is ________ cold to swim in.",
+       "answer": "too"
+      },
+      {
+       "n": 3,
+       "q": "The sun was ________ strong that the panels got very hot.",
+       "answer": "so"
+      },
+      {
+       "n": 4,
+       "q": "He said ________ wind farms are sometimes noisy.",
+       "answer": "that"
+      },
+      {
+       "n": 5,
+       "q": "We went to the science centre ________ learn about wave power.",
+       "answer": "to"
+      },
+      {
+       "n": 6,
+       "q": "We cleaned the room ________ the visitors arrived, so it looked tidy.",
+       "answer": "before"
+      },
+      {
+       "n": 7,
+       "q": "________ the experiment finished, we wrote the results.",
+       "answer": "After / When"
+      },
+      {
+       "n": 8,
+       "q": "The battery was ________ weak to start the car.",
+       "answer": "too"
+      }
+     ],
+     "bank": [
+      "when",
+      "before",
+      "after",
+      "that",
+      "to",
+      "too",
+      "so"
+     ]
+    },
+    {
+     "lines": [
+      {
+       "speaker": "Aisha",
+       "text": "Did you finish the energy project, Yousef?"
+      },
+      {
+       "speaker": "Yousef",
+       "text": "Almost. I was [[1]] tired that I went to bed early last night."
+      },
+      {
+       "speaker": "Aisha",
+       "text": "I think [[2]] your model is excellent."
+      },
+      {
+       "speaker": "Yousef",
+       "text": "Thanks. I used a small motor [[3]] turn the blades."
+      },
+      {
+       "speaker": "Aisha",
+       "text": "Nice! The sun is [[4]] strong to work outside now."
+      },
+      {
+       "speaker": "Yousef",
+       "text": "Then let us go inside [[5]] we start the presentation."
+      }
+     ],
+     "items": [
+      {
+       "n": 1,
+       "options": [
+        "so",
+        "too"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "options": [
+        "to",
+        "that"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 3,
+       "options": [
+        "that",
+        "to"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 4,
+       "options": [
+        "so",
+        "too"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 5,
+       "options": [
+        "after",
+        "before"
+       ],
+       "answer": 1
+      }
+     ],
+     "title": "Exercise 3 — Practice dialogue",
+     "kind": "dialogue"
+    }
+   ]
+  },
+  {
+   "id": "U3-G5",
+   "title": "Adjective Endings: -able / -ible, -ent, -ive, -ing vs -ed",
+   "title_ar": "نهايات الصفات",
+   "explain": [
+    {
+     "t": "rule",
+     "en": "Many adjectives are made with endings. The ending helps you guess the meaning and spell the word.",
+     "ar": "تتكوّن كثير من الصفات بإضافة نهايات معيّنة، وتساعدنا النهاية على تخمين المعنى وعلى التهجئة الصحيحة."
+    },
+    {
+     "t": "table",
+     "title": "Common adjective endings",
+     "headers": [
+      "Ending",
+      "Meaning",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "-able / -ible",
+       "can be done (يمكن أن)",
+       "acceptable, comfortable, possible, edible"
+      ],
+      [
+       "-ent",
+       "describes a quality",
+       "excellent, different, confident, silent"
+      ],
+      [
+       "-ive",
+       "describes what a person or thing does",
+       "attractive, creative, effective, active"
+      ],
+      [
+       "-ing",
+       "causes the feeling (يسبّب الشعور)",
+       "boring, relaxing, amusing, exciting"
+      ],
+      [
+       "-ed",
+       "has the feeling (يشعر بـ)",
+       "bored, relaxed, amused, excited, frightened"
+      ]
+     ]
+    },
+    {
+     "t": "examples",
+     "items": [
+      {
+       "en": "Solar panels are an effective way to save money.",
+       "ar": "الألواح الشمسية طريقة فعّالة لتوفير المال."
+      },
+      {
+       "en": "The inventor has a creative mind.",
+       "ar": "المخترع لديه عقل مبدع."
+      },
+      {
+       "en": "The talk about biofuel was boring.",
+       "ar": "كانت المحاضرة عن الوقود الحيوي مملّة."
+      },
+      {
+       "en": "I was bored, so I left the talk early.",
+       "ar": "شعرت بالملل، فغادرت المحاضرة مبكرًا."
+      },
+      {
+       "en": "It is possible to cook with the sun.",
+       "ar": "من الممكن الطبخ بالشمس."
+      }
+     ]
+    },
+    {
+     "t": "tip",
+     "en": "-ing adjectives describe the thing that causes the feeling (a boring film). -ed adjectives describe the person who has the feeling (a bored student). Spelling: -able/-ible and -ent are easy to confuse, so learn each word.",
+     "ar": "الصفة المنتهية بـ -ing تصف الشيء المسبّب للشعور (فيلم مملّ)، والمنتهية بـ -ed تصف الشخص الذي يشعر (طالب يشعر بالملل). وانتبه إلى تهجئة -able/-ible و -ent فهي تُحفظ مع كل كلمة."
+    }
+   ],
+   "exercises": [
+    {
+     "title": "Exercise 1 — Choose the correct answer",
+     "kind": "choose",
+     "items": [
+      {
+       "n": 1,
+       "q": "The film about solar cars was [[1]].",
+       "options": [
+        "amazing",
+        "amazed"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "q": "I was very [[2]] when the power went off.",
+       "options": [
+        "frightening",
+        "frightened"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 3,
+       "q": "Wind power is an [[3]] source of energy.",
+       "options": [
+        "effective",
+        "effect"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "q": "This solar chair is very [[4]]; I could sit on it all day.",
+       "options": [
+        "comfortible",
+        "comfortable"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 5,
+       "q": "Our teacher was [[5]] with our project.",
+       "options": [
+        "pleasing",
+        "pleased"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 6,
+       "q": "It is [[6]] to run a factory without any power.",
+       "options": [
+        "impossable",
+        "impossible"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 7,
+       "q": "The talk about biofuel was [[7]], so many students fell asleep.",
+       "options": [
+        "boring",
+        "bored"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 8,
+       "q": "He is a very [[8]] inventor who has many new ideas.",
+       "options": [
+        "creative",
+        "creatent"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "title": "Exercise 2 — Complete the sentences with the correct form of the word in brackets",
+     "kind": "fill",
+     "items": [
+      {
+       "n": 1,
+       "q": "This design is very ________ (attract).",
+       "answer": "attractive"
+      },
+      {
+       "n": 2,
+       "q": "The race was ________ (excite). We all shouted.",
+       "answer": "exciting"
+      },
+      {
+       "n": 3,
+       "q": "I felt ________ (bore) during the long lecture.",
+       "answer": "bored"
+      },
+      {
+       "n": 4,
+       "q": "This chair is not ________ (comfort).",
+       "answer": "comfortable"
+      },
+      {
+       "n": 5,
+       "q": "Their ideas are ________ (differ) from ours.",
+       "answer": "different"
+      },
+      {
+       "n": 6,
+       "q": "The engineers gave an ________ (excel) talk.",
+       "answer": "excellent"
+      },
+      {
+       "n": 7,
+       "q": "We were ________ (surprise) to see a whole city powered by the sun.",
+       "answer": "surprised"
+      },
+      {
+       "n": 8,
+       "q": "Is it ________ (accept) to use a phone in the exam?",
+       "answer": "acceptable"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "speaker": "Salma",
+       "text": "How was the trip to the wind farm?"
+      },
+      {
+       "speaker": "Sultan",
+       "text": "It was [[1]]! The turbines were enormous."
+      },
+      {
+       "speaker": "Salma",
+       "text": "I am [[2]] that I missed it."
+      },
+      {
+       "speaker": "Sultan",
+       "text": "Do not worry. The guide was very [[3]]; he answered every question."
+      },
+      {
+       "speaker": "Salma",
+       "text": "Was it [[4]] to climb the tower?"
+      },
+      {
+       "speaker": "Sultan",
+       "text": "No, but I felt [[5]] when I saw the blades from below."
+      }
+     ],
+     "items": [
+      {
+       "n": 1,
+       "options": [
+        "amazing",
+        "amazed"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 2,
+       "options": [
+        "disappointing",
+        "disappointed"
+       ],
+       "answer": 1
+      },
+      {
+       "n": 3,
+       "options": [
+        "excellent",
+        "excellence"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 4,
+       "options": [
+        "possible",
+        "possable"
+       ],
+       "answer": 0
+      },
+      {
+       "n": 5,
+       "options": [
+        "excited",
+        "exciting"
+       ],
+       "answer": 0
+      }
+     ],
+     "title": "Exercise 3 — Practice dialogue",
+     "kind": "dialogue"
+    }
+   ]
+  }
+ ]
+}

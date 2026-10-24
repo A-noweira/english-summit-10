@@ -1,0 +1,479 @@
+[
+ {
+  "id": "L2-01",
+  "session": "Sem I 1st Session 2025-2026",
+  "context": "You are going to hear a talk about the history of solar energy.",
+  "short": [
+   {
+    "n": 1,
+    "q": "Where did people build houses that faced the sun?",
+    "hint": "(country)",
+    "answer": "(Ancient) China"
+   },
+   {
+    "n": 2,
+    "q": "What did people in hot countries make using sunlight?",
+    "hint": "",
+    "answer": "Oven(s)"
+   },
+   {
+    "n": 3,
+    "q": "How old was Alexandre Edmond when he discovered electricity?",
+    "hint": "",
+    "answer": "19 (years old)"
+   },
+   {
+    "n": 4,
+    "q": "When was the first solar panel made?",
+    "hint": "(year)",
+    "answer": "1883"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "Solar energy became less popular in the United States in the 1970s.",
+    "answer": false
+   },
+   {
+    "n": 6,
+    "statement": "The cost of solar energy has decreased over years.",
+    "answer": true
+   },
+   {
+    "n": 7,
+    "statement": "About 79% of new global electricity was from the sun in 2023.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "India is one of the countries that uses a lot of solar power today.",
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "L2-02",
+  "session": "Sem I 2nd Session 2025-2026",
+  "context": "You are going to hear a talk about The Business of Fake Followers.",
+  "short": [
+   {
+    "n": 1,
+    "q": "What is the name of the companies that create fake followers?",
+    "hint": "",
+    "answer": "follower farm companies"
+   },
+   {
+    "n": 2,
+    "q": "When did fake followers first appear?",
+    "hint": "(year)",
+    "answer": "2008"
+   },
+   {
+    "n": 3,
+    "q": "Which social media platform has the largest number of fake followers?",
+    "hint": "",
+    "answer": "Instagram"
+   },
+   {
+    "n": 4,
+    "q": "Where do people ask for fake followers the most?",
+    "hint": "(country)",
+    "answer": "the United States / USA"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "Buying 1,000 followers can cost more than 15 dollars.",
+    "answer": false
+   },
+   {
+    "n": 6,
+    "statement": "Online sellers use fake followers to look more popular.",
+    "answer": true
+   },
+   {
+    "n": 7,
+    "statement": "Facebook succeeded to remove over 1.7 billion fake accounts.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "People aged 30 - 40 use fake followers the most.",
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "L2-03",
+  "session": "Sem I 1st Session 2024-2025",
+  "context": "You are going to hear a talk about the Sumerian Civilisation.",
+  "short": [
+   {
+    "n": 1,
+    "q": "Where was the Sumerian civilisation located?",
+    "hint": "(country)",
+    "answer": "In Iraq"
+   },
+   {
+    "n": 2,
+    "q": "Who ruled the Sumerian cities?",
+    "hint": "",
+    "answer": "kings"
+   },
+   {
+    "n": 3,
+    "q": "What material did the Sumerians use for their tablets?",
+    "hint": "",
+    "answer": "clay"
+   },
+   {
+    "n": 4,
+    "q": "Which number was the Sumerians' number system based on?",
+    "hint": "",
+    "answer": "60 / sixty"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "The Sumerians based their calendars on the Sun and the Moon.",
+    "answer": true
+   },
+   {
+    "n": 6,
+    "statement": "The Sumerians built canals to water their farms.",
+    "answer": true
+   },
+   {
+    "n": 7,
+    "statement": "The main crop of the Sumerians was dates.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "The Sumerian civilisation ended around 2000 BCE.",
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "L2-04",
+  "session": "Sem I 2nd Session 2024-2025",
+  "context": "You are going to hear a talk about Global Citizenship.",
+  "short": [
+   {
+    "n": 1,
+    "q": "When did global citizenship start?",
+    "hint": "",
+    "answer": "1949 / nineteen forty-nine"
+   },
+   {
+    "n": 2,
+    "q": "What is an example of a global issue?",
+    "hint": "",
+    "answer": "Climate change"
+   },
+   {
+    "n": 3,
+    "q": "How many elements does global citizenship include?",
+    "hint": "",
+    "answer": "3 / three"
+   },
+   {
+    "n": 4,
+    "q": "Which organisations support children's education?",
+    "hint": "(list one)",
+    "answer": "UNICEF / Save the Children"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "Save the Children Organisation is based in the USA.",
+    "answer": false
+   },
+   {
+    "n": 6,
+    "statement": "Around 105 children were helped by The Child Care Organisation.",
+    "answer": false
+   },
+   {
+    "n": 7,
+    "statement": "Dr Wangari received the Nobel Peace Prize in 2004.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "The Green Belt is an environmental organisation in Kenya.",
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "L2-05",
+  "session": "Sem I 1st Session 2023-2024",
+  "context": "You are going to hear a talk about a famous energy project.",
+  "short": [
+   {
+    "n": 1,
+    "q": "Where is the Gansu Wind Project located?",
+    "hint": "(country)",
+    "answer": "China"
+   },
+   {
+    "n": 2,
+    "q": "When did the work in the project begin?",
+    "hint": "",
+    "answer": "2009"
+   },
+   {
+    "n": 3,
+    "q": "How many square kilometres does the wind farm cover?",
+    "hint": "",
+    "answer": "20,000 (square kilometres)"
+   },
+   {
+    "n": 4,
+    "q": "Why was Gansu province chosen for the project? Because ________",
+    "hint": "",
+    "answer": "very strong wind / wind is very strong (there)"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "The Gansu Wind Farm is now the world's largest wind power plant.",
+    "answer": true
+   },
+   {
+    "n": 6,
+    "statement": "The wind farm consists of 5000 wind turbines.",
+    "answer": false
+   },
+   {
+    "n": 7,
+    "statement": "The Gansu Wind Farm helps in reducing greenhouse gas emissions.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "Building and maintaining the wind farms is very cheap.",
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "L2-06",
+  "session": "Sem I 2nd Session 2023-2024",
+  "context": "You are going to hear a talk about the United Nations (UN).",
+  "short": [
+   {
+    "n": 1,
+    "q": "How many countries is the UN made up of?",
+    "hint": "",
+    "answer": "193"
+   },
+   {
+    "n": 2,
+    "q": "When was the UN founded?",
+    "hint": "(year)",
+    "answer": "(in) 1945"
+   },
+   {
+    "n": 3,
+    "q": "Give two examples of the issues that the UN aim to solve.",
+    "hint": "",
+    "answer": "peace / climate change / development / human rights / health / food production (any 2 of them)"
+   },
+   {
+    "n": 4,
+    "q": "What is the main body of the UN?",
+    "hint": "",
+    "answer": "The General Assembly"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "The Security Council consists of 15 members.",
+    "answer": true
+   },
+   {
+    "n": 6,
+    "statement": "The International Court of Justice is located at the Peace Palace in New York.",
+    "answer": false
+   },
+   {
+    "n": 7,
+    "statement": "The Secretary-General is appointed by the General Assembly every six years.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "The UN has been awarded the Nobel Peace Prize eleven times.",
+    "answer": true
+   }
+  ]
+ },
+ {
+  "id": "L2-07",
+  "session": "Sem I 1st Session 2022-2023",
+  "context": "You are going to hear a talk about a famous kid-youtuber called Rayan Kaji.",
+  "short": [
+   {
+    "n": 1,
+    "q": "Where is Rayan from?",
+    "hint": "",
+    "answer": "The USA / Texas / America"
+   },
+   {
+    "n": 2,
+    "q": "Who has helped Rayan in running his channel?",
+    "hint": "",
+    "answer": "His mum / his mother"
+   },
+   {
+    "n": 3,
+    "q": "What is the name of Rayan's channel?",
+    "hint": "",
+    "answer": "Rayan's World"
+   },
+   {
+    "n": 4,
+    "q": "How many subscribers does the channel have?",
+    "hint": "",
+    "answer": "33 million / 33,000,000"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "He has worked with Marks & Spencer in releasing sleepwear.",
+    "answer": true
+   },
+   {
+    "n": 6,
+    "statement": "Rayan has made a wealth of 12 billion dollars.",
+    "answer": true
+   },
+   {
+    "n": 7,
+    "statement": "Rayan and his family have one channel currently.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "'Huge Egg Surprise Toys Challenge' is the least popular video.",
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "L2-08",
+  "session": "Sem I 2nd Session 2022-2023",
+  "context": "You are going to hear an expert talking about energy.",
+  "short": [
+   {
+    "n": 1,
+    "q": "How much fossil fuels does the world use to get energy?",
+    "hint": "(%)",
+    "answer": "82"
+   },
+   {
+    "n": 2,
+    "q": "When will oil run out according to the expert expectation?",
+    "hint": "(year)",
+    "answer": "2052"
+   },
+   {
+    "n": 3,
+    "q": "What is the main source of biomass energy?",
+    "hint": "",
+    "answer": "Plants / corn / (soya) beans"
+   },
+   {
+    "n": 4,
+    "q": "What is biomass energy used for in African countries?",
+    "hint": "",
+    "answer": "Cooking / heating (one is accepted)"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "China is the first world country that uses wind energy.",
+    "answer": true
+   },
+   {
+    "n": 6,
+    "statement": "Germany will stop using non-renewable sources by 2035.",
+    "answer": true
+   },
+   {
+    "n": 7,
+    "statement": "Brazil and Argentina generate electricity from hydroelectric power.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Morocco will use wind energy to power two big cities with electricity.",
+    "answer": false
+   }
+  ]
+ },
+ {
+  "id": "L2-09",
+  "session": "Sem I 1st Session 2019-2020",
+  "context": "You are going to hear a biography about a famous poet called Robert Frost.",
+  "short": [
+   {
+    "n": 1,
+    "q": "Where was Robert Frost born?",
+    "hint": "",
+    "answer": "San Francisco / the USA / America"
+   },
+   {
+    "n": 2,
+    "q": "How old was Robert Frost when his father died?",
+    "hint": "",
+    "answer": "Eleven (years old) / 11 (years of age)"
+   },
+   {
+    "n": 3,
+    "q": "What was the title of Robert Frost's first poem?",
+    "hint": "",
+    "answer": "My Butterfly"
+   },
+   {
+    "n": 4,
+    "q": "Who inspired Robert Frost's poetry?",
+    "hint": "",
+    "answer": "His wife / Elinor Miriam White"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "The poet, Ezra Pound helped Robert Frost while he was in the UK.",
+    "answer": true
+   },
+   {
+    "n": 6,
+    "statement": "Robert Frost's poetry book 'North of Boston' was published in 1913.",
+    "answer": false
+   },
+   {
+    "n": 7,
+    "statement": "Robert Frost won five Pulitzer Prizes.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Robert Frost was awarded the Congressional Gold Medal in 1962.",
+    "answer": true
+   }
+  ]
+ }
+]

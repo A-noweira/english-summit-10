@@ -3,7 +3,7 @@ Grammar Booster (GB-1..10), irregular verbs (F-03) and phrasal verbs (F-04).  bu
 Source: /home/claude/es10/data (units/unitN.json + unitN_extra.json, booster.json)."""
 import json, os, re, random, html
 
-SRC = '/home/claude/es10/data'
+SRC = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'g10')
 e = lambda s: html.escape(str(s), quote=False)
 TNAMES = {1: 'New Media', 2: 'Climate Change', 3: 'Renewable Energy', 4: 'Civilisation'}
 POS = {'n': 'noun', 'v': 'verb', 'adj': 'adjective', 'adv': 'adverb', 'prep': 'preposition', 'conj': 'conjunction', 'phr': 'phrase',

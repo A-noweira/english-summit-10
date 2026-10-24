@@ -1,0 +1,2537 @@
+{
+ "U1-L1": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "A ________ is a small, flat computer that you control by touching the screen.",
+    "options": [
+     "tablet",
+     "stereo",
+     "camera",
+     "menu"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "Mum chose a dish from the ________ at the restaurant.",
+    "options": [
+     "button",
+     "screen",
+     "device",
+     "menu"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 3,
+    "q": "My brother plays ________ on his console after school.",
+    "options": [
+     "stereos",
+     "buttons",
+     "video games",
+     "menus"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "A ________ takes photos and records videos.",
+    "options": [
+     "stereo",
+     "camera",
+     "menu",
+     "button"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "The ________ plays music loudly through two big speakers.",
+    "options": [
+     "stereo",
+     "menu",
+     "button",
+     "application"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "She is studying graphic ________ at university.",
+    "options": [
+     "designer",
+     "designed",
+     "designing",
+     "design"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 7,
+    "q": "I downloaded a free ________ that helps me learn English words.",
+    "options": [
+     "screen",
+     "stereo",
+     "application",
+     "button"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 8,
+    "q": "You need the ________ to search for information from all over the world.",
+    "options": [
+     "stereo",
+     "Internet",
+     "menu",
+     "button"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 9,
+    "q": "He bought a ________ to write his reports and do his homework.",
+    "options": [
+     "computer",
+     "stereo",
+     "smart watch",
+     "camera"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 10,
+    "q": "The word 'device' means ________.",
+    "options": [
+     "a type of food",
+     "a place to study",
+     "a kind of story",
+     "a machine made for a particular job"
+    ],
+    "answer": 3
+   }
+  ],
+  "exam": {
+   "passage": "Our school held a technology day last week. Students brought different (1)_____, such as cameras and smart watches, to show the class. Mr Said asked us to (2)_____ a simple game on paper first. I used my (3)_____ to look for ideas online. When I touched the (4)_____, a colourful menu appeared in front of me. I was surprised that such a small (5)_____ could do so many useful things. Everyone enjoyed the day and learned a lot about modern technology.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "stories",
+      "devices",
+      "lessons",
+      "meals"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 2,
+     "options": [
+      "borrow",
+      "forget",
+      "wash",
+      "design"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "options": [
+      "notebook",
+      "tablet",
+      "pencil",
+      "ruler"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 4,
+     "options": [
+      "wall",
+      "floor",
+      "bottle",
+      "screen"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 5,
+     "options": [
+      "planet",
+      "device",
+      "fruit",
+      "island"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ },
+ "U1-L2": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "We listen to the ________ in the car to hear the weather and music.",
+    "options": [
+     "magazine",
+     "radio",
+     "website",
+     "newspaper"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "I read a ________ every month; it has colourful pictures about sport.",
+    "options": [
+     "magazine",
+     "radio",
+     "podcast",
+     "video"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "Facebook and Instagram are examples of ________.",
+    "options": [
+     "printed newspapers",
+     "radio",
+     "magazines",
+     "social media"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 4,
+    "q": "Grandpa prefers ________ because he likes the feel of paper.",
+    "options": [
+     "video streaming",
+     "social media",
+     "printed newspapers",
+     "podcasts"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "The ________ of our school shows photos and news about our activities.",
+    "options": [
+     "radio",
+     "website",
+     "magazine",
+     "stereo"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "Our teacher uses ________ whiteboards to make lessons exciting.",
+    "options": [
+     "interactive",
+     "interact",
+     "interaction",
+     "interactively"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 7,
+    "q": "You can read the latest headlines on an ________ at any time of day.",
+    "options": [
+     "stereo",
+     "button",
+     "tablet",
+     "online news site"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 8,
+    "q": "The expression 'all over the world' means ________.",
+    "options": [
+     "in one city",
+     "at night only",
+     "in every country",
+     "on the Internet only"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 9,
+    "q": "He watched a short ________ about how volcanoes form.",
+    "options": [
+     "podcast",
+     "video",
+     "magazine",
+     "radio"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 10,
+    "q": "The ________ of the book is cheaper and can be read on a tablet.",
+    "options": [
+     "electronic version",
+     "heavy cover",
+     "paper copy",
+     "library shelf"
+    ],
+    "answer": 0
+   }
+  ],
+  "exam": {
+   "passage": "Salma likes to stay informed. Every morning she listens to the (1)_____ while she eats breakfast. At school she reads a (2)_____ in the library because it has interesting articles about animals. In the evening she uses (3)_____ to chat with her cousins, who live (4)_____ the world. Her brother prefers to watch (5)_____ on his phone, so he never waits for a TV programme. Both agree that today there are many ways to get news and information, and that every family should use them wisely.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "button",
+      "tablet",
+      "radio",
+      "camera"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "options": [
+      "magazine",
+      "platform",
+      "button",
+      "device"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "options": [
+      "printed newspapers",
+      "a stereo",
+      "social media",
+      "a menu"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "options": [
+      "all over",
+      "under",
+      "between",
+      "inside"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 5,
+     "options": [
+      "magazines",
+      "radio",
+      "video streaming",
+      "newspapers"
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ },
+ "U1-L3": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "She wrote a new ________ about her holiday in Salalah.",
+    "options": [
+     "platform",
+     "follower",
+     "blog post",
+     "layout"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "q": "Instagram is a popular ________ for sharing photos.",
+    "options": [
+     "homepage",
+     "platform",
+     "comment",
+     "brand"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "He has ten thousand ________ who read everything he posts.",
+    "options": [
+     "followers",
+     "bloggers",
+     "layouts",
+     "brands"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "Someone left a kind ________ under my photo.",
+    "options": [
+     "layout",
+     "homepage",
+     "brand",
+     "comment"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 5,
+    "q": "The ________ of the page is simple: a picture at the top and text below.",
+    "options": [
+     "follower",
+     "brand",
+     "layout",
+     "blogging"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "Good ________, such as clear photos and useful stories, keeps readers coming back.",
+    "options": [
+     "homepage",
+     "content",
+     "platform",
+     "follower"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "________ has become a hobby for many teenagers.",
+    "options": [
+     "Blogging",
+     "Blogger",
+     "Blog",
+     "Blogged"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 8,
+    "q": "Please ________ the link with your classmates so they can read it too.",
+    "options": [
+     "panic",
+     "harm",
+     "look",
+     "share"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 9,
+    "q": "A 'brand' is ________.",
+    "options": [
+     "a person who writes online",
+     "a page that opens a website",
+     "a name or sign that makes a product known",
+     "a message under a photo"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 10,
+    "q": "I am not ________ the new app, so can you show me how it works?",
+    "options": [
+     "afraid for",
+     "familiar with",
+     "sorry about",
+     "busy of"
+    ],
+    "answer": 1
+   }
+  ],
+  "exam": {
+   "passage": "Noor enjoys writing and decided to become a (1)_____. She chose a free (2)_____ and designed the (3)_____ so that her homepage looks neat and simple. Every week she writes about books and posts photos of her favourite stories. Soon she had many (4)_____ who enjoyed reading her work and waited for the next post. One reader left a kind (5)_____ saying that it was the best book review she had ever read. Noor was delighted and felt proud of her new hobby.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "journalist",
+      "reporter",
+      "interviewer",
+      "blogger"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 2,
+     "options": [
+      "comment",
+      "platform",
+      "brand",
+      "journal"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 3,
+     "options": [
+      "summary",
+      "statement",
+      "suggestion",
+      "layout"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 4,
+     "options": [
+      "reporters",
+      "followers",
+      "designers",
+      "strangers"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "options": [
+      "layout",
+      "brand",
+      "article",
+      "comment"
+     ],
+     "answer": 3
+    }
+   ]
+  }
+ },
+ "U1-L4": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "To enter your account, you must ________ with your password.",
+    "options": [
+     "log out",
+     "go offline",
+     "sign up",
+     "log in"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 2,
+    "q": "I will ________ a video from the Internet so I can watch it on the plane.",
+    "options": [
+     "upload",
+     "text",
+     "download",
+     "participate"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "I have no data on my phone, so I will ________ and read a book.",
+    "options": [
+     "log in",
+     "go offline",
+     "sign up",
+     "click on"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "q": "Do not forget to ________ your project to the class website before Friday.",
+    "options": [
+     "upload",
+     "access",
+     "connect",
+     "text"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "We use video calls to ________ with our friends abroad.",
+    "options": [
+     "participate",
+     "access",
+     "download",
+     "communicate"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 6,
+    "q": "Select the file and ________ the icon twice to open it.",
+    "options": [
+     "hang up",
+     "turn off",
+     "click on",
+     "look in"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "Students need ________ to a computer to do this task.",
+    "options": [
+     "accessed",
+     "access",
+     "accessing",
+     "accessible"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 8,
+    "q": "The app will ________ your phone to the school Wi-Fi automatically.",
+    "options": [
+     "connect",
+     "communicate",
+     "participate",
+     "upload"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 9,
+    "q": "The Wi-Fi is working again, so we can ________ and check our email.",
+    "options": [
+     "go offline",
+     "log out",
+     "hang up",
+     "go online"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 10,
+    "q": "To 'sign in' means to ________.",
+    "options": [
+     "leave a website",
+     "send a message",
+     "enter your name and password to use a website",
+     "take a photo"
+    ],
+    "answer": 2
+   }
+  ],
+  "exam": {
+   "passage": "Ali wanted to join an English club online. First he went (1)_____ using his laptop. Then he had to (2)_____ with his name and email address. After he created an account, he could (3)_____ every time he wanted to visit the club. He decided to (4)_____ a short video about himself and his hobbies. Soon the members (5)_____ in the discussions and sent friendly messages to each other. Ali was happy because he made new friends and practised his English every day.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "online",
+      "offline",
+      "outside",
+      "upstairs"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "options": [
+      "hang up",
+      "turn off",
+      "sign up",
+      "look after"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 3,
+     "options": [
+      "log in",
+      "log out",
+      "plug out",
+      "go offline"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "options": [
+      "look",
+      "hurry",
+      "upload",
+      "download"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "options": [
+      "participated",
+      "panicked",
+      "struggled",
+      "appeared"
+     ],
+     "answer": 0
+    }
+   ]
+  }
+ },
+ "U1-L5": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "The old man ________ his grandchildren while their parents are at work.",
+    "options": [
+     "looks after",
+     "looks for",
+     "looks like",
+     "looks up"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "I am ________ meeting my cousins in the holidays.",
+    "options": [
+     "looking down on",
+     "looking through",
+     "looking in",
+     "looking forward to"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 3,
+    "q": "That building ________ a huge spaceship!",
+    "options": [
+     "looks after",
+     "looks ahead",
+     "looks like",
+     "looks in"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "We must ________ and plan for our future careers.",
+    "options": [
+     "look after",
+     "look ahead",
+     "look like",
+     "look down on"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "She likes to ________ social media for ten minutes before bed.",
+    "options": [
+     "scroll through",
+     "keep up with",
+     "come across",
+     "look after"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "I ________ an interesting old photo in the drawer.",
+    "options": [
+     "looked after",
+     "looked down on",
+     "hung up",
+     "came across"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 7,
+    "q": "Why don't you ________ at the library on your way home and say hello?",
+    "options": [
+     "look up",
+     "look like",
+     "look in",
+     "look through"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 8,
+    "q": "To 'look for' something means to ________.",
+    "options": [
+     "take care of it",
+     "try to find it",
+     "hate it",
+     "carry it"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 9,
+    "q": "She walks fast so she can ________ her older brother.",
+    "options": [
+     "keep up with",
+     "look after",
+     "come across",
+     "look in"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 10,
+    "q": "To 'look down on' someone means to ________.",
+    "options": [
+     "admire them",
+     "follow them",
+     "visit them",
+     "think you are better than them"
+    ],
+    "answer": 3
+   }
+  ],
+  "exam": {
+   "passage": "On Fridays Aisha (1)_____ her little cousin while her aunt is at work. They (2)_____ funny videos online and laugh together. Yesterday they (3)_____ an old video of their grandfather. 'He (4)_____ my father!' said Aisha. Both girls were (5)_____ visiting him in the village next week because he always tells them wonderful stories. They also planned to take some photos of the old house and the farm. It was going to be a lovely day for the whole family.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "looks up",
+      "looks after",
+      "looks in",
+      "looks ahead"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 2,
+     "options": [
+      "look like",
+      "hang up",
+      "plug in",
+      "look for"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "options": [
+      "looked after",
+      "came across",
+      "looked down on",
+      "hung up"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 4,
+     "options": [
+      "looks after",
+      "looks ahead",
+      "looks in",
+      "looks like"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 5,
+     "options": [
+      "looking down on",
+      "looking forward to",
+      "looking through",
+      "looking after"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ },
+ "U1-L6": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "It is dark in here. Please ________ the light.",
+    "options": [
+     "hang up",
+     "turn on",
+     "back up",
+     "hurry up"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "You should ________ your photos so you do not lose them if your phone breaks.",
+    "options": [
+     "back up",
+     "make up",
+     "bring up",
+     "set up"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "Please ________ or we will miss the bus!",
+    "options": [
+     "hang up",
+     "plug out",
+     "run out of",
+     "hurry up"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 4,
+    "q": "Our teacher helped us ________ a school blog.",
+    "options": [
+     "plug in",
+     "hang up",
+     "set up",
+     "turn off"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "For safety, ________ the TV before you clean it.",
+    "options": [
+     "plug in",
+     "plug out",
+     "turn on",
+     "set up"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "To 'deal with' a problem means to ________.",
+    "options": [
+     "take action to solve it",
+     "ignore it",
+     "create it",
+     "forget it"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 7,
+    "q": "My brother ________ an excuse for being late, but we knew it was not true.",
+    "options": [
+     "brought up",
+     "went into",
+     "set up",
+     "made up"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 8,
+    "q": "The thief ________ the shop through a small window.",
+    "options": [
+     "ran out of",
+     "hurried up",
+     "went into",
+     "hung up"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 9,
+    "q": "Yesterday we ________ ink, and the printer stopped.",
+    "options": [
+     "run out of",
+     "ran out of",
+     "running out of",
+     "runs out of"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 10,
+    "q": "He ________ the subject of homework at the meeting, and everybody groaned.",
+    "options": [
+     "brought up",
+     "made up",
+     "turned off",
+     "hung up"
+    ],
+    "answer": 0
+   }
+  ],
+  "exam": {
+   "passage": "Our school radio club started last week. The teacher helped us (1)_____ the equipment in a small room. First we had to (2)_____ the microphone and then (3)_____ the computer. Because the electricity went off for a moment, we (4)_____ time and had to (5)_____ to finish before lunch. Fortunately, we saved the recording and everyone clapped when it was ready. The club will broadcast a new programme every Thursday, and many students are excited to take part in it.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "hang up",
+      "turn off",
+      "set up",
+      "look after"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "options": [
+      "plug in",
+      "hang up",
+      "bring up",
+      "make up"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "options": [
+      "turn off",
+      "back up",
+      "turn on",
+      "deal with"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "options": [
+      "ran out of",
+      "brought up",
+      "went into",
+      "made up"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 5,
+     "options": [
+      "hang up",
+      "plug out",
+      "hurry up",
+      "look up"
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ },
+ "U1-L7": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "Grandparents are not ________ because they learned technology as adults.",
+    "options": [
+     "screenagers",
+     "self-control",
+     "digital natives",
+     "attention spans"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "q": "Teenagers who spend hours in front of screens are sometimes called ________.",
+    "options": [
+     "digital age",
+     "screenagers",
+     "monitors",
+     "panics"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "We live in the ________, when information moves very fast.",
+    "options": [
+     "digital age",
+     "attention span",
+     "self-control",
+     "screen time"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "Parents should ________ how long their children use the tablet.",
+    "options": [
+     "panic",
+     "struggle",
+     "worry",
+     "monitor"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 5,
+    "q": "Many students ________ to wake up early on school days.",
+    "options": [
+     "spend",
+     "panic",
+     "struggle",
+     "monitor"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "Do not ________ about the test; you have studied hard.",
+    "options": [
+     "spend",
+     "worry",
+     "monitor",
+     "struggle"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "Mum was ________ because I came home late.",
+    "options": [
+     "worried",
+     "worry",
+     "worrying",
+     "worries"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 8,
+    "q": "The boy is ________ the TV and cannot stop watching it.",
+    "options": [
+     "glued in",
+     "addicted at",
+     "addicted for",
+     "glued to"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 9,
+    "q": "'Self-control' means the ability to ________.",
+    "options": [
+     "run quickly",
+     "speak loudly",
+     "control what you do and feel",
+     "draw well"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 10,
+    "q": "Playing games for ________ hours can make you tired.",
+    "options": [
+     "excessively",
+     "excessive",
+     "excess",
+     "excessing"
+    ],
+    "answer": 1
+   }
+  ],
+  "exam": {
+   "passage": "Yousef is a typical teenager born in the (1)_____. He (2)_____ about four hours every day in front of screens. His mother (3)_____ because he cannot finish his homework on time. He says he is not (4)_____ his phone, but he has very little (5)_____ when a new game appears. His parents now limit his screen time and ask him to go outside more often. Slowly, Yousef is learning to use technology in a healthier way and to enjoy time with his family.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "weather",
+      "monitor",
+      "harm",
+      "digital age"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 2,
+     "options": [
+      "monitors",
+      "spends",
+      "struggles",
+      "launches"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 3,
+     "options": [
+      "describes",
+      "appears",
+      "launches",
+      "worries"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 4,
+     "options": [
+      "familiar of",
+      "addicted to",
+      "reluctant for",
+      "glued at"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "options": [
+      "suggestion",
+      "appearance",
+      "summary",
+      "self-control"
+     ],
+     "answer": 3
+    }
+   ]
+  }
+ },
+ "U1-L8": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "The weather will ________ our plans for the trip.",
+    "options": [
+     "appear",
+     "realise",
+     "describe",
+     "affect"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 2,
+    "q": "Skipping breakfast can ________ tiredness at school.",
+    "options": [
+     "harm",
+     "distract",
+     "lead to",
+     "develop"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "One ________ of staying up late is feeling sleepy in class.",
+    "options": [
+     "development",
+     "consequence",
+     "violence",
+     "harm"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "q": "Too much screen time has a ________ effect on sleep.",
+    "options": [
+     "negative",
+     "useful",
+     "happy",
+     "popular"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "Phones ringing in class ________ students from the lesson.",
+    "options": [
+     "develop",
+     "harm",
+     "affect",
+     "distract"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 6,
+    "q": "The film was full of ________ scenes, so children could not watch it.",
+    "options": [
+     "tired",
+     "awesome",
+     "violent",
+     "steady"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "TV ________ can make some children behave aggressively.",
+    "options": [
+     "violent",
+     "violence",
+     "violently",
+     "violents"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 8,
+    "q": "The company is trying to ________ a new robot that can clean houses.",
+    "options": [
+     "develop",
+     "distract",
+     "affect",
+     "lead to"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 9,
+    "q": "Something 'disastrous' is ________.",
+    "options": [
+     "very small",
+     "very funny",
+     "very old",
+     "very bad and causes great damage"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 10,
+    "q": "He behaved ________ and shouted at the referee.",
+    "options": [
+     "aggressive",
+     "aggression",
+     "aggressively",
+     "aggress"
+    ],
+    "answer": 2
+   }
+  ],
+  "exam": {
+   "passage": "Many parents worry about how video games (1)_____ children. Some games contain (2)_____ scenes that may make players feel (3)_____ and angry. Playing for too many hours can also (4)_____ students from their homework and make them (5)_____ at school. Doctors say that the best answer is balance: a little play, then sport, reading and time with the family. If parents talk to their children about these problems, the consequences of gaming can be much less serious for everyone in the family.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "affect",
+      "describe",
+      "launch",
+      "realise"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "options": [
+      "awesome",
+      "favourite",
+      "violent",
+      "cool"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 3,
+     "options": [
+      "aggressive",
+      "familiar",
+      "reluctant",
+      "steady"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "options": [
+      "develop",
+      "appear",
+      "distract",
+      "launch"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "options": [
+      "less productive",
+      "more popular",
+      "less steady",
+      "more familiar"
+     ],
+     "answer": 0
+    }
+   ]
+  }
+ },
+ "U1-L9": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "The ________ wrote a report about the fire in the market.",
+    "options": [
+     "reporter",
+     "interviewee",
+     "source",
+     "launch"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "The Ministry's website is a ________ for school news.",
+    "options": [
+     "fake news",
+     "interviewee",
+     "journal",
+     "trusted source"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 3,
+    "q": "I read the ________ every morning to learn what is happening in the world.",
+    "options": [
+     "interview",
+     "source",
+     "news",
+     "journal"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "She was nervous before the job ________ with the manager.",
+    "options": [
+     "article",
+     "interview",
+     "journal",
+     "launch"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "The ________ asked ten questions and wrote down every answer.",
+    "options": [
+     "interviewer",
+     "interviewee",
+     "source",
+     "journal"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "Her dream is to become a ________.",
+    "options": [
+     "journalism",
+     "journals",
+     "journalistic",
+     "journalist"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 7,
+    "q": "Scientists publish their research in a ________ read by other experts.",
+    "options": [
+     "interviewee",
+     "launch",
+     "journal",
+     "summary"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 8,
+    "q": "Do not ________ a website that has no author or date.",
+    "options": [
+     "launch",
+     "trust",
+     "harm",
+     "appear"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 9,
+    "q": "'Fake news' means ________.",
+    "options": [
+     "false information that looks like real news",
+     "news about famous people",
+     "news printed on paper",
+     "news from a friend"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 10,
+    "q": "The company will ________ its new app at an event in May.",
+    "options": [
+     "trust",
+     "report",
+     "interview",
+     "launch"
+    ],
+    "answer": 3
+   }
+  ],
+  "exam": {
+   "passage": "Maryam wants to be a (1)_____ because she loves (2)_____. Last week she wrote an (3)_____ about recycling for the school magazine. For it she had an (4)_____ with the headmaster, who answered all her questions politely. She always checks that every (5)_____ is reliable before she publishes anything. Her teacher says that a good reporter must tell the truth and never share news that is not true. Maryam hopes to work for a big newspaper one day and to make her family proud.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "interviewee",
+      "journalist",
+      "source",
+      "journal"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 2,
+     "options": [
+      "trust",
+      "launch",
+      "fake news",
+      "journalism"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "options": [
+      "journal",
+      "article",
+      "interviewee",
+      "launch"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 4,
+     "options": [
+      "source",
+      "report",
+      "journal",
+      "interview"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 5,
+     "options": [
+      "interviewer",
+      "source",
+      "journalist",
+      "launch"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ },
+ "U1-L10": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "Please ________ what happened in your own words.",
+    "options": [
+     "realise",
+     "describe",
+     "appear",
+     "disappear"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "The police asked him to make a ________ about the accident.",
+    "options": [
+     "statement",
+     "summary",
+     "term",
+     "type"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "Write a short ________ of the story in three sentences.",
+    "options": [
+     "statement",
+     "appearance",
+     "type",
+     "summary"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 4,
+    "q": "My ________ colour is blue.",
+    "options": [
+     "awesome",
+     "cool",
+     "favourite",
+     "reluctant"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "Your new trainers are really ________.",
+    "options": [
+     "reluctant",
+     "cool",
+     "surprisingly",
+     "disappearance"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "His ________ was neat: a clean shirt and tidy hair.",
+    "options": [
+     "appearance",
+     "disappearance",
+     "statement",
+     "term"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 7,
+    "q": "If you are 'reluctant' to do something, you ________.",
+    "options": [
+     "do it quickly",
+     "do it well",
+     "do it often",
+     "do not really want to do it"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 8,
+    "q": "She did not ________ she had lost her bag until she got home.",
+    "options": [
+     "describe",
+     "appear",
+     "realise",
+     "disappear"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 9,
+    "q": "He answered ________ well for such a young child.",
+    "options": [
+     "surprising",
+     "surprisingly",
+     "surprise",
+     "surprised"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 10,
+    "q": "The police are looking into the ________ of the old painting from the museum.",
+    "options": [
+     "disappearance",
+     "appearance",
+     "statement",
+     "summary"
+    ],
+    "answer": 0
+   }
+  ],
+  "exam": {
+   "passage": "At first I was (1)_____ to try rock climbing because I thought it was dangerous. However, the instructor was kind and (2)_____ each step clearly. Soon I (3)_____ that it was not so difficult. At the top, the view of the mountains was (4)_____ and I took many photos. (5)_____, my fear completely disappeared and climbing became my favourite hobby. Now I practise every weekend with my friends, and I hope to climb a much higher mountain with my brother next year.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "favourite",
+      "awesome",
+      "reluctant",
+      "familiar"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "options": [
+      "described",
+      "disappeared",
+      "appeared",
+      "realised"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "options": [
+      "described",
+      "appeared",
+      "realised",
+      "disappeared"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "options": [
+      "awesome",
+      "reluctant",
+      "negative",
+      "violent"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 5,
+     "options": [
+      "Therefore",
+      "Regardless",
+      "Surprisingly",
+      "Respectively"
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ },
+ "U1-L11": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "________, smoking is bad for health, so it should be banned.",
+    "options": [
+     "Even though",
+     "According to",
+     "In my opinion",
+     "Regardless of"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "q": "________ the newspaper, the match was cancelled because of the rain.",
+    "options": [
+     "Even though",
+     "According to",
+     "Regardless of",
+     "Therefore"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "She kept running ________ she was very tired.",
+    "options": [
+     "even though",
+     "therefore",
+     "for example",
+     "in conclusion"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "I have studied for years. ________, I can say that short breaks help.",
+    "options": [
+     "In conclusion",
+     "Even though",
+     "Therefore",
+     "Based on my experience"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 5,
+    "q": "________ showed that teenagers sleep less than they need.",
+    "options": [
+     "Therefore",
+     "In contrast",
+     "A recent study",
+     "Even though"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "We have discussed both sides. ________, I believe children need less screen time.",
+    "options": [
+     "For instance",
+     "In conclusion",
+     "Even though",
+     "According to"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "Salma: Phones help learning. Ali: ________, but they also distract us.",
+    "options": [
+     "I see what you're saying",
+     "Based on my experience",
+     "In conclusion",
+     "Therefore"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 8,
+    "q": "Teenagers enjoy many online activities, ________ gaming and chatting.",
+    "options": [
+     "therefore",
+     "even though",
+     "regardless of",
+     "for instance"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 9,
+    "q": "I'd like to make a ________ about how to improve the library.",
+    "options": [
+     "appearance",
+     "consequence",
+     "suggestion",
+     "violence"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 10,
+    "q": "'For instance' means the same as ________.",
+    "options": [
+     "in conclusion",
+     "for example",
+     "therefore",
+     "regardless of"
+    ],
+    "answer": 1
+   }
+  ],
+  "exam": {
+   "passage": "Many people ask whether schools should start later in the morning. (1)_____, a later start would help teenagers a great deal. (2)_____ a recent study, students who sleep more get better marks. (3)_____ some teachers disagree, many parents like the idea. A later start would help all students, (4)_____ their age or ability, to feel fresh and ready to learn. (5)_____, schools should think seriously about this change because it could improve both health and results at the same time, and it costs almost nothing.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "Even though",
+      "According to",
+      "Regardless of",
+      "In my opinion"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 2,
+     "options": [
+      "Even though",
+      "According to",
+      "Therefore",
+      "In conclusion"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 3,
+     "options": [
+      "Therefore",
+      "For example",
+      "In conclusion",
+      "Even though"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 4,
+     "options": [
+      "even though",
+      "regardless of",
+      "according to",
+      "therefore"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "options": [
+      "For example",
+      "Even though",
+      "According to",
+      "In conclusion"
+     ],
+     "answer": 3
+    }
+   ]
+  }
+ },
+ "U1-L12": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "A ________ uses rectangles of different heights to compare numbers.",
+    "options": [
+     "pie chart",
+     "table",
+     "line graph",
+     "bar chart"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 2,
+    "q": "The ________ axis runs along the bottom and shows the years.",
+    "options": [
+     "vertical",
+     "main",
+     "horizontal",
+     "gender"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "The chart compares boys and girls, so it shows ________.",
+    "options": [
+     "both axes",
+     "both genders",
+     "both tables",
+     "both summaries"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "q": "The line graph ________ that ice-cream sales rise in summer.",
+    "options": [
+     "shows",
+     "show",
+     "showing",
+     "shown"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "To 'summarise' means to ________.",
+    "options": [
+     "repeat every detail",
+     "change the title",
+     "draw a picture",
+     "give the main points briefly"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 6,
+    "q": "The ________ of the chart are the most important points, such as the highest and lowest numbers.",
+    "options": [
+     "age groups",
+     "layouts",
+     "main features",
+     "genders"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "The figures are for three ________: 10 to 14, 15 to 19 and 20 to 24.",
+    "options": [
+     "genders",
+     "age groups",
+     "features",
+     "axes"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 8,
+    "q": "In a ________, the bars stand up from the bottom of the page.",
+    "options": [
+     "column chart",
+     "pie chart",
+     "line graph",
+     "table"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 9,
+    "q": "Look at the ________: it has rows and columns of numbers.",
+    "options": [
+     "pie chart",
+     "line graph",
+     "bar chart",
+     "table"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 10,
+    "q": "The speaker used a chart to ________ how the population has grown.",
+    "options": [
+     "disappear",
+     "appear",
+     "illustrate",
+     "realise"
+    ],
+    "answer": 2
+   }
+  ],
+  "exam": {
+   "passage": "Mr Said gave us a (1)_____ about the hours of homework. The (2)_____ axis shows the number of students, and the horizontal axis shows the (3)_____, such as 12 to 13 and 14 to 15 years old. The graph (4)_____ that girls study longer than boys. When we describe it, we must (5)_____ the main features in two sentences and not repeat every number. Our teacher says that a clear chart answer is short, accurate and easy to follow, and it always has a clear ending.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "bar chart",
+      "podcast",
+      "stereo",
+      "homepage"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 2,
+     "options": [
+      "main",
+      "gender",
+      "vertical",
+      "familiar"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 3,
+     "options": [
+      "age groups",
+      "genders",
+      "features",
+      "tables"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 4,
+     "options": [
+      "hangs",
+      "plugs",
+      "shows",
+      "logs"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 5,
+     "options": [
+      "summarise",
+      "disappear",
+      "launch",
+      "monitor"
+     ],
+     "answer": 0
+    }
+   ]
+  }
+ },
+ "U1-L13": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "Cartoons are ________ young children.",
+    "options": [
+     "popular with",
+     "popular to",
+     "popular for",
+     "popular at"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "The price of a bus ticket is ________ the price of a taxi.",
+    "options": [
+     "higher than",
+     "as high as",
+     "the lowest",
+     "lower than"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 3,
+    "q": "Girls are ________ keen on football as boys: 30 and 60 per cent.",
+    "options": [
+     "as",
+     "more",
+     "not as",
+     "equal"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "Both groups use the Internet ________; each spends two hours a day.",
+    "options": [
+     "equal",
+     "equally",
+     "equality",
+     "equals"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "Ahmed likes cartoons ________ his sister likes the news.",
+    "options": [
+     "while",
+     "so",
+     "because",
+     "unless"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "The charts are not the same; there are several ________ between them.",
+    "options": [
+     "similarities",
+     "groups",
+     "features",
+     "differences"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 7,
+    "q": "'In contrast' is used to show that two things are ________.",
+    "options": [
+     "the same",
+     "old",
+     "very different",
+     "equal"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 8,
+    "q": "The results for the two years are ________: 51 and 52 per cent.",
+    "options": [
+     "significantly different",
+     "fairly similar",
+     "the least popular",
+     "not as"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 9,
+    "q": "The benefits of exercise ________ the risks, so doctors recommend it.",
+    "options": [
+     "outweigh",
+     "disappear",
+     "describe",
+     "summarise"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 10,
+    "q": "Online shopping is becoming as ________ as shopping in stores.",
+    "options": [
+     "more popular",
+     "most popular",
+     "very popular",
+     "popular"
+    ],
+    "answer": 3
+   }
+  ],
+  "exam": {
+   "passage": "Our survey asked 100 students how they spend Saturdays. Swimming is (1)_____ activity, chosen by 60 students, whereas shopping is (2)_____ with only five. The figure for boys (50) is (3)_____ the figure for girls (30). There are some (4)_____ between the groups, but they also share one similarity: both enjoy music. (5)_____, older students prefer reading and quiet hobbies. The survey helped our teacher to plan interesting activities for the school club on Saturdays and during the long holidays.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "the least popular",
+      "the most popular",
+      "popular with",
+      "not as popular"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 2,
+     "options": [
+      "the most popular",
+      "popular with",
+      "fairly similar",
+      "the least popular"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 3,
+     "options": [
+      "lower than",
+      "higher than",
+      "not as",
+      "as high as"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 4,
+     "options": [
+      "similarities",
+      "features",
+      "genders",
+      "differences"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 5,
+     "options": [
+      "Equally",
+      "In contrast",
+      "Therefore",
+      "For example"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ },
+ "U1-L14": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "The price of oil ________ sharply last year, from 90 to 50 dollars.",
+    "options": [
+     "rose",
+     "dropped",
+     "doubled",
+     "trebled"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "The number of visitors ________ steadily each year, from 1,000 to 3,000.",
+    "options": [
+     "increased",
+     "decreased",
+     "fluctuated",
+     "dropped"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "After the new law, the number of accidents ________ from 200 to 120.",
+    "options": [
+     "increased",
+     "rose",
+     "trebled",
+     "decreased"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 4,
+    "q": "Prices ________ up and down all year; they were never stable.",
+    "options": [
+     "doubled",
+     "remained",
+     "fluctuated",
+     "trebled"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "A ________ in temperature made everybody wear coats: from 30 to 15 degrees.",
+    "options": [
+     "rise",
+     "drop",
+     "increase",
+     "double"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "There was a sharp ________ in oil prices; they went from 40 to 80.",
+    "options": [
+     "rise",
+     "drop",
+     "decrease",
+     "fall"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 7,
+    "q": "If a number 'doubles', it ________.",
+    "options": [
+     "becomes half",
+     "stays the same",
+     "becomes ten times bigger",
+     "becomes two times as big"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 8,
+    "q": "The number of cars ________ steady at 300 for the whole month.",
+    "options": [
+     "went",
+     "hit",
+     "remained",
+     "dropped"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 9,
+    "q": "Sales ________ a low point of 10 per cent in January.",
+    "options": [
+     "made",
+     "hit",
+     "kept",
+     "ran"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 10,
+    "q": "There were many ________ in the weather this week: sunny, then stormy.",
+    "options": [
+     "fluctuations",
+     "fluctuate",
+     "fluctuated",
+     "fluctuating"
+    ],
+    "answer": 0
+   }
+  ],
+  "exam": {
+   "passage": "The line graph shows the number of visitors to a museum over a year. In January there were 500 visitors. The number (1)_____ to 900 in March, and then it (2)_____ steady at 900 until May. In summer the figure (3)_____ a low point of 300 because of the heat. In autumn there was a (4)_____ in visitors, and by December the number had (5)_____ from 300 to 600. The museum manager was pleased with the results and planned new exhibitions for the next year.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "dropped",
+      "decreased",
+      "rose",
+      "fluctuated"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 2,
+     "options": [
+      "remained",
+      "went",
+      "hit",
+      "dropped"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 3,
+     "options": [
+      "made",
+      "kept",
+      "hit",
+      "ran"
+     ],
+     "answer": 2
+    },
+    {
+     "n": 4,
+     "options": [
+      "rise",
+      "drop",
+      "decrease",
+      "treble"
+     ],
+     "answer": 0
+    },
+    {
+     "n": 5,
+     "options": [
+      "trebled",
+      "dropped",
+      "doubled",
+      "decreased"
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ },
+ "U1-L15": {
+  "mcq2": [
+   {
+    "n": 1,
+    "q": "________ five hundred people came to the concert, so the hall was full.",
+    "options": [
+     "Fewer than",
+     "Slightly under",
+     "More than",
+     "Less than"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "q": "Only ________ ten students passed, so the teacher was disappointed.",
+    "options": [
+     "more than",
+     "fewer than",
+     "over",
+     "above"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "The temperature was ________ 40 degrees: it was 39.",
+    "options": [
+     "slightly under",
+     "considerably more than",
+     "with a total of",
+     "over"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "There are ________ 600 students in our school; the exact number changes.",
+    "options": [
+     "respectively",
+     "on average",
+     "a piece of",
+     "about"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 5,
+    "q": "Some days were warm and some were cold, but ________ the weather was pleasant.",
+    "options": [
+     "respectively",
+     "under",
+     "overall",
+     "a piece of"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "The ________ of mobile phones is growing; 90 per cent of people have one.",
+    "options": [
+     "used",
+     "use",
+     "using",
+     "uses"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "Please give me ________ advice; I need help with my homework.",
+    "options": [
+     "a piece of",
+     "a total of",
+     "an average of",
+     "a number of"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 8,
+    "q": "Children ________ the age of five can enter for free.",
+    "options": [
+     "above",
+     "with a total of",
+     "overall",
+     "under"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 9,
+    "q": "Four classes took part, ________ 120 students.",
+    "options": [
+     "respectively",
+     "on average",
+     "with a total of",
+     "overall"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 10,
+    "q": "Ahmed scored 20 and Ali scored 90, so Ahmed's mark was ________ Ali's.",
+    "options": [
+     "considerably more than",
+     "considerably less than",
+     "about",
+     "equally"
+    ],
+    "answer": 1
+   }
+  ],
+  "exam": {
+   "passage": "A survey of three classes asked students about their bicycles. The numbers of owners were 12, 15 and 18 (1)_____. (2)_____, forty-five students own a bike, and (3)_____ ten students said no. (4)_____, nine students ride to school each day, although this changes in winter. Girls ride (5)_____ boys: only four against twenty. The school may now build a safe place for bicycles, so that more students can come to school in a healthy and cheap way, and it would also reduce the traffic outside the gate.",
+   "items": [
+    {
+     "n": 1,
+     "options": [
+      "overall",
+      "under",
+      "on average",
+      "respectively"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 2,
+     "options": [
+      "Respectively",
+      "Overall",
+      "Under",
+      "A piece of"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 3,
+     "options": [
+      "considerably more than",
+      "respectively",
+      "overall",
+      "fewer than"
+     ],
+     "answer": 3
+    },
+    {
+     "n": 4,
+     "options": [
+      "Respectively",
+      "On average",
+      "Fewer than",
+      "A piece of"
+     ],
+     "answer": 1
+    },
+    {
+     "n": 5,
+     "options": [
+      "considerably more than",
+      "respectively",
+      "with a total of",
+      "considerably less than"
+     ],
+     "answer": 3
+    }
+   ]
+  }
+ }
+}
