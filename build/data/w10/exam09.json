@@ -1,0 +1,620 @@
+{
+ "id": 9,
+ "title": "Model Exam 9",
+ "listening1": {
+  "context": "You are going to hear a conversation between Majid and Noor.",
+  "script": [
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "Hi, Noor! Do you have a minute? I need some advice about buying a new laptop."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "Of course, Majid. Why do you want a new one? Is your old laptop broken?"
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "Not exactly. The screen is fine and it still works, but the battery only lasts for one hour. I cannot use it at school all day."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "That is a real problem. What will you use the new laptop for?"
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "Mostly for programming and homework. I am learning to write code. I do not play many games, so I do not need an expensive gaming laptop. I just want something fast and light for my lessons."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "Good. Then you do not have to spend too much money. What is your budget?"
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "My father said I can spend up to two hundred and fifty rials. Not three hundred. He was very clear about that!"
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "That is a fair price. What about the size of the screen? A big screen is nice, but it is heavy."
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "I carry my laptop to school every day, so I prefer a small one. Fourteen inches is perfect for me. Not fifteen."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "That sounds smart. Now, check the memory too. My cousin bought a laptop with only four gigabytes, and it was very slow. So choose at least eight gigabytes. Sixteen is better, but it costs much more. Do not choose less than eight, because your programs will not run well."
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "Eight is fine for my budget. Should I order the laptop online? It is often cheaper."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "I do not recommend that. You should go to a shop, so you can test the keyboard and the screen. You can also ask the workers questions and compare different brands. There is a big electronics shop in the shopping centre near our school."
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "That is a good idea. Can you come with me?"
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "I am busy on Thursday because of my English club, but I am free on Friday afternoon."
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "Great! Friday afternoon is perfect. I will ask my father to drive us there."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "Do not forget to ask about the guarantee. A good shop gives you at least one year."
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "Thank you so much, Noor. You are a great friend."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "You are welcome. I cannot wait to see your new laptop. Please send me a message when you start using it!"
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "What is the problem with Majid's old laptop?",
+    "options": [
+     "The screen is broken.",
+     "The battery does not last long.",
+     "It is too heavy to carry."
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "What will Majid mainly use his new laptop for?",
+    "options": [
+     "Playing games",
+     "Watching films",
+     "Programming and homework"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "How much can Majid spend?",
+    "options": [
+     "Two hundred and fifty rials",
+     "Three hundred rials",
+     "Two hundred rials"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "Which screen size does Majid prefer?",
+    "options": [
+     "Fourteen inches",
+     "Fifteen inches",
+     "Thirteen inches"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "How much memory does Noor advise him to choose?",
+    "options": [
+     "Four gigabytes",
+     "At least eight gigabytes",
+     "Thirty-two gigabytes"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "Where does Noor think Majid should buy the laptop?",
+    "options": [
+     "On the internet",
+     "From her cousin",
+     "In an electronics shop"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "When will Majid and Noor go shopping?",
+    "options": [
+     "On Thursday",
+     "On Friday afternoon",
+     "On Saturday morning"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about energy from waste.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Good morning, everyone. Today I am going to talk about energy from waste."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Every day, families around the world throw away millions of tonnes of rubbish. In the past, most of it went to a landfill, which is a huge hole in the ground. Now, many countries use their rubbish to make electricity."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Let me explain how it works. In a waste-to-energy plant, workers put household rubbish, such as paper, food and old packaging, into a very hot furnace. The rubbish burns, and the heat turns water into steam."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Now, this is the important part. The steam pushes a turbine, and the turbine drives a generator that makes electricity. So it is steam, not wind or flowing water, that moves the turbine."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "There is another way to get energy from rubbish. When food and other waste rot under the ground in a landfill, they produce a gas called methane. This gas is harmful for the atmosphere. However, engineers can collect it through long pipes and burn it to make electricity. So the gas from landfills can be useful."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "One great advantage of burning waste is that the rubbish takes up very much less space afterwards. Cities do not need so many landfills, and this saves land."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Sweden is a good example. It burns so much household waste that the plants give heat to many homes in cold weather and electricity to many others. Today, only a very small part of Swedish household waste goes to landfill. Denmark and Germany also have many of these plants."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "However, we must remember some important points. First, some people think that we do not need to recycle if we burn waste. That is wrong. Recycling saves more energy, so the best order is to reduce, reuse and then recycle."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Second, burning waste is not completely clean. The plants need strong filters to clean the smoke, and they still produce some carbon dioxide."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "To sum up, energy from waste is a clever way to deal with rubbish and make power at the same time. But it is only one part of the solution, and each of us should still produce less waste every day. Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What do waste-to-energy plants burn?",
+    "hint": "",
+    "answer": "(Household) rubbish/waste"
+   },
+   {
+    "n": 2,
+    "q": "What moves the turbine in the plant?",
+    "hint": "",
+    "answer": "Steam"
+   },
+   {
+    "n": 3,
+    "q": "Which gas do rotting wastes produce in a landfill?",
+    "hint": "",
+    "answer": "Methane"
+   },
+   {
+    "n": 4,
+    "q": "Which country is a good example of using waste for heat?",
+    "hint": "(country)",
+    "answer": "Sweden"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "Burning rubbish makes it take up much less space.",
+    "answer": true
+   },
+   {
+    "n": 6,
+    "statement": "We do not need to recycle if we burn waste.",
+    "answer": false
+   },
+   {
+    "n": 7,
+    "statement": "Gas from landfills can be used to make electricity.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "Burning waste is completely clean.",
+    "answer": false
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Last month my older brother bought a new laptop. It is a powerful (1)_____ with a large screen and a fast processor. He uses it to (2)_____ all his files every Friday, so he never loses his homework. He also likes to (3)_____ with our cousins who live abroad by video call. However, he spends too many hours online, and my mother says that he is almost (4)_____ to his screen. She asked him to (5)_____ the time he spends on it and to go outside more often. He promised to try, and now he plays football with his friends in the evening.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "blog",
+     "device",
+     "brand",
+     "column"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "back up",
+     "bring up",
+     "come across",
+     "deal with"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "communicate",
+     "design",
+     "charge",
+     "burn"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "famous",
+     "eco-friendly",
+     "addicted",
+     "creative"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "options": [
+     "increase",
+     "reduce",
+     "upload",
+     "connect"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Hamad, have you [[1]] your new laptop yet?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Yes, I bought it yesterday. It is [[2]] than my old one, and the screen is bigger too."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "That is wonderful! If I [[3]] enough money, I would buy one as well."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "The laptop [[4]] made in Japan, so I think it is very reliable."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Does it have many programs?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Yes, but there are not [[5]] games on it, only programs for study."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "buy",
+     "bought"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "fastest",
+     "faster"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "had",
+     "have"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "were",
+     "was"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "many",
+     "much"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "reading1": {
+  "title": "The Ozone Layer",
+  "passage": [
+   "High above the Earth, there is a thin layer of gas called the ozone layer. It is found in the stratosphere, between about fifteen and thirty-five kilometres above the ground. Ozone is a form of oxygen, and each molecule of it has three oxygen atoms.",
+   "The ozone layer works like a pair of sunglasses for our planet. It absorbs most of the harmful ultraviolet rays that come from the sun. Without it, these rays would reach the surface of the Earth in much larger amounts and damage living things.",
+   "Too much ultraviolet light is dangerous. It can burn human skin, cause eye problems and increase the risk of skin cancer. It can also harm plants and the tiny sea animals that are an important part of the food chain in the oceans.",
+   "In the 1970s, scientists became worried about the ozone layer. They discovered that chemicals called CFCs were destroying it. CFCs were used in old refrigerators, air conditioners and spray cans because they were cheap and seemed safe. When these chemicals rose into the sky, the sun's rays broke them apart, and they released chlorine, which destroys ozone.",
+   "In 1985, scientists reported a very thin area in the ozone layer over Antarctica. People called it a \"hole\", although it was not a real hole. This news shocked people around the world and led governments to act quickly.",
+   "In 1987, many countries signed an agreement called the Montreal Protocol. It stopped the use of CFCs and is often described as one of the most successful environmental agreements in history. Factories began to use safer chemicals, and the amount of CFCs in the air started to fall.",
+   "Today, the ozone layer is slowly recovering. Scientists expect it to return to its 1980 level over most of the world by around the year 2040, and a little later over the poles.",
+   "However, people must still protect their skin. In sunny countries, we should wear hats, use sunscreen and stay in the shade in the middle of the day. The story of the ozone layer shows that when countries work together, they can solve big environmental problems."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "Where is the ozone layer found?",
+    "options": [
+     "Near the ground",
+     "In the stratosphere",
+     "At the bottom of the oceans"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "Why is the ozone layer compared to a pair of sunglasses?",
+    "options": [
+     "It makes the sun brighter.",
+     "It changes the colour of the sky.",
+     "It absorbs most of the harmful rays."
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "What can too much ultraviolet light do to people?",
+    "options": [
+     "Cause eye problems",
+     "Make skin stronger",
+     "Stop the wind"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "Why were CFCs used in many products?",
+    "options": [
+     "They were cheap and seemed safe.",
+     "They made the air cleaner.",
+     "They were made from plants."
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "What did scientists report in 1985?",
+    "options": [
+     "A new gas in the stratosphere",
+     "A very thin area over Antarctica",
+     "A hole in the Earth's surface"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "What does the story of the ozone layer show?",
+    "options": [
+     "Big problems cannot be solved.",
+     "Sunscreen is not necessary.",
+     "Countries can solve problems together."
+    ],
+    "answer": 2
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "Each ozone molecule has ________ oxygen atoms. (number)",
+    "answer": "three/3"
+   },
+   {
+    "n": 8,
+    "q": "CFCs were used in old refrigerators, air conditioners and ________.",
+    "answer": "spray cans"
+   },
+   {
+    "n": 9,
+    "q": "The Montreal Protocol was signed in ________. (year)",
+    "answer": "1987"
+   },
+   {
+    "n": 10,
+    "q": "In sunny countries, we should wear hats and use ________.",
+    "answer": "sunscreen"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "The Story of the Alphabet",
+  "passage": [
+   "Writing is one of the greatest inventions in human history. About five thousand years ago, the ancient Egyptians began to write with small pictures called hieroglyphs. There were hundreds of these signs, and each one could stand for an object, an idea or a sound. Learning them took many years, so only a small number of people, called scribes, could read and write.",
+   "A new idea appeared around 1800 BC. Workers from Canaan, in the east of the Mediterranean, lived and worked in the Sinai desert. They knew some Egyptian signs, and they used a few of them to show the sounds of their own language. Experts believe that this was the first step towards the alphabet.",
+   "The big step came with the Phoenicians, a people of traders and sailors who lived in what is now Lebanon. Around 1050 BC, they were using an alphabet of only twenty-two letters. Each letter stood for one sound, so people could write any word with just a few signs. It was much easier to learn than hieroglyphs.",
+   "The Phoenicians travelled around the Mediterranean Sea in their ships and traded with many different peoples. Wherever they went, they took their letters with them. Their alphabet had no vowels. It only had letters for consonants.",
+   "About 800 BC, the Greeks borrowed the Phoenician letters. They changed some of them to show vowel sounds such as a, e and o. For the first time, an alphabet could show every sound of a language.",
+   "Later, the Romans used the Greek letters to create the Latin alphabet. This is the alphabet that we use to write English today, although it now has twenty-six letters. Latin letters are also used in many other languages, such as French, Spanish and Turkish.",
+   "Many other alphabets in the world today, including Arabic, are connected to the Phoenician alphabet through earlier scripts. This shows how one clever idea can travel across thousands of years and thousands of kilometres.",
+   "Thanks to the alphabet, writing spread from a few scribes to ordinary people. Merchants could keep records, teachers could write books, and ideas could travel across the world."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "Who could read and write in ancient Egypt?",
+    "hint": "",
+    "answer": "(Only) scribes"
+   },
+   {
+    "n": 2,
+    "q": "Where did the Canaanite workers live and work?",
+    "hint": "",
+    "answer": "In the Sinai desert"
+   },
+   {
+    "n": 3,
+    "q": "How many letters did the Phoenician alphabet have?",
+    "hint": "(number)",
+    "answer": "Twenty-two/22"
+   },
+   {
+    "n": 4,
+    "q": "Why was the Phoenician alphabet easier to learn than hieroglyphs? Because ________",
+    "hint": "",
+    "answer": "each letter stood for one sound"
+   },
+   {
+    "n": 5,
+    "q": "Which people added vowel letters to the alphabet?",
+    "hint": "",
+    "answer": "The Greeks"
+   },
+   {
+    "n": 6,
+    "q": "Which people created the Latin alphabet?",
+    "hint": "",
+    "answer": "The Romans"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Hieroglyphs were easy to learn.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "The Phoenicians were traders and sailors.",
+    "answer": true
+   },
+   {
+    "n": 9,
+    "statement": "The Phoenician alphabet had letters for vowels.",
+    "answer": false
+   },
+   {
+    "n": 10,
+    "statement": "The Greeks borrowed the Phoenician letters.",
+    "answer": true
+   }
+  ]
+ },
+ "chart": {
+  "title": "Reasons for Using the Internet among Grade 10 Students",
+  "ylabel": "Percentage of students",
+  "unit": "%",
+  "categories": [
+   "Gaming",
+   "Watching Videos",
+   "Studying",
+   "Social Media",
+   "Shopping"
+  ],
+  "series": [
+   {
+    "name": "Boys",
+    "values": [
+     50,
+     40,
+     30,
+     25,
+     10
+    ]
+   },
+   {
+    "name": "Girls",
+    "values": [
+     15,
+     45,
+     35,
+     55,
+     20
+    ]
+   }
+  ],
+  "model": "The bar chart illustrates the reasons for using the internet among Grade 10 boys and girls. Overall, boys preferred gaming, whereas girls preferred social media.\nFirstly, the most popular reason for boys was gaming, with 50%. This was followed by watching videos (40%), studying (30%) and social media (25%). However, the least popular reason for boys was shopping, with only 10%.\nIn contrast, the most popular reason for girls was social media, with 55%. This was followed by watching videos (45%), studying (35%) and shopping (20%). However, the least popular reason for girls was gaming, with only 15%.\nTo summarize, both boys and girls liked watching videos. However, the biggest difference was in gaming, where 50% of boys chose it, whereas 15% of girls did.",
+  "note": "Boys high to low: gaming 50, videos 40, studying 30, social 25, shopping 10. Girls: social 55, videos 45, studying 35, shopping 20, gaming 15. Biggest gap: gaming (35 points); social media is 30.",
+  "id": "C-09",
+  "session": "Sem I Model Exam"
+ },
+ "email": {
+  "formal": false,
+  "situation": "Imagine you are Sami/Samia. Your young cousin Rashid/Rasha has just started using the internet and often chats with people he/she does not know.",
+  "task": "Write an email to your cousin Rashid/Rasha giving advice on how to stay safe on the internet. In your email include the following:",
+  "bullets": [
+   "Explain why the internet can be dangerous for young people.",
+   "Suggest two rules for staying safe online.",
+   "Give advice on what to do if he/she sees something upsetting."
+  ],
+  "model": "Dear Rashid,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to give you some advice about staying safe on the internet.\n\nFirst, the internet can be dangerous because strangers may pretend to be someone else. For example, they may ask for your name and address. Moreover, you should never share your passwords with anyone.\n\nSecond, you should tell your parents if you see something upsetting. However, do not reply to rude messages. Therefore, close the page and talk to an adult you trust.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nSami",
+  "id": "E-09",
+  "session": "Sem I Model Exam"
+ }
+}

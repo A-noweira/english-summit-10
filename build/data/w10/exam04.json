@@ -1,0 +1,595 @@
+{
+ "id": 4,
+ "title": "Model Exam 4",
+ "listening1": {
+  "context": "You are going to hear a conversation between Maryam and Salim.",
+  "script": [
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "Salim, did you hear the news? Our teacher wants each group to visit a heritage site for our history project."
+   },
+   {
+    "speaker": "Salim",
+    "gender": "m",
+    "text": "Yes, I did! I would like to choose Bahla Fort. My uncle took me there when I was little, and I still remember it."
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "Is it the fort made of stone? I have seen pictures, and the walls look very high."
+   },
+   {
+    "speaker": "Salim",
+    "gender": "m",
+    "text": "The walls are mainly mud bricks. Only the base is made of stone. It is in the Ad Dakhiliyah region, and it became a World Heritage Site in nineteen eighty-seven."
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "That was a long time ago. Was it in nineteen ninety-seven?"
+   },
+   {
+    "speaker": "Salim",
+    "gender": "m",
+    "text": "No, ten years earlier. It was the first place in Oman to get that honour, and that makes it very special."
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "Wonderful. Our group has four members, and we need a place that is easy to reach. How far is it from Muscat? I hope it is not too far."
+   },
+   {
+    "speaker": "Salim",
+    "gender": "m",
+    "text": "It takes about two hours by car, not three. If we leave at seven in the morning, we can arrive before it gets hot."
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "Good thinking. We should also ask our parents for permission. Which day is best for the visit? I am free on Friday."
+   },
+   {
+    "speaker": "Salim",
+    "gender": "m",
+    "text": "My uncle says Friday is very busy, and Thursday is quieter. So I suggest Thursday."
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "Thursday is fine. How will we travel? Can we ask the school for a bus?"
+   },
+   {
+    "speaker": "Salim",
+    "gender": "m",
+    "text": "Yes, the school will arrange a bus. It will cost five rials for each student, not ten. The money also includes a tour guide."
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "That is cheap, and the guide will answer our questions. I want to take many notes for the project, so I will bring a notebook and two pens."
+   },
+   {
+    "speaker": "Salim",
+    "gender": "m",
+    "text": "Don't forget a hat, because it is very sunny there. I will bring my camera, and you can bring the notebook."
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "Perfect. Shall we also visit the old market near the fort? I have heard that Bahla is famous for its pottery."
+   },
+   {
+    "speaker": "Salim",
+    "gender": "m",
+    "text": "Great idea. We can write about it in our project, and maybe buy a small pot for our teacher as a thank-you gift."
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "He will love it. Let us tell the other members of our group tonight and start making a plan. We can write the questions for the guide together and send them to our teacher before the trip."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "The teacher wants each group to visit a heritage site for their ________.",
+    "options": [
+     "science project",
+     "history project",
+     "geography trip"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "The walls of Bahla Fort are mainly made of ________.",
+    "options": [
+     "stone",
+     "wood",
+     "mud bricks"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "Bahla Fort became a World Heritage Site in ________.",
+    "options": [
+     "1987",
+     "1997",
+     "1977"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "The drive from Muscat to Bahla takes about ________ hours.",
+    "options": [
+     "three",
+     "two",
+     "four"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "Salim suggests visiting the fort on ________.",
+    "options": [
+     "Friday",
+     "Wednesday",
+     "Thursday"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "The bus will cost ________ rials for each student.",
+    "options": [
+     "five",
+     "ten",
+     "fifteen"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 7,
+    "q": "Salim will bring his ________.",
+    "options": [
+     "hat",
+     "camera",
+     "notebook"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about glaciers and the rise of the sea level.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Good morning, everyone. Today I will talk about glaciers and the rise of the sea level. A glacier is a huge mass of ice that moves very slowly. Glaciers form from snow. Year after year, new snow falls on top of old snow, and the weight turns the lower layers into hard ice. Glaciers cover about ten percent of the land on Earth, and most of them are found near the North and South Poles and on high mountains."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Today, glaciers are melting faster than before. The main reason is global warming. When we burn coal, oil and gas for electricity, cars and factories, we put a gas called carbon dioxide into the air. This gas traps the heat of the sun like a blanket, so the Earth becomes warmer. Warmer air means that more ice melts every summer."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "What happens to all this water? It flows into the oceans, and the sea level rises. Scientists have measured this carefully. Since nineteen hundred, the sea level has risen by about twenty centimetres, not two metres. That may sound small, but it is enough to bring salty water into farms and to make storms more dangerous for coastal towns."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "There is another reason for the rise. When water becomes warmer, it expands. This means that warm ocean water takes up more space than cold water, even without any extra ice."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Who is in danger? Low islands and coastal cities are the most at risk. If the sea continues to rise, some islands may lose their beaches and some families may have to move. Many countries are building walls and planting mangrove trees along the coast to protect their land."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Can we stop this? We cannot bring back all the ice, but we can slow the problem down. Countries can use renewable energy, such as solar and wind power, instead of coal and oil. Factories can use cleaner technology. Governments can plant more forests, because trees take carbon dioxide from the air."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "What about us as students? We can save energy at home, walk or cycle to places that are near, and recycle our waste. Each small step helps, and together they make a big difference. Please talk to your families about these ideas. Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What do glaciers form from?",
+    "hint": "",
+    "answer": "Snow"
+   },
+   {
+    "n": 2,
+    "q": "How much has the sea level risen since the year 1900?",
+    "hint": "",
+    "answer": "About 20 centimetres / 20 cm"
+   },
+   {
+    "n": 3,
+    "q": "Which gas from burning coal, oil and gas traps the sun's heat?",
+    "hint": "",
+    "answer": "Carbon dioxide / CO2"
+   },
+   {
+    "n": 4,
+    "q": "What kind of energy can countries use instead of coal and oil?",
+    "hint": "",
+    "answer": "Renewable energy / Solar and wind power"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "Glaciers cover about ten percent of the land on Earth.",
+    "answer": true
+   },
+   {
+    "n": 6,
+    "statement": "Warm water takes up less space than cold water.",
+    "answer": false
+   },
+   {
+    "n": 7,
+    "statement": "Only islands are in danger from the rising sea.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Planting trees can help to take carbon dioxide from the air.",
+    "answer": true
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Archaeology is the study of the past through the things that people left behind. Every year, archaeologists (1)_____ old tools, pottery and coins under the ground. These objects help us to understand how people lived thousands of years ago. A great (2)_____ such as the Roman Empire built roads, cities and strong armies. Today, we visit its ruins and old (3)_____ to learn about its history. Many ancient peoples also depended on (4)_____, because merchants carried goods and new ideas between countries. It is important to protect our (5)_____ for the next generations, so museums and governments look after these treasures carefully.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "reduce",
+     "discover",
+     "install",
+     "waste"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "effect",
+     "benefit",
+     "civilisation",
+     "disadvantage"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "options": [
+     "machines",
+     "gadgets",
+     "monuments",
+     "podcasts"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "options": [
+     "pollution",
+     "trade",
+     "advertising",
+     "capacity"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "energy",
+     "heritage",
+     "fuel",
+     "apps"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Maryam, I haven't finished the museum project [[1]]. Have you?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Almost. I have worked on it [[2]] three days."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Which museum did you choose?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "The National Museum. I like it because there [[3]] many old maps and coins."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "I enjoy [[4]] about ancient civilisations too. I would like to go with you."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Of course! But there aren't [[5]] tickets left for Saturday, so we should book soon."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "yet",
+     "already"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "since",
+     "for"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "are",
+     "is"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "to learn",
+     "learning"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "much",
+     "many"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "reading1": {
+  "title": "Fuel from Plants",
+  "passage": [
+   "Most cars today run on petrol or diesel. Both of these fuels come from oil, which is a fossil fuel. Fossil fuels formed from plants and animals that died millions of years ago, and we cannot make more of them in a human lifetime. For this reason, scientists have looked for other fuels, and one of the most interesting answers is biofuel.",
+   "A biofuel is a fuel made from living things, such as plants, or from their waste. The two most common types are ethanol and biodiesel. Ethanol is usually made from sugar or starch in crops like sugarcane and corn. Biodiesel is made from vegetable oils and even from used cooking oil that restaurants would otherwise throw away.",
+   "Biofuels are a kind of renewable energy, because farmers can grow new crops every year. They also have another advantage. As plants grow, they take carbon dioxide from the air. When the fuel is burned, the carbon dioxide goes back into the air, so biofuels can add less extra carbon to the atmosphere than oil does.",
+   "Brazil is a good example. The country grows a lot of sugarcane and uses it to make ethanol for its cars. Many cars there can run on petrol, on ethanol or on a mixture of both. In many other countries, petrol that is sold at the station already contains a small amount of ethanol.",
+   "However, biofuels are not perfect. Growing fuel crops needs land, water and fertiliser. In some places, farmers have cut down forests to make new fields, and this harms wildlife and releases carbon dioxide. Some people also worry that using crops for fuel may make food more expensive, because less land is left for growing food.",
+   "Because of these problems, scientists are developing new kinds of biofuel. They are using farm waste, wood chips and even tiny plants called algae, which grow fast in water and do not need good farmland. These new fuels may be less harmful to nature and to food prices.",
+   "Biofuels will probably not replace oil completely. Even so, they can be a useful part of the answer, together with solar power, wind power and electric cars. The best way to cut pollution is to use many clean ideas together, and to save energy whenever we can."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "Fossil fuels are made from ________.",
+    "options": [
+     "crops that farmers grow every year",
+     "waste from restaurants",
+     "plants and animals that died long ago"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "q": "Biodiesel can be made from ________.",
+    "options": [
+     "sugar and starch",
+     "used cooking oil",
+     "wood and stones"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "Biofuels are renewable because ________.",
+    "options": [
+     "they never produce carbon dioxide",
+     "they come from the sea",
+     "farmers can grow new crops every year"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "In Brazil, many cars can run on ________.",
+    "options": [
+     "only electricity",
+     "ethanol, petrol or a mixture",
+     "only biodiesel"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "Cutting down forests for fuel crops ________.",
+    "options": [
+     "makes food cheaper",
+     "helps wildlife",
+     "releases carbon dioxide"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "Algae are useful for making biofuel because they ________.",
+    "options": [
+     "grow fast in water",
+     "need good farmland",
+     "grow only in forests"
+    ],
+    "answer": 0
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "The two most common types of biofuel are ethanol and ________.",
+    "answer": "biodiesel"
+   },
+   {
+    "n": 8,
+    "q": "Ethanol is usually made from crops like sugarcane and ________.",
+    "answer": "corn"
+   },
+   {
+    "n": 9,
+    "q": "Plants take ________ from the air as they grow.",
+    "answer": "carbon dioxide"
+   },
+   {
+    "n": 10,
+    "q": "New biofuels use farm waste, wood chips and tiny plants called ________.",
+    "answer": "algae"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "Screens and Sleep",
+  "passage": [
+   "Many teenagers say they cannot imagine a day without their phones. They use them to chat with friends, watch videos, play games and do homework. Screens are useful, but doctors and scientists are worried about one thing: they may be stealing our sleep.",
+   "Sleep is not a waste of time. During sleep, the body grows and repairs itself, and the brain stores what we learned during the day. Teenagers need about eight to ten hours of sleep every night, which is more than most adults need. Many teenagers get much less.",
+   "One reason is the light from screens. Phones, tablets and televisions give out a bright blue light. At night, our bodies make a chemical called melatonin, which tells the brain that it is time to sleep. Blue light can reduce melatonin, so a person who looks at a screen before bed may feel awake for longer.",
+   "Another reason is that screens keep the mind busy. An exciting video, a game or a stream of messages makes the brain active, so it is harder to relax. Some students also wake up at night to check their notifications, and this breaks their sleep into small pieces.",
+   "The effects of too little sleep can be serious. Tired students find it hard to concentrate in class and often forget what they have learned. They may feel angry or sad more easily, and they may get ill more often. Sleep problems can also make it harder to enjoy sports and hobbies.",
+   "Fortunately, there are simple ways to improve the situation. First, stop using screens at least one hour before bed. Second, charge your phone outside the bedroom, so it does not call you in the night. Third, go to bed and get up at the same time every day, even at the weekend.",
+   "It also helps to do something calm before sleep, such as reading a paper book, writing in a diary or listening to quiet music. After a few days, most people notice that they fall asleep faster and wake up feeling fresh. Good habits with technology make us healthier and happier."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "How many hours of sleep do teenagers need every night?",
+    "hint": "",
+    "answer": "Eight to ten (hours) / 8-10"
+   },
+   {
+    "n": 2,
+    "q": "What does the body do during sleep?",
+    "hint": "",
+    "answer": "It grows and repairs itself"
+   },
+   {
+    "n": 3,
+    "q": "What is the name of the chemical that tells the brain it is time to sleep?",
+    "hint": "",
+    "answer": "Melatonin"
+   },
+   {
+    "n": 4,
+    "q": "Why do some students wake up at night? Because they ________.",
+    "hint": "",
+    "answer": "check their notifications / want to check notifications"
+   },
+   {
+    "n": 5,
+    "q": "What should we do with our phones at night? We should ________.",
+    "hint": "",
+    "answer": "charge them outside the bedroom"
+   },
+   {
+    "n": 6,
+    "q": "What can people read before sleep?",
+    "hint": "",
+    "answer": "A paper book"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Teenagers need less sleep than most adults.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Blue light from screens can make it harder to fall asleep.",
+    "answer": true
+   },
+   {
+    "n": 9,
+    "statement": "Tired students can concentrate better in class.",
+    "answer": false
+   },
+   {
+    "n": 10,
+    "statement": "Going to bed at the same time every day is a good habit.",
+    "answer": true
+   }
+  ]
+ },
+ "chart": {
+  "id": "C-04",
+  "title": "Historical Places Visited by Grade 10 Students",
+  "ylabel": "Percentage of Students",
+  "unit": "%",
+  "categories": [
+   "Forts",
+   "Museums",
+   "Old souqs",
+   "Old mosques",
+   "Archaeological sites"
+  ],
+  "series": [
+   {
+    "name": "Boys",
+    "values": [
+     50,
+     25,
+     20,
+     10,
+     30
+    ]
+   },
+   {
+    "name": "Girls",
+    "values": [
+     35,
+     55,
+     40,
+     20,
+     15
+    ]
+   }
+  ],
+  "model": "The bar chart illustrates the historical places visited by Grade 10 boys and girls in Oman. Overall, boys preferred visiting forts, whereas girls preferred visiting museums.\n\nFirstly, the most popular place for boys was forts, with 50% of students. This was followed by archaeological sites (30%), museums (25%) and old souqs (20%). However, the least popular place for boys was old mosques, with only 10% of students.\n\nIn contrast, the most popular place for girls was museums, with 55% of students. This was followed by old souqs (40%), forts (35%) and old mosques (20%). However, the least popular place for girls was archaeological sites, with only 15% of students.\n\nTo summarize, both boys and girls liked forts. However, the biggest difference was in museums, where 25% of boys chose it, whereas 55% of girls did."
+ },
+ "email": {
+  "id": "E-04",
+  "formal": true,
+  "situation": "Imagine you are Hamad, a Grade 10 student. Your class would like to visit a museum.",
+  "task": "Write a formal email to your principal, Mr Salim. In your email, write about:",
+  "bullets": [
+   "which museum you suggest",
+   "why it is useful for the class",
+   "when and how the class will go"
+  ],
+  "model": "Dear Mr. Salim,\n\nI hope this email finds you in good health and high spirits. I am writing this email to ask for your permission to organise a class visit to the National Museum.\n\nFirst, I suggest the National Museum because it shows the history of Oman. For example, students can see old coins, maps and weapons there. Moreover, the visit will help us with our history lessons.\n\nSecond, we would like to go on Thursday morning, and we can travel by school bus. Therefore, we will return before the end of the school day. However, we will need your approval and a teacher to join us.\n\nThank you for your time and attention. I look forward to your response. Please let me know if you need any further information.\n\nYours sincerely,\nHamad"
+ }
+}

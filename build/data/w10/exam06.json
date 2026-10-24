@@ -1,0 +1,607 @@
+{
+ "id": 6,
+ "title": "Model Exam 6",
+ "listening1": {
+  "context": "You are going to hear a conversation between Aisha and Majid.",
+  "script": [
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "Aisha, have you seen the electricity bill? Dad left it on the kitchen table."
+   },
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "Yes, I saw it this morning. It was ninety-five rials last month. Two months ago it was only eighty."
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "That is a big jump! Dad wants the whole family to cut our electricity use. He asked us to make a plan, because he thinks we waste a lot of energy."
+   },
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "Good idea. First, we should find out what uses the most electricity at home."
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "I read about it online. The television and the fridge use quite a lot, but the air conditioner uses the most, especially in summer."
+   },
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "Then we must use it more carefully. What temperature do we set it at now?"
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "We usually set it at eighteen degrees, because Mum likes a cold room."
+   },
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "That is too cold. Experts say twenty-four degrees is comfortable, and it saves a lot of energy. Let us try it for a week, and then we can see the difference in the bill."
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "I agree. What about the lights? Many of our bulbs are very old."
+   },
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "We can replace them with LED bulbs. They use much less electricity and they last longer. They cost a little more, but we will save money later."
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "Great. And someone must check that the lights are off when we leave a room. Our little brother Hamad loves jobs like that."
+   },
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "Yes, let us give him that job and a small prize every Friday if he does it well."
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "Ha, he will love that. Also, Mum washes clothes almost every day, even when the machine is half empty."
+   },
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "We can ask her to use the washing machine only when it is full. That will save both water and electricity."
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "Good point. If we do all of this, how much do you think we can save?"
+   },
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "I think we can save about twenty rials in the next bill. Maybe more if we are careful."
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "That would be wonderful. Dad will be so proud of us. Let us write the plan and show it to him tonight, after dinner."
+   },
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "Yes, I will make a poster for the kitchen wall, so nobody forgets it. I will draw a big picture of a sun with a smile on it."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "How much was last month's electricity bill?",
+    "options": [
+     "80 rials",
+     "95 rials",
+     "105 rials"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "Which thing uses the most electricity at home?",
+    "options": [
+     "The television",
+     "The fridge",
+     "The air conditioner"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "What temperature will the family set the air conditioner at?",
+    "options": [
+     "24 degrees",
+     "18 degrees",
+     "20 degrees"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "What will the family replace with LED ones?",
+    "options": [
+     "The old light bulbs",
+     "The old fridge",
+     "The old television"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "Who will check that the lights are off?",
+    "options": [
+     "Aisha",
+     "Hamad",
+     "Majid"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "When will their mother use the washing machine?",
+    "options": [
+     "Every day",
+     "Only at night",
+     "Only when it is full"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "How much do Aisha and Majid hope to save in the next bill?",
+    "options": [
+     "10 rials",
+     "30 rials",
+     "20 rials"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about the Inca and Machu Picchu.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Hello, everyone. Today I would like to tell you about the Inca and their famous city, Machu Picchu."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "The Inca built one of the biggest empires in South America. It grew from the city of Cusco, in the country of Peru, and it stretched along the Andes mountains. The Andes are the longest mountain range in the world."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Machu Picchu was built in the middle of the fifteenth century, probably as a royal home for an Inca emperor. It sits on a mountain ridge about two thousand four hundred metres above sea level. Because it is so high, clouds often cover it in the morning."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "The Inca were excellent builders. They cut huge stones so exactly that they fit together without any cement. This is one reason why many walls have survived earthquakes for hundreds of years. The Inca also built terraces, which are flat steps cut into the mountainsides. Farmers grew maize and potatoes on the terraces, and the steps stopped the rain from washing away the soil."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "The Inca had no writing system like ours. Instead, they kept records with knotted strings called quipus. The knots showed numbers, such as the amount of food in a store or the number of people in a village. Special officials learned how to read them."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Machu Picchu was left empty at about the time when Spanish soldiers arrived in the region. The Spanish never found the city, and that is why it was not destroyed. For hundreds of years, only local farmers knew about it. In nineteen eleven, an American explorer called Hiram Bingham reached the site, and soon the whole world heard about it."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Today, Machu Picchu is one of the most famous places on Earth. It is a World Heritage Site, and visitors from every country travel to Peru to see it. Peru now limits the number of visitors each day, because too many people can damage the old stones."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "I hope this talk has shown you how clever the Inca were. Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "Along which mountains did the Inca empire stretch?",
+    "hint": "",
+    "answer": "The Andes"
+   },
+   {
+    "n": 2,
+    "q": "About how high above sea level is Machu Picchu?",
+    "hint": "(metres)",
+    "answer": "2,400 (metres)"
+   },
+   {
+    "n": 3,
+    "q": "What did the Inca use to keep records?",
+    "hint": "",
+    "answer": "Knotted strings / Quipus"
+   },
+   {
+    "n": 4,
+    "q": "In which year did Hiram Bingham reach Machu Picchu?",
+    "hint": "(year)",
+    "answer": "1911"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "The Inca joined their stones with cement.",
+    "answer": false
+   },
+   {
+    "n": 6,
+    "statement": "Machu Picchu is in Peru.",
+    "answer": true
+   },
+   {
+    "n": 7,
+    "statement": "Spanish soldiers destroyed Machu Picchu.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Farmers grew food on terraces.",
+    "answer": true
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Climate change is a serious (1)_____ to our planet. Burning fossil fuels releases greenhouse gases into the air, and the Earth's average (2)_____ is rising every year. As a result, ice caps are starting to (3)_____ and sea levels are going up. Many animals are losing their homes, and some cities are suffering from floods and droughts. Governments must act quickly, but every (4)_____ can also help to solve the problem. We can switch off lights, recycle our rubbish, walk to school, and choose (5)_____ products instead of single-use ones.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "reward",
+     "festival",
+     "topic",
+     "threat"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 2,
+    "options": [
+     "pressure",
+     "temperature",
+     "capacity",
+     "distance"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "melt",
+     "burn",
+     "install",
+     "convert"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "reporter",
+     "pyramid",
+     "individual",
+     "turbine"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "options": [
+     "reusable",
+     "harmful",
+     "expensive",
+     "formal"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Huda",
+    "text": "Why did you come to school by bus today, Ali?"
+   },
+   {
+    "speaker": "Ali",
+    "text": "I came by bus [[1]] my bike has a flat tyre."
+   },
+   {
+    "speaker": "Huda",
+    "text": "I see. The new bus line [[2]] opened last month, wasn't it?"
+   },
+   {
+    "speaker": "Ali",
+    "text": "Yes, and it is much [[3]] than the old one. A ticket costs only a few baisas."
+   },
+   {
+    "speaker": "Huda",
+    "text": "That is good. I think buses are the [[4]] way to travel in a city."
+   },
+   {
+    "speaker": "Ali",
+    "text": "I agree. If more people [[5]] the bus, there would be less pollution."
+   },
+   {
+    "speaker": "Huda",
+    "text": "Exactly. Let us tell our friends about it."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "because of",
+     "because"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "is",
+     "was"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "cheap",
+     "cheaper"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "best",
+     "good"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "take",
+     "took"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "reading1": {
+  "title": "Power from the Sea",
+  "passage": [
+   "The sea is always moving, and this movement contains a huge amount of energy. Engineers can now turn it into electricity in two main ways: tidal power and wave power. Both are renewable, because the sea will never run out.",
+   "Tides are the regular rise and fall of the sea level. They are caused mainly by the pull of the moon. In most places, the sea rises and falls twice a day. To use this energy, engineers build a barrage, which is a low dam across the mouth of a river or a bay. When the tide comes in, the water flows through the barrage and turns turbines. When the tide goes out, the water flows back and turns them again.",
+   "The first big tidal power station was built at La Rance in France, and it opened in 1966. It has produced electricity for many decades, so it proves that the idea works.",
+   "Wave power is different. Wind blowing across the sea makes waves. Some machines float on the surface and move up and down with the waves, and this movement drives a generator inside the machine. Other machines are fixed to the sea floor or to the coast. Scotland has a testing centre in Orkney, where companies try their machines in the real sea.",
+   "Both types of energy have important advantages. They do not cause air pollution and they do not release greenhouse gases. Tides are also very predictable, because scientists can say when high tide will come many years in advance. Waves are less predictable, because they depend on the weather.",
+   "However, there are some problems. Tidal barrages and wave machines are expensive to build. Barrages can harm fish and birds, because they change the places where these animals live. In rough seas, storms can damage the machines. Also, only a few coasts are suitable, because tidal power needs very big tides and wave power needs strong waves.",
+   "Because of these problems, tidal and wave power produce only a tiny part of the world's electricity today. However, many countries are researching new designs, and experts believe that the cost will fall in the future."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "What are the two main ways of getting electricity from the sea?",
+    "options": [
+     "Wind power and solar power",
+     "Tidal power and wave power",
+     "Wave power and steam power"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "What mainly causes the tides?",
+    "options": [
+     "The wind",
+     "The sun's heat",
+     "The pull of the moon"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "What is a barrage?",
+    "options": [
+     "A low dam across a river mouth or bay",
+     "A machine that floats on the waves",
+     "A type of wind turbine"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "Where was the first big tidal power station built?",
+    "options": [
+     "In Scotland",
+     "In France",
+     "In Orkney"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "Why are tides more predictable than waves?",
+    "options": [
+     "Because waves depend on the weather",
+     "Because tides are smaller",
+     "Because tides happen only once a day"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "What problem can barrages cause?",
+    "options": [
+     "They make the air dirty",
+     "They use too much oil",
+     "They can harm fish and birds"
+    ],
+    "answer": 2
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "Wind blowing across the sea makes ________.",
+    "answer": "waves"
+   },
+   {
+    "n": 8,
+    "q": "Scotland has a testing centre for wave machines in ________.",
+    "answer": "Orkney"
+   },
+   {
+    "n": 9,
+    "q": "Tidal and wave power do not cause air ________.",
+    "answer": "pollution"
+   },
+   {
+    "n": 10,
+    "q": "Experts believe that the ________ of this energy will fall in the future.",
+    "answer": "cost"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "Fake News",
+  "passage": [
+   "Every day we read, watch and share hundreds of messages online. Some of them are true, but some of them are fake news. Fake news is false information that looks like real news. Sometimes it is created as a joke, sometimes it is created to make money, and sometimes it is created to make people believe something that is not true.",
+   "Fake news spreads very quickly on social media, because people often share a post without checking it. A shocking headline gets more clicks, and many websites earn money from clicks. For this reason, some writers choose exciting titles even when the story is not true.",
+   "Fake news can cause real harm. For example, a false message about a cure for an illness may stop people from visiting a doctor. During an emergency, such as a storm, a false warning can scare people and make them leave their homes for no reason. It can also damage the good name of an innocent person.",
+   "So how can we spot fake news? First, check the source. Is it a well-known news organisation? Does the website show the name of the writer and a way to contact it? Second, read the whole article, not only the headline. Third, check the date, because an old story is sometimes shared as if it were new. Finally, look for the same story on other trusted websites. If only one website reports it, be careful.",
+   "Photos and videos can also be fake. With a computer, it is easy to change a picture or to put it in a different story. You can use a reverse image search to find where a photo first appeared. Often, you will discover that it is much older, or that it comes from a different country.",
+   "Today, many countries have fact-checking organisations. Their job is to study popular stories and to tell the public whether they are true or false. Their websites are a very useful place to check a story that seems strange.",
+   "The most important rule is to think before you share. If you are not sure that a message is true, do not send it to your friends. By doing this, each of us can help to stop the spread of false information."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What is fake news?",
+    "hint": "",
+    "answer": "False information (that looks like real news)"
+   },
+   {
+    "n": 2,
+    "q": "Why do some writers choose shocking headlines?",
+    "hint": "",
+    "answer": "To get more clicks"
+   },
+   {
+    "n": 3,
+    "q": "What may a false message about a cure stop people from doing?",
+    "hint": "",
+    "answer": "Visiting a doctor"
+   },
+   {
+    "n": 4,
+    "q": "What should you check first to spot fake news?",
+    "hint": "",
+    "answer": "The source"
+   },
+   {
+    "n": 5,
+    "q": "What should you check because an old story may be shared as new?",
+    "hint": "",
+    "answer": "The date"
+   },
+   {
+    "n": 6,
+    "q": "What can you use to find where a photo first appeared?",
+    "hint": "",
+    "answer": "A reverse image search"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Fake news is always created as a joke.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "A false warning during an emergency can scare people.",
+    "answer": true
+   },
+   {
+    "n": 9,
+    "statement": "If only one website reports a story, it is certainly true.",
+    "answer": false
+   },
+   {
+    "n": 10,
+    "statement": "Fact-checking organisations tell the public whether stories are true or false.",
+    "answer": true
+   }
+  ]
+ },
+ "chart": {
+  "title": "Low-carbon Transport Chosen by Men and Women",
+  "ylabel": "Percentage of People",
+  "unit": "%",
+  "categories": [
+   "Bus",
+   "Walking",
+   "Electric car",
+   "Train",
+   "Cycling"
+  ],
+  "series": [
+   {
+    "name": "Men",
+    "values": [
+     60,
+     10,
+     45,
+     40,
+     25
+    ]
+   },
+   {
+    "name": "Women",
+    "values": [
+     50,
+     55,
+     20,
+     30,
+     15
+    ]
+   }
+  ],
+  "model": "The bar chart illustrates the types of low-carbon transport chosen by men and women. Overall, men preferred the bus, whereas women preferred walking.\nFirstly, the most popular type of transport for men was the bus, with 60%. This was followed by the electric car (45%), the train (40%) and cycling (25%). However, the least popular type of transport for men was walking, with only 10%.\nIn contrast, the most popular type of transport for women was walking, with 55%. This was followed by the bus (50%), the train (30%) and the electric car (20%). However, the least popular type of transport for women was cycling, with only 15%.\nTo summarize, both men and women liked the bus. However, the biggest difference was in walking, where 10% of men chose it, whereas 55% of women did."
+ },
+ "email": {
+  "formal": true,
+  "situation": "Imagine you are Salim/Salma. There are no recycling bins in your neighbourhood, so people throw bottles, paper and plastic on the ground.",
+  "task": "Write a formal email to the city council asking them to place recycling bins in your neighbourhood. In your email include the following:",
+  "bullets": [
+   "Why recycling bins are needed.",
+   "What problems the rubbish causes.",
+   "Where the bins should be placed."
+  ],
+  "model": "Dear Sir/Madam,\n\nI hope this email finds you in good health and high spirits. I am writing this email to ask you to place recycling bins in our neighbourhood.\n\nFirst, recycling bins are needed because people have nowhere to put plastic, paper and glass. For example, many families throw bottles in the street. Moreover, bins would help us to protect the environment.\n\nSecond, rubbish causes serious problems. For example, it makes our streets dirty and attracts insects. Moreover, the best places for the bins are near the park, the mosque and the local shop.\n\nThank you for your time and attention. I look forward to your response. Please let me know if you need any further information.\n\nYours faithfully,\nSalim"
+ }
+}

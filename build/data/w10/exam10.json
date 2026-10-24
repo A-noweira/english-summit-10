@@ -1,0 +1,615 @@
+{
+ "id": 10,
+ "title": "Model Exam 10",
+ "listening1": {
+  "context": "You are going to hear a conversation between Aisha and Yousef.",
+  "script": [
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "Hi, Yousef! Are you ready for the eco-club meeting? We must decide our first activity today. Everyone in the club is waiting for our plan."
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "Hello, Aisha. Yes, I have some ideas. I think we should plant trees in the school yard first."
+   },
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "That is a nice idea, but trees need a lot of care and water. I would like to begin with something simpler, so that the new members enjoy their first day. What about cleaning the beach near the school?"
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "Good point. There is plastic everywhere on that beach, and it is dangerous for sea animals. So the beach clean-up will be our first activity. We can plant trees later."
+   },
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "Great. When should we do it? Friday is a day off, but many students are with their families then."
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "I agree. Let us choose Saturday morning, because the weather is cooler and everyone can come."
+   },
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "Perfect. How many students do you think will join us?"
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "Last week, thirty-five students put their names on the list. Not fifty, as we hoped, but it is still a good number."
+   },
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "Yes, thirty-five is enough for a big beach. We will need permission from the principal, of course."
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "I can ask him tomorrow. You wrote the plan, so I will speak to him about it. You can prepare the posters."
+   },
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "Fine. I will draw them tonight and put them on the walls of the school tomorrow. What equipment do we need?"
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "Students should bring their own water bottles and hats. The school will provide gloves and large bags, so nobody touches the rubbish with bare hands."
+   },
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "That is very safe, and it is a good rule for everyone. And what shall we do with all the plastic we collect?"
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "We will not throw it away again. A truck from the recycling centre will take it, and the centre will turn it into new products."
+   },
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "Wonderful. I am sure the members will be very happy. After this activity, what is our next project?"
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "I still want to plant trees. We can start a small garden in the school yard next month, and every class can look after one tree."
+   },
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "I love that idea. It will make our school greener and more beautiful, and the students will learn how to care for plants."
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "Then we have a clear plan. Let us tell the club members now."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "What will be the eco-club's first activity?",
+    "options": [
+     "Planting trees",
+     "Cleaning the beach",
+     "Making posters"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "When will the activity take place?",
+    "options": [
+     "On Friday",
+     "On Saturday morning",
+     "On Saturday evening"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "How many students have put their names on the list?",
+    "options": [
+     "Fifty",
+     "Thirty-five",
+     "Fifteen"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "q": "Who will ask the principal for permission?",
+    "options": [
+     "Aisha",
+     "The science teacher",
+     "Yousef"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "What will the school provide?",
+    "options": [
+     "Water bottles",
+     "Gloves and large bags",
+     "Hats"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "What will happen to the plastic they collect?",
+    "options": [
+     "A truck will take it to a recycling centre.",
+     "They will burn it on the beach.",
+     "They will keep it in the school."
+    ],
+    "answer": 0
+   },
+   {
+    "n": 7,
+    "q": "What is the club's next project?",
+    "options": [
+     "A small garden in the school yard",
+     "A poster competition",
+     "A visit to a factory"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about the ancient Olympic Games.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Hello, class. Today I am going to talk about the ancient Olympic Games."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "The ancient Games took place in a place called Olympia, in the south of Greece. Olympia was not a big city. It was a holy place with temples and sports grounds."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "The first Games that we know about were held in seven hundred and seventy-six before Christ. After that, people held them every four years. This is the same gap that we have today between one Olympics and the next. They were part of a religious festival to honour Zeus, the king of the Greek gods."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Athletes came from many Greek cities to take part. While the Games were taking place, wars between the cities stopped, so that athletes and visitors could travel safely."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "There were many events. The first and oldest event was a running race. Later, people added wrestling, boxing, the long jump, throwing the discus and the javelin, and the famous chariot races with horses."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "The winners did not get gold medals. Their prize was a crown of olive leaves, called a wreath. It looks simple, but it was a great honour. When the winners returned home, their cities welcomed them as heroes."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Only men could take part in the ancient Games. Women were not allowed to compete. The athletes trained for months before the festival, and they came from rich and poor families alike."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "The Games continued for more than one thousand years. Then they stopped, and for a long time the world did not see them again."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Everything changed in eighteen ninety-six. A Frenchman called Pierre de Coubertin helped to start the modern Olympic Games. The first modern Games took place in Athens, the capital of Greece. Athens was a perfect choice, because Greece was the home of the ancient Games."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Today, athletes from more than two hundred countries take part, and both men and women compete in many different sports. The Olympic Games remain a wonderful link between the ancient world and our own time. Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "Where did the ancient Olympic Games take place?",
+    "hint": "",
+    "answer": "Olympia"
+   },
+   {
+    "n": 2,
+    "q": "How often were the ancient Games held?",
+    "hint": "",
+    "answer": "Every four years"
+   },
+   {
+    "n": 3,
+    "q": "What was the prize for the winners?",
+    "hint": "",
+    "answer": "A crown/wreath of olive leaves"
+   },
+   {
+    "n": 4,
+    "q": "Which city held the first modern Olympic Games?",
+    "hint": "(city)",
+    "answer": "Athens"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "The ancient Games were held every two years.",
+    "answer": false
+   },
+   {
+    "n": 6,
+    "statement": "Wars between cities stopped during the Games.",
+    "answer": true
+   },
+   {
+    "n": 7,
+    "statement": "Women could compete in the ancient Games.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "The ancient Games continued for more than one thousand years.",
+    "answer": true
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Our school has started a new campaign to protect the (1)_____. Students collect plastic bottles and paper from every classroom, and a truck takes them to a recycling centre. This helps to reduce the amount of (2)_____ that ends up in the sea. The principal says that it is not enough to talk about the problem, because every person must take (3)_____. The school also wants to (4)_____ its electricity from the sun, so it has put solar panels on the roof. As a (5)_____, the school now pays much less for its power, and the students are proud of their eco-friendly school.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "environment",
+     "brand",
+     "comment",
+     "century"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "debate",
+     "waste",
+     "button",
+     "design"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "action",
+     "disaster",
+     "attention",
+     "evidence"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "generate",
+     "burn",
+     "bring up",
+     "give away"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "cause",
+     "danger",
+     "result",
+     "flood"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Our eco-club [[1]] plant trees in the school yard next week."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "That sounds great! The garden was [[2]] by students last year, wasn't it?"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Yes. If we collected more bottles, we [[3]] win the school prize."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "This is the [[4]] successful project in our school."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "I agree. We have worked on it [[5]] September, and everyone is proud."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "will",
+     "would"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "building",
+     "built"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "will",
+     "would"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "more",
+     "most"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "for",
+     "since"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "reading1": {
+  "title": "Smart Homes",
+  "passage": [
+   "A smart home is a house where many devices are connected to the internet and can be controlled with a smartphone, a tablet or a voice command. These devices can switch lights on and off, change the temperature and even lock the doors.",
+   "One of the most popular smart devices is the smart thermostat. It learns when the family is at home and sets the air conditioning to a comfortable temperature. When nobody is in the house, it reduces the cooling, so it saves both energy and money.",
+   "Smart lights are another good example. They can switch on automatically when someone enters a room and switch off when the room is empty. Many of them use LED bulbs, which need much less electricity than old bulbs. Owners can also control them from the other side of the world with an app, so they can switch off a light that they forgot at home.",
+   "Security is another reason why people buy smart devices. A smart doorbell has a small camera, so owners can see who is at the door, even when they are at work. Smart locks open with a code or a phone instead of a key, so nobody is locked out if they lose a key.",
+   "Smart homes can also help the environment. Smart plugs turn off devices that are not being used, and smart meters show families how much electricity they use every day. Some homes have solar panels linked to a system that stores extra energy in a battery for use at night.",
+   "However, smart homes have some disadvantages. The devices can be expensive to buy, and they need a good internet connection. If the internet stops working, some devices stop working too. Another problem is privacy. Hackers may try to enter the system, so families need strong passwords.",
+   "Some people think that a smart home is only for rich families. This is changing, because a simple smart plug or smart bulb is now quite cheap, and a family can add one device at a time. Experts say that smart homes will become cheaper and more common in the future. More families in Oman and the rest of the world will use smart technology to save energy and make daily life easier."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "Which of these can a smart home do?",
+    "options": [
+     "Cook dinner for the family",
+     "Lock the doors with a phone",
+     "Repair broken windows"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "What does a smart thermostat do when nobody is at home?",
+    "options": [
+     "It reduces the cooling.",
+     "It switches off the internet.",
+     "It turns on the lights."
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "Why are LED bulbs good for the owners?",
+    "options": [
+     "They are very colourful.",
+     "They last for one day.",
+     "They need much less electricity."
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "How does a smart doorbell help the owners?",
+    "options": [
+     "It lets them see who is at the door.",
+     "It opens the door with a key.",
+     "It tells them the time."
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "What do some homes with solar panels store in a battery?",
+    "options": [
+     "Hot water",
+     "Extra energy",
+     "Internet data"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "Why do families need strong passwords?",
+    "options": [
+     "Because smart devices are cheap",
+     "Because hackers may try to enter the system",
+     "Because the internet is slow"
+    ],
+    "answer": 1
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "A smart home can be controlled by a smartphone, a tablet or a ________ command.",
+    "answer": "voice"
+   },
+   {
+    "n": 8,
+    "q": "Smart ________ turn off devices that are not being used.",
+    "answer": "plugs"
+   },
+   {
+    "n": 9,
+    "q": "Smart locks open with a ________ or a phone.",
+    "answer": "code"
+   },
+   {
+    "n": 10,
+    "q": "If the ________ stops working, some smart devices stop working too.",
+    "answer": "internet"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "Influencers and Vlogging",
+  "passage": [
+   "Vlogging means making videos about your life, your ideas or your hobbies and sharing them online. The word \"vlog\" comes from \"video\" and \"blog\". Today, millions of people around the world watch vlogs every day. Some vlogs are funny, some are serious, and some teach us how to do something new.",
+   "Some vloggers become influencers. An influencer is a person with a large number of followers who can affect what other people think, buy or do. Companies often pay influencers to show their products to viewers.",
+   "Many influencers begin in a simple way. They use a phone, a small tripod and free editing apps. Successful ones choose a topic that they love, such as cooking, travel, sport or gaming, and they publish videos regularly, for example once a week.",
+   "Being an influencer can have real benefits. Some earn money from advertisements, and some are invited to special events. A few even become famous in their own country. Others use their fame for good reasons. For example, some teach languages, and others encourage their followers to recycle or to protect nature.",
+   "However, the job is harder than it looks. Making one ten-minute video can take many hours because the vlogger must plan, film, edit and answer comments. Some influencers also feel stress because they worry about the number of likes and views.",
+   "There are other dangers too. Some influencers show a perfect life online that is not real, and young followers may feel unhappy when they compare themselves with it. Also, not every advert is honest, so viewers should be careful before they buy something.",
+   "Experts give some advice. Follow people who share useful and truthful content, limit the time you spend online, and never share private information such as your address. If a video makes you feel bad, stop watching it.",
+   "In short, influencers have a lot of power, and they should use it carefully. Vlogging can be a great way to learn new skills and meet new people, as long as it is done safely and honestly."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "Which two words does the word \"vlog\" come from?",
+    "hint": "",
+    "answer": "Video and blog"
+   },
+   {
+    "n": 2,
+    "q": "Who often pays influencers to show products?",
+    "hint": "",
+    "answer": "Companies"
+   },
+   {
+    "n": 3,
+    "q": "What do many beginners use to make their videos?",
+    "hint": "",
+    "answer": "A phone, a small tripod and (free) editing apps"
+   },
+   {
+    "n": 4,
+    "q": "How often do successful influencers publish videos?",
+    "hint": "",
+    "answer": "Regularly/Once a week"
+   },
+   {
+    "n": 5,
+    "q": "Why can making one ten-minute video take many hours? Because the vlogger must ________",
+    "hint": "",
+    "answer": "plan, film, edit and answer comments"
+   },
+   {
+    "n": 6,
+    "q": "What should followers never share online?",
+    "hint": "",
+    "answer": "Private information/Their address"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Influencers cannot affect what people buy.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Some influencers encourage their followers to recycle.",
+    "answer": true
+   },
+   {
+    "n": 9,
+    "statement": "Making one video is quick and easy.",
+    "answer": false
+   },
+   {
+    "n": 10,
+    "statement": "Not every advert online is honest.",
+    "answer": true
+   }
+  ]
+ },
+ "chart": {
+  "title": "Climate-Change Worries of Grade 10 Students",
+  "ylabel": "Percentage of students",
+  "unit": "%",
+  "categories": [
+   "Pollution",
+   "Rising Temperatures",
+   "Extreme Weather",
+   "Water Shortage",
+   "Loss of Wildlife"
+  ],
+  "series": [
+   {
+    "name": "Boys",
+    "values": [
+     45,
+     40,
+     30,
+     20,
+     15
+    ]
+   },
+   {
+    "name": "Girls",
+    "values": [
+     25,
+     35,
+     10,
+     40,
+     50
+    ]
+   }
+  ],
+  "model": "The bar chart illustrates the climate-change worries of Grade 10 boys and girls. Overall, boys worried most about pollution, whereas girls worried most about loss of wildlife.\nFirstly, the most popular worry for boys was pollution, with 45%. This was followed by rising temperatures (40%), extreme weather (30%) and water shortage (20%). However, the least popular worry for boys was loss of wildlife, with only 15%.\nIn contrast, the most popular worry for girls was loss of wildlife, with 50%. This was followed by water shortage (40%), rising temperatures (35%) and pollution (25%). However, the least popular worry for girls was extreme weather, with only 10%.\nTo summarize, both boys and girls worried about rising temperatures. However, the biggest difference was in loss of wildlife, where 15% of boys chose it, whereas 50% of girls did.",
+  "note": "Boys high to low: pollution 45, temperatures 40, extreme weather 30, water 20, wildlife 15. Girls: wildlife 50, water 40, temperatures 35, pollution 25, extreme weather 10. Biggest gap: wildlife (35 points).",
+  "id": "C-10",
+  "session": "Sem I Model Exam"
+ },
+ "email": {
+  "formal": true,
+  "situation": "Imagine you are Salim/Salma. Your school produces a lot of plastic and paper waste, and you have an idea to encourage students to recycle more.",
+  "task": "Write a formal email to your principal proposing a recycling competition between classes. In your email include the following:",
+  "bullets": [
+   "Why a recycling competition is a good idea.",
+   "How the competition could work.",
+   "What prizes could be given to the winning class."
+  ],
+  "model": "Dear Mr Khalid,\n\nI hope this email finds you in good health and high spirits. I am writing this email to propose a recycling competition between the classes of our school.\n\nFirst, a recycling competition is a good idea because it teaches students to care about the environment. For example, many students throw bottles and paper in the same bin. Moreover, the competition would make recycling fun.\n\nSecond, each class could collect plastic and paper for one month, and the teachers could weigh the waste every Thursday. Therefore, the class with the most recycled waste would win. For example, the prize could be a trip to a recycling centre. Moreover, a certificate could be given to every student.\n\nThank you for your time and attention. I look forward to your response. Please let me know if you need any further information.\n\nYours sincerely,\nSalim",
+  "id": "E-10",
+  "session": "Sem I Model Exam"
+ }
+}

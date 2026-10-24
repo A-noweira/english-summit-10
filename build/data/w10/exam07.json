@@ -1,0 +1,579 @@
+{
+ "id": 7,
+ "title": "Model Exam 7",
+ "listening1": {
+  "context": "You are going to hear a conversation between Noor and Majid.",
+  "script": [
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "Hi, Majid! You look very busy. Are you working on something for the science fair?"
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "Hi, Noor. Yes, I am. I have been thinking about my project for two weeks. At first, I wanted to build a small wind turbine, but then I changed my mind."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "Oh, why? Did your teacher say no?"
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "No, she liked the idea. And there is plenty of wind near my house. The problem is the cost. The parts for a turbine cost too much for me."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "That is a pity. So what will you make instead?"
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "I will make a solar-powered fan. It uses a small solar panel to turn the blades, so it works without batteries or a plug. I thought about a solar car too, but a fan is simpler."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "That is a brilliant idea, and it is perfect for Oman because we have so much sunshine. Where will you get the solar panel?"
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "I will buy it from my uncle's shop. The school lab only has old panels, and online shops take too long to deliver."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "How much does the panel cost?"
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "It is not ten rials. My uncle gave me a special price because it is for school, so I will pay only five rials."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "That is very cheap! When is the science fair? I thought it was on Tuesday."
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "No, it is not on Tuesday. It will be on Thursday, in the school hall, and the judges will arrive at nine o'clock."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "Then we should start soon. How can I help you?"
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "Could you design the poster? Your drawings are much better than mine. I can write the report myself, because I have already collected all the facts."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "Of course. I will make a big, colourful poster that explains how solar energy works."
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "Thank you, Noor. Our teacher says the best project will win a prize for the whole class. Last year, the winners got a trip to the science centre, and everybody enjoyed it."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "Then let us do our best. Come to my house after school, and we can plan everything together."
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "Great idea. My mother can make us some tea and cake while we work."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "That sounds lovely. I am sure our project will be the best one this year. I am so excited about it!"
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "Me too. See you there!"
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "What did Majid want to build at first?",
+    "options": [
+     "A solar car",
+     "A wind turbine",
+     "A water wheel"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "Why did Majid change his plan?",
+    "options": [
+     "The parts cost too much.",
+     "There was not enough wind.",
+     "His teacher did not like it."
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "What will Majid make for the science fair?",
+    "options": [
+     "A solar-powered fan",
+     "A solar oven",
+     "A small battery"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "Where will Majid buy the solar panel?",
+    "options": [
+     "From the school lab",
+     "From an online shop",
+     "From his uncle's shop"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "How much will Majid pay for the panel?",
+    "options": [
+     "Five rials",
+     "Ten rials",
+     "Fifteen rials"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "When is the science fair?",
+    "options": [
+     "On Tuesday",
+     "On Thursday",
+     "On Sunday"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "What will Noor do to help Majid?",
+    "options": [
+     "Write the report",
+     "Collect the facts",
+     "Design the poster"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about the history of the mobile phone.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Good morning, everyone. Today I will talk about the history of the mobile phone. It is a short history, but it has changed our lives very quickly. Let us start in the early nineteen seventies. At that time, telephones were fixed to the wall, and people could only call from home or from the office. Then, in nineteen seventy-three, an engineer called Martin Cooper made the first call from a handheld mobile phone. He worked for a company called Motorola, and he made the call in a street in New York. The phone was big and heavy. It weighed about one kilogram, and you could talk for only about thirty minutes before the battery was empty. It took ten more years before ordinary people could buy a mobile phone. The first one on sale appeared in nineteen eighty-three. It was very expensive, so only rich people and business people owned one. Many people called it the brick because of its size. After that, phones became smaller, lighter and cheaper. In nineteen ninety-two, an engineer sent the first text message in history. It had only two words, Merry Christmas. Nobody imagined that one day people would send billions of messages every day. Two years later, in nineteen ninety-four, a company called IBM made the first smartphone. It was named the IBM Simon. It had a touch screen, and people could use it to send emails and keep a calendar. However, it did not sell in large numbers. The big change came in two thousand and seven, when Apple showed the first iPhone. After that, phones with large screens, good cameras and apps became popular all over the world. Today, most teenagers have a mobile phone, and they use it for much more than calls. They take photos, watch videos, study, play games and read the news. So, what will the next phone look like? Perhaps one of you will be the person who invents it. Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "Who made the first call from a handheld mobile phone?",
+    "hint": "(name)",
+    "answer": "Martin Cooper/Cooper"
+   },
+   {
+    "n": 2,
+    "q": "Which company did he work for?",
+    "hint": "",
+    "answer": "Motorola"
+   },
+   {
+    "n": 3,
+    "q": "What were the two words in the first text message?",
+    "hint": "",
+    "answer": "Merry Christmas"
+   },
+   {
+    "n": 4,
+    "q": "What was the first smartphone called?",
+    "hint": "",
+    "answer": "(The) IBM Simon/Simon"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "The first handheld mobile phone was small and light.",
+    "answer": false
+   },
+   {
+    "n": 6,
+    "statement": "Ordinary people could buy a mobile phone from 1983.",
+    "answer": true
+   },
+   {
+    "n": 7,
+    "statement": "The IBM Simon sold in very large numbers.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Most teenagers today use their phones for more than calls.",
+    "answer": true
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Oman has strong sunshine for most of the year, so more and more families are using solar panels. A solar panel can (1)_____ sunlight into (2)_____ for the home, and this power can run lights, fans and air conditioners. Unlike coal and oil, solar energy is (3)_____, which means that it does not harm the environment. This is one big (4)_____ of using it. The panels are not (5)_____ to buy at the beginning, but families save money over the years because the sun's energy is free. Experts hope that more schools and mosques will fit panels on their roofs.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "burn",
+     "convert",
+     "discover",
+     "charge"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "evidence",
+     "capacity",
+     "electricity",
+     "biomass"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "options": [
+     "dangerous",
+     "enormous",
+     "creative",
+     "eco-friendly"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 4,
+    "options": [
+     "disadvantage",
+     "advantage",
+     "consequence",
+     "emission"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "colourful",
+     "ancient",
+     "cheap",
+     "effective"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Huda, have you finished your science fair project [[1]]?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Not yet. I have been working on it [[2]] last Sunday."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "What is it about? I think it is [[3]] interesting than last year's project."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "It is about solar panels. If I [[4]] more time, I would add a model of a wind farm too."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Don't worry. Last year, the winners [[5]] announced in the school hall."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Then I hope my project will be one of the best!"
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "already",
+     "yet"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "since",
+     "for"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "most",
+     "more"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "had",
+     "have"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "were",
+     "was"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "reading1": {
+  "title": "Inventions of Ancient China",
+  "passage": [
+   "Ancient China was one of the world's great civilisations. It began along the Yellow River more than four thousand years ago. The Chinese people were creative and curious, and their inventions changed life in many parts of the world.",
+   "One famous invention is paper. Before paper, people wrote on bamboo strips, which were heavy, or on silk, which was very expensive. According to tradition, an official called Cai Lun improved the way of making paper about two thousand years ago. He used tree bark, old cloth and fishing nets. Paper was cheap and light, so more people could learn to read and write.",
+   "Printing came next. At first, workers cut words into wooden blocks, covered them with ink and pressed them onto paper. This method was slow, because a new block was needed for every page. Later, in the eleventh century, a man called Bi Sheng made movable letters from clay. Printers could use the same letters again and again to make different pages.",
+   "The compass was another important invention. The first compasses were not made for sailors. People used them to choose lucky places to build houses. Later, sailors began to use the compass to find their way at sea, even when clouds hid the sun and the stars. This helped them to travel further and to trade with other countries.",
+   "Gunpowder was found by accident. Chinese experts were trying to make a medicine that would help people to live for a very long time. Instead, they mixed chemicals that burned very fast. Soon, people used gunpowder to make fireworks for festivals. Only later did armies use it as a weapon.",
+   "Silk was also a Chinese secret. Workers made silk from the threads of silkworms, and for many centuries nobody else knew how. Merchants carried silk along the Silk Road, a long trade route that joined China with the Middle East and Europe. Ideas and other products travelled along the same road.",
+   "Many of these inventions reached other countries, where people improved them. They show how ancient China helped to build the modern world."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "Where did ancient Chinese civilisation begin?",
+    "options": [
+     "Near the Silk Road",
+     "On the sea coast",
+     "Along the Yellow River"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "q": "Why was paper better than bamboo and silk?",
+    "options": [
+     "It was cheaper and lighter.",
+     "It was stronger and softer.",
+     "It was more colourful."
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "Why was early printing with wooden blocks slow?",
+    "options": [
+     "The ink dried very fast.",
+     "A new block was needed for every page.",
+     "There were not enough workers."
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "q": "What were the first compasses used for?",
+    "options": [
+     "Finding the way at sea",
+     "Choosing lucky places for houses",
+     "Telling the time"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "How was gunpowder discovered?",
+    "options": [
+     "By accident, while making a medicine",
+     "By soldiers during a war",
+     "By sailors at sea"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "What was the Silk Road?",
+    "options": [
+     "A river in China",
+     "A kind of cloth",
+     "A long trade route"
+    ],
+    "answer": 2
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "Cai Lun made paper from tree bark, old cloth and ________.",
+    "answer": "fishing nets"
+   },
+   {
+    "n": 8,
+    "q": "Bi Sheng made movable letters from ________.",
+    "answer": "clay"
+   },
+   {
+    "n": 9,
+    "q": "Sailors used the compass even when ________ hid the sun and the stars.",
+    "answer": "clouds"
+   },
+   {
+    "n": 10,
+    "q": "Merchants carried silk along the ________.",
+    "answer": "Silk Road"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "The Arabian Oryx",
+  "passage": [
+   "The Arabian oryx is one of the most beautiful animals of the Arabian Peninsula. It has a white coat, dark legs and two long, straight horns.",
+   "The oryx is perfectly made for desert life. Its white coat reflects the strong sun, and its wide hooves help it to walk on soft sand. It does not need to drink every day, because it gets water from the plants it eats. It often travels long distances to find fresh grass after rain.",
+   "For thousands of years, the oryx lived safely in the deserts of Arabia. Then, in the twentieth century, hunters began to use cars and guns. Many oryx were killed for their meat and horns, and their number fell quickly. In 1972, the last wild oryx was shot in Oman, and the animal disappeared from the wild.",
+   "Luckily, some oryx were still alive in zoos. Experts began to breed them carefully, and the herds slowly grew. In 1982, the first oryx were released in the Jiddat al-Harasis, a large desert area in the centre of Oman. Rangers watched over them and protected them from hunters.",
+   "The plan worked. Calves were born in the wild, and the oryx became strong again. Rangers counted the herds every year, and they saw that the number of animals was growing. Today, the Arabian oryx is often called a conservation success story. It shows that people can save an animal if they act in time.",
+   "However, many other animals are still in danger. Some lose their homes because people cut down forests or build new cities, roads and farms. Others suffer from pollution, and climate change is making some places too hot or too dry. Sea turtles, for example, need clean and quiet beaches to lay their eggs.",
+   "Everyone can help. We can save water and electricity, avoid single-use plastic and learn more about wild animals. Small actions, repeated by many people, can protect the animals that share our planet. If we learn about them today, we can keep them safe for the children of tomorrow."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What colour is the coat of the Arabian oryx?",
+    "hint": "",
+    "answer": "White"
+   },
+   {
+    "n": 2,
+    "q": "Where does the oryx get water from?",
+    "hint": "",
+    "answer": "(From) the plants (it eats)/Plants"
+   },
+   {
+    "n": 3,
+    "q": "When was the last wild oryx shot in Oman?",
+    "hint": "(year)",
+    "answer": "(In) 1972"
+   },
+   {
+    "n": 4,
+    "q": "Where were some oryx still alive after they disappeared from the wild?",
+    "hint": "",
+    "answer": "(In) zoos"
+   },
+   {
+    "n": 5,
+    "q": "Where were the first oryx released in Oman?",
+    "hint": "(place)",
+    "answer": "(In) the Jiddat al-Harasis"
+   },
+   {
+    "n": 6,
+    "q": "What can people do to help wild animals?",
+    "hint": "(list one)",
+    "answer": "Save water/Save electricity/Avoid single-use plastic/Learn more about wild animals"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Wide hooves help the oryx to walk on soft sand.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "The Arabian oryx must drink water every day.",
+    "answer": false
+   },
+   {
+    "n": 9,
+    "statement": "Releasing oryx in the wild in Oman did not work.",
+    "answer": false
+   },
+   {
+    "n": 10,
+    "statement": "Climate change is a danger for some animals.",
+    "answer": true
+   }
+  ]
+ },
+ "chart": {
+  "title": "Favourite Types of Renewable Energy among Boys and Girls",
+  "ylabel": "Percentage of Students",
+  "unit": "%",
+  "categories": [
+   "Solar",
+   "Wind",
+   "Water",
+   "Biomass",
+   "Earth Heat"
+  ],
+  "series": [
+   {
+    "name": "Boys",
+    "values": [
+     55,
+     30,
+     40,
+     10,
+     20
+    ]
+   },
+   {
+    "name": "Girls",
+    "values": [
+     45,
+     60,
+     35,
+     25,
+     15
+    ]
+   }
+  ],
+  "model": "The bar chart illustrates the types of renewable energy preferred by boys and girls. Overall, boys preferred solar energy, whereas girls preferred wind energy.\nFirstly, the most popular type of energy for boys was solar, with 55%. This was followed by water (40%), wind (30%) and earth heat (20%). However, the least popular type of energy for boys was biomass, with only 10%.\nIn contrast, the most popular type of energy for girls was wind, with 60%. This was followed by solar (45%), water (35%) and biomass (25%). However, the least popular type of energy for girls was earth heat, with only 15%.\nTo summarize, both boys and girls liked solar energy. However, the biggest difference was in wind energy, where 30% of boys chose it, whereas 60% of girls did.",
+  "note": "Boys: solar 55, water 40, wind 30, earth heat 20, biomass 10. Girls: wind 60, solar 45, water 35, biomass 25, earth heat 15. Biggest gap: wind (30 points)."
+ },
+ "email": {
+  "formal": false,
+  "situation": "Imagine you are Hamad/Hanan. Your school is organising an Eco-Day next Thursday, and you want your friend Ahmed/Aisha to join you.",
+  "task": "Write an email to your friend Ahmed/Aisha. In your email include the following:",
+  "bullets": [
+   "Say what the Eco-Day is and when and where it will take place.",
+   "Describe the activities students will do.",
+   "Explain why he/she should come."
+  ],
+  "model": "Dear Ahmed,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to invite you to our school's Eco-Day.\n\nFirst, the Eco-Day will take place at our school next Thursday from nine o'clock in the morning. For example, all students will meet in the school yard before the activities begin. Moreover, parents and friends are welcome to join us.\n\nSecond, students will plant trees, collect plastic bottles and make posters about saving water. However, the day is not only about work. Therefore, you should come because it is fun, you will meet new friends and you will help to protect our environment.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nHamad"
+ }
+}

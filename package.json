@@ -1,0 +1,10 @@
+{
+  "name": "english-summit-10",
+  "private": true,
+  "scripts": {
+    "build": "python3 build/export.py && python3 build/make_hub.py",
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": { "wrangler": "^4.40.0" }
+}

@@ -1,0 +1,679 @@
+{
+ "charts": [
+  {
+   "n": 1,
+   "title": "Favourite School Subjects of Grade 10 Students in 2024",
+   "categories": [
+    "Maths",
+    "Science",
+    "English",
+    "Arabic",
+    "Art"
+   ],
+   "series": [
+    {
+     "name": "Boys",
+     "values": [
+      40,
+      25,
+      30,
+      15,
+      5
+     ]
+    },
+    {
+     "name": "Girls",
+     "values": [
+      20,
+      40,
+      35,
+      25,
+      15
+     ]
+    }
+   ],
+   "unit": "",
+   "clues": {
+    "boys_high": "Maths",
+    "boys_low": "Art",
+    "girls_high": "Science",
+    "girls_low": "Art",
+    "both": "English",
+    "biggest_diff": "Maths"
+   },
+   "model": "The bar chart illustrates the favourite school subjects of Grade 10 boys and girls in 2024. Overall, boys preferred maths, whereas girls preferred science.\n\nFirstly, the most popular subject for boys was maths, with 40 students. This was followed by English (30), science (25) and Arabic (15). However, the least popular subject for boys was art, with only 5 students.\n\nIn contrast, the most popular subject for girls was science, with 40 students. This was followed by English (35), Arabic (25) and maths (20). However, the least popular subject for girls was art, with only 15 students.\n\nTo summarize, both boys and girls liked English. However, the biggest difference was in maths, where 40 boys chose it, whereas 20 girls did.",
+   "model_words": 121,
+   "img": "out/partd_img/chart01.png"
+  },
+  {
+   "n": 2,
+   "title": "Favourite Sports of Grade 10 Students in Muscat",
+   "categories": [
+    "Football",
+    "Basketball",
+    "Swimming",
+    "Tennis",
+    "Volleyball"
+   ],
+   "series": [
+    {
+     "name": "Boys",
+     "values": [
+      45,
+      30,
+      20,
+      15,
+      10
+     ]
+    },
+    {
+     "name": "Girls",
+     "values": [
+      10,
+      15,
+      35,
+      25,
+      30
+     ]
+    }
+   ],
+   "unit": "",
+   "clues": {
+    "boys_high": "Football",
+    "boys_low": "Volleyball",
+    "girls_high": "Swimming",
+    "girls_low": "Football",
+    "both": "Swimming",
+    "biggest_diff": "Football"
+   },
+   "model": "The bar chart illustrates the favourite sports of Grade 10 boys and girls in Muscat. Overall, boys preferred football, whereas girls preferred swimming.\n\nFirstly, the most popular sport for boys was football, with 45 students. This was followed by basketball (30), swimming (20) and tennis (15). However, the least popular sport for boys was volleyball, with only 10 students.\n\nIn contrast, the most popular sport for girls was swimming, with 35 students. This was followed by volleyball (30), tennis (25) and basketball (15). However, the least popular sport for girls was football, with only 10 students.\n\nTo summarize, both boys and girls liked swimming. However, the biggest difference was in football, where 45 boys chose it, whereas 10 girls did. ts",
+   "model_words": 120,
+   "img": "out/partd_img/chart02.png",
+   "note": "Printed heading says 120 words; text counts 121."
+  },
+  {
+   "n": 3,
+   "title": "Favourite Types of Films among Omani Teenagers",
+   "categories": [
+    "Action",
+    "Comedy",
+    "Horror",
+    "Cartoons",
+    "Documentaries"
+   ],
+   "series": [
+    {
+     "name": "Boys",
+     "values": [
+      40,
+      30,
+      25,
+      10,
+      5
+     ]
+    },
+    {
+     "name": "Girls",
+     "values": [
+      15,
+      35,
+      10,
+      20,
+      25
+     ]
+    }
+   ],
+   "unit": "",
+   "clues": {
+    "boys_high": "Action",
+    "boys_low": "Documentaries",
+    "girls_high": "Comedy",
+    "girls_low": "Horror",
+    "both": "Comedy",
+    "biggest_diff": "Action"
+   },
+   "model": "The bar chart illustrates the favourite types of films among Omani teenage boys and girls. Overall, boys preferred action, whereas girls preferred comedy.\n\nFirstly, the most popular type of film for boys was action, with 40 students. This was followed by comedy (30), horror (25) and cartoons (10). However, the least popular type of film for boys was documentaries, with only 5 students.\n\nIn contrast, the most popular type of film for girls was comedy, with 35 students. This was followed by documentaries (25), cartoons (20) and action (15). However, the least popular type of film for girls was horror, with only 10 students.\n\nTo summarize, both boys and girls liked comedy. However, the biggest difference was in action, where 40 boys chose it, whereas 15 girls did.",
+   "model_words": 128,
+   "img": "out/partd_img/chart03.png",
+   "note": "Image x-label 'Documentaries' wraps as 'Documentarie/s' in the printed chart (source rendering glitch)."
+  },
+  {
+   "n": 4,
+   "title": "Favourite Hobbies of Grade 10 Students in 2023",
+   "categories": [
+    "Video games",
+    "Reading",
+    "Drawing",
+    "Cooking",
+    "Photography",
+    "Football"
+   ],
+   "series": [
+    {
+     "name": "Boys",
+     "values": [
+      45,
+      10,
+      15,
+      5,
+      20,
+      35
+     ]
+    },
+    {
+     "name": "Girls",
+     "values": [
+      20,
+      30,
+      35,
+      25,
+      15,
+      5
+     ]
+    }
+   ],
+   "unit": "",
+   "clues": {
+    "boys_high": "Video games",
+    "boys_low": "Cooking",
+    "girls_high": "Drawing",
+    "girls_low": "Football",
+    "both": "Video games",
+    "biggest_diff": "Football"
+   },
+   "model": "The bar chart illustrates the favourite hobbies of Grade 10 boys and girls in 2023. Overall, boys preferred video games, whereas girls preferred drawing.\n\nFirstly, the most popular hobby for boys was video games, with 45 students. This was followed by football (35), photography (20), drawing (15) and reading (10). However, the least popular hobby for boys was cooking, with only 5 students.\n\nIn contrast, the most popular hobby for girls was drawing, with 35 students. This was followed by reading (30), cooking (25), video games (20) and photography (15). However, the least popular hobby for girls was football, with only 5 students.\n\nTo summarize, both boys and girls liked video games. However, the biggest difference was in football, where 35 boys chose it, whereas 5 girls did.",
+   "model_words": 128,
+   "img": "out/partd_img/chart04.png",
+   "note": "Model's 'both liked' (video games) is high for boys (45) but only 4th for girls (20); kept as printed."
+  },
+  {
+   "n": 5,
+   "title": "Favourite Holiday Destinations of Omani Teenagers in 2024",
+   "categories": [
+    "Salalah",
+    "Dubai",
+    "Turkey",
+    "Malaysia",
+    "Egypt"
+   ],
+   "series": [
+    {
+     "name": "Boys",
+     "values": [
+      35,
+      25,
+      20,
+      15,
+      10
+     ]
+    },
+    {
+     "name": "Girls",
+     "values": [
+      30,
+      40,
+      15,
+      25,
+      5
+     ]
+    }
+   ],
+   "unit": "",
+   "clues": {
+    "boys_high": "Salalah",
+    "boys_low": "Egypt",
+    "girls_high": "Dubai",
+    "girls_low": "Egypt",
+    "both": "Salalah",
+    "biggest_diff": "Dubai"
+   },
+   "model": "The bar chart illustrates the favourite holiday destinations of Omani teenage boys and girls in 2024. Overall, boys preferred Salalah, whereas girls preferred Dubai.\n\nFirstly, the most popular holiday destination for boys was Salalah, with 35 students. This was followed by Dubai (25), Turkey (20) and Malaysia (15). However, the least popular holiday destination for boys was Egypt, with only 10 students.\n\nIn contrast, the most popular holiday destination for girls was Dubai, with 40 students. This was followed by Salalah (30), Malaysia (25) and Turkey (15). However, the least popular holiday destination for girls was Egypt, with only 5 students.\n\nTo summarize, both boys and girls liked Salalah. However, the biggest difference was in Dubai, where 25 boys chose it, whereas 40 girls did.",
+   "model_words": 125,
+   "img": "out/partd_img/chart05.png"
+  },
+  {
+   "n": 6,
+   "title": "How Grade 10 Students Travel to School",
+   "categories": [
+    "School bus",
+    "Car",
+    "Walking",
+    "Bicycle",
+    "Taxi"
+   ],
+   "series": [
+    {
+     "name": "Boys",
+     "values": [
+      40,
+      20,
+      25,
+      15,
+      5
+     ]
+    },
+    {
+     "name": "Girls",
+     "values": [
+      45,
+      30,
+      10,
+      5,
+      15
+     ]
+    }
+   ],
+   "unit": "",
+   "clues": {
+    "boys_high": "School bus",
+    "boys_low": "Taxi",
+    "girls_high": "School bus",
+    "girls_low": "Bicycle",
+    "both": "School bus",
+    "biggest_diff": "Walking"
+   },
+   "model": "The bar chart illustrates how Grade 10 boys and girls travel to school. Overall, the school bus was the most popular way of travelling for both boys and girls.\n\nFirstly, the most popular way of travelling for boys was the school bus, with 40 students. This was followed by walking (25), the car (20) and the bicycle (15). However, the least popular way of travelling for boys was the taxi, with only 5 students.\n\nSimilarly, the most popular way of travelling for girls was the school bus, with 45 students. This was followed by the car (30), the taxi (15) and walking (10). However, the least popular way of travelling for girls was the bicycle, with only 5 students.\n\nTo summarize, both boys and girls liked the school bus. However, the biggest difference was in walking, where 25 boys chose it, whereas 10 girls did.",
+   "model_words": 145,
+   "img": "out/partd_img/chart06.png"
+  },
+  {
+   "n": 7,
+   "title": "Favourite Fast Food of Grade 10 Students in Sohar",
+   "categories": [
+    "Pizza",
+    "Burgers",
+    "Shawarma",
+    "Fried chicken",
+    "Sandwiches"
+   ],
+   "series": [
+    {
+     "name": "Boys",
+     "values": [
+      30,
+      40,
+      35,
+      20,
+      10
+     ]
+    },
+    {
+     "name": "Girls",
+     "values": [
+      40,
+      25,
+      15,
+      30,
+      5
+     ]
+    }
+   ],
+   "unit": "",
+   "clues": {
+    "boys_high": "Burgers",
+    "boys_low": "Sandwiches",
+    "girls_high": "Pizza",
+    "girls_low": "Sandwiches",
+    "both": "Pizza",
+    "biggest_diff": "Shawarma"
+   },
+   "model": "The bar chart illustrates the favourite fast food of Grade 10 boys and girls in Sohar. Overall, boys preferred burgers, whereas girls preferred pizza.\n\nFirstly, the most popular fast food for boys was burgers, with 40 students. This was followed by shawarma (35), pizza (30) and fried chicken (20). However, the least popular fast food for boys was sandwiches, with only 10 students.\n\nIn contrast, the most popular fast food for girls was pizza, with 40 students. This was followed by fried chicken (30), burgers (25) and shawarma (15). However, the least popular fast food for girls was sandwiches, with only 5 students.\n\nTo summarize, both boys and girls liked pizza. However, the biggest difference was in shawarma, where 35 boys chose it, whereas 15 girls did.",
+   "model_words": 127,
+   "img": "out/partd_img/chart07.png"
+  },
+  {
+   "n": 8,
+   "title": "Most Used Social Media Apps by Omani Teenagers in 2024",
+   "categories": [
+    "WhatsApp",
+    "Instagram",
+    "Snapchat",
+    "TikTok",
+    "YouTube"
+   ],
+   "series": [
+    {
+     "name": "Boys",
+     "values": [
+      40,
+      20,
+      25,
+      30,
+      35
+     ]
+    },
+    {
+     "name": "Girls",
+     "values": [
+      45,
+      35,
+      30,
+      15,
+      10
+     ]
+    }
+   ],
+   "unit": "",
+   "clues": {
+    "boys_high": "WhatsApp",
+    "boys_low": "Instagram",
+    "girls_high": "WhatsApp",
+    "girls_low": "YouTube",
+    "both": "WhatsApp",
+    "biggest_diff": "YouTube"
+   },
+   "model": "The bar chart illustrates the most used social media apps by Omani teenage boys and girls in 2024. Overall, WhatsApp was the most popular app for both boys and girls.\n\nFirstly, the most popular app for boys was WhatsApp, with 40 students. This was followed by YouTube (35), TikTok (30) and Snapchat (25). However, the least popular app for boys was Instagram, with only 20 students.\n\nSimilarly, the most popular app for girls was WhatsApp, with 45 students. This was followed by Instagram (35), Snapchat (30) and TikTok (15). However, the least popular app for girls was YouTube, with only 10 students.\n\nTo summarize, both boys and girls liked WhatsApp. However, the biggest difference was in YouTube, where 35 boys chose it, whereas 10 girls did.",
+   "model_words": 126,
+   "img": "out/partd_img/chart08.png"
+  },
+  {
+   "n": 9,
+   "title": "Favourite Drinks of Grade 10 Students in 2023",
+   "categories": [
+    "Juice",
+    "Water",
+    "Milk",
+    "Tea",
+    "Soft drinks"
+   ],
+   "series": [
+    {
+     "name": "Boys",
+     "values": [
+      35,
+      30,
+      15,
+      10,
+      25
+     ]
+    },
+    {
+     "name": "Girls",
+     "values": [
+      40,
+      20,
+      25,
+      5,
+      10
+     ]
+    }
+   ],
+   "unit": "",
+   "clues": {
+    "boys_high": "Juice",
+    "boys_low": "Tea",
+    "girls_high": "Juice",
+    "girls_low": "Tea",
+    "both": "Juice",
+    "biggest_diff": "Soft drinks"
+   },
+   "model": "The bar chart illustrates the favourite drinks of Grade 10 boys and girls in 2023. Overall, juice was the most popular drink for both boys and girls.\n\nFirstly, the most popular drink for boys was juice, with 35 students. This was followed by water (30), soft drinks (25) and milk (15). However, the least popular drink for boys was tea, with only 10 students.\n\nSimilarly, the most popular drink for girls was juice, with 40 students. This was followed by milk (25), water (20) and soft drinks (10). However, the least popular drink for girls was tea, with only 5 students.\n\nTo summarize, both boys and girls liked juice. However, the biggest difference was in soft drinks, where 25 boys chose it, whereas 10 girls did.",
+   "model_words": 126,
+   "img": "out/partd_img/chart09.png"
+  },
+  {
+   "n": 10,
+   "title": "Favourite School Clubs of Grade 10 Students in Nizwa",
+   "categories": [
+    "Science",
+    "Sports",
+    "Art",
+    "Drama",
+    "Computer"
+   ],
+   "series": [
+    {
+     "name": "Boys",
+     "values": [
+      30,
+      45,
+      10,
+      5,
+      35
+     ]
+    },
+    {
+     "name": "Girls",
+     "values": [
+      35,
+      15,
+      30,
+      20,
+      25
+     ]
+    }
+   ],
+   "unit": "",
+   "clues": {
+    "boys_high": "Sports",
+    "boys_low": "Drama",
+    "girls_high": "Science",
+    "girls_low": "Sports",
+    "both": "Science",
+    "biggest_diff": "Sports"
+   },
+   "model": "The bar chart illustrates the favourite school clubs of Grade 10 boys and girls in Nizwa. Overall, boys preferred the sports club, whereas girls preferred the science club.\n\nFirstly, the most popular club for boys was the sports club, with 45 students. This was followed by the computer club (35), the science club (30) and the art club (10). However, the least popular club for boys was the drama club, with only 5 students.\n\nIn contrast, the most popular club for girls was the science club, with 35 students. This was followed by the art club (30), the computer club (25) and the drama club (20). However, the least popular club for girls was the sports club, with only 15 students.\n\nTo summarize, both boys and girls liked the science club. However, the biggest difference was in the sports club, where 45 boys chose it, whereas 15 girls did.",
+   "model_words": 149,
+   "img": "out/partd_img/chart10.png"
+  },
+  {
+   "n": 11,
+   "title": "Dream Jobs of Grade 10 Students in Oman in 2024",
+   "categories": [
+    "Doctor",
+    "Engineer",
+    "Teacher",
+    "Pilot",
+    "Police officer"
+   ],
+   "series": [
+    {
+     "name": "Boys",
+     "values": [
+      30,
+      40,
+      10,
+      35,
+      25
+     ]
+    },
+    {
+     "name": "Girls",
+     "values": [
+      45,
+      20,
+      35,
+      15,
+      5
+     ]
+    }
+   ],
+   "unit": "",
+   "clues": {
+    "boys_high": "Engineer",
+    "boys_low": "Teacher",
+    "girls_high": "Doctor",
+    "girls_low": "Police officer",
+    "both": "Doctor",
+    "biggest_diff": "Teacher"
+   },
+   "model": "The bar chart illustrates the dream jobs of Grade 10 boys and girls in Oman in 2024. Overall, boys preferred engineer, whereas girls preferred doctor.\n\nFirstly, the most popular job for boys was engineer, with 40 students. This was followed by pilot (35), doctor (30) and police officer (25). However, the least popular job for boys was teacher, with only 10 students.\n\nIn contrast, the most popular job for girls was doctor, with 45 students. This was followed by teacher (35), engineer (20) and pilot (15). However, the least popular job for girls was police officer, with only 5 students.\n\nTo summarize, both boys and girls liked doctor. However, the biggest difference was in teacher, where 10 boys chose it, whereas 35 girls did.",
+   "model_words": 124,
+   "img": "out/partd_img/chart11.png"
+  },
+  {
+   "n": 12,
+   "title": "Favourite Indoor Games of Grade 10 Students in 2023",
+   "categories": [
+    "Chess",
+    "Carrom",
+    "Table tennis",
+    "Board games",
+    "Puzzles",
+    "Card games"
+   ],
+   "series": [
+    {
+     "name": "Boys",
+     "values": [
+      30,
+      40,
+      25,
+      15,
+      5,
+      10
+     ]
+    },
+    {
+     "name": "Girls",
+     "values": [
+      20,
+      10,
+      15,
+      35,
+      30,
+      25
+     ]
+    }
+   ],
+   "unit": "",
+   "clues": {
+    "boys_high": "Carrom",
+    "boys_low": "Puzzles",
+    "girls_high": "Board games",
+    "girls_low": "Carrom",
+    "both": "Chess",
+    "biggest_diff": "Carrom"
+   },
+   "model": "The bar chart illustrates the favourite indoor games of Grade 10 boys and girls in 2023. Overall, boys preferred carrom, whereas girls preferred board games.\n\nFirstly, the most popular indoor game for boys was carrom, with 40 students. This was followed by chess (30), table tennis (25), board games (15) and card games (10). However, the least popular indoor game for boys was puzzles, with only 5 students.\n\nIn contrast, the most popular indoor game for girls was board games, with 35 students. This was followed by puzzles (30), card games (25), chess (20) and table tennis (15). However, the least popular indoor game for girls was carrom, with only 10 students.\n\nTo summarize, both boys and girls liked chess. However, the biggest difference was in carrom, where 40 boys chose it, whereas 10 girls did.",
+   "model_words": 136,
+   "img": "out/partd_img/chart12.png",
+   "note": "Model's 'both liked' (chess) is 2nd for boys (30) but 4th for girls (20); kept as printed."
+  }
+ ],
+ "emails": [
+  {
+   "n": 1,
+   "formal": false,
+   "task": "You have started a new hobby. Write an email to your friend Maryam. In your email, write about:",
+   "bullets": [
+    "what your hobby is and how you started it",
+    "why you enjoy it and your future plans"
+   ],
+   "model": "Dear Maryam,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to tell you about my new hobby.\n\nFirst, my new hobby is photography. I started it last summer when my father gave me a camera. Moreover, I take photos of nature every weekend.\n\nSecond, I enjoy photography because it helps me relax. For example, I feel calm when I take photos of the sea. Therefore, I want to join a photography club next year.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nAli",
+   "words": 117
+  },
+  {
+   "n": 2,
+   "formal": false,
+   "task": "Your friend Hamad is worried about his final exams. Write an email to your friend Hamad. In your email, write about:",
+   "bullets": [
+    "how he should organise his study time",
+    "how he can stay healthy during the exams"
+   ],
+   "model": "Dear Hamad,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to give you some advice about your final exams.\n\nFirst, you should make a study timetable. For example, you can study two subjects every day. Moreover, you should take a short break every hour.\n\nSecond, you should sleep for eight hours and eat healthy food. However, you should not drink too much coffee. Therefore, you will feel fresh during the exams.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon. Best wishes, Ali ls",
+   "words": 114,
+   "note": "Printed 114 words; text counts 115."
+  },
+  {
+   "n": 3,
+   "formal": false,
+   "task": "Your class went on a school trip last week. Write an email to your friend Noor. In your email, write about:",
+   "bullets": [
+    "where you went and what you did",
+    "how you felt about the trip"
+   ],
+   "model": "Dear Noor,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to tell you about our school trip.\n\nFirst, our class went to Wadi Shab last Thursday. We walked through the valley and swam in the green pools. Moreover, we had lunch under the palm trees.\n\nSecond, I felt really happy and excited all day. However, I was very tired when I got home. Therefore, I slept early that night.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nAli",
+   "words": 112
+  },
+  {
+   "n": 4,
+   "formal": false,
+   "task": "Your family is going camping in Wahiba Sands and you want your friend Sultan to join you. Write an email to your friend Sultan. In your email, write about:",
+   "bullets": [
+    "when the trip is and what you will do",
+    "what he should bring"
+   ],
+   "model": "Dear Sultan,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to invite you to a camping trip in Wahiba Sands.\n\nFirst, the trip will be next Friday, and we will leave at three o'clock. For example, we will watch the sunset and ride camels. Moreover, my uncle will cook dinner for us.\n\nSecond, you should bring warm clothes, because the desert is cold at night. Moreover, please bring a torch and a bottle of water.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nAli",
+   "words": 118
+  },
+  {
+   "n": 5,
+   "formal": false,
+   "task": "Your friend Aisha helped you with your English project. Write an email to your friend Aisha. In your email, write about:",
+   "bullets": [
+    "how she helped you",
+    "what happened after you finished the project"
+   ],
+   "model": "Dear Aisha,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to thank you for helping me with my English project.\n\nFirst, thank you for showing me how to write a good introduction. For example, you taught me how to use linking words. Moreover, you checked my spelling carefully.\n\nSecond, I got full marks for my project. Moreover, my teacher asked me to present it to the class. Therefore, I owe you a big thank you!\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nAli",
+   "words": 118
+  },
+  {
+   "n": 6,
+   "formal": false,
+   "task": "Your friend Yousef wants to live a healthier life. Write an email to your friend Yousef. In your email, write about:",
+   "bullets": [
+    "what he should eat and drink",
+    "how he should exercise"
+   ],
+   "model": "Dear Yousef,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to give you some advice about living a healthy life.\n\nFirst, you should eat more fruit and vegetables. However, you should avoid fast food and fizzy drinks. Moreover, you should drink plenty of water every day.\n\nSecond, you should exercise for at least thirty minutes a day. For example, you can walk, swim or play football. Therefore, you will feel stronger and happier.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nAli",
+   "words": 116
+  },
+  {
+   "n": 7,
+   "formal": false,
+   "task": "Your family has moved to a new house in another city. Write an email to your friend Salma. In your email, write about:",
+   "bullets": [
+    "what your new house is like",
+    "your new neighbours and school"
+   ],
+   "model": "Dear Salma,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to tell you about our new house.\n\nFirst, our new house in Sohar is bigger than the old one. For example, it has a large garden with palm trees. Moreover, I have my own bedroom now.\n\nSecond, our neighbours are very kind and friendly. However, my new school is far from our house. Therefore, I have to wake up very early every day.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nAli",
+   "words": 116
+  },
+  {
+   "n": 8,
+   "formal": false,
+   "task": "You celebrated Oman's National Day with your family. Write an email to your friend Majid. In your email, write about:",
+   "bullets": [
+    "how you celebrated",
+    "what you liked most"
+   ],
+   "model": "Dear Majid,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to tell you how we celebrated National Day.\n\nFirst, my family celebrated National Day in Muscat. For example, we decorated our car with Omani flags. Moreover, we watched the fireworks at night.\n\nSecond, the best part was the traditional music and dancing. Moreover, we ate delicious Omani sweets. Therefore, it was an unforgettable day.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nAli",
+   "words": 107
+  },
+  {
+   "n": 9,
+   "formal": true,
+   "task": "Imagine you are Salim/Salma. You noticed that most students in your school use plastic bags instead of reusable shopping bags. Write a formal email to your teacher asking him or her to give advice for students about using reusable shopping bags. You can include the following details:",
+   "bullets": [
+    "why reusable shopping bags are important",
+    "how plastic bags harm the environment",
+    "how students can encourage others to use reusable bags"
+   ],
+   "model": "Dear Mr. Hilal,\n\nI hope this email finds you in good health and high spirits. I am writing this email to ask you to give students some advice about using reusable shopping bags.\n\nFirst, reusable bags are important because we can use them many times. However, plastic bags harm the environment, because they take hundreds of years to break down. Moreover, they kill many sea animals.\n\nSecond, students can encourage others by making posters and sharing short videos online. Moreover, they can bring reusable bags to school every day.\n\nThank you for your time and attention. I look forward to your response. Please let me know if you need any further information.\n\nYours sincerely,\nSalim",
+   "words": 115
+  },
+  {
+   "n": 10,
+   "formal": true,
+   "task": "Imagine you are Salim/Salma. You want to start a reading club at your school. Write a formal email to your school principal, Ms. Fatma, to suggest the idea. You can include the following details:",
+   "bullets": [
+    "why reading is important for students",
+    "what the club will do"
+   ],
+   "model": "Dear Ms. Fatma,\n\nI hope this email finds you in good health and high spirits. I am writing this email to suggest starting a reading club at our school.\n\nFirst, reading is very important for students, because it improves their language and imagination. However, many students spend most of their free time on their phones.\n\nSecond, the club could meet once a week in the library. For example, members could share books and write short reviews. Moreover, we could invite writers to talk to us.\n\nThank you for your time and attention. I look forward to your response. Please let me know if you need any further information.\n\nYours sincerely,\nSalma",
+   "words": 111
+  },
+  {
+   "n": 11,
+   "formal": true,
+   "task": "Imagine you are Salim/Salma. You think students at your school need more sports activities. Write a formal email to your PE teacher, Mr. Nasser. You can include the following details:",
+   "bullets": [
+    "why exercise is important for students",
+    "your suggestions for new sports activities"
+   ],
+   "model": "Dear Mr. Nasser,\n\nI hope this email finds you in good health and high spirits. I am writing this email to ask you to organise more sports activities at our school.\n\nFirst, exercise is important because it keeps students healthy and active. Moreover, it helps them to focus better in class.\n\nSecond, the school could organise a football competition every month. Moreover, we could have a running club after school. Therefore, more students would enjoy sport.\n\nThank you for your time and attention. I look forward to your response. Please let me know if you need any further information.\n\nYours sincerely,\nSalim",
+   "words": 102
+  }
+ ]
+}

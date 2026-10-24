@@ -1,0 +1,9 @@
+node_modules/
+.wrangler/
+.dev.vars
+# private lists (student passwords, teacher password) never go to git
+private/
+*.private.*
+build/__pycache__/
+build/data/__pycache__/
+wrangler.local.jsonc

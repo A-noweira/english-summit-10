@@ -1,0 +1,595 @@
+{
+ "id": 3,
+ "title": "Model Exam 3",
+ "listening1": {
+  "context": "You are going to hear a conversation between Noor and her father, Mr Hamad.",
+  "script": [
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "Dad, I have found some useful information about solar water heaters for our house."
+   },
+   {
+    "speaker": "Mr Hamad",
+    "gender": "m",
+    "text": "Well done, Noor. Our electricity bill was very high last summer, so this is a good idea. What did you find?"
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "First, I watched a short video online. It shows how the sun heats the water in pipes on the roof, and then the hot water goes into a tank. It is easy to use, because you just open the tap as usual. The shop near the market sells two kinds. The small one holds one hundred litres, and the large one holds two hundred litres."
+   },
+   {
+    "speaker": "Mr Hamad",
+    "gender": "m",
+    "text": "We are seven people in our family, and we all like long hot showers, so the large one is better. How much is it?"
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "It costs four hundred rials. The small one costs two hundred and fifty rials."
+   },
+   {
+    "speaker": "Mr Hamad",
+    "gender": "m",
+    "text": "That is a lot of money. Will the heater pay for itself in three years?"
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "No, the salesman said it will take about four years. After that, the hot water is almost free."
+   },
+   {
+    "speaker": "Mr Hamad",
+    "gender": "m",
+    "text": "That sounds fair, and it is better than paying a high bill every month. Where will we put it?"
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "On the roof, because the sun shines there all day. It must face south to get the most light."
+   },
+   {
+    "speaker": "Mr Hamad",
+    "gender": "m",
+    "text": "Our roof is flat and empty, so there is plenty of space. Who will fix it for us?"
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "The shop sends its own workers, and the work takes one day. The installation is free if we buy the heater this month."
+   },
+   {
+    "speaker": "Mr Hamad",
+    "gender": "m",
+    "text": "Excellent. And what happens on cloudy days in winter?"
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "There is a small electric heater inside the tank, so we always have hot water. The company also gives a guarantee of five years."
+   },
+   {
+    "speaker": "Mr Hamad",
+    "gender": "m",
+    "text": "That is very good, and I feel much happier about the price now. Let us go to the shop on Saturday. Can you come with me?"
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "I have a school trip on Saturday, Dad. Can we go on Sunday instead?"
+   },
+   {
+    "speaker": "Mr Hamad",
+    "gender": "m",
+    "text": "Sunday is fine. I will ask your mother to come with us, too."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "Great! I am sure she will like the idea. I will also tell my teacher about it, because our class is studying renewable energy this month. It is good for our home and good for the environment."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "The family's electricity bill was very high last ________.",
+    "options": [
+     "winter",
+     "summer",
+     "spring"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "Noor's father prefers the large heater because ________.",
+    "options": [
+     "the family is big",
+     "it is cheaper",
+     "it is newer"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "The large heater costs ________ rials.",
+    "options": [
+     "250",
+     "300",
+     "400"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "The heater will pay for itself in about ________ years.",
+    "options": [
+     "four",
+     "three",
+     "five"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "The heater will be put on the ________.",
+    "options": [
+     "balcony",
+     "garden",
+     "roof"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "The installation is free if they buy the heater ________.",
+    "options": [
+     "this week",
+     "this month",
+     "before Friday"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "Noor and her father will go to the shop on ________.",
+    "options": [
+     "Saturday",
+     "Sunday",
+     "Thursday"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about cyber-bullying and online safety.",
+  "script": [
+   {
+    "speaker": "Teacher",
+    "gender": "f",
+    "text": "Good morning, students. Today I would like to talk about cyber-bullying and how to stay safe online. Cyber-bullying means using phones or the internet to hurt, frighten or embarrass another person. It can happen on social media, in online games and in group chats, so we must be careful everywhere."
+   },
+   {
+    "speaker": "Teacher",
+    "gender": "f",
+    "text": "First, let us think about what to do if someone sends you a hurtful message. The most important rule is simple. Do not reply. Bullies want you to be angry or upset, and an answer can make the problem bigger. Instead, take a screenshot of the message. A screenshot is a picture of your screen, and it is useful evidence if you need help later."
+   },
+   {
+    "speaker": "Teacher",
+    "gender": "f",
+    "text": "Next, you should block the person. Most apps and games also let you report bad behaviour, and the company can then remove the account. Blocking and reporting are quick, and they often stop the messages completely."
+   },
+   {
+    "speaker": "Teacher",
+    "gender": "f",
+    "text": "Of course, it is better to stop problems before they begin. A strong password is your first protection. Your password should have at least twelve characters, not just eight, and it should include letters, numbers and symbols. Never use your name or your birthday. Also, never share your password with anyone, not even a close friend, because friends can change and accounts can be misused."
+   },
+   {
+    "speaker": "Teacher",
+    "gender": "f",
+    "text": "You should also think carefully before you post anything. Once a photo or a comment is online, many people can copy it, and it is very hard to delete. Ask yourself one question: would I be happy if my family and teachers saw this? If the answer is no, do not post it."
+   },
+   {
+    "speaker": "Teacher",
+    "gender": "f",
+    "text": "Finally, remember that you are never alone. If you are a victim of cyber-bullying, tell a trusted adult, such as a parent or a teacher, as soon as possible. Asking for help is not a sign of weakness. It is a brave and sensible step. And if you see someone else being bullied, do not join in. Be kind, and tell an adult."
+   },
+   {
+    "speaker": "Teacher",
+    "gender": "f",
+    "text": "To sum up, the internet is a wonderful tool for learning and for meeting friends, but we must use it wisely. Stay calm, keep the evidence, block and report, and speak to someone you trust. Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What does cyber-bullying use to hurt people?",
+    "hint": "",
+    "answer": "Phones / The internet / Phones or the internet"
+   },
+   {
+    "n": 2,
+    "q": "What should you do with a hurtful message? You should not ________ to it.",
+    "hint": "",
+    "answer": "Reply / Answer"
+   },
+   {
+    "n": 3,
+    "q": "A strong password should have at least ________ characters.",
+    "hint": "(number)",
+    "answer": "12 / Twelve"
+   },
+   {
+    "n": 4,
+    "q": "Who should you tell if you are a victim of cyber-bullying?",
+    "hint": "(list one)",
+    "answer": "A (trusted) adult / A parent / A teacher"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "Cyber-bullying can only happen on social media.",
+    "answer": false
+   },
+   {
+    "n": 6,
+    "statement": "Blocking and reporting can stop the messages.",
+    "answer": true
+   },
+   {
+    "n": 7,
+    "statement": "It is safe to share your password with a close friend.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Once something is online, many people can copy it.",
+    "answer": true
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Many families in Oman now (1)_____ solar panels on their roofs. The sun is a (2)_____ source of energy, so it never runs out. Solar power helps families to (3)_____ their electricity bills, because sunlight is free once the panels are fixed. It is also better for the (4)_____ than oil or gas, since it does not produce harmful gases. Of course, there is one (5)_____ of using the sun: the panels cost a lot of money at the beginning. However, most people say that the long-term savings are worth it, and more homes are changing to solar every year.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "discover",
+     "install",
+     "recycle",
+     "invent"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "harmful",
+     "expensive",
+     "renewable",
+     "ancient"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "options": [
+     "increase",
+     "waste",
+     "reduce",
+     "pollute"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "options": [
+     "economy",
+     "environment",
+     "equipment",
+     "experiment"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "advantage",
+     "disadvantage",
+     "benefit",
+     "effect"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Hamad, did you see the new recycling bins at our school?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Yes, they [[1]] put near the canteen last week."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Good. I think recycling is [[2]] important than I thought before."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Me too. If I [[3]] the principal, I would stop selling plastic bottles in the canteen."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "That is a great idea. Plastic is bad for the sea [[4]] it takes hundreds of years to break down."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "I agree. From tomorrow, I [[5]] bring my own water bottle to school."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "was",
+     "were"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "more",
+     "most"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "am",
+     "were"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "so",
+     "because"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "will",
+     "would"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "reading1": {
+  "title": "The Silk Road",
+  "passage": [
+   "The Silk Road was not one single road. It was a network of trade routes that connected China with the countries around the Mediterranean Sea. The routes crossed deserts, mountains and rivers, and together they were thousands of kilometres long.",
+   "The name \"Silk Road\" is quite modern. A German geographer, Ferdinand von Richthofen, first used it in 1877. The routes themselves are much older. Historians believe that they became busy around 130 BC, when the Han dynasty of China began to send traders and officials to the west.",
+   "Silk was the most famous product, because for a long time only the Chinese knew how to make it. Rich people in Rome and other lands paid high prices for the soft, shiny cloth. However, merchants carried many other goods too. From the east came tea, paper and porcelain, while from the west came glass, gold, horses and wool.",
+   "Very few merchants travelled the whole route. Instead, goods passed from trader to trader, and each one sold them for a higher price. A journey from one end to the other could take many months. Traders usually travelled in groups called caravans, because the journey was dangerous and a large group was safer.",
+   "Camels were the best animals for the desert. They can carry heavy loads and walk for days without water. Along the way, travellers rested at inns called caravanserais, where they could find food, water and a safe place to sleep.",
+   "The Silk Road carried more than goods. Ideas, religions, languages and inventions also moved along the routes. For example, the Chinese invention of paper travelled westwards, and Buddhism spread from India to China. People who met on the road learned about each other's food, music and ways of life.",
+   "The Silk Road became less important in the fifteenth century, when ships began to carry goods across the seas faster and in larger amounts. Today, however, its story is still important. It reminds us that people from different civilisations have always learned from each other, and UNESCO now protects parts of the old routes as World Heritage."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "The Silk Road was ________.",
+    "options": [
+     "one long road across Asia",
+     "a network of trade routes",
+     "a river between two seas"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "The name \"Silk Road\" was first used by ________.",
+    "options": [
+     "a Chinese emperor",
+     "a Roman merchant",
+     "a German geographer"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "Silk was so valuable because ________.",
+    "options": [
+     "only the Chinese knew how to make it",
+     "it was very cheap to carry",
+     "it came from the Mediterranean"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "Traders travelled in caravans because ________.",
+    "options": [
+     "it was cheaper",
+     "the journey was dangerous",
+     "they liked company"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "Camels were useful because they ________.",
+    "options": [
+     "were faster than horses",
+     "could walk for days without water",
+     "did not need any rest"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "The Silk Road became less important because ________.",
+    "options": [
+     "ships could carry goods faster",
+     "China stopped making silk",
+     "the deserts became bigger"
+    ],
+    "answer": 0
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "The routes became busy around ________. (year)",
+    "answer": "130 BC"
+   },
+   {
+    "n": 8,
+    "q": "Travellers rested at inns called ________.",
+    "answer": "caravanserais"
+   },
+   {
+    "n": 9,
+    "q": "The Chinese invention of ________ travelled westwards.",
+    "answer": "paper"
+   },
+   {
+    "n": 10,
+    "q": "Buddhism spread from ________ to China.",
+    "answer": "India"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "Too Little, Too Much",
+  "passage": [
+   "Water is the most important substance for life, but there is less of it than we think. About seventy percent of the Earth is covered by water, yet only about three percent of it is fresh water. Most of this fresh water is frozen in glaciers and ice caps, so people cannot use it easily.",
+   "Many countries suffer from water scarcity, which means that there is not enough clean water for everyone. In some places, the population is growing fast, and people use more water every year for farming, industry and homes. In other places, the rain is simply very rare.",
+   "A drought is a long period with very little rain. During a drought, rivers and lakes become smaller, and the soil becomes dry. Farmers can lose their crops, and animals may not find enough to drink. Droughts can happen in any country, not only in hot ones.",
+   "The opposite problem is a flood. Floods happen when heavy rain falls in a short time and rivers overflow. Even a dry country can have floods, because hard, dry ground does not take in water quickly. In Oman, heavy rain can fill the wadis within hours, and fast water can damage roads, homes and cars.",
+   "Scientists say that climate change may make both droughts and floods more common, because it changes the usual pattern of the weather. For this reason, countries need to plan carefully.",
+   "People have found clever ways to manage water. In Oman, the traditional falaj system has carried water from mountains and underground sources to villages for hundreds of years. Today, the country also builds dams to keep flood water, which then slowly goes into the ground and can be used later. Some cities also make fresh water from sea water.",
+   "We can all help, too. A dripping tap can waste many litres of water every week, so we should fix leaks quickly. Taking shorter showers, turning off the tap while brushing our teeth and watering the garden in the evening also save water. Small actions by millions of people can make a big difference."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "How much of the Earth's water is fresh water?",
+    "hint": "(percentage)",
+    "answer": "About 3% / Three percent"
+   },
+   {
+    "n": 2,
+    "q": "Where is most of the fresh water found?",
+    "hint": "",
+    "answer": "In glaciers and ice caps / Frozen"
+   },
+   {
+    "n": 3,
+    "q": "What can farmers lose during a drought?",
+    "hint": "",
+    "answer": "Their crops"
+   },
+   {
+    "n": 4,
+    "q": "What happens to rivers when heavy rain falls in a short time?",
+    "hint": "",
+    "answer": "They overflow"
+   },
+   {
+    "n": 5,
+    "q": "What traditional system has carried water to villages in Oman?",
+    "hint": "",
+    "answer": "The falaj (system)"
+   },
+   {
+    "n": 6,
+    "q": "What should we do with a dripping tap? We should ________ it.",
+    "hint": "",
+    "answer": "Fix / Repair"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Most of the Earth's fresh water is easy for people to use.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Floods can damage roads, homes and cars.",
+    "answer": true
+   },
+   {
+    "n": 9,
+    "statement": "Droughts happen only in hot countries.",
+    "answer": false
+   },
+   {
+    "n": 10,
+    "statement": "Dams can keep flood water so it can be used later.",
+    "answer": true
+   }
+  ]
+ },
+ "chart": {
+  "id": "C-03",
+  "title": "Ways Grade 10 Students Reduce Waste",
+  "ylabel": "Percentage of Students",
+  "unit": "%",
+  "categories": [
+   "Recycling paper",
+   "Reusing bottles",
+   "Reusing notebooks",
+   "Using cloth bags",
+   "Composting food"
+  ],
+  "series": [
+   {
+    "name": "Boys",
+    "values": [
+     40,
+     30,
+     25,
+     15,
+     10
+    ]
+   },
+   {
+    "name": "Girls",
+    "values": [
+     35,
+     20,
+     30,
+     45,
+     15
+    ]
+   }
+  ],
+  "model": "The bar chart illustrates the ways Grade 10 boys and girls in Oman reduce waste. Overall, boys preferred recycling paper, whereas girls preferred using cloth bags.\n\nFirstly, the most popular way for boys was recycling paper, with 40% of students. This was followed by reusing bottles (30%), reusing notebooks (25%) and using cloth bags (15%). However, the least popular way for boys was composting food, with only 10% of students.\n\nIn contrast, the most popular way for girls was using cloth bags, with 45% of students. This was followed by recycling paper (35%), reusing notebooks (30%) and reusing bottles (20%). However, the least popular way for girls was composting food, with only 15% of students.\n\nTo summarize, both boys and girls liked recycling paper. However, the biggest difference was in using cloth bags, where 15% of boys chose it, whereas 45% of girls did."
+ },
+ "email": {
+  "id": "E-03",
+  "formal": false,
+  "situation": "Imagine you are Ahmed. Your friend Khalid's family has very high electricity bills.",
+  "task": "Write an email to your friend Khalid. In your email, write about:",
+  "bullets": [
+   "how he can save energy at home",
+   "why saving energy is important",
+   "how he can start"
+  ],
+  "model": "Dear Khalid,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to give you some advice about saving energy at home.\n\nFirst, you should switch off the lights and the air conditioner when you leave a room. For example, many people forget the lights in empty rooms. Moreover, a small habit like this can reduce your electricity bill.\n\nSecond, saving energy is important because it protects the environment and saves money. Moreover, you can start today by using LED bulbs. Therefore, your family will use less electricity.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nAhmed"
+ }
+}

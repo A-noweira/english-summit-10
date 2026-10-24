@@ -1,0 +1,603 @@
+{
+ "id": 5,
+ "title": "Model Exam 5",
+ "listening1": {
+  "context": "You are going to hear a conversation between Salma and Yousef.",
+  "script": [
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "Hi Salma! You look very happy today. What is the news? Did you pass your science test?"
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "Hi Yousef! No, not yet, but I have other good news. My old phone stopped working last week, so my father says I can buy a new smartphone. Could you help me choose one?"
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "Of course, I would love to. When are you going to the shop?"
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "I wanted to go on Tuesday, but my father works late that day. So we will go on Thursday afternoon, after school."
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "Good. Choosing a phone can be difficult, because there are so many models in the shops. First, think about your budget. How much can you spend?"
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "My father says I can spend a maximum of one hundred and fifty rials. My cousin paid two hundred for his phone, but that is too expensive for me."
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "One hundred and fifty is a good budget. Now, which feature is the most important for you?"
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "Well, the camera is nice, and a big screen is useful, but the battery matters most. My old phone died every afternoon, and I could not even call my mother when I needed her."
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "Then choose a phone with a battery that lasts the whole day. Before you go to the shop, I suggest that you read some online reviews. Customers often tell the truth about a phone."
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "That is a good idea. I usually watch adverts, but they only show the good points of a phone."
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "Exactly. Another thing to think about is memory. Do you take many photos or record many videos?"
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "Yes, I take hundreds! My old phone only had thirty-two gigabytes, and it was always full."
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "Then you need at least sixty-four gigabytes. My brother has one hundred and twenty-eight, but those phones cost much more."
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "Sixty-four sounds right for me. I will also buy a strong case, because I always drop my phone. I already have a charger and headphones at home."
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "That is very sensible. Please send me a message when you buy it. I would like to see it, and I can help you to set it up if you want."
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "Of course I will, and I would love some help with the setting up. Thank you so much for your help today! Let me buy you lunch next week."
+   },
+   {
+    "speaker": "Yousef",
+    "gender": "m",
+    "text": "Thank you, but there is no need. A fresh juice is enough for me."
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "Deal! I will bring one to school on Sunday."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "When will Salma go to the shop?",
+    "options": [
+     "On Tuesday",
+     "On Thursday",
+     "On Saturday"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "What is the maximum Salma can spend on the phone?",
+    "options": [
+     "100 rials",
+     "200 rials",
+     "150 rials"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "Which feature is the most important for Salma?",
+    "options": [
+     "The battery",
+     "The camera",
+     "The screen size"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "What does Yousef suggest doing before going to the shop?",
+    "options": [
+     "Watching adverts",
+     "Asking a shop assistant",
+     "Reading online reviews"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "How much memory does Salma need at least?",
+    "options": [
+     "32 gigabytes",
+     "64 gigabytes",
+     "128 gigabytes"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "What will Salma buy together with the phone?",
+    "options": [
+     "A strong case",
+     "A charger",
+     "Headphones"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 7,
+    "q": "What will Salma bring Yousef on Sunday?",
+    "options": [
+     "Lunch",
+     "A phone case",
+     "A fresh juice"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about nuclear power.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Good morning, everyone. Today I am going to talk about nuclear power."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Nuclear power is a way of making electricity. It does not burn coal, oil or gas. Instead, it uses a metal called uranium as fuel. Inside a nuclear power station, the atoms of uranium are split. This process releases a huge amount of heat. The heat boils water and makes steam, and the steam turns a turbine. The turbine drives a generator, and the generator produces electricity."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "One big advantage of nuclear power is that a very small amount of uranium can produce a lot of energy. A small piece of fuel, about the size of a fingertip, can give as much energy as about one tonne of coal."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Another advantage is that nuclear power stations do not release carbon dioxide while they are working. Coal and gas stations release a lot of it, and it is one of the main causes of global warming. So nuclear power can help to fight climate change."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "The history of nuclear power is quite short. The first nuclear power station that sent electricity to a public network started work in the Soviet Union in nineteen fifty-four. Today, nuclear power stations work in more than thirty countries, and together they produce about ten percent of the world's electricity."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "However, nuclear power has some problems. The biggest problem is the waste. Used fuel stays dangerous for thousands of years. Experts put it into strong containers and store it deep underground. Also, building a nuclear power station is very expensive, and it takes many years."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Many people worry about accidents. There have been two very serious accidents, at Chernobyl in nineteen eighty-six and at Fukushima in twenty eleven. But we should remember that serious accidents are very rare, and modern stations have many safety systems."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "In conclusion, nuclear power gives a lot of clean electricity, but it needs careful planning and safe storage of waste. Each country must think about the cost, the safety and the needs of its people before it decides. Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What metal do nuclear power stations use as fuel?",
+    "hint": "(metal)",
+    "answer": "Uranium"
+   },
+   {
+    "n": 2,
+    "q": "Which gas do nuclear power stations not release while they are working?",
+    "hint": "",
+    "answer": "Carbon dioxide"
+   },
+   {
+    "n": 3,
+    "q": "In which year did the first nuclear power station send electricity to a public network?",
+    "hint": "(year)",
+    "answer": "1954"
+   },
+   {
+    "n": 4,
+    "q": "Where do experts store the dangerous waste?",
+    "hint": "",
+    "answer": "Deep underground"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "A very small amount of uranium can produce a lot of energy.",
+    "answer": true
+   },
+   {
+    "n": 6,
+    "statement": "Nuclear power stations burn coal to make steam.",
+    "answer": false
+   },
+   {
+    "n": 7,
+    "statement": "Nuclear power produces about ten percent of the world's electricity.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "Serious accidents at nuclear power stations are common.",
+    "answer": false
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Many teenagers today are (1)_____ natives, because they have used technology since they were small. Hamad (2)_____ a new educational app every month and uses it to learn English. On the bus, he enjoys listening to a (3)_____ about science and history. However, his mother worries that too much time in front of a screen is (4)_____ for his health, and she thinks that his attention (5)_____ is getting shorter. So Hamad now tries to switch off his phone after dinner, and at weekends he prefers to meet his friends, play football and talk with them face to face.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "social",
+     "global",
+     "digital",
+     "central"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "options": [
+     "uploads",
+     "downloads",
+     "deletes",
+     "charges"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "website",
+     "journalist",
+     "layout",
+     "podcast"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 4,
+    "options": [
+     "helpful",
+     "harmful",
+     "useful",
+     "peaceful"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "brand",
+     "button",
+     "source",
+     "span"
+    ],
+    "answer": 3
+   }
+  ]
+ },
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Salim",
+    "text": "Hi Maryam! Have you [[1]] your science project yet?"
+   },
+   {
+    "speaker": "Maryam",
+    "text": "Not yet. I [[2]] on it since Sunday, but it is [[3]] difficult than I expected."
+   },
+   {
+    "speaker": "Salim",
+    "text": "What is it about?"
+   },
+   {
+    "speaker": "Maryam",
+    "text": "It is about nuclear power. I need some more information, but there aren't [[4]] pages about it on the school website."
+   },
+   {
+    "speaker": "Salim",
+    "text": "If I [[5]] you, I would ask Mr Hamad for help. He knows a lot about energy."
+   },
+   {
+    "speaker": "Maryam",
+    "text": "That is a good idea. I will talk to him tomorrow. Thanks, Salim!"
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "finished",
+     "finish"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "worked",
+     "have worked"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "more",
+     "most"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "many",
+     "much"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "am",
+     "were"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "reading1": {
+  "title": "Heat Waves",
+  "passage": [
+   "A heat wave is a period of unusually hot weather that lasts for several days or more. There is no single number for every country, because \"hot\" depends on the place. For example, a temperature that feels normal in Oman in summer could be a serious heat wave in northern Europe.",
+   "Heat waves usually happen when an area of high pressure stays over a region for a long time. The high pressure pushes warm air down towards the ground and traps it there. The sky is clear, so the sun heats the land day after day. At night, the heat cannot escape, so people and animals cannot cool down.",
+   "Scientists say that heat waves are becoming more frequent and stronger in many parts of the world. They link this to global warming, which is caused mainly by burning fossil fuels such as coal, oil and gas. In fact, the last ten years included the warmest years ever recorded.",
+   "Heat waves can be dangerous for our health. Too much heat can cause headaches, dizziness and heat stroke, which is a serious emergency. Elderly people, babies and people who work outdoors are at the greatest risk. Doctors advise everyone to drink water regularly, to stay in the shade and to wear light, loose clothes.",
+   "Heat waves also affect nature and cities. Crops can die, rivers can become very low, and forest fires can start easily. Cities are often hotter than the countryside because concrete and roads absorb the heat during the day and release it slowly at night. In addition, people use air conditioners more, so the demand for electricity rises and power cuts can happen.",
+   "What can we do? Governments can plant more trees, build parks and send text messages to warn people before a heat wave arrives. Some cities paint roofs white because white surfaces reflect sunlight. As individuals, we can check on our elderly neighbours and reduce our carbon footprint, so that future heat waves will be less severe. Small actions by many people can make a big difference."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "According to the passage, a heat wave is ________.",
+    "options": [
+     "a very strong wind that lasts for days",
+     "a period of unusually hot weather",
+     "a sudden rise in sea level"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "Why is there no single number for every country?",
+    "options": [
+     "Because \"hot\" depends on the place",
+     "Because scientists disagree",
+     "Because heat waves never last long"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "What do scientists link the increase in heat waves to?",
+    "options": [
+     "Clear skies at night",
+     "Too many trees",
+     "Global warming"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "Which group is at the greatest risk in a heat wave?",
+    "options": [
+     "Teachers and students",
+     "Elderly people, babies and outdoor workers",
+     "People who live near rivers"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "Why are cities often hotter than the countryside?",
+    "options": [
+     "Concrete and roads absorb heat",
+     "They have more parks",
+     "They are closer to the sea"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "What can governments do to help people?",
+    "options": [
+     "Close all the schools",
+     "Stop using electricity",
+     "Send text messages as a warning"
+    ],
+    "answer": 2
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "Heat waves usually happen when ________ stays over a region for a long time.",
+    "answer": "high pressure"
+   },
+   {
+    "n": 8,
+    "q": "Too much heat can cause headaches, dizziness and ________.",
+    "answer": "heat stroke"
+   },
+   {
+    "n": 9,
+    "q": "Air conditioners increase the demand for ________.",
+    "answer": "electricity"
+   },
+   {
+    "n": 10,
+    "q": "Some cities paint roofs ________ because they reflect sunlight.",
+    "answer": "white"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "The Ancient Olympic Games",
+  "passage": [
+   "The Olympic Games are the biggest sports event in the world today, but their story began more than two thousand years ago in Ancient Greece.",
+   "The first recorded ancient Games took place in 776 BC in a town called Olympia, in the south of Greece. They were held in honour of Zeus, the king of the Greek gods, and they took place every four years. Many Greeks travelled for days to watch, and thousands of people camped near the sports ground because there were not enough houses for everyone.",
+   "At first, there was only one event: a short running race of about two hundred metres. Later, as the Games became more popular, the Greeks added longer races, wrestling, boxing, the long jump, and throwing the discus and the javelin. The most exciting event for the crowds was the chariot race, in which men drove carts pulled by horses.",
+   "Only free Greek men were allowed to compete, and married women were not allowed to watch. The athletes trained for months, and they had to promise to follow the rules of the Games. Judges watched every event carefully, and an athlete who cheated had to pay a fine.",
+   "The Greek cities often fought each other, but they agreed to stop fighting during the Games. This peace allowed athletes and visitors to travel safely to Olympia, even if they came from cities that were enemies in other months of the year.",
+   "The winners did not receive gold medals. Instead, each winner was given a crown of olive leaves. However, he returned home as a hero, and his city often gave him gifts, such as free meals.",
+   "The ancient Games continued for more than one thousand years. At the end of the fourth century AD, a Roman emperor called Theodosius stopped them, and for a very long time nobody held them again.",
+   "The idea did not die, however. In 1896, a Frenchman called Pierre de Coubertin organised the first modern Olympic Games in Athens, the capital of Greece. Today, athletes from more than two hundred countries take part in the Games, which are held every four years."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "When were the first recorded ancient Games held?",
+    "hint": "(year)",
+    "answer": "In 776 BC"
+   },
+   {
+    "n": 2,
+    "q": "Who were the Games held in honour of?",
+    "hint": "",
+    "answer": "Zeus"
+   },
+   {
+    "n": 3,
+    "q": "What was the only event at first?",
+    "hint": "",
+    "answer": "A short running race / A running race"
+   },
+   {
+    "n": 4,
+    "q": "Who was allowed to compete in the Games?",
+    "hint": "",
+    "answer": "Free Greek men"
+   },
+   {
+    "n": 5,
+    "q": "What was given to each winner?",
+    "hint": "",
+    "answer": "A crown of olive leaves"
+   },
+   {
+    "n": 6,
+    "q": "Who organised the first modern Olympic Games?",
+    "hint": "",
+    "answer": "Pierre de Coubertin"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Greek cities stopped fighting during the Games.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "Winners received gold medals.",
+    "answer": false
+   },
+   {
+    "n": 9,
+    "statement": "A Roman emperor stopped the ancient Games.",
+    "answer": true
+   },
+   {
+    "n": 10,
+    "statement": "The first modern Olympic Games were held in Rome.",
+    "answer": false
+   }
+  ]
+ },
+ "chart": {
+  "title": "Devices Used for Homework by Boys and Girls",
+  "ylabel": "Percentage of Students",
+  "unit": "%",
+  "categories": [
+   "Laptop",
+   "Smartphone",
+   "Tablet",
+   "Desktop computer",
+   "E-reader"
+  ],
+  "series": [
+   {
+    "name": "Boys",
+    "values": [
+     65,
+     40,
+     25,
+     50,
+     10
+    ]
+   },
+   {
+    "name": "Girls",
+    "values": [
+     55,
+     70,
+     40,
+     15,
+     20
+    ]
+   }
+  ],
+  "model": "The bar chart illustrates the devices that Grade 10 boys and girls use to do their homework. Overall, boys preferred the laptop, whereas girls preferred the smartphone.\nFirstly, the most popular device for boys was the laptop, with 65%. This was followed by the desktop computer (50%), the smartphone (40%) and the tablet (25%). However, the least popular device for boys was the e-reader, with only 10%.\nIn contrast, the most popular device for girls was the smartphone, with 70%. This was followed by the laptop (55%), the tablet (40%) and the e-reader (20%). However, the least popular device for girls was the desktop computer, with only 15%.\nTo summarize, both boys and girls liked the laptop. However, the biggest difference was in the desktop computer, where 50% of boys used it, whereas 15% of girls did."
+ },
+ "email": {
+  "formal": false,
+  "situation": "Imagine you are Hamad/Hana. Your friend Khalid/Khadija sent you a book about space as a birthday gift.",
+  "task": "Write an email to your friend Khalid/Khadija. In your email include the following:",
+  "bullets": [
+   "Thank your friend and say what you think about the gift.",
+   "Explain why you like it.",
+   "Say how you will use it and invite your friend to visit you."
+  ],
+  "model": "Dear Khalid,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to thank you for the wonderful birthday gift.\n\nFirst, the book about space is a perfect present. For example, it has colourful pictures of planets and stars. Moreover, I have always been interested in space, so you chose very well.\n\nSecond, I will use the book every day. Therefore, I will read one chapter before I sleep. However, I would like to share it with you, so please visit me next weekend and we can read it together.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nHamad"
+ }
+}
