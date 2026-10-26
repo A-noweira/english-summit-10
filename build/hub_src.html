@@ -133,7 +133,7 @@ table.k th{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spa
 .mem{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:8px;margin-top:8px}
 .mem button{min-height:72px;border-radius:12px;border:2px solid var(--line);background:var(--c);color:#fff;font:800 22px "Baloo 2";padding:6px;min-width:0}
 .mem button.up{background:var(--card);color:var(--ink);font:700 15px "Nunito"} .mem button.done{background:var(--good-bg);border-color:var(--good)}
-/* exam paper: deliberately printed-paper look in both themes */
+/* exam paper: deliberately printed-paper look in both units */
 .paper{background:#fff;color:#111;border:1px solid #bbb;border-radius:4px;padding:18px 20px 26px;font:400 15px/1.5 "Nunito Sans",Arial,sans-serif;box-shadow:var(--shadow);overflow-wrap:anywhere}
 .paper .ohd{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;font-size:11px;border-bottom:1px solid #222;padding-bottom:4px;margin-bottom:10px}
 .paper .ocv{border:1.5px solid #222;padding:10px 12px;margin-bottom:10px}.paper .ot{font:700 22px "Nunito Sans",Arial,sans-serif}
@@ -252,7 +252,7 @@ td .mini{width:100%}
 .sum h4{margin:14px 0 6px;font:800 16px "Baloo 2";color:var(--t2)}.sum table.k{background:var(--card);border-radius:8px;margin-bottom:6px}.sum p{margin:4px 0}
 .tlb{border:1px solid var(--line);border-radius:12px;padding:8px 10px;margin:10px 0;background:var(--card)}.tlb .k{font:800 11px "Nunito";letter-spacing:.08em;text-transform:uppercase;color:var(--t2)}
 .tlc{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;font-size:13.5px;margin-top:4px}.tip b{color:var(--t2)}
-/* grammar visuals (themes) */
+/* grammar visuals (units) */
 .gv{border:1px solid var(--line);border-radius:12px;background:var(--card);padding:12px;margin:10px 0}.gv>.k{font:800 11px "Nunito";letter-spacing:.08em;text-transform:uppercase;color:var(--t2);margin-bottom:8px}.gv>.k .ar{text-transform:none;letter-spacing:0;font-size:13px}
 .lad{display:flex;align-items:flex-end;gap:8px;height:104px}.lad>div{flex:1;min-width:0;border-radius:8px 8px 0 0;background:color-mix(in srgb,var(--t2) var(--p),var(--card));border:1.5px solid var(--t2);display:flex;align-items:flex-end;justify-content:center;padding:4px 3px;text-align:center;font-weight:800;font-size:13px;line-height:1.2}.lad small{display:block;font-weight:600;font-size:10.5px;color:var(--muted)}
 .asr{display:grid;grid-template-columns:54px 1fr 64px;align-items:center;gap:8px;margin:5px 0;font-weight:700;font-size:14px}.asb{height:16px;background:var(--soft);border-radius:8px;overflow:hidden}.asb i{display:block;height:100%;background:var(--c,var(--t2));border-radius:8px}.ast{font-size:12px;color:var(--muted)}
@@ -296,7 +296,7 @@ td .mini{width:100%}
   <a class="brand" href="#HUB"><span class="lg"><svg viewBox="0 -4 200 186" id="hlogo"></svg></span><b>English <span>Summit</span> 10</b></a>
   <div class="tright"><span id="who" class="who" hidden></span><a href="#HW" id="bell" class="bell" title="My homework and messages" aria-label="Messages">🔔<i hidden>0</i></a><a href="#LOGOUT" class="lout" title="Log out">⎋ Log out</a></div>
   <nav class="nv" id="nav">
-    <a href="#HUB" data-r="HUB">Home</a><a href="#HW" data-r="HW">My Homework</a><a href="#THEMES" data-r="THEMES">Themes</a><a href="#WRITE" data-r="WRITE">Writing Lab</a><a href="#PRACTICE" data-r="PRACTICE">Exam Practice</a><a href="#EXAMS" data-r="EXAMS">Exams</a><a href="#LIVE" data-r="LIVE">Live</a><a href="#SKILLS" data-r="SKILLS">My Skills</a>
+    <a href="#HUB" data-r="HUB">Home</a><a href="#HW" data-r="HW">My Homework</a><a href="#UNITS" data-r="UNITS">Units</a><a href="#WRITE" data-r="WRITE">Writing Lab</a><a href="#PRACTICE" data-r="PRACTICE">Exam Practice</a><a href="#EXAMS" data-r="EXAMS">Exams</a><a href="#LIVE" data-r="LIVE">Live</a><a href="#SKILLS" data-r="SKILLS">My Skills</a>
   </nav>
 </div></header>
 <main class="wrap" id="app"></main>
@@ -569,7 +569,7 @@ function vocabView(v){
     };
     run('list');
   });
-  return `<div class="panel" style="--c:${c}"><div class="ph"><span class="code">${v.code}</span><h1>${esc(v.title)}</h1><span class="ar">${esc(v.ar)}</span><span class="small muted">Theme ${v.theme} · ${v.words.length} words</span></div>
+  return `<div class="panel" style="--c:${c}"><div class="ph"><span class="code">${v.code}</span><h1>${esc(v.title)}</h1><span class="ar">${esc(v.ar)}</span><span class="small muted">Unit ${v.theme} · ${v.words.length} words</span></div>
     ${extrasBox(v)}<div class="modes"><button data-m="list">📋 Word list</button><button data-m="cards">🃏 Flashcards</button><button data-m="match">🔗 Match</button><button data-m="quiz">❓ Quiz</button><button data-m="book">📝 Lesson questions (${v.mcq.length})</button><button data-m="cloze">📄 Text gaps 1</button>${v.cloze2 ? '<button data-m="cloze2">📄 Text gaps 2</button>' : ''}<button data-m="spell">⌨ Spell it</button><button data-m="scramble">🔤 Word builder</button><button data-m="missing">🧩 Missing letters</button><button data-m="listen">🔊 Listen &amp; spell</button><button data-m="hangman">🧗 Guess the word</button><button data-m="memory">🧠 Memory</button><button data-m="lightning">⚡ Lightning 60s</button></div><div id="stage"></div></div>`;
 }
 
@@ -620,7 +620,7 @@ function irregView(){
       else quiz(el, pick.map(([b,p,pp]) => { const o = shuf([pp, ...shuf(D.irreg.filter(x=>x[2]!==pp)).slice(0,2).map(x=>x[2])]); return {q:`I have never ____ (${esc(b)}) …`, opts:o, ans:o.indexOf(pp), k:b + ':v3', kind:'verb'}; }), 'F-03'); };
     modes.forEach(b => b.onclick = () => run(b.dataset.m)); run('table');
   });
-  return `<div class="panel" style="--c:var(--fd)"><div class="ph"><span class="code">F-03</span><h1>Irregular Verbs</h1><span class="ar">الأفعال الشاذة</span><span class="small muted">${D.irreg.length} verbs from Themes 1–4</span></div>
+  return `<div class="panel" style="--c:var(--fd)"><div class="ph"><span class="code">F-03</span><h1>Irregular Verbs</h1><span class="ar">الأفعال الشاذة</span><span class="small muted">${D.irreg.length} verbs from Units 1–4</span></div>
     <div class="modes"><button data-m="table">📋 Table</button><button data-m="past">Past simple</button><button data-m="pp">Past participle</button><button data-m="mix">Choose quickly</button></div><div id="stage"></div></div>`;
 }
 /* -- phrasal verbs (F-04): table, cards, meaning quiz, gap typing -- */
@@ -669,7 +669,7 @@ function keysView(){
   return `<div class="ph"><h1>Answer keys</h1><span class="ar">مفاتيح الإجابات</span></div>
     <div class="note small">Try the questions first. Then check here. <span class="ar">حلّ أولًا ثم صحّح هنا.</span></div>
     <input class="tx" id="ks" placeholder="Search: Unit 2, Model Exam 4, 2024 …" style="max-width:100%;margin:6px 0 14px">
-    <div id="kl">${theme ? `<h2 style="margin:6px 0 8px">Themes</h2>${theme}` : ''}<h2 style="margin:18px 0 8px">Exams and exam practice</h2>${ex}</div>`;
+    <div id="kl">${theme ? `<h2 style="margin:6px 0 8px">Units</h2>${theme}` : ''}<h2 style="margin:18px 0 8px">Exams and exam practice</h2>${ex}</div>`;
 }
 
 /* -- skills chart -- */
@@ -677,7 +677,7 @@ function feedbackView(){
   return `<div class="panel" style="--c:var(--wr)"><div class="ph"><span class="code">WR-FB</span><h1>Teacher feedback on your writing</h1></div>
    <p class="ar" style="font-size:16px">أرسل كتابتك إلى الأستاذ محمد إمام لتحصل على تصحيح وتعليقات تساعدك على الوصول إلى الدرجة الكاملة.</p>
    <ol><li>Write your essay or e-mail in the book.</li><li>Check it yourself with the checklist on the page.</li><li>Take a clear photo and send it on WhatsApp to <b style="user-select:all">${WA}</b> with your name and the topic number.</li><li>Read the feedback, rewrite the parts marked, and save your score on the <a href="#SKILLS">skills chart</a>.</li></ol>
-   <div class="note"><b>What your teacher checks:</b> task (all points answered) · organisation (paragraphs, linkers) · grammar (tenses, sentences) · vocabulary (theme words, spelling) · length.</div>
+   <div class="note"><b>What your teacher checks:</b> task (all points answered) · organisation (paragraphs, linkers) · grammar (tenses, sentences) · vocabulary (unit words, spelling) · length.</div>
    <div class="row" style="justify-content:flex-start"><a class="btn" style="text-decoration:none" target="_blank" rel="noopener" href="https://wa.me/96893270518">Open WhatsApp</a></div></div>`;
 }
 
@@ -756,11 +756,11 @@ function beeView(n){
       else XG[m](el, W, 'SB-'+n); };
     modes.forEach(b => b.onclick = () => run(b.dataset.m)); run('key');
   });
-  return `<div class="panel" style="--c:${TC[n]}"><div class="ph"><span class="code">SB-${n}</span><h1>Theme ${n} Spelling Bee</h1><span class="ar">مسابقة الإملاء</span><span class="small muted">${W.length} words from ${TN[n]}</span></div>
+  return `<div class="panel" style="--c:${TC[n]}"><div class="ph"><span class="code">SB-${n}</span><h1>Unit ${n} Spelling Bee</h1><span class="ar">مسابقة الإملاء</span><span class="small muted">${W.length} words from ${TN[n]}</span></div>
     <div class="modes"><button data-m="key">★ Key words (15)</button><button data-m="all">All words (20)</button><button data-m="lightning">⚡ Lightning</button><button data-m="hangman">🧗 Guess the word</button></div><div id="stage"></div></div>`;
 }
 
-/* ---------- theme test (TT-n): vocabulary texts + vocabulary MCQ + grammar dialogues ---------- */
+/* ---------- unit practice (TT-n): vocabulary texts + vocabulary MCQ + grammar dialogues ---------- */
 function ttView(x){
   const ref = x.id, KEY = []; let n = 0, h = '';
   const bar = (t, a, b) => `<div class="obh"><span>${esc(t)} (Items ${a} – ${b})</span><span></span></div>`;
@@ -809,8 +809,8 @@ function ttView(x){
       $('#score').scrollIntoView({behavior: 'smooth'});
     };
   });
-  return `<div class="ph"><span class="code" style="--c:var(--wr)">${x.id}</span><h1>${esc(x.label)}</h1><span class="ar">اختبار الثيم</span>${bestTag(ref)}</div>
-    <div class="row" style="justify-content:flex-start;margin:-6px 0 10px"><a class="btn g" style="text-decoration:none" href="#TH-${x.theme}">◀ Back to Theme ${x.theme}</a></div>
+  return `<div class="ph"><span class="code" style="--c:var(--wr)">${x.id}</span><h1>${esc(x.label)}</h1><span class="ar">اختبار الوحدة</span>${bestTag(ref)}</div>
+    <div class="row" style="justify-content:flex-start;margin:-6px 0 10px"><a class="btn g" style="text-decoration:none" href="#TH-${x.theme}">◀ Back to Unit ${x.theme}</a></div>
     <div class="paper" id="paper"><div class="ohd"><span>English Summit 10 · Grade 10 English, Semester One</span><span>Academic Year: 2026/2027</span></div>
      <div class="ocv"><div class="ot">${esc(x.label)}</div><div class="small">${x.total} items · vocabulary and grammar · no time limit</div></div>${h}<div class="oend">[ End of the test ]</div></div>
     <div class="row" style="margin-top:14px"><button class="btn" id="fin" style="--c:var(--navy)">Finish &amp; check</button></div><div id="score"></div>`;
@@ -868,17 +868,18 @@ function examView(x, parts){
   const sa = (q, a, sec) => { n++; KEY.push({n, sec, t:'sa', ans:a}); return `<div class="oq" id="q${n}"><div class="on">${n}.</div><div class="ob"><div>${gap(q)}</div><input class="ol" name="i${n}" autocomplete="off" spellcheck="false"><div class="ck"></div></div></div>`; };
   const tfT = (rows, sec) => `<table class="otf"><tr><th>Statement</th><th>True</th><th>False</th></tr>${rows.map(([s, a]) => { n++; KEY.push({n, sec, t:'mc', ans: a ? 0 : 1, txt: a ? 'True' : 'False', opts:['True','False']});
       return `<tr id="q${n}"><td><b>${n}.</b> ${rich(s)}<div class="ck"></div></td><td><label class="bo c"><input type="radio" name="i${n}" value="0"><span class="bb"></span></label></td><td><label class="bo c"><input type="radio" name="i${n}" value="1"><span class="bb"></span></label></td></tr>`; }).join('')}</table>`;
+  const origRec = (l) => l && l.link ? `<div class="tts"><a class="btn" href="${esc(l.link)}" target="_blank" rel="noopener">🔊 Open the original recording · افتح التسجيل الأصلي</a><span class="small muted">Read the questions first, then listen. The recording opens in a new tab. <span class="ar">اقرأ الأسئلة أولًا ثم استمع؛ يفتح التسجيل في تبويب جديد.</span></span></div>` : '';
   const audio = (part, url, sc) => url ? (SCR[part] = sc, `<div class="tts"><audio controls preload="metadata" src="${esc(url)}" data-aud="${part}" style="width:100%;max-width:460px"></audio><span class="small muted">Read the questions first. The recording plays the text twice. <span class="ar">اقرأ الأسئلة أولًا؛ التسجيل يُعاد مرتين.</span></span></div>`)
     : sc ? (SCR[part] = sc, ttsBox(part, sc)) : '';
-  const noRec = P.L && x.noaudio ? `<div class="note small">No recording is available for this past paper, so you only have the questions. Read them, try to answer from what you know, then ask your teacher, or practise with the <a href="#EXAMS">model exams</a>, which have real recordings. <span class="ar">لا يوجد تسجيل لهذا الامتحان السابق؛ اقرأ الأسئلة ثم اسأل معلمك، أو تدرّب على النماذج التي لها تسجيلات.</span></div>` : '';
+  const noRec = '';
   const SEC = {L: 'Listening', G: 'Grammar & Vocabulary', R: 'Reading'};
   let h = `<div class="ohd"><span>English Summit 10 · Grade 10 English, Semester One</span><span>Academic Year: 2026/2027</span></div>
     <div class="ocv"><div><div class="ot">${esc(x.label)}${parts && x.kind !== 'gv' && x.kind !== 'past' ? ' · ' + SEC[parts] : ''}</div><div class="small">${parts ? (x.kind === 'past' ? 'Past final-exam paper · ' : 'Exam practice · ') + SEC[parts] : '2½ hours · 60 marks · items 1–45 + two writing tasks'}</div></div></div>${noRec}`;
   if (P.L && x.l1) {
-    h += bar('Listening 1', 1, x.l1.items.length, x.l1.items.length) + audio('l1', x.l1.audio, x.l1.script) + inst(`<i>${esc(x.l1.intro)}</i><br><i>Listen, and shade in the bubble</i> (${B}) <i>next to the correct option.</i>`);
+    h += bar('Listening 1', 1, x.l1.items.length, x.l1.items.length) + (x.l1.link ? origRec(x.l1) : audio('l1', x.l1.audio, x.l1.script)) + inst(`<i>${esc(x.l1.intro)}</i><br><i>Listen, and shade in the bubble</i> (${B}) <i>next to the correct option.</i>`);
     x.l1.items.forEach(([q,o,a]) => h += mc(q,o,a,'listening'));
     const a0 = n + 1, l2n = x.l2.p1.length + x.l2.p2.length;
-    h += bar('Listening 2', a0, a0 + l2n - 1, l2n) + audio('l2', x.l2.audio, x.l2.script) + inst(`<i>${esc(x.l2.intro)}</i>`) + inst('<u><b>Part One</b></u>: <i>For each item, write a <u>short</u> answer</i> (<b>not more than FOUR WORDS or a NUMBER</b>).');
+    h += bar('Listening 2', a0, a0 + l2n - 1, l2n) + (x.l2.link ? origRec(x.l2) : audio('l2', x.l2.audio, x.l2.script)) + inst(`<i>${esc(x.l2.intro)}</i>`) + inst('<u><b>Part One</b></u>: <i>For each item, write a <u>short</u> answer</i> (<b>not more than FOUR WORDS or a NUMBER</b>).');
     x.l2.p1.forEach(([q,a]) => h += sa(q,a,'listening'));
     h += inst(`<u><b>Part Two</b></u>: <i>Listen. Are the statements <b><u>True</u></b> or <b><u>False</u></b>? Shade in the bubble</i> (${B}) <i>under the correct option.</i>`) + tfT(x.l2.p2, 'listening');
   }
@@ -953,7 +954,7 @@ function examView(x, parts){
       const TY = w => w === 'w1' ? (x.w1type || 'CH') : (x.w2type || 'IE');
       const canAI = w => typeof WTYPE !== 'undefined' && WTYPE[TY(w)];
       const wbtn = P.W ? ['w1','w2'].filter(w => x[w]).map(w => canAI(w) ? `<button class="btn g" data-ai="${w}">Send Writing ${w.slice(1)} for AI marking</button>` : `<a class="btn g" style="text-decoration:none" href="#WRITE">Writing ${w.slice(1)} · open the Writing Lab</a>`).join('') : '';
-      const WCHK = {w1: ['Introduction: “The bar chart illustrates / shows …”', 'Every category is mentioned with its numbers', 'Highest and lowest values compared', 'Linking words (while, whereas, however …)', 'Conclusion paragraph', '100+ words'],
+      const WCHK = {w1: ['Introduction: “The bar chart shows …” + a second sentence naming the categories under the bars', 'Every category is mentioned with its numbers', 'Highest and lowest values compared', 'Linking words (while, whereas, however …)', 'Conclusion paragraph', '100+ words'],
                     w2: ['Greeting and fixed opening lines', 'First, … Second, … body paragraphs', 'Two linkers in each body paragraph (For example / However / Therefore / Moreover)', 'Every bullet point answered', 'Fixed closing lines and your name', '100+ words']};
       const wm = P.W ? ['w1','w2'].filter(w => x[w] && x[w].model).map(w => `<details style="margin-top:8px;text-align:left"><summary>Writing ${w.slice(1)} · self-check and model answer · نموذج الإجابة</summary><div class="kb"><p class="small"><b>Check your writing:</b></p><ul class="small">${WCHK[w].map(c => `<li>${esc(c)}</li>`).join('')}</ul><p class="small"><b>Model answer:</b></p>${x[w].model.split('\n').filter(Boolean).map(p => `<p>${esc(p)}</p>`).join('')}</div></details>`).join('') : '';
       $('#score').innerHTML = `<div class="res" style="padding:8px"><div class="big">${tot}/${max}</div><p>${parts ? '' : 'Items 1–45 (writing is marked separately: chart /5 + e-mail /10). '}${Object.entries(res).map(([s,[a,b]])=>`<b>${SN[s]||s}</b> ${a}/${b}`).join(' · ')}</p>
@@ -972,7 +973,7 @@ function examView(x, parts){
   });
   const back = parts ? `<a class="btn g" style="text-decoration:none" href="#PR-${parts}">◀ All ${({L:'listening', G:'grammar & vocabulary', R:'reading'})[parts]} papers</a>`
     : `<a class="btn g" style="text-decoration:none" href="#${x.kind === 'theme' ? 'TH-' + x.id.slice(3) : 'EXAMS'}">◀ Back</a>`;
-  return `<div class="ph"><span class="code" style="--c:var(--ex)">${x.id}</span><h1>${esc(x.label)}</h1><span class="ar">${x.kind==='past'?'امتحان سابق':x.kind==='theme'?'اختبار الثيم':x.kind==='gv'?'قواعد ومفردات':'نموذج امتحان'}</span>${bestTag(ref)}</div>
+  return `<div class="ph"><span class="code" style="--c:var(--ex)">${x.id}</span><h1>${esc(x.label)}</h1><span class="ar">${x.kind==='past'?'امتحان سابق':x.kind==='theme'?'تدريب الوحدة':x.kind==='gv'?'قواعد ومفردات':'نموذج امتحان'}</span>${bestTag(ref)}</div>
     <div class="row" style="justify-content:flex-start;margin:-6px 0 10px">${back}</div>
     <div class="paper" id="paper">${h}</div>
     <div class="row" style="margin-top:14px"><button class="btn" id="fin" style="--c:var(--navy)">Finish &amp; check</button></div><div id="score"></div>`;
@@ -1003,7 +1004,7 @@ async function refreshInbox(){
   if (j && j.notices) { INBOX = j; paintBell(); const h = decodeURIComponent(location.hash.slice(1)); if (h === 'NOTICES' || h === 'LIVE') route(); }
 }
 async function hello(){ if (ST.code && ST.tok) { const j = await api('/api/hello', {method:'POST', body: JSON.stringify({code: ST.code})}); if (j && j.name && j.name !== ST.name) { ST.name = j.name; save(); showWho(); } await refreshInbox(); await pullMe(); flush(); checkReadyFeedback();
-  const h = decodeURIComponent(location.hash.slice(1)) || 'HUB'; if (['HUB','SKILLS','THEMES','HW'].includes(h) || /^TH-/.test(h)) route(); } }
+  const h = decodeURIComponent(location.hash.slice(1)) || 'HUB'; if (['HUB','SKILLS','UNITS','HW'].includes(h) || /^TH-/.test(h)) route(); } }
 setInterval(refreshInbox, 120000);
 addEventListener('focus', refreshInbox);
 
@@ -1057,7 +1058,7 @@ let TTAB = 'accounts', TSTU = null;
 const tapi = (p, body) => api(p, body ? {method:'POST', headers:{'content-type':'application/json','x-teacher-key':TKEY}, body: JSON.stringify(body)} : {headers:{'x-teacher-key':TKEY}});
 function contentOptions(){
   const o = [['', '— none —']];
-  [1,2,3,4].forEach(n => { o.push(['#TH-' + n, `Theme ${n} · whole path`]); THEME_STEPS(n).forEach(s => o.push(['#' + s.code, `Theme ${n} · ${s.code} · ${s.title}`])); });
+  [1,2,3,4].forEach(n => { o.push(['#TH-' + n, `Unit ${n} · whole path`]); THEME_STEPS(n).forEach(s => o.push(['#' + s.code, `Unit ${n} · ${s.code} · ${s.title}`])); });
   D.found.forEach(f => o.push(['#' + f.code, `Grammar Booster · ${f.code} · ${f.title}`]));
   o.push(['#F-03', 'Irregular verbs (table + games)']); o.push(['#F-04', 'Phrasal verbs (table + games)']);
   ['L','G','R'].forEach(k => practicePapers(k).forEach(x => o.push([`#PR-${k}-${x.id}`, `Exam practice · ${PRS[k][0]} · ${x.label}`])));
@@ -1090,14 +1091,14 @@ async function teacherProfile(box, code){
   const sk = {}; Object.keys(SKN).forEach(k => sk[k] = {s:0, m:0}); sc.filter(x => x.max > 0 && sk[x.skill]).forEach(x => { sk[x.skill].s += x.score; sk[x.skill].m += x.max; });
   const subsDone = p.subs.filter(x => x.result); if (subsDone.length) { sk.writing.s = subsDone.reduce((a, x) => a + x.result.score, 0); sk.writing.m = 10 * subsDone.length; }
   const words = p.items.filter(i => i.kind === 'word'), weakW = words.filter(w => w.bad > 0).slice(0, 30), weakQ = p.items.filter(i => i.kind !== 'word' && i.bad > 0 && i.streak === 0).slice(0, 40);
-  const themes = [1,2,3,4].map(n => { const t = sc.filter(x => x.theme === n && x.max > 0); return {n, pct: pctOf(t.reduce((a, x) => a + x.score, 0), t.reduce((a, x) => a + x.max, 0)), n_: t.length}; });
+  const units = [1,2,3,4].map(n => { const t = sc.filter(x => x.theme === n && x.max > 0); return {n, pct: pctOf(t.reduce((a, x) => a + x.score, 0), t.reduce((a, x) => a + x.max, 0)), n_: t.length}; });
   const st = p.state ? JSON.parse(p.state) : {};
   const refl = p.events.filter(e => e.kind === 'wl_reflection');
   box.innerHTML = `<div class="row" style="justify-content:flex-start;margin-top:0"><button class="btn g sm" id="tback">◀ All students</button></div>
    <h2 style="font-size:24px;margin:6px 0 2px">${esc(s.name || '—')}</h2><div class="small muted">${esc(s.code)} · first seen ${new Date(s.first_seen).toLocaleDateString('en-GB')} · last seen ${ago(s.last_seen)} ago · ${s.minutes || 0} min · ${s.logins || 0} logins</div>
    <div class="kpis" style="margin-top:10px">${Object.entries(SKN).map(([k, [nm]]) => `<div><b>${k === 'writing' && sk.writing.m ? Math.round(10 * sk.writing.s / (sk.writing.m / 10)) / 10 + '/10' : (pctOf(sk[k].s, sk[k].m) ?? '–') + (sk[k].m ? '%' : '')}</b><span>${nm}</span></div>`).join('')}
     <div><b>${words.filter(w => w.streak >= 3).length}/${words.length}</b><span>Words mastered / seen</span></div></div>
-   <div class="sgrid"><div class="panel"><h3 class="h2s">Themes</h3><table class="k">${themes.map(t => `<tr><td>Theme ${t.n} · ${TN[t.n]}</td><td>${pc(t.pct)}</td><td class="small muted">${t.n_} activities</td></tr>`).join('')}</table>
+   <div class="sgrid"><div class="panel"><h3 class="h2s">Units</h3><table class="k">${units.map(t => `<tr><td>Unit ${t.n} · ${TN[t.n]}</td><td>${pc(t.pct)}</td><td class="small muted">${t.n_} activities</td></tr>`).join('')}</table>
      <h3 class="h2s" style="margin-top:12px">Writing Lab stages</h3><p class="small">${WT.map(T => `${WTYPE[T].name}: ${Object.keys((st.wl || {})[T] || {}).sort().join(', ') || 'none'}`).join('<br>')}</p></div>
     <div class="panel"><h3 class="h2s">Words with mistakes</h3>${weakW.length ? `<div class="chips">${weakW.map(w => `<span class="wchip">${esc(w.key)} <small>✘${w.bad} ✔${w.ok}</small></span>`).join('')}</div>` : '<p class="small muted">None yet.</p>'}
      <h3 class="h2s" style="margin-top:12px">Questions still wrong</h3>${weakQ.length ? `<table class="k">${weakQ.slice(0, 15).map(q => `<tr><td class="small">${esc(qLabel(q.key))}</td><td class="small">answered: <b>${esc(q.lastans || '—')}</b></td></tr>`).join('')}</table>` : '<p class="small muted">None.</p>'}</div></div>
@@ -1113,7 +1114,7 @@ async function teacherClass(box){
   const sk = Object.fromEntries(c.skills.map(r => [r.skill, r]));
   box.innerHTML = `<div class="panel"><h3 class="h2s">Class average by skill</h3><div class="chart">${Object.entries(SKN).filter(([k]) => k !== 'writing').map(([k, [nm, ar, col]]) => { const v = sk[k] ? pctOf(sk[k].s, sk[k].m) : null;
       return `<div class="sk"><div class="nm">${nm}<small>${sk[k] ? sk[k].students + ' students' : ''}</small></div><div class="tr2"><i style="width:${v || 0}%;background:${col}"></i></div><div class="lv">${v == null ? '–' : v + '%'}</div></div>`; }).join('')}</div></div>
-   <div class="panel" style="margin-top:12px"><h3 class="h2s">Themes × skills</h3><table class="k"><tr><th>Theme</th><th>Vocabulary</th><th>Grammar</th><th>Listening</th><th>Reading</th></tr>${[1,2,3,4].map(n => `<tr><td>Theme ${n}</td>${['vocab','grammar','listening','reading'].map(k => { const r = c.themes.find(x => x.theme === n && x.skill === k); return `<td>${pc(r ? pctOf(r.s, r.m) : null)}</td>`; }).join('')}</tr>`).join('')}</table></div>
+   <div class="panel" style="margin-top:12px"><h3 class="h2s">Units × skills</h3><table class="k"><tr><th>Unit</th><th>Vocabulary</th><th>Grammar</th><th>Listening</th><th>Reading</th></tr>${[1,2,3,4].map(n => `<tr><td>Unit ${n}</td>${['vocab','grammar','listening','reading'].map(k => { const r = c.units.find(x => x.theme === n && x.skill === k); return `<td>${pc(r ? pctOf(r.s, r.m) : null)}</td>`; }).join('')}</tr>`).join('')}</table></div>
    <div class="sgrid" style="margin-top:12px"><div class="panel"><h3 class="h2s">Hardest words for the class</h3><table class="k"><tr><th>Word</th><th>Wrong</th><th>Right</th><th>Students</th></tr>${c.words.map(w => `<tr><td><b>${esc(w.key)}</b></td><td>${w.bad}</td><td>${w.ok}</td><td>${w.students}</td></tr>`).join('') || '<tr><td colspan="4" class="muted">No data yet.</td></tr>'}</table></div>
     <div class="panel"><h3 class="h2s">Hardest questions</h3><table class="k"><tr><th>Question</th><th>Wrong</th><th>Right</th></tr>${c.questions.map(q => `<tr><td class="small">${esc(qLabel(q.key))}</td><td>${q.bad}</td><td>${q.ok}</td></tr>`).join('') || '<tr><td colspan="3" class="muted">No data yet.</td></tr>'}</table></div></div>
    <div class="panel" style="margin-top:12px"><h3 class="h2s">Activities per day (last 30 days)</h3>${c.activity.length ? `<div class="bars">${c.activity.map(a => `<div title="${a.d}: ${a.n}"><i style="height:${Math.max(4, 100 * a.n / Math.max(...c.activity.map(x => x.n)))}%"></i><span>${a.d.slice(8)}</span></div>`).join('')}</div>` : '<p class="small muted">No activity yet.</p>'}</div>`;
@@ -1124,7 +1125,7 @@ async function teacherHomework(box){
   box.innerHTML = `<div class="panel" style="margin-bottom:14px"><h2 style="font-size:20px;margin-bottom:8px">Send homework or a notice <span class="ar small muted">إرسال واجب أو إشعار</span></h2>
       <div class="form" style="flex-direction:column;align-items:stretch">
        <label>Type<select id="ttype"><option value="assignment">Assignment · واجب</option><option value="notice">Notice · إشعار</option></select></label>
-       <label>Title<input id="ttitle" maxlength="200" placeholder="e.g. Theme 1 · words 2: reach 90% in the quiz"></label>
+       <label>Title<input id="ttitle" maxlength="200" placeholder="e.g. Unit 1 · words 2: reach 90% in the quiz"></label>
        <label>Message<textarea id="tbody" rows="3" maxlength="3000" style="font:600 14px Nunito;padding:8px;border:1.5px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink)"></textarea></label>
        <label>Platform content (optional)<select id="tlink">${contentOptions().map(([v,t])=>`<option value="${esc(v)}">${esc(t)}</option>`).join('')}</select></label>
        <label>…or an outside link (optional)<input id="text" placeholder="https://…"></label>
@@ -1376,9 +1377,9 @@ function writeType(T){
 /* ---------- stage 0: the map ---------- */
 const mbox = (t, s, c) => `<div class="mb" style="--mc:${c}"><b>${t}</b><span>${s}</span></div>`;
 function mapChart(T){
-  return `<div class="mapflow">${mbox('1 · Introduction', 'The bar chart illustrates … (from the title)<br>Overall, [group 1] preferred …, whereas [group 2] preferred …', RC.FIX)}<i>→</i>${mbox('2 · First group', 'Firstly, the most popular … was …, with … <br>This was followed by … (…), … (…) and … (…).<br>However, the least popular … was …, with only …', RC.PARA)}<i>→</i>${mbox('3 · Second group', 'In contrast, / Similarly, the most popular … <br>This was followed by … <br>However, the least popular …', RC.PARA)}<i>→</i>${mbox('4 · Conclusion', 'To summarize, both … liked … However, the biggest difference was in …, where … whereas …', RC.CONC)}</div>
+  return `<div class="mapflow">${mbox('1 · Introduction', 'The bar chart shows … (from the title)<br>Categories were …, …, … and … (the names under the bars)<br>Overall, [group 1] preferred …, whereas [group 2] preferred …', RC.FIX)}<i>→</i>${mbox('2 · First group', 'Firstly, the most popular … was …, with … <br>This was followed by … (…), … (…) and … (…).<br>However, the least popular … was …, with only …', RC.PARA)}<i>→</i>${mbox('3 · Second group', 'In contrast, / Similarly, the most popular … <br>This was followed by … <br>However, the least popular …', RC.PARA)}<i>→</i>${mbox('4 · Conclusion', 'To summarize, both … liked … However, the biggest difference was in …, where … whereas …', RC.CONC)}</div>
    <table class="k" style="margin-top:12px"><tr><th>Colour / job</th><th>What you write</th><th class="ar" style="text-align:right">وظيفتها</th></tr>
-    <tr><td><b style="color:${RC.FIX}">Fixed opening</b></td><td>The bar chart illustrates + what the chart shows (change the title, do not copy it)</td><td class="ar" style="text-align:right">جملة ثابتة تحفظها، ولا أرقام في المقدمة</td></tr>
+    <tr><td><b style="color:${RC.FIX}">Fixed opening</b></td><td>1) The bar chart shows + what the chart shows (change the title, do not copy it)<br>2) Book genres were horror, adventure, fantasy … (the names printed under the bars)</td><td class="ar" style="text-align:right">الجملة الأولى ثابتة، والثانية تسرد الأنواع المكتوبة تحت الأعمدة، ولا أرقام في المقدمة</td></tr>
     <tr><td><b style="color:${RC.CONC}">Overall / To summarize</b></td><td>Overall, … preferred … whereas … preferred … · To summarize, both … liked …</td><td class="ar" style="text-align:right">الخلاصة العامة ثم المشترك بين المجموعتين</td></tr>
     <tr><td><b style="color:${RC.PARA}">Paragraph order</b></td><td>Firstly, · In contrast, · Similarly,</td><td class="ar" style="text-align:right">تبدأ بها فقرة كل مجموعة</td></tr>
     <tr><td><b style="color:${RC.FOL}">Followed by</b></td><td>This was followed by … (number), … (number) and … (number).</td><td class="ar" style="text-align:right">رتّب الأرقام من الأعلى إلى الأقل</td></tr>
@@ -1537,7 +1538,7 @@ function frameOf(T, e){
     const grp = (g, first) => [[first, `the item (highest bar) for ${g} was … , with … ${ch.unit === '%' ? '%' : 'students / number'}.`, true], ['This was followed by', 'second (number), third (number) and fourth (number) — from high to low.', true],
                                ['However, the least popular', `item for ${g} was … , with only … .`, true]];
     return [
-    {name:'Introduction', items:[['The bar chart illustrates', 'what the chart shows (change the title) + place / year.', true], ['Overall,', `${a} preferred … , whereas ${b} preferred … (the two highest bars).`, true]]},
+    {name:'Introduction', items:[['The bar chart shows', 'what the chart shows (change the title) + place / year.', true], ['Book genres were …', 'name the categories printed under the bars, in order: a, b, c and d. (use the subject of the chart: The sports were …)', true], ['Overall,', `${a} preferred … , whereas ${b} preferred … (the two highest bars).`, true]]},
     {name: capw(a), items: grp(a, 'Firstly, the most popular')},
     {name: capw(b), items: [[['In contrast, the most popular', 'Similarly, the most popular'], `item for ${b} was … , with … .`, true], ...grp(b, '').slice(1)]},
     {name:'Conclusion', items:[['To summarize, both', `${a} and ${b} liked … (the item both liked).`, true], ['However, the biggest difference was in', `… , where … ${a} chose it, whereas … ${b} did.`, true]]}]; }
@@ -1588,7 +1589,7 @@ const ALL_LK = /\b(Firstly|First|Second|Third|For example|For instance|Moreover|
 function colorize(T, text){
   let h = esc(text);
   const paint = (re, c) => { h = h.replace(re, m => `<b style="color:${c}">${m}</b>`); };
-  paint(/\b(The (?:bar|pie) chart illustrates|I am writing this email to|Dear|Best wishes|Yours (?:faithfully|sincerely)|I hope this email finds you in good health and high spirits?|That&#39;s all I have for now|That's all I have for now|Thank you for your time and attention)/g, RC.FIX);
+  paint(/\b(The (?:bar|pie) chart (?:shows|illustrates)|I am writing this email to|Dear|Best wishes|Yours (?:faithfully|sincerely)|I hope this email finds you in good health and high spirits?|That&#39;s all I have for now|That's all I have for now|Thank you for your time and attention)/g, RC.FIX);
   paint(/\b(Firstly|In contrast|Similarly|First|Second|Third)\b/g, RC.PARA); paint(/\b(This was followed by)\b/g, RC.FOL); paint(/\b(For example|For instance)\b/g, RC.EX);
   paint(/\b(Moreover|Furthermore|In addition)\b/g, RC.ADD); paint(/\b(However)\b/g, RC.CON); paint(/\b(Therefore)\b/g, RC.RES); paint(/\b(Overall|To summarize)\b/g, RC.CONC);
   return h;
@@ -1610,7 +1611,7 @@ function analyse(T, text, ch){
   if (isChart(T)) {
     const yn = (lbl, ok) => rows.push([lbl, ok ? '✔' : '✘', ok]);
     rows.push(['Paragraphs (4: intro, group 1, group 2, conclusion)', par, par === 4]);
-    yn('“The bar chart illustrates …”', has(/The (bar |pie )?chart illustrates/i)); yn('“Overall, …”', has(/Overall,/));
+    yn('“The bar chart shows …”', has(/The (bar |pie )?chart (shows|illustrates)/i)); yn('Categories named (… were …, … and …)', has(/\b(were|are)\s+[^.]{3,120}\band\b[^.]*\./i)); yn('“Overall, …”', has(/Overall,/));
     yn('“Firstly, the most popular …”', has(/Firstly,/) && has(/\bmost\b/i));
     rows.push(['“This was followed by …” (once for each group)', n(/This was followed by/g) + ' / 2', n(/This was followed by/g) >= 2]);
     rows.push(['“However, the least popular …” (once for each group)', n(/least popular|least /gi) + ' / 2', n(/least popular|least /gi) >= 2]);
@@ -1669,8 +1670,8 @@ function stage5(T){
     };
   });
   return `<h2 class="wh">Stage 5 · Write it yourself <span class="ar small muted">اكتب الموضوع كاملًا بنفسك</span></h2>
-   <p class="small">Choose a question from a theme. Plan for 5 minutes, write for 20 minutes, check for 5 minutes. When you finish (60 words or more; the exam needs 100+), press <b>I have finished</b> to open the comparison stage. <span class="ar">اختر موضوعًا من أحد الثيمات، وعندما تنتهي (80 كلمة على الأقل) اضغط «انتهيت» لتنتقل إلى المقارنة.</span></p>
-   <label class="small" style="font-weight:800">Question <select id="wp" class="wsel"><option value="">— choose a topic by theme —</option>${topicOptions(T)}</select></label><div id="wch5"></div><div id="wcl5"></div>
+   <p class="small">Choose a question from a unit. Plan for 5 minutes, write for 20 minutes, check for 5 minutes. When you finish (60 words or more; the exam needs 100+), press <b>I have finished</b> to open the comparison stage. <span class="ar">اختر موضوعًا من أحد الوحدات، وعندما تنتهي (80 كلمة على الأقل) اضغط «انتهيت» لتنتقل إلى المقارنة.</span></p>
+   <label class="small" style="font-weight:800">Question <select id="wp" class="wsel"><option value="">— choose a topic by unit —</option>${topicOptions(T)}</select></label><div id="wch5"></div><div id="wcl5"></div>
    <div class="w5"><div><textarea id="wta" class="wta" placeholder="Write here. Leave an empty line between paragraphs." spellcheck="false"></textarea><div class="small muted" id="wwc"></div></div><div id="wck"></div></div>
    <div class="row" style="justify-content:flex-start"><button class="btn" id="wfin" disabled>I have finished ✔ <span class="ar" style="font-weight:700">انتهيت</span></button><span class="small muted">(60 words or more)</span></div>`;
 }
@@ -1690,9 +1691,9 @@ function dims(T, text, ch){
   const C = isChart(T);
   return {
     ideas: C ? [row('Numbers from the chart'), row('Items from the chart'), row('Opinion words')] : [row('Purpose'), row('First, / Second'), row('Linkers in each body')],
-    org: [['Paragraphs (best ' + (C ? 4 : 4) + (C ? '' : '–6') + ')', paras_, C ? paras_ === 4 : paras_ >= 4 && paras_ <= 7], C ? row('“The bar chart illustrates') : row('Opening'), C ? row('“To summarize') : row('Fixed closing')],
+    org: [['Paragraphs (best ' + (C ? 4 : 4) + (C ? '' : '–6') + ')', paras_, C ? paras_ === 4 : paras_ >= 4 && paras_ <= 7], C ? row('“The bar chart shows') : row('Opening'), C ? row('“To summarize') : row('Fixed closing')],
     link: C ? [row('“This was followed'), row('“In contrast'), row('Linker without a comma')] : [row('Linkers in each body'), row('Fixed greeting'), row('Linker without a comma')],
-    vocab: [['Different words (%)', rich_ + '%', rich_ >= (C ? 35 : 45)], ['Long words (7+ letters)', longW, longW >= 8], ['Theme words used', themeW.length + (themeW.length ? ': ' + themeW.slice(0, 6).join(', ') : ''), themeW.length >= 2]],
+    vocab: [['Different words (%)', rich_ + '%', rich_ >= (C ? 35 : 45)], ['Long words (7+ letters)', longW, longW >= 8], ['Unit words used', themeW.length + (themeW.length ? ': ' + themeW.slice(0, 6).join(', ') : ''), themeW.length >= 2]],
     grammar: [['Possible grammar slips', errs, errs === 0], C ? ['Contrast words (whereas, However, In contrast)', n(/\b(whereas|however|in contrast)\b/gi), n(/\b(whereas|however|in contrast)\b/gi) >= 3] : ['can / should / will / must', n(/\b(can|should|will|must|would)\b/gi), n(/\b(can|should|will|must|would)\b/gi) >= 3], T === 'FE' ? row('Short forms') : ['Sentences with “because / so / when / if”', n(/\b(because|so|when|if)\b/gi), n(/\b(because|so|when|if)\b/gi) >= 1]],
     length: [row('Words'), ['Sentences without a capital letter', capsBad, capsBad === 0], ['Full stops', n(/\./g), n(/\./g) >= 6]]
   };
@@ -1700,7 +1701,7 @@ function dims(T, text, ch){
 const DIMS = [['ideas', 'Ideas & task', 'الأفكار وتنفيذ المطلوب', 'Chart: every item with its number, nothing invented. E-mail: answer every point of the task, one point in each body paragraph.'],
               ['org', 'Organisation', 'التنظيم', 'Follow the map: one job for each paragraph, in the same order every time.'],
               ['link', 'Linkers & style', 'الروابط وأسلوب الكتابة', 'Use the fixed linkers and put a comma after each one. Short, clear sentences are better than long unclear ones.'],
-              ['vocab', 'Vocabulary', 'المفردات', 'Use words from the theme lists and avoid repeating the same simple words (good, nice, thing).'],
+              ['vocab', 'Vocabulary', 'المفردات', 'Use words from the unit lists and avoid repeating the same simple words (good, nice, thing).'],
               ['grammar', 'Grammar', 'القواعد', 'Check verbs: he/she + s, was/were, did + base verb, most / least / more … than, no “more better”.'],
               ['length', 'Length & punctuation', 'الطول والترقيم', 'Write enough words (chart 100+, e-mail 100+). Capital letter at the start of every sentence and a full stop at the end.']];
 function stage6(T){
@@ -1741,7 +1742,7 @@ function writeStage(T, s){
 }
 
 /* ---------- stages 7 & 8: AI-marked writing ---------- */
-const THN = {1: 'Theme 1 · ' + D.tn[1], 2: 'Theme 2 · ' + D.tn[2], 3: 'Theme 3 · ' + D.tn[3], 4: 'Theme 4 · ' + D.tn[4], 0: 'Other topics'};
+const THN = {1: 'Unit 1 · ' + D.tn[1], 2: 'Unit 2 · ' + D.tn[2], 3: 'Unit 3 · ' + D.tn[3], 4: 'Unit 4 · ' + D.tn[4], 0: 'Other topics'};
 function topicSelect(T, pastOnly){
   return `<select id="wtp" class="wsel"><option value="">— choose a topic —</option>${topicOptions(T, pastOnly ? x => /Past exam/i.test(x.src) : null)}</select>`;
 }
@@ -1837,7 +1838,7 @@ function aiStage(T, own, pastOnly){
     loadSubs(T);
   });
   return `<h2 class="wh">Stage ${own ? 8 : 7} · ${own ? (ownCH ? 'Describe your own chart' : 'Write your own topic') : 'Choose a topic'} <span class="ar small muted">${own ? (ownCH ? 'ارسم رسمًا بالأرقام التي تختارها' : 'اكتب موضوعًا من اختيارك') : 'اختر موضوعًا من القائمة'}</span></h2>
-   <p class="small">${own ? (ownCH ? 'Type the title and the numbers of a chart with two groups (for example from your book). The chart is drawn for you, then describe it.' : 'Write the question you want to answer, then write your ' + tname(T) + '.') : 'Topics are grouped by theme: questions from past exams, the model exams and topics written for this course.'} When you send it, the AI marks it with the Ministry rating scale (${WTYPE[T].w}: out of ${WTYPE[T].max}). ${T === 'CH' ? 'It also checks every number against the chart. ' : ''}<b>Your mark and full feedback appear 30 minutes later.</b> You can send 6 texts a day (60–450 words). <span class="ar">يُصحَّح بالذكاء الاصطناعي وتظهر الدرجة من ${WTYPE[T].max} والتصحيح الكامل بعد نصف ساعة. 6 موضوعات في اليوم.</span></p>
+   <p class="small">${own ? (ownCH ? 'Type the title and the numbers of a chart with two groups (for example from your book). The chart is drawn for you, then describe it.' : 'Write the question you want to answer, then write your ' + tname(T) + '.') : 'Topics are grouped by unit: questions from past exams, the model exams and topics written for this course.'} When you send it, the AI marks it with the Ministry rating scale (${WTYPE[T].w}: out of ${WTYPE[T].max}). ${T === 'CH' ? 'It also checks every number against the chart. ' : ''}<b>Your mark and full feedback appear 30 minutes later.</b> You can send 6 texts a day (60–450 words). <span class="ar">يُصحَّح بالذكاء الاصطناعي وتظهر الدرجة من ${WTYPE[T].max} والتصحيح الكامل بعد نصف ساعة. 6 موضوعات في اليوم.</span></p>
    ${ownCH ? `<label class="small" style="font-weight:800">Chart title <input id="wown" class="tx" style="max-width:none" maxlength="120" placeholder="Favourite Sports of Grade 10 Students"></label>
      <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:8px;margin-top:8px"><label class="small" style="font-weight:800">Group 1 name <input id="oc_s1" class="tx" style="max-width:none" maxlength="20"></label><label class="small" style="font-weight:800">Group 2 name <input id="oc_s2" class="tx" style="max-width:none" maxlength="20"></label></div>
      <label class="small" style="font-weight:800">Items (commas) <input id="oc_cats" class="tx" style="max-width:none" placeholder="Football, Swimming, Running, Chess"></label>
@@ -1850,7 +1851,7 @@ function aiStage(T, own, pastOnly){
    <h3 class="wh3">My marked texts <span class="ar small muted">موضوعاتي المصحّحة</span> <button class="btn g sm" onclick="loadSubs('${T}')">Refresh</button></h3><div id="wsubs"><p class="small muted">Loading…</p></div>`;
 }
 
-/* ---------- sections: Home, Homework, Themes, Exam Practice, Exams, My Skills ---------- */
+/* ---------- sections: Home, Homework, Units, Exam Practice, Exams, My Skills ---------- */
 const SKN = {vocab: ['Vocabulary', 'الكلمات', 'var(--t1)'], grammar: ['Grammar', 'القواعد', 'var(--t2)'], listening: ['Listening', 'الاستماع', 'var(--ex)'],
              reading: ['Reading', 'القراءة', 'var(--t3)'], writing: ['Writing', 'الكتابة', 'var(--wr)']};
 const pctOf = (s, m) => m ? Math.round(100 * s / m) : null;
@@ -1866,7 +1867,8 @@ function skillStats(filter){
 const THEME_STEPS = n => [...D.vocab.filter(v => v.theme == n).map(v => ({code: v.code, kind: 'V', title: v.title, ar: v.ar})),
                           {code: 'SB-' + n, kind: 'B', title: 'Spelling bee', ar: 'مسابقة الإملاء'},
                           ...D.grammar.filter(g => g.theme == n).map(g => ({code: g.code, kind: 'G', title: g.title, ar: g.ar})),
-                          {code: 'TT-' + n, kind: 'T', title: `Theme ${n} test · ${((D.tt || {})['TT-' + n] || {}).total || 28} items`, ar: 'اختبار الثيم الكامل'}];
+                          {code: 'TT-' + n, kind: 'T', title: `Unit ${n} practice · ${((D.tt || {})['TT-' + n] || {}).total || 28} items`, ar: 'تدريب الوحدة: مفردات وقواعد'},
+                          ...((D.unitExams || {})[n] || []).map((id, i) => ({code: id, kind: 'E', title: `Unit ${n} full exam ${i + 1} · 60 marks`, ar: 'اختبار كامل من ٦٠ درجة يناسب محتوى الوحدة'}))];
 const stepDone = c => c in (ST.best || {});
 function themeProgress(n){ const s = THEME_STEPS(n); return Math.round(100 * s.filter(x => stepDone(x.code)).length / s.length); }
 function nextStep(){
@@ -1885,12 +1887,12 @@ function home(){
   const wl = ST.wl || {}, wlDone = Object.values(wl).reduce((a, o) => a + Object.keys(o || {}).length, 0);
   const sk = skillStats(), all = Object.values(sk).filter(x => x.pct != null), overall = all.length ? Math.round(all.reduce((a, x) => a + x.pct, 0) / all.length) : null;
   return `<section class="hero sm"><div><h1>${ST.name ? 'Hello, ' + esc(ST.name.split(' ')[0]) + '!' : 'Climb to the <span>A</span>.'}</h1>
-     <p>Your plan: learn each theme → practise past exams → write with the Writing Lab → sit full exams. <span class="ar">خطتك: الثيمات ← تدريب الامتحانات ← الكتابة ← الاختبارات الكاملة.</span></p>
-     ${ns ? `<a class="btn" style="--c:var(--orange);text-decoration:none;display:inline-block;margin-top:8px" href="#${ns.s.code}">Next step: Theme ${ns.n} · ${esc(ns.s.title)} ▶</a>` : ''}</div>
+     <p>Your plan: learn each unit → practise past exams → write with the Writing Lab → sit full exams. <span class="ar">خطتك: الوحدات ← تدريب الامتحانات ← الكتابة ← الاختبارات الكاملة.</span></p>
+     ${ns ? `<a class="btn" style="--c:var(--orange);text-decoration:none;display:inline-block;margin-top:8px" href="#${ns.s.code}">Next step: Unit ${ns.n} · ${esc(ns.s.title)} ▶</a>` : ''}</div>
      <div class="hring">${ring(overall, 92, 'var(--gold)')}<div class="small">Overall level <b>${lvlOf(overall)}</b></div></div></section>
    <div class="hgrid">
     ${card('#HW', '📝', 'My Homework', 'واجباتي', hwOpen.length ? `${hwOpen.length} to do` : 'All done ✔', 'var(--orange)', null)}
-    ${card('#THEMES', '🏔', 'Themes', 'الثيمات', 'Words · grammar · games · theme tests', 'var(--t1)', Math.round([1,2,3,4].reduce((a, n) => a + themeProgress(n), 0) / 4))}
+    ${card('#UNITS', '🏔', 'Units', 'الوحدات', 'Words · grammar · games · unit practices', 'var(--t1)', Math.round([1,2,3,4].reduce((a, n) => a + themeProgress(n), 0) / 4))}
     ${card('#WRITE', '✍', 'Writing Lab', 'مختبر الكتابة', 'Chart & e-mails in 9 stages · AI marking', 'var(--wr)', Math.round(100 * wlDone / (WT.length * WSTAGES.length)))}
     ${card('#PRACTICE', '🎯', 'Exam Practice', 'تدريب الامتحان', 'Listening · Grammar & Vocab · Reading · Writing', 'var(--t3)', null)}
     ${card('#EXAMS', '📄', 'Exams', 'الاختبارات', '10 full model exams', 'var(--ex)', null)}
@@ -1900,22 +1902,22 @@ function home(){
    ${hwOpen.length ? `<div class="sec"><h2>Homework to do <span class="ar">واجبات مطلوبة</span></h2>${hwOpen.slice(0, 3).map(x => `<a class="list1" href="#HW"><b>${esc(x.title)}</b>${x.due ? `<span class="pill">Due ${esc(x.due)}</span>` : ''}</a>`).join('')}</div>` : ''}`;
 }
 
-/* ----- Themes ----- */
-function themesView(){
-  return `<div class="ph"><h1>Themes</h1><span class="ar">الثيمات</span></div>
-   <div class="note small">Follow each theme in the order of the book: vocabulary lessons (sage green) with games → spelling bee → grammar lessons (golden sand) → the theme test. <span class="ar">اتبع ترتيب الكتاب: دروس الكلمات (الأخضر) مع الألعاب ← مسابقة الإملاء ← دروس القواعد (الذهبي) ← اختبار الثيم.</span></div>
-   <div class="tgrid">${[1,2,3,4].map(n => `<a class="tcard" href="#TH-${n}" style="--c:${TC[n]}"><span class="k">Theme ${n}</span><b>${TN[n]}</b>${ring(themeProgress(n), 64, TC[n])}<small>${THEME_STEPS(n).filter(x => stepDone(x.code)).length} of ${THEME_STEPS(n).length} steps</small></a>`).join('')}
-    <a class="tcard" href="#GB" style="--c:var(--fd)"><span class="k">All themes</span><b>Grammar Booster</b><span class="ar">تأسيس القواعد</span><small>${D.found.length} basic grammar topics</small></a>
-    <a class="tcard" href="#F-03" style="--c:var(--fd)"><span class="k">All themes</span><b>Irregular verbs</b><span class="ar">الأفعال الشاذة</span><small>${D.irreg.length} verbs · table and games</small></a>
-    <a class="tcard" href="#F-04" style="--c:var(--fd)"><span class="k">All themes</span><b>Phrasal verbs</b><span class="ar">الأفعال المركبة</span><small>${(D.phr || []).length} phrasal verbs · table and games</small></a></div>`;
+/* ----- Units ----- */
+function unitsView(){
+  return `<div class="ph"><h1>Units</h1><span class="ar">الوحدات</span></div>
+   <div class="note small">Follow each unit in the order of the book: vocabulary lessons (sage green) with games → spelling bee → grammar lessons (golden sand) → the unit practice. <span class="ar">اتبع ترتيب الكتاب: دروس الكلمات (الأخضر) مع الألعاب ← مسابقة الإملاء ← دروس القواعد (الذهبي) ← اختبار الوحدة.</span></div>
+   <div class="tgrid">${[1,2,3,4].map(n => `<a class="tcard" href="#TH-${n}" style="--c:${TC[n]}"><span class="k">Unit ${n}</span><b>${TN[n]}</b>${ring(themeProgress(n), 64, TC[n])}<small>${THEME_STEPS(n).filter(x => stepDone(x.code)).length} of ${THEME_STEPS(n).length} steps</small></a>`).join('')}
+    <a class="tcard" href="#GB" style="--c:var(--fd)"><span class="k">All units</span><b>Grammar Booster</b><span class="ar">تأسيس القواعد</span><small>${D.found.length} basic grammar topics</small></a>
+    <a class="tcard" href="#F-03" style="--c:var(--fd)"><span class="k">All units</span><b>Irregular verbs</b><span class="ar">الأفعال الشاذة</span><small>${D.irreg.length} verbs · table and games</small></a>
+    <a class="tcard" href="#F-04" style="--c:var(--fd)"><span class="k">All units</span><b>Phrasal verbs</b><span class="ar">الأفعال المركبة</span><small>${(D.phr || []).length} phrasal verbs · table and games</small></a></div>`;
 }
 function themePath(n){
   const steps = THEME_STEPS(n);
-  return `<div class="ph"><span class="code" style="background:${TC[n]}">Theme ${n}</span><h1>${TN[n]}</h1><span class="small muted">${themeProgress(n)}% done</span></div>
-   <div class="legend"><span><i style="background:var(--t1)"></i>Vocabulary</span><span><i style="background:var(--t2)"></i>Grammar</span><span><i style="background:var(--wr)"></i>Theme test</span></div>
+  return `<div class="ph"><span class="code" style="background:${TC[n]}">Unit ${n}</span><h1>${TN[n]}</h1><span class="small muted">${themeProgress(n)}% done</span></div>
+   <div class="legend"><span><i style="background:var(--t1)"></i>Vocabulary</span><span><i style="background:var(--t2)"></i>Grammar</span><span><i style="background:var(--wr)"></i>Unit practice</span><span><i style="background:var(--ex)"></i>Full exam</span></div>
    <ol class="path">${steps.map((s, i) => { const b = (ST.best || {})[s.code];
-     const col = s.kind === 'G' ? 'var(--t2)' : s.kind === 'T' ? 'var(--wr)' : 'var(--t1)';
-     return `<li class="pstep ${s.kind} ${b != null ? 'ok' : ''}" style="--pc:${col}"><a href="#${s.code}"><span class="pn">${b != null ? '✔' : i + 1}</span><span class="pt"><span class="k">${{V: 'Vocabulary', B: 'Vocabulary · spelling', G: 'Grammar', T: 'Test'}[s.kind]} · ${s.code}</span><b>${esc(s.title)}</b><span class="ar">${esc(s.ar)}</span></span>${b != null ? `<span class="best">${b}%</span>` : ''}</a></li>`; }).join('')}</ol>`;
+     const col = s.kind === 'G' ? 'var(--t2)' : s.kind === 'T' ? 'var(--wr)' : s.kind === 'E' ? 'var(--ex)' : 'var(--t1)';
+     return `<li class="pstep ${s.kind} ${b != null ? 'ok' : ''}" style="--pc:${col}"><a href="#${s.code}"><span class="pn">${b != null ? '✔' : i + 1}</span><span class="pt"><span class="k">${{V: 'Vocabulary', B: 'Vocabulary · spelling', G: 'Grammar', T: 'Practice', E: 'Full exam'}[s.kind]} · ${s.code}</span><b>${esc(s.title)}</b><span class="ar">${esc(s.ar)}</span></span>${b != null ? `<span class="best">${b}%</span>` : ''}</a></li>`; }).join('')}</ol>`;
 }
 function basicsView(){
   return `<div class="ph"><h1>Grammar Booster</h1><span class="ar">تأسيس القواعد</span></div>
@@ -1933,7 +1935,7 @@ const practicePapers = k => (D.exams || []).filter(x => (x.kind === 'past' || x.
 function practiceHome(){
   return `<div class="ph"><h1>Exam Practice</h1><span class="ar">تدريب الامتحان</span></div>
    <div class="note small">Every question of the previous Grade 10 Semester One final exams, split by skill, newest first. Listening past papers have questions only (no recordings); the model exams have real recordings. You get the answers and your mark as soon as you finish. <span class="ar">امتحانات الفصل الأول مقسّمة حسب المهارة، الأحدث أولًا، والتصحيح فوري.</span></div>
-   <div class="tgrid">${Object.entries(PRS).map(([k, [t, ar, c, sub]]) => `<a class="tcard" href="#PR-${k}" style="--c:${c}"><span class="k">${sub}</span><b>${t}</b><span class="ar">${ar}</span><small>${k === 'W' ? 'Questions by theme · 4 kinds' : practicePapers(k).length + (k === 'G' ? ' sets' : ' papers')}</small></a>`).join('')}</div>`;
+   <div class="tgrid">${Object.entries(PRS).map(([k, [t, ar, c, sub]]) => `<a class="tcard" href="#PR-${k}" style="--c:${c}"><span class="k">${sub}</span><b>${t}</b><span class="ar">${ar}</span><small>${k === 'W' ? 'Questions by unit · 4 kinds' : practicePapers(k).length + (k === 'G' ? ' sets' : ' papers')}</small></a>`).join('')}</div>`;
 }
 function practiceList(k){
   if (k === 'W') return practiceWriting();
@@ -1992,7 +1994,7 @@ function skillsView(){
   const gramRows = Object.entries(gram).map(([c, [o, t]]) => ({c, p: pctOf(o, t), t: (G[c] || F[c] || {}).title || c})).sort((a, b) => a.p - b.p);
   const themeRows = [1, 2, 3, 4].map(n => { const t = skillStats(x => x.theme === n); return {n, prog: themeProgress(n), v: t.vocab.pct, g: t.grammar.pct, test: (ST.best || {})['TT-' + n]}; });
   const recent = S.slice().sort((a, b) => b.t - a.t).slice(0, 25);
-  const actName = a => a.startsWith('game:') ? 'Game · ' + a.slice(5) : ({exam: 'Full exam', practice: 'Exam practice', 'theme-test': 'Theme test', wl: 'Writing Lab'})[a] || a;
+  const actName = a => a.startsWith('game:') ? 'Game · ' + a.slice(5) : ({exam: 'Full exam', practice: 'Exam practice', 'theme-test': 'Unit practice', wl: 'Writing Lab'})[a] || a;
   const strengths = Object.entries(sk).filter(([, v]) => v.pct != null).sort((a, b) => b[1].pct - a[1].pct);
   return `<div class="ph"><h1>My Skills</h1><span class="ar">مهاراتي وتطوري</span></div>
    <div class="kpis"><div><b>${overall == null ? '–' : overall + '%'}</b><span>Overall · level ${lvlOf(overall)}</span></div><div><b>${S.length}</b><span>Activities</span></div>
@@ -2004,7 +2006,7 @@ function skillsView(){
     <div class="panel" style="--c:var(--t2)"><h2 class="h2s">My progress <span class="ar">تطوري</span></h2>${lineChart(trend, 420, 210)}
      ${strengths.length ? `<p class="small"><b style="color:var(--good)">Strongest:</b> ${SKN[strengths[0][0]][0]} · <b style="color:var(--bad)">Needs work:</b> ${SKN[strengths[strengths.length - 1][0]][0]}</p>` : ''}</div>
    </div>
-   <div class="panel" style="margin-top:14px"><h2 class="h2s">Themes <span class="ar">الثيمات</span></h2><div style="overflow-x:auto"><table class="k"><tr><th>Theme</th><th>Steps done</th><th>Vocabulary</th><th>Grammar</th><th>Theme test</th></tr>
+   <div class="panel" style="margin-top:14px"><h2 class="h2s">Units <span class="ar">الوحدات</span></h2><div style="overflow-x:auto"><table class="k"><tr><th>Unit</th><th>Steps done</th><th>Vocabulary</th><th>Grammar</th><th>Unit practice</th></tr>
      ${themeRows.map(r => `<tr><td><b>${r.n}</b> ${TN[r.n]}</td><td><div class="mini"><i style="width:${r.prog}%;background:${TC[r.n]}"></i></div>${r.prog}%</td><td>${r.v == null ? '–' : r.v + '%'}</td><td>${r.g == null ? '–' : r.g + '%'}</td><td>${r.test == null ? '–' : r.test + '%'}</td></tr>`).join('')}</table></div></div>
    <div class="sgrid" style="margin-top:14px">
     <div class="panel"><h2 class="h2s">Words to review <span class="ar">كلمات تحتاج مراجعة</span></h2>${weakWords.length ? `<div class="chips">${weakWords.map(w => `<span class="wchip">${esc(w.key)} <small>✘${w.bad}</small></span>`).join('')}</div>` : '<p class="small muted">No difficult words yet. Keep playing the word games.</p>'}
@@ -2021,7 +2023,7 @@ document.addEventListener('click', e => { if (e.target && e.target.id === 'cp' &
 function route(){
   let h = decodeURIComponent(location.hash.slice(1)) || 'HUB';
   // old links and book QR codes
-  const OLD = {GAMES: 'THEMES', AUDIO: 'PR-L', NOTICES: 'HW', BASICS: 'GB', home: 'HUB', vocab: 'THEMES', grammar: 'THEMES', listening: 'PR-L', reading: 'PR-R', writing: 'WRITE', tests: 'EXAMS', students: 'HUB', tasks: 'HW', reviews: 'WRITE', settings: 'HUB'};
+  const OLD = {THEMES: 'UNITS', GAMES: 'UNITS', AUDIO: 'PR-L', NOTICES: 'HW', BASICS: 'GB', home: 'HUB', vocab: 'UNITS', grammar: 'UNITS', listening: 'PR-L', reading: 'PR-R', writing: 'WRITE', tests: 'EXAMS', students: 'HUB', tasks: 'HW', reviews: 'WRITE', settings: 'HUB'};
   if (/^login=/i.test(h)) h = 'HUB';
   if (OLD[h]) { h = OLD[h]; try { history.replaceState(null, '', '#' + h); } catch (e) {} }
   let m = h.match(/^L-(\d{4})-(\d)$/); if (m && XM['EX-' + m[1] + '-' + m[2]]) h = 'PR-L-EX-' + m[1] + '-' + m[2];
@@ -2030,8 +2032,8 @@ function route(){
   let html, sec = h;
   if (h === 'HUB') html = home();
   else if (h === 'HW') html = noticesView();
-  else if (h === 'THEMES') html = themesView();
-  else if (/^TH-[1-4]$/.test(h)) { html = themePath(+h.slice(3)); sec = 'THEMES'; }
+  else if (h === 'UNITS') html = unitsView();
+  else if (/^TH-[1-4]$/.test(h)) { html = themePath(+h.slice(3)); sec = 'UNITS'; }
   else if (h === 'PRACTICE') html = practiceHome();
   else if ((m = h.match(/^PR-([LGRW])$/))) { html = practiceList(m[1]); sec = 'PRACTICE'; }
   else if ((m = h.match(/^PR-([LGR])-(.+)$/)) && XM[m[2]]) { html = examView(XM[m[2]], m[1]); sec = 'PRACTICE'; }
@@ -2045,15 +2047,15 @@ function route(){
   else if (h === 'LIVE') html = liveView();
   else if (h === 'LOGOUT') html = logoutView();
   else if (h === 'TEACHER') html = teacherView();
-  else if (D.tt && D.tt[h]) { html = ttView(D.tt[h]); sec = 'THEMES'; }
-  else if (XM[h]) { html = examView(XM[h], XM[h].part || undefined); sec = XM[h].kind === 'theme' ? 'THEMES' : XM[h].kind === 'model' ? 'EXAMS' : 'PRACTICE'; }
-  else if (/^SB-[1-4]$/.test(h)) { html = beeView(+h.slice(3)); sec = 'THEMES'; }
-  else if (V[h]) { html = vocabView(V[h]); sec = 'THEMES'; }
-  else if (G[h]) { html = grammarView(G[h], TC[G[h].theme], 'Theme ' + G[h].theme); sec = 'THEMES'; }
-  else if (h === 'F-03') { html = irregView(); sec = 'THEMES'; }
-  else if (h === 'F-04') { html = phrView(); sec = 'THEMES'; }
-  else if (h === 'GB') { html = basicsView(); sec = 'THEMES'; }
-  else if (F[h]) { html = grammarView(F[h], 'var(--fd)', 'Back to Basics'); sec = 'THEMES'; }
+  else if (D.tt && D.tt[h]) { html = ttView(D.tt[h]); sec = 'UNITS'; }
+  else if (XM[h]) { html = examView(XM[h], XM[h].part || undefined); sec = XM[h].kind === 'theme' ? 'UNITS' : XM[h].kind === 'model' ? 'EXAMS' : 'PRACTICE'; }
+  else if (/^SB-[1-4]$/.test(h)) { html = beeView(+h.slice(3)); sec = 'UNITS'; }
+  else if (V[h]) { html = vocabView(V[h]); sec = 'UNITS'; }
+  else if (G[h]) { html = grammarView(G[h], TC[G[h].theme], 'Unit ' + G[h].theme); sec = 'UNITS'; }
+  else if (h === 'F-03') { html = irregView(); sec = 'UNITS'; }
+  else if (h === 'F-04') { html = phrView(); sec = 'UNITS'; }
+  else if (h === 'GB') { html = basicsView(); sec = 'UNITS'; }
+  else if (F[h]) { html = grammarView(F[h], 'var(--fd)', 'Back to Basics'); sec = 'UNITS'; }
   else html = home();
   TTS.stop();
   $('#app').innerHTML = html;

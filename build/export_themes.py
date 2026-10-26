@@ -167,7 +167,7 @@ def build(D):
             lines = [[ln['speaker'], re.sub(r'\[\[(\d+)\]\]', lambda m: '{' + '|'.join(by[int(m.group(1))]['options']) + '}', ln['text'])] for ln in dl['lines']]
             parts.append(dict(kind='dlg', sec='grammar', title='Grammar · ' + g['title'].split(':')[0].split('(')[0].strip(), gcode=f'T{n}-G{gidx + 1}', lines=lines, ans=[by[i]['answer'] for i in sorted(by)]))
         total = 10 + len(mq) + sum(len(p['ans']) for p in parts if p['kind'] == 'dlg')
-        D['tt'][f'TT-{n}'] = dict(id=f'TT-{n}', theme=n, label=f'Theme {n} test · {TN[n]}', parts=parts, total=total)
+        D['tt'][f'TT-{n}'] = dict(id=f'TT-{n}', theme=n, label=f'Unit {n} practice · {TN[n]}', parts=parts, total=total)
         # answer keys for the "Answer keys" page
         rows, q = [], 0
         for p in parts:
@@ -180,8 +180,8 @@ def build(D):
                     else:
                         gl_ = re.findall(r'\{([^{}]+)\}', ' '.join(t for _, t in p['lines']))
                         rows.append([q, gl_[i].split('|')[a]])
-        D['themeKeys'][:] = [x for x in D['themeKeys'] if x[0] != f'Theme {n} test · {TN[n]}']
-        D['themeKeys'].append([f'Theme {n} test · {TN[n]}', rows])
+        D['themeKeys'][:] = [x for x in D['themeKeys'] if x[0] != f'Unit {n} practice · {TN[n]}']
+        D['themeKeys'].append([f'Unit {n} practice · {TN[n]}', rows])
     print('themes: vocab lessons', len(D['vocab']), '· grammar', len(D['grammar']), '· booster', len(D['found']), '· irregular', len(irr), '· phrasal', len(D['phr']),
           '· tests', {k: v['total'] for k, v in D['tt'].items()})
 

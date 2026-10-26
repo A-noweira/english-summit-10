@@ -14,7 +14,7 @@ def sents(p): return [s for s in re.split(r'(?<=[.!?])\s+', p.strip()) if s]
 WORKED = dict(id='W1', title='Favourite Book Genres of Grade 10 Students in Oman', ylabel='Number of students', unit='',
     categories=['Adventure', 'Fantasy', 'Horror', 'Poetry', 'Science fiction'],
     series=[dict(name='Boys', values=[35, 30, 25, 10, 5]), dict(name='Girls', values=[30, 15, 20, 5, 25])],
-    model=("The bar chart illustrates the favourite book genres of Grade 10 boys and girls in Oman. Overall, adventure was the most popular book genre for both boys and girls.\n"
+    model=("The bar chart shows the favourite book genres of Grade 10 boys and girls in Oman. Book genres were horror, adventure, fantasy, poetry and science fiction. Overall, adventure was the most popular book genre for both boys and girls.\n"
            "Firstly, the most popular book genre for boys was adventure, with 35 students. This was followed by fantasy (30), horror (25) and poetry (10). However, the least popular book genre for boys was science fiction, with only 5 students.\n"
            "Similarly, the most popular book genre for girls was adventure, with 30 students. This was followed by science fiction (25), horror (20) and fantasy (15). However, the least popular book genre for girls was poetry, with only 5 students.\n"
            "To summarize, both boys and girls liked adventure. However, the biggest difference was in science fiction, where 5 boys chose it, whereas 25 girls did."))
@@ -50,6 +50,7 @@ def parse_chart(c):
         for s in sents(p):
             m = re.match(r'(Overall,|Firstly,|In contrast,|Similarly,|However,|To summarize,)\s+(.*)', s)
             if s.startswith(('The bar chart', 'The pie chart')): S.append(['', s, 'FIX', 'What the chart shows'])
+            elif pi == 0 and not m and re.search(r'\bwere\b', s) and any(x[2] == 'FIX' for x in S): S.append(['', s, 'FIX', 'Categories under the bars'])
             elif s.startswith('This was followed by'): S.append(['', s, 'FOL', 'Followed by'])
             elif m:
                 role, slot = CHART_LK[m.group(1)]
@@ -138,15 +139,15 @@ TOPICS = {
 SAMPLE_CHART = 'P01'   # Favourite School Subjects of Grade 10 Students in 2024
 SAMPLES = {
  'CH': dict(topic='Favourite School Subjects of Grade 10 Students in 2024', chart=SAMPLE_CHART,
-   weak=["The bar chart [[show=>illustrates|vocabulary]] [[subjects=>the favourite school subjects of Grade 10 boys and girls in 2024|incomplete]]. [[I think boys like=>Overall, boys preferred|opinion]] maths [[and=>, whereas|linker]] girls [[like=>preferred|vocabulary]] [[sciense=>science|spelling]].",
+   weak=["The bar chart [[show=>shows|grammar]] [[subjects=>the favourite school subjects of Grade 10 boys and girls in 2024. The school subjects were maths, science, English, Arabic and art|incomplete]]. [[I think boys like=>Overall, boys preferred|opinion]] maths [[and=>, whereas|linker]] girls [[like=>preferred|vocabulary]] [[sciense=>science|spelling]].",
          "[[boys maths=>Firstly, the most popular subject for boys was maths, with|missing template]] 40 students. [[English 30.=>This was followed by English (30), science (25) and Arabic (15).|missing items]] [[art 15.=>However, the least popular subject for boys was art, with only 5 students.|wrong number]]",
          "[[girls=>In contrast, the most popular subject for girls was|missing template]] science, 40 students. [[English 35.=>This was followed by English (35), Arabic (25) and maths (20).|missing items]] [[art 5.=>However, the least popular subject for girls was art, with only 15 students.|wrong number]]",
          "[[I like maths too.=>To summarize, both boys and girls liked English. However, the biggest difference was in maths, where 40 boys chose it, whereas 20 girls did.|opinion]]"],
-   avg=["The bar chart illustrates the favourite school subjects of Grade 10 boys and girls in 2024. Overall, boys preferred maths, whereas girls preferred science.",
+   avg=["The bar chart shows the favourite school subjects of Grade 10 boys and girls in 2024. The school subjects were maths, science, English, Arabic and art. Overall, boys preferred maths, whereas girls preferred science.",
         "Firstly, the most popular subject for boys was maths, with 40 students. This was followed by English (30), science (25) and Arabic (15). However, the least popular subject for boys was art, with only [[15=>5|wrong number]] students.",
         "In contrast, the most popular subject for girls was science, with 40 students. This was followed by English (35), Arabic (25) and maths (20). However, the least popular subject for girls [[were=>was|grammar]] art, with only 15 students.",
         "To summarize, both boys and girls liked English. However, the biggest difference was in maths, where 40 boys chose it, whereas 20 girls did."],
-   exc=["{{The bar chart illustrates the favourite school subjects of Grade 10 boys and girls in 2024.|fixed opening}} {{Overall, boys preferred maths, whereas girls preferred science.|clear overall comparison}}",
+   exc=["{{The bar chart shows the favourite school subjects of Grade 10 boys and girls in 2024.|fixed opening}} {{The school subjects were maths, science, English, Arabic and art.|categories under the bars}} {{Overall, boys preferred maths, whereas girls preferred science.|clear overall comparison}}",
         "{{Firstly, the most popular subject for boys was maths, with 40 students.|highest first}} This was followed by English (30), science (25) and Arabic (15). However, the least popular subject for boys was art, with only 5 students.",
         "In contrast, the most popular subject for girls was science, with 40 students. This was followed by English (35), Arabic (25) and maths (20). {{However, the least popular subject for girls was art, with only 15 students.|every number correct}}",
         "{{To summarize, both boys and girls liked English.|clue 5: both liked}} However, {{the biggest difference was in maths, where 40 boys chose it, whereas 20 girls did.|clue 6: biggest difference}}"]),

@@ -105,10 +105,11 @@ def build(D):
         mm = re.search(r'(1st|2nd) Session (\d{4})-(\d{4})(?: \((\w)\))?', s)
         if not mm: return s
         return f"{mm.group(2)}–{mm.group(3)[2:]} · Session {mm.group(1)[0]}" + (f' ({mm.group(4)})' if mm.group(4) else '')
+    LK = J('past_links.json')
     for i, (a, b) in enumerate(zip(L1, L2), 1):
-        exams.append(dict(id=f'EX-L{i:02d}', label=f'Listening {i:02d} · {lab(a["session"])}', kind='past', part='L', session=a['session'], noaudio=True,
-            l1=dict(intro=a['context'], items=mcq(a['items']), script=None, audio=None),
-            l2=dict(intro=b['context'], p1=shorts(b['short']), p2=tfs(b['tf']), script=None, audio=None)))
+        exams.append(dict(id=f'EX-L{i:02d}', label=f'Listening {i:02d} · {lab(a["session"])}', kind='past', part='L', session=a['session'],
+            l1=dict(intro=a['context'], items=mcq(a['items']), script=None, audio=None, link=LK['l1'][i-1]),
+            l2=dict(intro=b['context'], p1=shorts(b['short']), p2=tfs(b['tf']), script=None, audio=None, link=LK['l2'][i-1])))
     for i, (a, b) in enumerate(zip(R1, R2), 1):
         exams.append(dict(id=f'EX-R{i:02d}', label=f'Reading {i:02d} · {lab(b["session"])}', kind='past', part='R', session=b['session'], r1=r1(a), r2=r2(b)))
     # grammar & vocabulary sets: pair the grammar dialogue and the vocabulary text of the same session

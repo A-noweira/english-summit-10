@@ -15,3 +15,8 @@ Grade 10 platform (Semester 1, 2026-27), ported from English Summit 11 (same arc
 - Exam Practice: past papers (EX-L01..09 questions only, no recordings; EX-R01..09; GV-01..17), Exams `MT-01..10` with real mp3.
 - Writing Lab types: CH (chart, 4-paragraph template), IE informal e-mail, FE formal e-mail; 9 stages. AI marking uses the Ministry rating scales (Outcome #4 e-mails, #5 informative text): level 1–5 → chart shown /5, e-mail 10/8/6/4/2; chart submissions carry the chart data so the AI checks numbers. Feedback released 30 min after sending; 6 texts/day; 60–450 words.
 - localStorage keys keep the `es11…` prefixes (sync regex depends on them; separate origin so no clash).
+
+## Updates (Oct 2026)
+- "Themes" renamed **Units** in the UI (route `#UNITS`, `#THEMES` redirects; internal ids `TH-n`, `TT-n` unchanged). `TT-n` is now titled "Unit n practice" (28 items). Each unit path ends with full 60-mark exams (`D.unitExams` in build/export.py → model exams MT-xx).
+- Past listening (EX-L01..09): opens the original files.fm links decoded from the booklet QR codes (`build/data/g10/past_links.json`, l1 = items 1–7, l2 = items 8–15).
+- Chart intro: sentence 1 "The bar chart shows …", sentence 2 names the categories under the bars ("Book genres were horror, …"), then "Overall, …".
