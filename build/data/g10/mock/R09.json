@@ -1,0 +1,171 @@
+{
+ "id": "MK-R09",
+ "title": "Podcasts and Ancient Greece",
+ "reading1": {
+  "title": "Podcasts: Listen and Learn",
+  "passage": [
+   "A podcast is a series of audio programmes that you can download or stream from the internet. You can listen on a phone, a tablet or a computer, at home, on a bus or at school. You do not need a radio to enjoy them. Most podcasts are free, and there are millions of them on every topic, from science and sport to history and cooking.",
+   "The word \"podcast\" first appeared in 2004, when a British journalist called Ben Hammersley used it in a newspaper article. It joins \"iPod\", a music player made by Apple, and \"broadcast\". In 2005, Apple added podcasts to its iTunes software, and after that they became popular all over the world.",
+   "Podcasts are different from traditional radio. A radio programme is broadcast at a fixed time, and if you miss it, you cannot hear it again. A podcast is \"on demand\", which means that you choose the episode you want, stop it when you like and play it again later. Because of this, podcasts fit easily into a busy day. Many people listen while they travel, walk, exercise or do housework.",
+   "There are many kinds of podcasts. Some are interviews with interesting people, some tell true stories, and others give the daily news. Teachers use educational podcasts to explain difficult lessons, and language podcasts help students to practise listening. Many podcasts also provide a written text, called a transcript, so that listeners can read the words as well.",
+   "Making a podcast is easier than most people think. You need a good idea, a microphone, a quiet room and free software to record and edit your voice. Then you upload the episode to a hosting website, which sends it to listening apps. Short episodes of ten to twenty minutes are popular with students, and some schools now have their own podcast clubs.",
+   "Podcasts are a great way to learn, but listeners should be careful. Anyone can make a podcast, so not everything that you hear is true. It is a good idea to check the facts on a reliable website. Also, listening to loud sound through headphones for a long time can damage your hearing, so keep the volume low and take breaks. In short, podcasts are a useful part of new media when we use them wisely."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "Where can people listen to podcasts?",
+    "options": [
+     "Only at home",
+     "On a phone, a tablet or a computer",
+     "Only on the radio"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "When did Apple add podcasts to iTunes?",
+    "options": [
+     "In 2005",
+     "In 2004",
+     "In 2015"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "What does \"on demand\" mean?",
+    "options": [
+     "The programme is only on at a fixed time.",
+     "The programme is always free.",
+     "You choose the episode and when to listen."
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "What do language podcasts help students to practise?",
+    "options": [
+     "Speaking",
+     "Listening",
+     "Writing"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "What do you need to make a podcast?",
+    "options": [
+     "A radio station",
+     "A television and a camera",
+     "A microphone, a quiet room and free software"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "Why should listeners check the facts?",
+    "options": [
+     "Anyone can make a podcast.",
+     "Podcasts are always too long.",
+     "Headphones are loud."
+    ],
+    "answer": 0
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "A podcast is a series of ________ programmes.",
+    "answer": "audio"
+   },
+   {
+    "n": 8,
+    "q": "The written text of a podcast is called a ________.",
+    "answer": "transcript"
+   },
+   {
+    "n": 9,
+    "q": "The episode is uploaded to a ________ website.",
+    "answer": "hosting"
+   },
+   {
+    "n": 10,
+    "q": "Listening to loud sound through headphones can damage your ________.",
+    "answer": "hearing"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "Ancient Greece",
+  "passage": [
+   "Ancient Greece was not one country but many small city-states, such as Athens, Sparta and Corinth. Each had its own government and laws, but the people spoke Greek and shared the same religion and culture. Greece is a land of mountains and islands, so many Greeks became sailors and traders, and they built new towns around the Mediterranean and Black seas.",
+   "Athens is famous for democracy. In about 508 BC, a leader called Cleisthenes introduced reforms that gave ordinary citizens a vote. Citizens met in an assembly and voted on the city's laws. However, only free men born in Athens could vote. Women, slaves and foreigners could not. The word democracy comes from two Greek words, demos, meaning \"people\", and kratos, meaning \"power\".",
+   "The Greeks also invented theatre as we know it. Plays were performed in open-air theatres built on hillsides, with rows of stone seats for thousands of people. Actors wore masks to show their feelings and to help the audience see who they were. There were two main kinds of play: tragedies, which were sad, and comedies, which were funny.",
+   "Greek thinkers asked big questions about life, nature and politics. Socrates, Plato and Aristotle are the most famous philosophers. Plato was a student of Socrates, and Aristotle was a student of Plato. In medicine, Hippocrates is called the \"father of medicine\" because he taught doctors to study the body carefully and to look after their patients. Greek mathematicians such as Pythagoras also made discoveries that we still learn at school.",
+   "The Greeks were great builders too. The most famous building is the Parthenon, a temple to the goddess Athena on the Acropolis, a hill above Athens. It was built in the fifth century BC from white marble, with tall columns around it. Many banks, museums and government buildings today copy this Greek style.",
+   "In the fourth century BC, a young king called Alexander the Great led a Macedonian army against the Persian Empire. He became king at the age of twenty, and his army travelled as far as India. He died in 323 BC, when he was only thirty-two years old. After his conquests, Greek language and ideas spread across a huge area of the world.",
+   "Today, we still use many Greek words, such as geography, history and theatre. Ancient Greece has influenced our ideas about government, science, art and sport."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What were Athens, Sparta and Corinth?",
+    "hint": "",
+    "answer": "City-states"
+   },
+   {
+    "n": 2,
+    "q": "Who introduced reforms that gave Athenian citizens a vote?",
+    "hint": "",
+    "answer": "Cleisthenes"
+   },
+   {
+    "n": 3,
+    "q": "Which people could not vote in Athens?",
+    "hint": "",
+    "answer": "Women, slaves and foreigners"
+   },
+   {
+    "n": 4,
+    "q": "What did actors wear in Greek plays?",
+    "hint": "",
+    "answer": "Masks"
+   },
+   {
+    "n": 5,
+    "q": "Who is called the \"father of medicine\"?",
+    "hint": "",
+    "answer": "Hippocrates"
+   },
+   {
+    "n": 6,
+    "q": "How old was Alexander the Great when he died?",
+    "hint": "(number)",
+    "answer": "Thirty-two / 32"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Mountains and islands encouraged many Greeks to become sailors.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "Alexander the Great was a king of Athens.",
+    "answer": false
+   },
+   {
+    "n": 9,
+    "statement": "Aristotle was a student of Plato.",
+    "answer": true
+   },
+   {
+    "n": 10,
+    "statement": "Alexander the Great lived to be an old man.",
+    "answer": false
+   }
+  ]
+ }
+}

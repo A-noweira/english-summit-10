@@ -1,0 +1,129 @@
+{
+ "id": "MK-G10",
+ "title": "Going to, too/enough · Carbon footprint",
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "We are [[1]] to walk to school this week to reduce our carbon footprint."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "My house is not close [[2]] to walk, I'm afraid."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Then take the bus. [[3]] we use public transport, we produce less carbon dioxide."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "True. Buses use [[4]] fuel per person than cars."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "I think the government [[5]] build more bus stops."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Yes, that would help everybody."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "going",
+     "go"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "too",
+     "enough"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "Unless",
+     "If"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "less",
+     "fewer"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "shouldn't",
+     "should"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Everyone has a carbon (1)_____, which is the amount of carbon dioxide that our daily life produces. Cars, air conditioners and electrical (2)_____ all use energy. We can (3)_____ our carbon footprint by choosing public transport and walking short distances. At home, we should switch off the lights and avoid wasting water. Buying local food is also (4)_____ to the planet, because it is not carried long distances. If every person made small changes, the effect on the environment would be (5)_____.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "gadget",
+     "footprint",
+     "leaflet",
+     "symbol"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "journals",
+     "monuments",
+     "appliances",
+     "tablets"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "options": [
+     "melt",
+     "reduce",
+     "increase",
+     "burn"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "friendly",
+     "equal",
+     "similar",
+     "related"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "significant",
+     "reluctant",
+     "violent",
+     "familiar"
+    ],
+    "answer": 0
+   }
+  ]
+ }
+}

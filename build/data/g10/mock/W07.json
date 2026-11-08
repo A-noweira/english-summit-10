@@ -1,0 +1,47 @@
+{
+ "id": "MK-W07",
+ "title": "Chart: Reasons for Buying an Electric Car · E-mail: informal",
+ "chart": {
+  "title": "Reasons for Buying an Electric Car",
+  "ylabel": "Percentage of Adults",
+  "unit": "%",
+  "categories": [
+   "Low fuel cost",
+   "Cleaner air",
+   "Quiet engine",
+   "New technology"
+  ],
+  "series": [
+   {
+    "name": "Men",
+    "values": [
+     65,
+     40,
+     10,
+     55
+    ]
+   },
+   {
+    "name": "Women",
+    "values": [
+     50,
+     80,
+     30,
+     25
+    ]
+   }
+  ],
+  "model": "The bar chart shows the reasons why men and women would buy an electric car in Oman. The reasons were low fuel cost, cleaner air, a quiet engine and new technology. Overall, men chose low fuel cost most often, whereas women chose cleaner air most often.\nFirstly, the most popular reason for men was low fuel cost, with 65% of men. This was followed by new technology (55%) and cleaner air (40%). However, the least popular reason for men was a quiet engine, with only 10% of men.\nIn contrast, the most popular reason for women was cleaner air, with 80% of women. This was followed by low fuel cost (50%) and a quiet engine (30%). However, the least popular reason for women was new technology, with only 25% of women.\nTo summarize, both men and women chose low fuel cost. However, the biggest difference was in cleaner air, where 40% of men chose it, whereas 80% of women did."
+ },
+ "email": {
+  "formal": false,
+  "situation": "Imagine you are Zainab. Your friend Maryam won first prize at the science fair with a solar-powered model car.",
+  "task": "Write an email to your friend Maryam and congratulate her. In your email, write about:",
+  "bullets": [
+   "why you are happy for her",
+   "how her model car works",
+   "what you would like to do together next"
+  ],
+  "model": "Dear Maryam,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to congratulate you on winning first prize at the science fair.\n\nFirst, I am so proud of you because you worked very hard on your project. For example, you spent many evenings building the car. Moreover, your idea was the most creative in the fair.\n\nSecond, I think the car uses a small solar panel to make electricity from the sun. Moreover, the electricity turns the motor and the wheels. Therefore, would you like to make a solar-powered boat with me next month?\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nZainab"
+ }
+}

@@ -1,0 +1,594 @@
+{
+ "id": 21,
+ "title": "Model Exam 21",
+ "listening1": {
+  "context": "You are going to hear a conversation between Fatma and Rashid.",
+  "script": [
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "Hi Rashid! Mr Salim asked our class to find a way to reduce the food waste in the school canteen. Have you got any ideas?"
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "Yes, I have. Yesterday I watched the canteen workers after break, and they threw away a huge amount of bread and fruit. I think we should start a composting project."
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "That sounds interesting, but what is composting exactly?"
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "It is a way of turning old food into rich brown soil. Tiny living things break down the food, and we can use the soil to help plants grow in our school garden."
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "I like it. How many bins do we need?"
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "At first I thought two would be enough, but the canteen manager says three bins would be better. One is for compost, one for paper and one for plastic bottles."
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "Good. What can we put in the compost bin?"
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "We can put in fruit and vegetable peel, tea bags and dry leaves. We must never put in meat or fish, because they smell bad and attract insects."
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "I will remember that. How long does it take to make compost?"
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "Some websites say three months, but our science teacher says two months is enough in warm weather, if we turn the pile every week."
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "That is not very long. Who will look after the bins every day? Maybe the cleaners can do it."
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "I asked them first, but they are already very busy. The members of the Environment Club have agreed to take turns, so we do not need the canteen workers either."
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "Wonderful. And where will we use the compost when it is ready?"
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "We will spread it in the school garden, around the young trees near the main gate. The football pitch has enough grass already."
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "Great. When shall we start? Shall we begin next week?"
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "We need time to buy the bins and make some posters, so let us begin next month. I will ask Mr Salim to make an announcement in the morning assembly."
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "Perfect. I will write the plan tonight and show it to him tomorrow."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "What will the class start?",
+    "options": [
+     "a composting project",
+     "a recycling competition",
+     "a school garden club"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "How many bins will they use?",
+    "options": [
+     "two",
+     "four",
+     "three"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "What must students NOT put in the compost bin?",
+    "options": [
+     "vegetable peel",
+     "meat and fish",
+     "dry leaves"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "q": "How long does it take to make compost?",
+    "options": [
+     "one month",
+     "two months",
+     "three months"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "Who will look after the bins every day?",
+    "options": [
+     "the cleaners",
+     "the canteen workers",
+     "the Environment Club"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "Where will they use the compost?",
+    "options": [
+     "on the football pitch",
+     "in the school garden",
+     "at students' homes"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "When will the project start?",
+    "options": [
+     "next month",
+     "next week",
+     "after the holiday"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about tidal and wave energy.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Hello, everyone. Today I will talk about two kinds of energy that come from the sea: tidal energy and wave energy."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Let us start with tides. The tide is the regular rise and fall of the sea. It happens because of the pull of the moon. In most places there are two high tides and two low tides every day, so the water moves in and out about every six hours."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "To make electricity from tides, engineers build a barrage. A barrage is like a low dam across the mouth of a river. When the tide comes in, the water flows through the barrage and turns turbines. When the tide goes out, the water flows back and turns them again. One of the first big tidal power stations opened in France in nineteen sixty-six, on the River Rance."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Now let us think about waves. Waves are made by the wind blowing across the sea, and the stronger the wind is, the bigger the waves are. Wave machines float on the surface. As the waves lift them up and down, the movement drives a generator. Some machines look like long floating tubes, and others look like large buoys."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "These sources have good points. They are renewable, because the moon and the wind will not stop. Tides are easy to predict, so engineers know exactly when electricity will be made. And they produce no greenhouse gases."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "However, there are problems. The machines are expensive to build, and salt water and storms can damage them. A barrage can also change the places where fish and birds live. In addition, tidal power stations need a place where the difference between high and low tide is very large, and there are not many such places."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "What about Oman? Our country has a coastline of more than three thousand kilometres. In summer, the monsoon winds make high waves on the coast of Dhofar, so this area could be a place for wave energy in the future. For now, Oman gets most of its renewable energy from the sun and the wind."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "q": "What causes the tides?",
+    "hint": "",
+    "answer": "The moon",
+    "n": 1
+   },
+   {
+    "q": "What is a low dam across the mouth of a river called?",
+    "hint": "",
+    "answer": "(A) barrage",
+    "n": 2
+   },
+   {
+    "q": "In which year did the French tidal power station open?",
+    "hint": "(year)",
+    "answer": "1966",
+    "n": 3
+   },
+   {
+    "q": "What makes waves?",
+    "hint": "",
+    "answer": "The wind",
+    "n": 4
+   }
+  ],
+  "tf": [
+   {
+    "statement": "Tides are difficult to predict.",
+    "answer": false,
+    "n": 5
+   },
+   {
+    "statement": "Salt water and storms can damage wave machines.",
+    "answer": true,
+    "n": 6
+   },
+   {
+    "statement": "Tidal power stations can work anywhere along the coast.",
+    "answer": false,
+    "n": 7
+   },
+   {
+    "statement": "Oman gets most of its renewable energy from the sun and the wind.",
+    "answer": true,
+    "n": 8
+   }
+  ]
+ },
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "How long have you [[1]] in Muscat, Ali?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "I have lived here [[2]] 2015."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "The air is [[3]] polluted in the city centre than in the suburbs."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "That is true. Many trees [[4]] planted along the main road last year."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "That is good news. If more people [[5]] public buses, the air would be cleaner."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "I agree. I take the bus to school every day."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "live",
+     "lived"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "for",
+     "since"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "more",
+     "most"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "was",
+     "were"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "use",
+     "used"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Hana loves writing, so last year she started her own (1)_____ about cooking. Every week she posts a new recipe and photos, and she now has more than a thousand (2)_____. To protect her account, she uses a strong (3)_____ and never shares it with anyone. She is also careful about the news she reads. Before she believes a story, she checks the (4)_____ because some stories online are fake. When a website looks unsafe, she decides to (5)_____ immediately and tells her father.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "glacier",
+     "blog",
+     "tomb",
+     "reef"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "empires",
+     "droughts",
+     "followers",
+     "emissions"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "options": [
+     "password",
+     "harbour",
+     "palace",
+     "storm"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "season",
+     "source",
+     "slogan",
+     "signal"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "come across",
+     "set off",
+     "take after",
+     "log out"
+    ],
+    "answer": 3
+   }
+  ]
+ },
+ "reading1": {
+  "title": "The Aztecs",
+  "passage": [
+   "The Aztecs were one of the most powerful peoples of ancient Mexico. They began as a small group of wanderers who moved south from the north. In 1325 they settled on a small island in Lake Texcoco and began to build a city called Tenochtitlan. Today Mexico City stands in the same place.",
+   "Land was short, so the Aztecs invented clever ways to farm. They built chinampas, which are small artificial islands made of mud and plants, in the shallow water of the lake. Farmers grew maize, beans, squash and chillies on these \"floating gardens\", and they could harvest several crops every year. This clever system gave the growing city plenty of fresh food.",
+   "Tenochtitlan became a great city of about 200,000 people, which was larger than most European cities of that time. Wide roads, called causeways, joined the island to the shore, and canals ran through the city like streets. In the centre stood the Great Temple, a huge stone pyramid where priests held religious ceremonies.",
+   "The Aztecs ruled a large empire. Nearby peoples had to give them gold, cloth, food and cacao beans, the seeds that are used to make chocolate. Cacao beans were so valuable that people also used them as money. Officials collected the goods, and soldiers protected the roads. Merchants travelled long distances to trade, and big markets were held in every city.",
+   "Education was important. Boys went to school to learn war and religion, and girls learned to run a home. The Aztecs wrote with pictures, and they made an accurate calendar to plan their farming and festivals. Their language, Nahuatl, gave English some common words, such as tomato, chocolate and avocado.",
+   "In 1519, a Spanish soldier named Hernán Cortés arrived with about 500 men and many horses. Other peoples who hated Aztec rule joined him, and diseases from Europe weakened the Aztecs. In 1521, the Spanish captured Tenochtitlan, and the empire fell.",
+   "Although the Aztec Empire ended nearly five hundred years ago, its influence remains. Many Mexicans still speak Nahuatl, and Aztec foods and traditions are part of Mexican life today."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "What was the name of the Aztec capital city?",
+    "options": [
+     "Tenochtitlan",
+     "Texcoco",
+     "Cortés"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "What are chinampas?",
+    "options": [
+     "tall stone pyramids",
+     "small artificial islands for farming",
+     "wide roads across the lake"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "How was the island joined to the shore?",
+    "options": [
+     "by boats",
+     "by tunnels",
+     "by causeways"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "Why were cacao beans valuable?",
+    "options": [
+     "People also used them as money.",
+     "They were used to build houses.",
+     "They were food for animals."
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "What did Aztec boys learn at school?",
+    "options": [
+     "farming and trade",
+     "war and religion",
+     "maths and poetry"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "What helped Cortés to defeat the Aztecs?",
+    "options": [
+     "The Aztecs had no roads.",
+     "Cortés had a very large army.",
+     "Other peoples joined him."
+    ],
+    "answer": 2
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "Farmers grew maize, beans, squash and ________ on the chinampas.",
+    "answer": "chillies"
+   },
+   {
+    "n": 8,
+    "q": "Tenochtitlan was a city of about ________ people.",
+    "answer": "200,000"
+   },
+   {
+    "n": 9,
+    "q": "In the centre of the city stood the Great ________.",
+    "answer": "Temple"
+   },
+   {
+    "n": 10,
+    "q": "The language of the Aztecs was called ________.",
+    "answer": "Nahuatl"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "Robots in Factories and Hospitals",
+  "passage": [
+   "A robot is a machine that is controlled by a computer and can do tasks by itself. The word \"robot\" was first used in 1920, in a play by the Czech writer Karel Capek. In the play, robots were artificial workers who did the hard jobs for humans. Today, real robots work in many places, and two of the most important are factories and hospitals.",
+   "The first industrial robot was called Unimate. It started work in 1961 in a car factory in the United States. Its job was to lift hot metal parts from a machine and to stack them. This was a dangerous job for people, but the robot could do it again and again without being hurt.",
+   "Today, factories use robots for many tasks. Robots can weld, paint, pack and lift heavy parts. They can work for twenty-four hours a day without getting tired, and they make very few mistakes. A large car factory may have thousands of robots. They are especially useful for jobs that are dangerous, dirty or very boring.",
+   "Hospitals also use robots. In some operations, the surgeon sits at a computer and controls the arms of a surgical robot. The robot makes very small, exact cuts, so the patient has less pain and usually goes home sooner. Other robots carry medicine and food through the hospital, and some clean rooms with ultraviolet light, which kills germs.",
+   "Some people worry that robots will take away jobs. It is true that some jobs are disappearing. However, robots also create new jobs, because people are needed to design, build, program and repair them. Robots cannot replace the kindness of a nurse or the judgement of a doctor, because they only follow instructions.",
+   "In the future, robots will become smarter because of artificial intelligence. Robots that work safely beside humans are already common in factories. They are called collaborative robots, or cobots. If we use robots wisely, they can make work safer and health care better for everyone."
+  ],
+  "short": [
+   {
+    "q": "Who first used the word \"robot\" in a play?",
+    "hint": "",
+    "answer": "Karel Capek",
+    "n": 1
+   },
+   {
+    "q": "What was the first industrial robot called?",
+    "hint": "",
+    "answer": "Unimate",
+    "n": 2
+   },
+   {
+    "q": "In which year did the first industrial robot start work?",
+    "hint": "(year)",
+    "answer": "1961",
+    "n": 3
+   },
+   {
+    "q": "Which kind of robot helps a surgeon in an operation?",
+    "hint": "",
+    "answer": "Surgical robot(s)",
+    "n": 4
+   },
+   {
+    "q": "What do some hospital robots use to clean rooms?",
+    "hint": "",
+    "answer": "Ultraviolet light",
+    "n": 5
+   },
+   {
+    "q": "What are robots that work beside humans called?",
+    "hint": "",
+    "answer": "Cobots / Collaborative robots",
+    "n": 6
+   }
+  ],
+  "tf": [
+   {
+    "statement": "The first industrial robot lifted hot metal parts.",
+    "answer": true,
+    "n": 7
+   },
+   {
+    "statement": "Factory robots must rest after eight hours.",
+    "answer": false,
+    "n": 8
+   },
+   {
+    "statement": "Robots can think and feel like humans.",
+    "answer": false,
+    "n": 9
+   },
+   {
+    "statement": "Robots cannot replace the kindness of a nurse.",
+    "answer": true,
+    "n": 10
+   }
+  ]
+ },
+ "chart": {
+  "title": "Activities Enjoyed by Visitors at a Museum",
+  "ylabel": "Percentage of Visitors",
+  "unit": "%",
+  "categories": [
+   "Looking at old objects",
+   "Watching short films",
+   "Joining workshops",
+   "Buying gifts"
+  ],
+  "series": [
+   {
+    "name": "Men",
+    "values": [
+     70,
+     45,
+     25,
+     15
+    ]
+   },
+   {
+    "name": "Women",
+    "values": [
+     65,
+     30,
+     75,
+     50
+    ]
+   }
+  ],
+  "model": "The bar chart shows the activities enjoyed by men and women who visited a museum in Oman. The activities were looking at old objects, watching short films, joining workshops and buying gifts. Overall, men preferred looking at old objects, whereas women preferred joining workshops.\nFirstly, the most popular activity for men was looking at old objects, with 70% of visitors. This was followed by watching short films (45%) and joining workshops (25%). However, the least popular activity for men was buying gifts, with only 15% of visitors.\nIn contrast, the most popular activity for women was joining workshops, with 75% of visitors. This was followed by looking at old objects (65%) and buying gifts (50%). However, the least popular activity for women was watching short films, with only 30% of visitors.\nTo summarize, both men and women liked looking at old objects. However, the biggest difference was in joining workshops, where 25% of men chose it, whereas 75% of women did."
+ },
+ "email": {
+  "formal": true,
+  "situation": "Imagine you are Khalid, a Grade 10 student. The Environment Club at your school would like to invite an expert to give a talk about climate change.",
+  "task": "Write an email to Dr Salma Al Harthy, an expert at the Environment Authority, and invite her to give the talk. In your email, write about:",
+  "bullets": [
+   "when and where the talk will be",
+   "what she could talk about",
+   "who will listen to the talk"
+  ],
+  "model": "Dear Dr Salma,\n\nI hope this email finds you in good health and high spirits. I am writing this email to invite you to give a talk about climate change at our school.\n\nFirst, the talk will be held in the school hall next Wednesday at ten o'clock. For example, it will last for about forty-five minutes. Moreover, we will arrange a car for you if you need transport.\n\nSecond, you could talk about global warming, floods and droughts, and the ways in which young people can protect the environment. Moreover, about two hundred students from Grades 9 and 10 will attend. Therefore, your talk will reach many young people.\n\nThank you for your time and attention. I look forward to your response. Please let me know if you need any further information.\n\nYours sincerely,\nKhalid"
+ }
+}

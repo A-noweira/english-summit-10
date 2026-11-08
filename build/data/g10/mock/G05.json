@@ -1,0 +1,129 @@
+{
+ "id": "MK-G05",
+ "title": "Gerund/infinitive, too/enough · Screen time",
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "My brother enjoys [[1]] video games after school."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Mine too. He decided [[2]] his screen time last month."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "My brother plays [[3]] much, so he is tired in class."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Why don't you give him a timer? Mine is [[4]] one now."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "That sounds like a good idea. Does it work?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Yes. Since he started, he [[5]] much happier."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "to play",
+     "playing"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "to reduce",
+     "reducing"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "enough",
+     "too"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "using",
+     "use"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "is",
+     "has been"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Many teenagers today spend too much time on their phones. Doctors say that too much (1)_____ time can harm the eyes and make it hard to sleep. Some young people are (2)_____ to their screens and feel worried when they have no phone. A short (3)_____ span makes it difficult for them to finish homework. To change this habit, experts advise teenagers to have more self-(4)_____ and to (5)_____ their phones during meals. Even small changes can make a big difference.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "solar",
+     "civil",
+     "screen",
+     "marine"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "options": [
+     "addicted",
+     "equal",
+     "reluctant",
+     "familiar"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "attention",
+     "energy",
+     "culture",
+     "trade"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "control",
+     "energy",
+     "history",
+     "design"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "bring up",
+     "turn off",
+     "run out of",
+     "hurry up"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+}

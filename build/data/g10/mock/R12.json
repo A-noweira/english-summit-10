@@ -1,0 +1,172 @@
+{
+ "id": "MK-R12",
+ "title": "Mangroves and Renewable Energy in Oman",
+ "reading1": {
+  "title": "Mangroves: Forests in the Sea",
+  "passage": [
+   "Mangroves are special trees and bushes that grow in salty water along warm coasts. Their roots stand in the water, and at high tide the lower part of the tree is covered by the sea. Mangroves grow in more than a hundred countries. In Oman, you can see them in places such as the Qurum Nature Reserve in Muscat.",
+   "Mangroves are well adapted to their strange home. Some of their roots grow upwards out of the mud, like small pipes, so that the tree can breathe air at low tide. Mangrove leaves can also get rid of extra salt, which would kill most other plants.",
+   "Mangroves are like nurseries for the sea. Young fish, shrimps and crabs hide among the roots, where bigger fish cannot easily catch them. When they grow bigger, many of them swim out to the open sea. Many fishing families depend on this, and birds also build their nests in the branches.",
+   "Mangroves protect the coast, too. Their strong roots slow down the waves and hold the soil in place, which reduces damage from storms and floods. The roots also trap mud and clean the water by holding back dirt before it reaches the sea.",
+   "In addition, mangroves help to fight climate change. They take in carbon dioxide and store carbon in their wood and in the mud around them. Each hectare of mangrove can store more carbon than most forests on land. For this reason, scientists call the carbon in coastal forests \"blue carbon\".",
+   "Sadly, mangroves are in danger. People cut them down to build hotels and ports and to make room for fish and shrimp farms. Pollution and rising sea levels also harm them. The world has lost about one fifth of its mangroves since 1980.",
+   "Many countries now work to protect these forests. Schools and communities plant young mangrove trees along the coast. Every year on 26 July, the world celebrates the International Day for the Conservation of the Mangrove Ecosystem. It reminds us that healthy mangroves mean healthy seas, safer coasts and a cooler planet."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "Where do mangroves grow?",
+    "options": [
+     "In salty water along warm coasts",
+     "In the middle of deserts",
+     "On high mountains"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "Why do some mangrove roots grow up out of the mud?",
+    "options": [
+     "To catch fish",
+     "So that the tree can breathe",
+     "To hold the soil in place"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "Who hides among mangrove roots?",
+    "options": [
+     "Large sharks",
+     "Camels",
+     "Young fish, shrimps and crabs"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "How do mangrove roots protect the coast?",
+    "options": [
+     "They make the sea warmer.",
+     "They slow down the waves.",
+     "They bring more water."
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "What do mangroves store in their wood and mud?",
+    "options": [
+     "Salt",
+     "Carbon",
+     "Oil"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "When is the International Day for the Conservation of the Mangrove Ecosystem?",
+    "options": [
+     "On 26 July",
+     "On 26 June",
+     "On 26 August"
+    ],
+    "answer": 0
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "Mangrove leaves can get rid of extra ________.",
+    "answer": "salt"
+   },
+   {
+    "n": 8,
+    "q": "Young fish and crabs hide among the ________.",
+    "answer": "roots"
+   },
+   {
+    "n": 9,
+    "q": "The roots trap mud and clean the ________.",
+    "answer": "water"
+   },
+   {
+    "n": 10,
+    "q": "The world has lost about ________ of its mangroves since 1980.",
+    "answer": "one fifth"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "Renewable Energy in Oman",
+  "passage": [
+   "Oman is a sunny and windy country, so it has excellent conditions for renewable energy. The sun shines on more than 300 days a year, and some areas, such as Dhofar and Masirah Island, have strong winds. For many years, however, most of Oman's electricity has come from natural gas.",
+   "Today, Oman is changing its energy mix. The government's goal is to produce 30 percent of the country's electricity from renewable sources by 2030. This goal is part of Oman Vision 2040, which aims to protect the environment and to use natural resources wisely.",
+   "Solar energy is the main focus. In 2021, the large Ibri II solar plant in Ad Dhahirah started to send electricity to the national grid, and Oman has built more big solar plants since then. Another project, called Miraah, in the south of the country, uses mirrors inside giant glasshouses to make steam from the sun's heat. The oil industry uses this steam to produce oil, so it uses less gas.",
+   "Wind energy is growing, too. In 2019, Oman opened the Dhofar wind farm, near Harweel. It has 13 turbines and can produce 50 megawatts of electricity. It was the first large wind farm in the Gulf Cooperation Council countries. Each turbine is as tall as a large building, and together they supply thousands of homes.",
+   "Ordinary people can take part as well. A programme called Sahim encourages families and companies to put solar panels on their roofs and to use the clean electricity. Some people can even sell extra electricity to the grid. Many schools and mosques in Oman now have solar panels, too.",
+   "Renewable energy has several benefits for Oman. It saves natural gas, which the country can sell instead of burning. It reduces pollution and carbon dioxide, and it creates new jobs for engineers and technicians. In addition, it makes Oman less dependent on fossil fuels in the future.",
+   "Oman still has a long way to go, but the progress is clear. With its sunshine, wind and wide open land, Oman can become a leader in clean energy in the region."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What percentage of electricity does Oman want from renewable sources by 2030?",
+    "hint": "",
+    "answer": "30 percent"
+   },
+   {
+    "n": 2,
+    "q": "In which year did the Dhofar wind farm open?",
+    "hint": "(year)",
+    "answer": "2019"
+   },
+   {
+    "n": 3,
+    "q": "How many turbines does the Dhofar wind farm have?",
+    "hint": "",
+    "answer": "13"
+   },
+   {
+    "n": 4,
+    "q": "What does Miraah make from the sun's heat?",
+    "hint": "",
+    "answer": "Steam"
+   },
+   {
+    "n": 5,
+    "q": "Which programme encourages families to put solar panels on their roofs?",
+    "hint": "",
+    "answer": "Sahim"
+   },
+   {
+    "n": 6,
+    "q": "Which fuel has produced most of Oman's electricity for many years?",
+    "hint": "",
+    "answer": "Natural gas"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Oman has more than 300 sunny days a year.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "Most of Oman's electricity now comes from solar panels.",
+    "answer": false
+   },
+   {
+    "n": 9,
+    "statement": "The Dhofar wind farm was the first large wind farm in the GCC countries.",
+    "answer": true
+   },
+   {
+    "n": 10,
+    "statement": "Oman has no good places for wind energy.",
+    "answer": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,584 @@
+{
+ "id": 13,
+ "title": "Model Exam 13",
+ "listening1": {
+  "context": "You are going to hear a conversation between Muna and Sultan.",
+  "script": [
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "Hi Sultan! Mr Zayed asked our environment club to organise an activity for World Environment Day. Do you have any ideas? It should be something that helps nature and that all the students will enjoy."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Yes. How about planting palm trees at school? It is easy and cheap."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "That is nice, but I would like to do something bigger. I read that mangrove trees protect the coast from big waves and give a home to fish and birds. Why don't we plant mangroves?"
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "What a great idea! Mangroves also take in a lot of carbon dioxide. Where can we plant them? I think Sur is a good place."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "Sur is too far from our school. Qurum has a nature reserve with mangroves, and it is only twenty minutes away."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "You're right. Qurum is much better. How many seedlings do we need? Maybe two hundred?"
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "That is too many for one morning. The experts say one hundred is enough for a group of thirty students."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "One hundred it is. When shall we go? On Saturday?"
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "Saturday is a holiday, and many students will be busy. Let's go on Thursday. We can start at half past seven, before the sun gets hot."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Good thinking. Can we use the school bus? Or shall we ask parents to drive us?"
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "Mr Zayed said that the school will provide a bus, so everybody can travel together."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Wonderful. Will someone show us how to plant them? I don't know much about it."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "An expert from the Environment Authority will meet us there. He will also bring gloves and small spades."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Then what should the students bring?"
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "A bottle of water is enough, and maybe a hat. I will make a list of names this afternoon."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Perfect. And I will make a poster about the trip for the notice board, so that everyone can sign up before Thursday."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "What will the students plant?",
+    "options": [
+     "palm trees",
+     "mangrove trees",
+     "ghaf trees"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "Where will they plant them?",
+    "options": [
+     "in Qurum",
+     "in Sur",
+     "in Sohar"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "How many seedlings will they plant?",
+    "options": [
+     "two hundred",
+     "fifty",
+     "one hundred"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "On which day will they go?",
+    "options": [
+     "Saturday",
+     "Thursday",
+     "Friday"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "How will the students travel?",
+    "options": [
+     "by school bus",
+     "in their parents' cars",
+     "by taxi"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "Who will show the students how to plant?",
+    "options": [
+     "Mr Zayed",
+     "an expert from the Environment Authority",
+     "the club leader"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "What must each student bring?",
+    "options": [
+     "a bottle of water",
+     "gloves",
+     "small spades"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about electric cars.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Hello, everyone. Today's talk is about electric cars, and why many people think they are the cars of the future."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "An electric car does not have a petrol engine. Instead, it has a large battery and an electric motor. When the driver presses the pedal, the battery sends power to the motor, and the motor turns the wheels. You charge the battery by plugging the car into a charging point, just like charging a phone."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Electric cars are not a new idea. They were already on the roads more than one hundred and twenty years ago, but petrol cars became cheaper, so most people stopped buying electric ones. Today, because of climate change, electric cars are popular again."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "They have several advantages. First, they have no exhaust pipe, so they do not release smoke into the air of our cities. Second, they are very quiet, which reduces noise. Third, they are cheaper to run, because electricity costs less than petrol, and the motor needs very little repair."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Charging is easy at home. Most drivers plug in their cars at night and wake up to a full battery. A fast charger at a public station can fill about eighty percent of the battery in half an hour. A modern electric car can usually travel between three hundred and five hundred kilometres on one charge."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Of course, there are some problems. Electric cars are still more expensive to buy than petrol cars. In many places, there are not enough charging stations. Also, if the electricity comes from a power station that burns coal or gas, the pollution simply moves from the road to the power station. This is why clean sources such as solar and wind energy are so important."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "In Oman, charging stations have started to appear in Muscat and along some main roads, and more are coming. Perhaps in the near future you will drive an electric car yourself. Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What turns the wheels of an electric car?",
+    "hint": "",
+    "answer": "The motor / The electric motor"
+   },
+   {
+    "n": 2,
+    "q": "Which kind of car became cheaper long ago?",
+    "hint": "",
+    "answer": "Petrol cars"
+   },
+   {
+    "n": 3,
+    "q": "How much of the battery can a fast charger fill in half an hour?",
+    "hint": "(percentage)",
+    "answer": "About 80% / Eighty percent"
+   },
+   {
+    "n": 4,
+    "q": "In which city in Oman have charging stations started to appear?",
+    "hint": "",
+    "answer": "Muscat"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "Electric cars release smoke from an exhaust pipe.",
+    "answer": false
+   },
+   {
+    "n": 6,
+    "statement": "Electricity costs less than petrol.",
+    "answer": true
+   },
+   {
+    "n": 7,
+    "statement": "There are enough charging stations in every place.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Clean energy such as solar and wind is important for electric cars.",
+    "answer": true
+   }
+  ]
+ },
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "I read that the pyramids [[1]] more than four thousand years ago."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "I would love to see them, but I [[2]] to Egypt yet."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "If you go in winter, you [[3]] nice, cool weather."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Great. Is there anything [[4]] I should take with me?"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Take a hat and some sun cream. Also, visit the museum in Cairo."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "I will! I have saved [[5]] money, so I can buy my ticket soon."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "built",
+     "were built"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "didn't go",
+     "haven't been"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "will have",
+     "would have"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "who",
+     "that"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "a little",
+     "a few"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Mona loves watching (1)_____ online. Her favourite channel is a vlog about travel, and she often watches it on her phone. Last week she saw an article that said a famous singer had left the country, but it was (2)_____ news. Her brother told her to check the facts before she shared it. He also advised her to protect her (3)_____ by never giving her address to strangers online. Mona now uses a strong (4)_____ to protect her accounts, and she always (5)_____ her important files in case her phone breaks. She says that using the internet wisely is a very important skill.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "videos",
+     "droughts",
+     "empires",
+     "tides"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "bright",
+     "nearby",
+     "fake",
+     "flat"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "options": [
+     "privacy",
+     "pollution",
+     "population",
+     "pressure"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "podcast",
+     "password",
+     "platform",
+     "profile"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "turns off",
+     "comes across",
+     "logs on",
+     "backs up"
+    ],
+    "answer": 3
+   }
+  ]
+ },
+ "reading1": {
+  "title": "Mesopotamia: The Land between Two Rivers",
+  "passage": [
+   "Mesopotamia is the Greek name for \"the land between the rivers\". It lay between the Tigris and the Euphrates, in the area that is now mostly Iraq. The soil beside these rivers was rich, so people settled there and built some of the first cities in the world more than five thousand years ago.",
+   "The rivers gave life to Mesopotamia, but they could also be dangerous. Sometimes they flooded, and sometimes there was not enough rain. To solve these problems, farmers dug canals to carry water to their fields. Thanks to this system, which is called irrigation, they grew wheat, barley and dates and produced more food than they needed.",
+   "Because there was extra food, not everybody had to farm. Some people became builders, potters, traders or priests. The Sumerians built cities such as Ur and Uruk, and in the centre of each city they built a temple on a tall stepped tower called a ziggurat. Many families lived in houses made of mud bricks, and the streets were crowded with markets.",
+   "The people of Mesopotamia were great inventors. They made some of the first wheels, which were used on carts, and they invented the plough and the sailing boat. They also invented one of the earliest forms of writing, called cuneiform. Scribes pressed a pointed reed into wet clay to make wedge-shaped signs, and then they dried the clay tablets in the sun.",
+   "Mesopotamians were also good at mathematics. They counted in sixty, and this is why we still have sixty minutes in an hour and three hundred and sixty degrees in a circle.",
+   "Around 1750 BC, a king of Babylon called Hammurabi collected laws and had them carved on a tall stone. Everyone could see the rules and the punishments, so the laws were fairer than before. It is one of the oldest sets of written laws.",
+   "Mesopotamia traded with distant lands. Merchants brought wood, stone and metals in exchange for cloth and grain. Writings from Mesopotamia say that copper came from a land called Magan, which many historians believe is today's Oman."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "What does the name Mesopotamia mean?",
+    "options": [
+     "the land of many cities",
+     "the land between the rivers",
+     "the land of gold"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "Why did people settle beside the Tigris and the Euphrates?",
+    "options": [
+     "The soil was rich.",
+     "There were mountains.",
+     "They had no neighbours."
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "What did farmers dig to carry water to their fields?",
+    "options": [
+     "wells",
+     "roads",
+     "canals"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "What was a ziggurat?",
+    "options": [
+     "a kind of boat",
+     "a tall stepped tower with a temple",
+     "a clay tablet"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "What did scribes press into wet clay?",
+    "options": [
+     "a pointed reed",
+     "a metal knife",
+     "a wooden wheel"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "Why were Hammurabi's laws fairer than before?",
+    "options": [
+     "Only the king could read them.",
+     "They were written on clay tablets.",
+     "Everyone could see the rules and the punishments."
+    ],
+    "answer": 2
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "Farmers grew wheat, barley and ________.",
+    "answer": "dates"
+   },
+   {
+    "n": 8,
+    "q": "One of the earliest forms of writing was called ________.",
+    "answer": "cuneiform"
+   },
+   {
+    "n": 9,
+    "q": "Mesopotamians counted in ________, and we still use this for minutes.",
+    "answer": "sixty"
+   },
+   {
+    "n": 10,
+    "q": "Hammurabi was a king of ________.",
+    "answer": "Babylon"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "The Story of the Telephone",
+  "passage": [
+   "Before the telephone, people who lived far apart could send messages only by letter or by telegraph. Letters took days or even weeks to arrive. The telegraph, which was invented in the 1840s, sent short messages along wires using a code of dots and dashes, but it could not carry the human voice.",
+   "Alexander Graham Bell was born in Scotland and later moved to the United States. He was a teacher of deaf students, so he was very interested in sound and speech. Bell worked with his assistant, Thomas Watson, to find a way to send the human voice along a wire. Many people at that time thought that sending a voice along a wire was impossible.",
+   "On 10 March 1876, Bell spoke the first sentence over a telephone. He was in one room and Watson was in another. Bell said, \"Mr Watson, come here, I want to see you.\" Watson heard the words clearly through the wire and ran to Bell's room. The age of the telephone had begun.",
+   "The first telephones were simple. When a person spoke, the voice made a thin piece of metal vibrate. The vibrations changed an electric current, and at the other end the current was turned back into sound. In 1878 the first telephone exchange opened in the United States. Operators sat at a board and connected each call by hand with cables.",
+   "The telephone kept changing during the twentieth century. People first turned a round dial to call a number, and later they pressed buttons. Calls across the oceans were carried first by cables under the sea and later by satellites. In 1973, an engineer named Martin Cooper made the first call from a mobile phone in New York. This invention changed how people talked to each other, because a friend in another city could now be heard in a few seconds.",
+   "Today, billions of people have a mobile phone. A smartphone is not only a telephone but also a camera, a map, a music player and a small computer. Yet it all began with a short call from one room to the next."
+  ],
+  "short": [
+   {
+    "q": "In which country was Bell born?",
+    "hint": "",
+    "answer": "Scotland",
+    "n": 1
+   },
+   {
+    "q": "Who was Bell's assistant?",
+    "hint": "",
+    "answer": "Thomas Watson",
+    "n": 2
+   },
+   {
+    "q": "In which year did Bell speak the first sentence over a telephone?",
+    "hint": "(year)",
+    "answer": "1876",
+    "n": 3
+   },
+   {
+    "q": "What did early operators use to connect each call?",
+    "hint": "",
+    "answer": "Cables",
+    "n": 4
+   },
+   {
+    "q": "Who made the first call from a mobile phone?",
+    "hint": "",
+    "answer": "Martin Cooper",
+    "n": 5
+   },
+   {
+    "q": "What could the telegraph not carry?",
+    "hint": "",
+    "answer": "The human voice",
+    "n": 6
+   }
+  ],
+  "tf": [
+   {
+    "statement": "The telegraph sent messages using dots and dashes.",
+    "answer": true,
+    "n": 7
+   },
+   {
+    "statement": "Bell and Watson were in the same room during the first call.",
+    "answer": false,
+    "n": 8
+   },
+   {
+    "statement": "Calls across the oceans were first carried by satellites.",
+    "answer": false,
+    "n": 9
+   },
+   {
+    "statement": "A modern smartphone is also a camera and a map.",
+    "answer": true,
+    "n": 10
+   }
+  ]
+ },
+ "chart": {
+  "title": "Smart Home Devices Wanted by Men and Women",
+  "ylabel": "Percentage of People",
+  "unit": "%",
+  "categories": [
+   "Smart lights",
+   "Smart thermostats",
+   "Smart door locks",
+   "Voice assistants"
+  ],
+  "series": [
+   {
+    "name": "Men",
+    "values": [
+     45,
+     65,
+     30,
+     55
+    ]
+   },
+   {
+    "name": "Women",
+    "values": [
+     70,
+     40,
+     50,
+     25
+    ]
+   }
+  ],
+  "model": "The bar chart shows the smart home devices wanted by men and women in one town in Oman. The devices were smart lights, smart thermostats, smart door locks and voice assistants. Overall, men preferred smart thermostats, whereas women preferred smart lights.\nFirstly, the most popular device for men was smart thermostats, with 65% of people. This was followed by voice assistants (55%) and smart lights (45%). However, the least popular device for men was smart door locks, with only 30% of people.\nIn contrast, the most popular device for women was smart lights, with 70% of people. This was followed by smart door locks (50%) and smart thermostats (40%). However, the least popular device for women was voice assistants, with only 25% of people.\nTo summarize, both men and women liked smart lights. However, the biggest difference was in voice assistants, where 55% of men chose it, whereas 25% of women did."
+ },
+ "email": {
+  "formal": false,
+  "situation": "Imagine you are Hana. Last week there was very heavy rain in your town.",
+  "task": "Write an email to your friend Mona, who lives in another country, and tell her about it. In your email, write about:",
+  "bullets": [
+   "what happened in your town",
+   "how the rain affected people",
+   "what you and your family did"
+  ],
+  "model": "Dear Mona,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to tell you about the heavy rain in my town last week.\n\nFirst, it rained for two days, and the wadi near our house filled with water. For example, some roads were closed and the schools were shut for one day. Moreover, many cars were stuck in the water.\n\nSecond, my family stayed at home and kept away from the wadi, because it was dangerous. Moreover, we helped our neighbours by giving them food and blankets. Therefore, everybody was safe, and we learned how important it is to listen to the weather warnings.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nHana"
+ }
+}

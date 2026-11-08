@@ -1,0 +1,129 @@
+{
+ "id": "MK-G11",
+ "title": "Infinitive, future passive · Electric cars",
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "My uncle has just [[1]] an electric car."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "How long does it take [[2]] the battery?"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "About eight hours. It is [[3]] expensive than a petrol car to buy, but it is cheaper to run."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Charging stations [[4]] installed in many cities next year, I heard."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Yes. If I were rich, I [[5]] one tomorrow."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Me too!"
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "bought",
+     "buy"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "charging",
+     "to charge"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "most",
+     "more"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "are",
+     "will be"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "would buy",
+     "will buy"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Electric cars are becoming popular in many countries. Their engines do not (1)_____ petrol, so they do not release smoke into the air. Drivers can (2)_____ the battery at home or at a charging station. Some companies have started to (3)_____ charging points in Muscat and other cities. Electric (4)_____ are quiet and need less maintenance than petrol cars. Although the price is still (5)_____ for many families, experts believe it will fall in the coming years.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "upload",
+     "burn",
+     "absorb",
+     "regulate"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "scroll",
+     "sail",
+     "charge",
+     "trade"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "options": [
+     "mention",
+     "conquer",
+     "install",
+     "translate"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "options": [
+     "citizens",
+     "journalists",
+     "pyramids",
+     "vehicles"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 5,
+    "options": [
+     "friendly",
+     "violent",
+     "expensive",
+     "limited"
+    ],
+    "answer": 2
+   }
+  ]
+ }
+}

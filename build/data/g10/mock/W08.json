@@ -1,0 +1,50 @@
+{
+ "id": "MK-W08",
+ "title": "Chart: Activities Enjoyed on Heritage Day · E-mail: formal",
+ "chart": {
+  "title": "Activities Enjoyed on Heritage Day",
+  "ylabel": "Percentage of Students",
+  "unit": "%",
+  "categories": [
+   "Pottery making",
+   "Folk dancing",
+   "Tasting halwa",
+   "Arabic calligraphy",
+   "Sword show"
+  ],
+  "series": [
+   {
+    "name": "Boys",
+    "values": [
+     30,
+     45,
+     60,
+     20,
+     75
+    ]
+   },
+   {
+    "name": "Girls",
+    "values": [
+     55,
+     65,
+     50,
+     70,
+     30
+    ]
+   }
+  ],
+  "model": "The bar chart shows the activities that Grade 10 boys and girls enjoyed on Heritage Day at a school in Oman. The activities were pottery making, folk dancing, tasting halwa, Arabic calligraphy and the sword show. Overall, boys enjoyed the sword show the most, whereas girls enjoyed Arabic calligraphy the most.\nFirstly, the most popular activity for boys was the sword show, with 75% of boys. This was followed by tasting halwa (60%), folk dancing (45%) and pottery making (30%). However, the least popular activity for boys was Arabic calligraphy, with only 20% of boys.\nIn contrast, the most popular activity for girls was Arabic calligraphy, with 70% of girls. This was followed by folk dancing (65%), pottery making (55%) and tasting halwa (50%). However, the least popular activity for girls was the sword show, with only 30% of girls.\nTo summarize, both boys and girls liked folk dancing. However, the biggest difference was in Arabic calligraphy, where 20% of boys chose it, whereas 70% of girls did."
+ },
+ "email": {
+  "formal": true,
+  "situation": "Imagine you are Yousef, a student at your school. You would like your school to hold a Heritage Day.",
+  "task": "Write a formal email to your principal, Mr Hamdan, and suggest holding a Heritage Day at school. In your email, write about:",
+  "bullets": [
+   "why a Heritage Day would be useful",
+   "what activities students could enjoy",
+   "when it could take place"
+  ],
+  "model": "Dear Mr Hamdan,\n\nI hope this email finds you in good health and high spirits. I am writing this email to suggest holding a Heritage Day at our school.\n\nFirst, a Heritage Day would help students to learn about the history and traditions of Oman. For example, they could see old tools and traditional clothes. Moreover, it would make them proud of their country.\n\nSecond, students could enjoy folk dancing, pottery making and tasting traditional food. Moreover, the day could take place next month on a Thursday, when we have no exams. Therefore, parents could come and join us.\n\nThank you for your time and attention. I look forward to your response. Please let me know if you need any further information.\n\nYours sincerely,\nYousef"
+ }
+}

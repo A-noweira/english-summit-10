@@ -1,0 +1,254 @@
+{
+ "id": "MK-L07",
+ "title": "An Energy Audit and Search Engines",
+ "listening1": {
+  "context": "You are going to hear a conversation between Lamya and Saif.",
+  "script": [
+   {
+    "speaker": "Lamya",
+    "gender": "f",
+    "text": "Hello Saif! The Energy Club has a new project. Mr Said wants us to check how much electricity our school uses. Do you want to be in my group?"
+   },
+   {
+    "speaker": "Saif",
+    "gender": "m",
+    "text": "Yes, please. It sounds very interesting. What exactly are we going to measure?"
+   },
+   {
+    "speaker": "Lamya",
+    "gender": "f",
+    "text": "We will measure how much electricity each room uses in one day. Mr Said gave us a small meter that we put on the plug."
+   },
+   {
+    "speaker": "Saif",
+    "gender": "m",
+    "text": "Which room do you think uses the most? I think it is the staff room, because there are many fridges and kettles."
+   },
+   {
+    "speaker": "Lamya",
+    "gender": "f",
+    "text": "I thought so too, but Mr Said says the computer lab uses even more because all the computers and screens stay on all day."
+   },
+   {
+    "speaker": "Saif",
+    "gender": "m",
+    "text": "That makes sense. What about the air conditioners? Many of them are very cold."
+   },
+   {
+    "speaker": "Lamya",
+    "gender": "f",
+    "text": "That is another problem. Our school sets them at twenty degrees, but experts say twenty-four degrees is much better. It is still comfortable, and it saves a lot of money."
+   },
+   {
+    "speaker": "Saif",
+    "gender": "m",
+    "text": "I agree. Can we change the settings ourselves?"
+   },
+   {
+    "speaker": "Lamya",
+    "gender": "f",
+    "text": "We can ask the caretaker, but first we will make a plan. Who will switch off the lights in the classrooms at the end of the day?"
+   },
+   {
+    "speaker": "Saif",
+    "gender": "m",
+    "text": "The class monitors can do that. They are usually the last people to leave."
+   },
+   {
+    "speaker": "Lamya",
+    "gender": "f",
+    "text": "Good idea. We will also put stickers next to every switch that say, Please turn me off. They are small, but they remind everyone."
+   },
+   {
+    "speaker": "Saif",
+    "gender": "m",
+    "text": "I can draw the stickers. I will use bright green, so people notice them."
+   },
+   {
+    "speaker": "Lamya",
+    "gender": "f",
+    "text": "Wonderful. Now, how long will the audit last? A week is too short for good results."
+   },
+   {
+    "speaker": "Saif",
+    "gender": "m",
+    "text": "Two weeks should be enough. We can compare the numbers before and after the stickers."
+   },
+   {
+    "speaker": "Lamya",
+    "gender": "f",
+    "text": "Then we have to tell the whole school about the results. Who will we show them to?"
+   },
+   {
+    "speaker": "Saif",
+    "gender": "m",
+    "text": "The headteacher. We will give a short presentation in the morning assembly, with a chart of our numbers."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "What will the club measure?",
+    "options": [
+     "the electricity used by each room",
+     "the water used in the school",
+     "the heat in the classrooms"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "Which room uses the most electricity?",
+    "options": [
+     "the staff room",
+     "the computer lab",
+     "the library"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "What temperature do the experts recommend for air conditioners?",
+    "options": [
+     "twenty degrees",
+     "twenty-two degrees",
+     "twenty-four degrees"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "Who will switch off the lights at the end of the day?",
+    "options": [
+     "the teachers",
+     "the class monitors",
+     "the caretaker"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "What will they put next to the switches?",
+    "options": [
+     "stickers",
+     "labels",
+     "posters"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "How long will the audit last?",
+    "options": [
+     "one week",
+     "one month",
+     "two weeks"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "Who will they show the results to?",
+    "options": [
+     "the parents",
+     "the headteacher",
+     "the club teacher"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about how search engines work.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Hello, everyone. Today I am going to talk about something that we all use every day: the search engine."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "There are billions of pages on the internet, and nobody can read them all. A search engine is a tool that helps you to find the right page in a fraction of a second. The most famous one, Google, was started in nineteen ninety-eight by two students in California."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "How does a search engine work? It works in three steps. First, small programs called crawlers, which are sometimes called spiders, travel from link to link across the internet. They visit millions of pages and read them."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Second, the search engine keeps a copy of what the crawlers found. All this information is stored in a huge list called an index. It is like the index at the back of a book, but much bigger. This means that when you type a question, the search engine does not read the internet again. It looks in the index."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Third, the search engine puts the pages in order. It chooses the pages that match your words best, and it also checks other things, for example how many other sites have links to a page."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "You can get better results with a few simple tricks. Use clear key words, not long sentences. If you want an exact phrase, put it inside quotation marks. And if you want to find only recent news, you can choose a date range."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Be careful, though. The first results are sometimes adverts, and they usually have a small label. Also, a page at the top of the list is not necessarily true. Always ask who wrote the page, and when. Websites of schools, universities and governments are usually more reliable than a personal page."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "In which year was Google started?",
+    "hint": "(year)",
+    "answer": "1998"
+   },
+   {
+    "n": 2,
+    "q": "What are the programs that travel from link to link called?",
+    "hint": "",
+    "answer": "Crawlers / Spiders"
+   },
+   {
+    "n": 3,
+    "q": "What is the huge list of stored information called?",
+    "hint": "",
+    "answer": "An index / Index"
+   },
+   {
+    "n": 4,
+    "q": "What should you put around an exact phrase?",
+    "hint": "",
+    "answer": "Quotation marks"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "A search engine reads the whole internet again when you type a question.",
+    "answer": false
+   },
+   {
+    "n": 6,
+    "statement": "The first results on a search page are sometimes adverts.",
+    "answer": true
+   },
+   {
+    "n": 7,
+    "statement": "A page at the top of the results is always true.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "It is useful to check who wrote a web page.",
+    "answer": true
+   }
+  ]
+ }
+}

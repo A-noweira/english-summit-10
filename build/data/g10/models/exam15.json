@@ -1,0 +1,591 @@
+{
+ "id": 15,
+ "title": "Model Exam 15",
+ "listening1": {
+  "context": "You are going to hear a conversation between Rashid and Asma.",
+  "script": [
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "Hi Asma! Mr Khalfan wants our science fair idea tomorrow. I think we should build a wind-powered boat. What do you think?"
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "A boat needs a big tank of water, and we haven't got one. I would prefer a solar-powered car. Oman has so much sunshine that it is a perfect topic."
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "That's a great idea. Let's do it. What shall we use for the body of the car?"
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "A cardboard box is easy to find, but it becomes weak if it gets wet. I think a plastic bottle is better, because it's light and strong."
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "Good. A plastic bottle it is, and we can take one from the canteen. Now, we need a small solar panel, but they are quite expensive in the shops."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "Mr Khalfan told me that the science lab has some old ones. He can lend us one, so we won't have to buy it."
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "Perfect. We also need a small motor. I have one from an old toy at home. How many wheels shall we use? I was thinking of three."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "Three wheels might fall over, and six wheels are too heavy for a little motor. Four wheels will be best."
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "You're right. Now where shall we test the car? The corridor is too dark, and the lab is too small."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "The playground is the best place, because the sun is strong there."
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "Agreed. Which day shall we test it? I have football practice on Sunday, and you have your art class on Tuesday."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "Then Monday is the best day. We can finish the car by then if we work this weekend."
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "OK. When the car works, we should make it look nice. I could write the title of our project on it."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "I would rather paint it blue and add a picture of the sun. A bright car will look better at the fair."
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "Blue is fine with me. Let's tell Mr Khalfan our plan now, before he leaves school."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "Good idea. Let's go to the staff room together."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "What will the students build for the science fair?",
+    "options": [
+     "a wind-powered boat",
+     "a water wheel",
+     "a solar-powered car"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "q": "What will the body of the car be made of?",
+    "options": [
+     "a plastic bottle",
+     "a cardboard box",
+     "a piece of wood"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "How will they get the solar panel?",
+    "options": [
+     "They will buy it in a shop.",
+     "They will order it online.",
+     "They will borrow it from the science lab."
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "How many wheels will the car have?",
+    "options": [
+     "three",
+     "four",
+     "six"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "Where will they test the car?",
+    "options": [
+     "in the playground",
+     "in the corridor",
+     "in the lab"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "On which day will they test the car?",
+    "options": [
+     "Sunday",
+     "Monday",
+     "Tuesday"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "How will they decorate the car?",
+    "options": [
+     "They will paint it blue.",
+     "They will write the project title on it.",
+     "They will cover it with stickers."
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about the Indus Valley civilisation.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Good morning, everyone. Today I am going to talk about the Indus Valley civilisation, one of the oldest civilisations in the world."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "The Indus civilisation grew up about four and a half thousand years ago along the Indus River, in what is now Pakistan and north-west India. The river flooded every year and left rich soil, so farmers could grow wheat, barley and cotton."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "The Indus people built large cities. The two most famous are Harappa and Mohenjo-daro. The cities were carefully planned. The streets were straight and crossed each other at right angles, like the squares on a chessboard. The houses were made of baked bricks, and all the bricks had the same size."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "The cities were also very clean. Many houses had their own bathroom and toilet, and waste water flowed away through covered drains under the streets. This was far more advanced than in most places at that time."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "The Indus people were skilled traders. They carried goods by land and by sea to Mesopotamia, in what is now Iraq. They also traded with Magan, the ancient name for the region of Oman, and they obtained copper from there. Traders used small stone seals with pictures of animals and signs on them."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Scholars have found thousands of these seals, but nobody can read the writing on them yet. So we still know less about the Indus people than we know about ancient Egypt."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Around nineteen hundred BC, the cities slowly became empty. There was no single great war. Scientists think that a change in climate made the rains weaker and that some rivers dried up, so people moved away to find water."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "Along which river did the civilisation grow up?",
+    "hint": "",
+    "answer": "(The) Indus (River)"
+   },
+   {
+    "n": 2,
+    "q": "Name one of the two most famous Indus cities.",
+    "hint": "",
+    "answer": "Harappa / Mohenjo-daro"
+   },
+   {
+    "n": 3,
+    "q": "What did many houses have inside them?",
+    "hint": "",
+    "answer": "A bathroom / a toilet"
+   },
+   {
+    "n": 4,
+    "q": "What did the Indus people obtain from Magan?",
+    "hint": "",
+    "answer": "Copper"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "The streets in the Indus cities crossed each other at right angles.",
+    "answer": true
+   },
+   {
+    "n": 6,
+    "statement": "The bricks in the Indus cities had many different sizes.",
+    "answer": false
+   },
+   {
+    "n": 7,
+    "statement": "Scholars can now read the writing on the seals.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "A change in climate may have made people leave the cities.",
+    "answer": true
+   }
+  ]
+ },
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "The guide said that Nizwa Fort [[1]] built more than three hundred years ago."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "How [[2]] visitors go to the fort every year?"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "It is not as crowded [[3]] the National Museum in Muscat."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "If I [[4]] enough money, I would take my family there."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "The old well, [[5]] is inside the fort, is very deep."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "I can't wait to go there next week."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "is",
+     "was"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "many",
+     "much"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "than",
+     "as"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "had",
+     "have"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "who",
+     "which"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Last summer was the hottest ever recorded in many countries. Scientists say that global (1)_____ is caused by (2)_____ gases such as carbon dioxide, which trap heat in the air. In some regions a long (3)_____ has dried up rivers and killed crops. Many animals are in danger of becoming (4)_____ because their habitats are changing. Governments around the world are meeting to find solutions, but every person must also play a part. We can all help the planet by (5)_____ paper, glass and plastic instead of throwing them away.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "cooling",
+     "floating",
+     "warming",
+     "drilling"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "options": [
+     "greenhouse",
+     "hospital",
+     "ancient",
+     "digital"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "empire",
+     "podcast",
+     "follower",
+     "drought"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 4,
+    "options": [
+     "generous",
+     "extinct",
+     "ordinary",
+     "similar"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "trading",
+     "carving",
+     "recycling",
+     "tracing"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ "reading1": {
+  "title": "Video Games: Fun or Problem?",
+  "passage": [
+   "Video games are one of the most popular forms of entertainment in the world. More than three billion people play them on phones, computers and game consoles. Games are not new. One of the first successful games was Pong, a simple game of table tennis that came out in 1972.",
+   "Many games today are very advanced. Players can explore huge worlds, solve puzzles and talk to friends in other countries while they play. Some players even take part in eSports, in which teams play games in front of big crowds and win money. Famous eSports players can become as well known as football stars, and some of them earn thousands of dollars every year.",
+   "Games can be good for you. They can improve your concentration and help you to solve problems quickly. Team games teach players to work together and to communicate. Players of English-language games often learn new words without noticing it. Games can also be a nice way to relax after a hard day at school.",
+   "However, there are also risks. Playing for too long can cause tiredness, headaches and sore eyes. Players who play late at night may not sleep enough, and then they find it hard to concentrate at school. Some games also encourage players to spend real money on extra items, and young people may spend more than they can afford.",
+   "Another risk is online chat. In many games, players can talk to strangers. Some strangers may be unkind, and some may ask for personal information. Players should never give their name, address or school to people they do not know, and they should tell an adult if somebody makes them feel uncomfortable.",
+   "The best way to enjoy games is to play in a balanced way. Experts advise players to take a break every hour, to play in a bright room and to stop at least an hour before bedtime. Parents can check the age rating of a game, which tells them whether it is suitable for their children. Most important of all, games should never replace homework, sport or time with family."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "How many people play video games?",
+    "options": [
+     "more than three billion",
+     "about three million",
+     "about thirty million"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "What was Pong?",
+    "options": [
+     "a football game",
+     "a game of table tennis",
+     "a racing game"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "What do team games teach players?",
+    "options": [
+     "to read quickly",
+     "to draw well",
+     "to work together"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "What can happen if players play late at night?",
+    "options": [
+     "They may not sleep enough.",
+     "They may win more money.",
+     "They may learn English faster."
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "What should players never give to strangers?",
+    "options": [
+     "their favourite game",
+     "their name, address or school",
+     "their level in the game"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "How often should players take a break?",
+    "options": [
+     "every day",
+     "every week",
+     "every hour"
+    ],
+    "answer": 2
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "In eSports, teams play games in front of big ________.",
+    "answer": "crowds"
+   },
+   {
+    "n": 8,
+    "q": "Games can improve your ________ and help you to solve problems.",
+    "answer": "concentration"
+   },
+   {
+    "n": 9,
+    "q": "Some games encourage players to spend real ________ on extra items.",
+    "answer": "money"
+   },
+   {
+    "n": 10,
+    "q": "Parents can check the age ________ of a game.",
+    "answer": "rating"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "The Sea Turtles of Oman",
+  "passage": [
+   "Oman is one of the best places in the world to see sea turtles. The green turtle is the most common nesting turtle at Ras Al Jinz and Ras Al Hadd in the east of the country, and Masirah Island is famous for its loggerhead turtles. Every year, thousands of female turtles come to these beaches to lay their eggs, and visitors from many countries travel to Oman to watch this wonderful event.",
+   "A female turtle comes out of the sea at night, climbs the beach and digs a deep hole in the sand with her back legs. She lays about one hundred eggs, covers them with sand and returns to the sea. She never meets her babies.",
+   "After about two months, the eggs hatch. The tiny turtles, called hatchlings, dig out of the sand and rush towards the sea, usually at night. Many of them are eaten by crabs, birds and fish. Scientists believe that only about one in a thousand hatchlings lives to become an adult.",
+   "The turtles that survive swim long distances and feed in the sea. A green turtle needs between twenty and thirty years to become an adult. Then the female returns to the same beach where she was born in order to lay her own eggs. Scientists put small tags on some turtles so that they can follow their journeys across the ocean.",
+   "Turtles face many dangers. Plastic bags look like jellyfish, and turtles that eat them can die. Fishing nets trap turtles, and bright lights from buildings confuse the hatchlings, which walk towards the lights instead of the sea. Climate change is also a danger: warmer sand produces more female turtles, and rising sea levels can wash away nesting beaches.",
+   "Oman works hard to protect its turtles. Ras Al Jinz is a reserve where visitors can watch the turtles at night with a trained guide. Visitors must keep quiet and must not use flash photography or bright torches. Everyone can help by not leaving plastic on the beach, and by telling friends and family why turtles are so important."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "Which turtle is the most common nesting turtle at Ras Al Jinz?",
+    "hint": "",
+    "answer": "The green turtle"
+   },
+   {
+    "n": 2,
+    "q": "Which island is famous for its loggerhead turtles?",
+    "hint": "",
+    "answer": "Masirah (Island)"
+   },
+   {
+    "n": 3,
+    "q": "What does a female turtle use to dig a hole in the sand?",
+    "hint": "",
+    "answer": "Her back legs"
+   },
+   {
+    "n": 4,
+    "q": "How long does it take for the eggs to hatch?",
+    "hint": "",
+    "answer": "About two months"
+   },
+   {
+    "n": 5,
+    "q": "How many hatchlings become adults?",
+    "hint": "",
+    "answer": "About one in a thousand"
+   },
+   {
+    "n": 6,
+    "q": "What do turtles think plastic bags are?",
+    "hint": "",
+    "answer": "Jellyfish"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "A female turtle stays with her babies after they hatch.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Crabs, birds and fish eat many hatchlings.",
+    "answer": true
+   },
+   {
+    "n": 9,
+    "statement": "Warmer sand produces more male turtles.",
+    "answer": false
+   },
+   {
+    "n": 10,
+    "statement": "Visitors can watch turtles at night at Ras Al Jinz with a guide.",
+    "answer": true
+   }
+  ]
+ },
+ "chart": {
+  "title": "Forts Visited by Men and Women in One Year",
+  "ylabel": "Percentage of People",
+  "unit": "%",
+  "categories": [
+   "Nizwa Fort",
+   "Bahla Fort",
+   "Jabreen Castle",
+   "Nakhal Fort",
+   "Rustaq Fort"
+  ],
+  "series": [
+   {
+    "name": "Men",
+    "values": [
+     60,
+     45,
+     35,
+     25,
+     50
+    ]
+   },
+   {
+    "name": "Women",
+    "values": [
+     50,
+     70,
+     40,
+     55,
+     30
+    ]
+   }
+  ],
+  "model": "The bar chart shows the Omani forts visited by men and women in one year. The forts were Nizwa Fort, Bahla Fort, Jabreen Castle, Nakhal Fort and Rustaq Fort. Overall, men preferred Nizwa Fort, whereas women preferred Bahla Fort.\nFirstly, the most popular fort for men was Nizwa Fort, with 60% of men. This was followed by Rustaq Fort (50%), Bahla Fort (45%) and Jabreen Castle (35%). However, the least popular fort for men was Nakhal Fort, with only 25% of men.\nIn contrast, the most popular fort for women was Bahla Fort, with 70% of women. This was followed by Nakhal Fort (55%), Nizwa Fort (50%) and Jabreen Castle (40%). However, the least popular fort for women was Rustaq Fort, with only 30% of women.\nTo summarize, both men and women liked visiting Nizwa Fort. However, the biggest difference was in Nakhal Fort, where 25% of men chose it, whereas 55% of women did."
+ },
+ "email": {
+  "formal": true,
+  "situation": "Imagine you are Maryam, a student at your school. Many students spend a lot of time online, but they do not know the dangers.",
+  "task": "Write an email to your headteacher, Mr Saif, and suggest holding an Internet Safety Week at school. In your email, write about:",
+  "bullets": [
+   "why it is a good idea",
+   "what activities the school could organise",
+   "who could help"
+  ],
+  "model": "Dear Mr Saif,\n\nI hope this email finds you in good health and high spirits. I am writing this email to suggest holding an Internet Safety Week at our school.\n\nFirst, many students spend several hours online every day, but they do not know the dangers. For example, some of them share their passwords and personal photos with strangers. Moreover, an Internet Safety Week would teach us how to protect ourselves.\n\nSecond, the school could organise talks, posters and a quiz about safe online habits. Moreover, the computer teacher and the school social worker could help us. Therefore, I believe that students would learn a lot in one week.\n\nThank you for your time and attention. I look forward to your response. Please let me know if you need any further information.\n\nYours sincerely,\nMaryam"
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "id": "MK-L05",
+ "title": "A Grandmother's Tablet and the Maya",
+ "listening1": {
+  "context": "You are going to hear a conversation between Huda and Majid.",
+  "script": [
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "Hi Majid! I need your help. I bought a tablet for my grandmother, and I want to set it up for her this afternoon."
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "Of course. That is a lovely present. Did you buy a phone for her as well?"
+   },
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "No, she said that a phone is too small for her eyes. A tablet has a bigger screen. What is the first thing we should do?"
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "We should install an app for video calls, so she can see the family. I use one called Family Chat. It is very simple."
+   },
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "Great, I will download it. I think I will also make the text bigger. Grandmother cannot read small letters."
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "Good idea. You can find that in the settings. Now, she needs a password for the tablet. Please do not use her birthday, because it is too easy to guess."
+   },
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "I agree. What about her name and some numbers?"
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "That is still weak. A better password is a long phrase, like three or four words that only she understands. It is easy to remember but difficult for others to guess."
+   },
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "I like that. I will choose a phrase about her garden. What else should I teach her?"
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "She must never click on links in messages from people she does not know. Some messages say that she has won a prize, but they are tricks to steal her money."
+   },
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "That is so important. Last month, my aunt almost lost money like that. I will write it on a card and put it next to the tablet."
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "Excellent. She should also ask someone before she shares her bank details with anybody."
+   },
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "Right. How often should she practise? I do not want her to forget everything."
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "I think a short practice every evening is enough. Ten minutes is fine."
+   },
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "And who will she call first? My cousin lives in Dubai, and he misses her a lot."
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "Then plan a video call for Friday afternoon, when your cousin is free. It will be a big surprise for her."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "What did Huda buy for her grandmother?",
+    "options": [
+     "a tablet",
+     "a laptop",
+     "a phone"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "Which app will they use for video calls?",
+    "options": [
+     "Video Time",
+     "Family Chat",
+     "Quick Talk"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "What will Huda change in the settings?",
+    "options": [
+     "the colour",
+     "the sound",
+     "the size of the text"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "What kind of password will they choose?",
+    "options": [
+     "her birthday",
+     "a long phrase",
+     "her name and numbers"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "What must Grandmother never click on?",
+    "options": [
+     "links from strangers",
+     "photos from family",
+     "messages from Huda"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "How often will Grandmother practise?",
+    "options": [
+     "once a week",
+     "every morning",
+     "every evening"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "When will the first video call be?",
+    "options": [
+     "Thursday evening",
+     "Friday afternoon",
+     "Saturday morning"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about the Maya.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Hello, everyone. Today I am going to talk about the Maya, one of the great civilisations of the ancient Americas."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "The Maya lived in Central America, in what is now southern Mexico, Guatemala and other countries. Their civilisation was strongest between the years two hundred and fifty and nine hundred. They did not have one single king. Instead, there were many city-states, and each city had its own ruler."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "The Maya built wonderful cities in the middle of the rainforest. They made tall stone pyramids with temples on top. The most famous one is called El Castillo, which means the castle. It stands in the city of Chichen Itza in Mexico, and thousands of tourists climb near it every year."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "The Maya were clever scientists. They watched the sun, the moon and the planets very carefully, and they made calendars that were very accurate. They also had a system of writing with small pictures called glyphs, and they wrote books on paper made from tree bark."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Maya mathematics was advanced too. They were among the first people in the world to use the idea of zero, and they drew it as the shape of a shell."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "What did the Maya eat? Their most important food was maize, which many people call corn. They made it into flat bread, like tortillas, and into soups. They also grew beans and chillies. The Maya loved a drink made from cacao beans. It was bitter and often mixed with spices, and only rich people could drink it. It is the first form of the chocolate we enjoy today."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Around the year nine hundred, many of the big cities in the south were left empty. Nobody knows exactly why. Perhaps there were long droughts, wars or too many people for the land. But the Maya did not disappear. Millions of their descendants live today in Mexico and Guatemala, and many of them still speak Maya languages."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What was the most important food of the Maya?",
+    "hint": "",
+    "answer": "Maize / Corn"
+   },
+   {
+    "n": 2,
+    "q": "In which city is the pyramid called El Castillo?",
+    "hint": "",
+    "answer": "Chichen Itza"
+   },
+   {
+    "n": 3,
+    "q": "What shape did the Maya use to show zero?",
+    "hint": "",
+    "answer": "A shell / Shell"
+   },
+   {
+    "n": 4,
+    "q": "What drink did the Maya make from cacao beans?",
+    "hint": "",
+    "answer": "Chocolate"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "The Maya lived in Central America.",
+    "answer": true
+   },
+   {
+    "n": 6,
+    "statement": "The Maya did not have any kind of writing.",
+    "answer": false
+   },
+   {
+    "n": 7,
+    "statement": "The Maya people disappeared completely around the year nine hundred.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "The Maya made accurate calendars by watching the sky.",
+    "answer": true
+   }
+  ]
+ }
+}

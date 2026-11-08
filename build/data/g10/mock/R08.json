@@ -1,0 +1,172 @@
+{
+ "id": "MK-R08",
+ "title": "Energy-Efficient Buildings and Dust Storms",
+ "reading1": {
+  "title": "Energy-Efficient Buildings",
+  "passage": [
+   "Buildings use a large amount of the world's energy. They need electricity for lights and machines, and energy for heating or cooling. In hot countries, air conditioners are one of the biggest users of electricity. In many countries, buildings use about thirty percent of all the energy.",
+   "An energy-efficient building is designed to use less energy and still be comfortable. Good design can greatly reduce the energy that a building needs, which saves money and cuts pollution. For example, a well-designed house can stay cool with less air conditioning, so the family pays a lower electricity bill.",
+   "Insulation is the first step. Thick walls and roofs, double-glazed windows and sealed doors stop heat from entering a building in summer and from escaping in winter, so the cooling or heating system works less. Light-coloured walls and roofs reflect sunlight instead of absorbing it.",
+   "Smart design also uses nature. Windows can be placed to give daylight without too much heat, and deep shades protect them from the high summer Sun. Traditional houses in the Gulf had thick walls and small windows, and some had a wind tower that caught breezes and moved them into the rooms in the days before air conditioning.",
+   "Technology helps too. LED lamps use about eighty percent less energy than old filament bulbs, and they last much longer. Motion sensors switch lights off in empty rooms, and smart thermostats control the temperature automatically. Appliances with a good energy label also use less power.",
+   "Many buildings can produce their own energy. Solar panels on the roof can supply electricity, and solar water heaters can provide hot water. Some buildings collect rainwater for gardens and toilets. Masdar City in Abu Dhabi was planned as a low-carbon city with narrow shaded streets and a wind tower, and many of its buildings use much less energy than ordinary ones.",
+   "Green building standards, such as LEED, give points to buildings that save energy and water. At home, we can also help by closing the curtains on sunny days, turning off lights and not setting the air conditioner too cold."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "How much of the world's energy do buildings use in many countries?",
+    "options": [
+     "About three percent",
+     "About sixty percent",
+     "About thirty percent"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "q": "What does insulation do?",
+    "options": [
+     "It makes the walls thinner.",
+     "It keeps heat out in summer and in during winter.",
+     "It produces electricity."
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "What did the wind tower in traditional Gulf houses do?",
+    "options": [
+     "It caught breezes and moved them into the rooms.",
+     "It stored water for the family.",
+     "It kept the Sun out of the garden."
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "How much less energy do LED lamps use than old bulbs?",
+    "options": [
+     "About eighty percent less",
+     "About eight percent less",
+     "About the same amount"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "What do motion sensors do?",
+    "options": [
+     "They make the rooms warmer.",
+     "They clean the windows.",
+     "They switch lights off in empty rooms."
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "What was Masdar City planned as?",
+    "options": [
+     "A big shopping centre",
+     "A low-carbon city",
+     "A city for tourists only"
+    ],
+    "answer": 1
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "Light-coloured roofs ________ sunlight instead of absorbing it.",
+    "answer": "reflect"
+   },
+   {
+    "n": 8,
+    "q": "Deep shades protect windows from the high summer ________.",
+    "answer": "Sun"
+   },
+   {
+    "n": 9,
+    "q": "Solar water heaters can provide hot ________.",
+    "answer": "water"
+   },
+   {
+    "n": 10,
+    "q": "Green building standards, such as LEED, give ________ to buildings that save energy.",
+    "answer": "points"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "Dust Storms",
+  "passage": [
+   "A dust storm is a strong wind that lifts large amounts of sand and dust from the ground and carries them through the air. The sky turns yellow or brown, and visibility can fall to a few metres. Dust storms are common in dry regions such as Arabia, North Africa, Central Asia and Australia.",
+   "Dust storms start where the ground is dry and loose. When strong winds blow over bare soil with no plants, they pick up the smallest grains. Heavy grains of sand only jump along the ground, but fine dust can rise high into the air and travel across oceans. Dust from the Sahara, for example, regularly crosses the Atlantic Ocean to the Caribbean and America.",
+   "Dust storms can be dangerous. Fine dust is easy to breathe in, and it may cause coughing, eye problems and breathing difficulties, particularly for people with asthma. Poor visibility causes road accidents, and flights may be delayed or cancelled. Dust can also cover solar panels and damage machines.",
+   "Dust storms affect farming too. They may remove the top layer of the soil, which is the richest layer, and bury young plants. On the other hand, dust brings nutrients to faraway places. Saharan dust, for example, adds minerals to the soil of the Amazon rainforest.",
+   "Human activity and climate change can make the problem worse. Cutting down trees, keeping too many animals on the land and ploughing dry soil leave the ground bare. When land becomes dry and loses its plants, it is called desertification. Longer droughts and higher temperatures can increase the problem in some regions.",
+   "Dust storms sometimes affect Oman, especially in the hot months, when the wind blows over dry desert areas. The weather service gives warnings, and people may be asked to stay indoors.",
+   "To stay safe, stay indoors with the doors and windows closed. If you must go out, cover your nose and mouth with a cloth and wear glasses to protect your eyes. Drivers should slow down and turn on their lights. Several African countries are also building the Great Green Wall, a line of trees across the Sahel, to stop the desert from spreading."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What colour does the sky turn in a dust storm?",
+    "hint": "",
+    "answer": "Yellow or brown"
+   },
+   {
+    "n": 2,
+    "q": "What can fine dust travel across?",
+    "hint": "",
+    "answer": "Oceans"
+   },
+   {
+    "n": 3,
+    "q": "Which people may have breathing difficulties?",
+    "hint": "",
+    "answer": "People with asthma"
+   },
+   {
+    "n": 4,
+    "q": "What does dust bring to faraway places?",
+    "hint": "",
+    "answer": "Nutrients"
+   },
+   {
+    "n": 5,
+    "q": "What is it called when land becomes dry and loses its plants?",
+    "hint": "",
+    "answer": "Desertification"
+   },
+   {
+    "n": 6,
+    "q": "What should drivers turn on during a dust storm?",
+    "hint": "",
+    "answer": "Their lights"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Heavy grains of sand rise high into the air.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Dust from the Sahara crosses the Atlantic Ocean.",
+    "answer": true
+   },
+   {
+    "n": 9,
+    "statement": "Dust storms have no useful effects at all.",
+    "answer": false
+   },
+   {
+    "n": 10,
+    "statement": "Several African countries are building a line of trees across the Sahel.",
+    "answer": true
+   }
+  ]
+ }
+}

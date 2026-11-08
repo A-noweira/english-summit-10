@@ -1,0 +1,590 @@
+{
+ "id": 22,
+ "title": "Model Exam 22",
+ "listening1": {
+  "context": "You are going to hear a conversation between Noor and Sultan.",
+  "script": [
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "Hi Sultan! Have you heard about Earth Hour? The Environment Club wants our school to take part this year."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Yes, I saw the poster. People all over the world switch off their lights for one hour, don't they? What is the aim?"
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "Exactly. It shows that we care about the planet, and it reminds people to save electricity. Some people think we should plant trees or walk to school, but Earth Hour only asks us to switch off the lights."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "I see. What time does it start? I think it is at nine o'clock."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "No, it is usually at eight thirty in the evening. Nine o'clock is too late for the younger students."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "That makes sense. What will the school do during the hour? We could show a film in the hall."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "A film needs electricity, so that is not possible. Mr Waleed suggested a quiz by torchlight. Teams will answer questions about the environment."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "That sounds like fun. Is Mr Waleed going to be the quiz host?"
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "No, he will help us with the questions, but the host will be Ms Buthaina, the English teacher. She is very good at speaking in front of people."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Excellent choice. How many students are coming?"
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "Last year about one hundred students came, but this year we expect two hundred, because Grade nine will join us too."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "That is a lot. Is the hall big enough?"
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "Yes, it holds three hundred people. Everyone must bring something, though. Shall we ask students to bring candles?"
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "I do not think so. Candles are dangerous in a crowded hall. Let's ask them to bring a torch."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "Good thinking. Shall we invite the reporters from the local newspaper?"
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Mr Waleed thinks that is too much work this year, so we will invite the parents only."
+   },
+   {
+    "speaker": "Noor",
+    "gender": "f",
+    "text": "Fine. I will make the invitation cards tonight, and we can give them out tomorrow."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "What does Earth Hour ask people to do?",
+    "options": [
+     "plant trees",
+     "switch off their lights for an hour",
+     "walk to school"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "What time does Earth Hour usually start?",
+    "options": [
+     "eight thirty",
+     "nine o'clock",
+     "seven thirty"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "What will the school do during Earth Hour?",
+    "options": [
+     "show a film",
+     "play a football match",
+     "hold a quiz by torchlight"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "Who will be the host of the quiz?",
+    "options": [
+     "Mr Waleed",
+     "Ms Buthaina",
+     "the principal"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "How many students do they expect?",
+    "options": [
+     "one hundred",
+     "three hundred",
+     "two hundred"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "What must the students bring?",
+    "options": [
+     "a candle",
+     "a torch",
+     "a blanket"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "Who will they invite to the event?",
+    "options": [
+     "the parents",
+     "the reporters",
+     "the neighbours"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about the ancient copper trade of Oman.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Good morning, everyone. Today I would like to tell you about a part of Oman's history that many people do not know: its ancient copper trade."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "More than four thousand years ago, the people of Mesopotamia, in what is now Iraq, wrote about a rich land called Magan. Historians believe that Magan was the old name for Oman. The people of Mesopotamia wanted something from Magan, and that thing was copper."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Copper is a soft red metal, and it was very important in the ancient world. People mixed it with tin to make bronze, which is much stronger. They used bronze to make tools, weapons, cups and statues. Because there was no copper in Mesopotamia, traders had to bring it from far away."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Oman had plenty of it. The mountains near Sohar contain copper, and archaeologists have found old mines and furnaces there. Workers dug the rock from the mountains, carried it to the furnaces and heated it until the copper melted. Then they poured the metal into moulds."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "The copper was loaded onto wooden ships. These ships sailed up the Arabian Gulf to the cities of Mesopotamia, and the journey took many days. In return, the merchants of Magan brought home cloth, wool and oil."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Today, visitors can learn about this story in the museums of Muscat, where they can see ancient copper objects, pottery and tools. Some of the oldest tombs in Oman, at Bat in the interior, are around five thousand years old, and they are now listed by UNESCO as part of the world's heritage."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What did the people of Mesopotamia call Oman?",
+    "hint": "",
+    "answer": "Magan"
+   },
+   {
+    "n": 2,
+    "q": "Which metal did the people of Mesopotamia want from Magan?",
+    "hint": "",
+    "answer": "Copper"
+   },
+   {
+    "n": 3,
+    "q": "What did people mix with copper to make bronze?",
+    "hint": "",
+    "answer": "Tin"
+   },
+   {
+    "n": 4,
+    "q": "Near which town in Oman have old copper mines been found?",
+    "hint": "",
+    "answer": "Sohar"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "Bronze is weaker than copper.",
+    "answer": false
+   },
+   {
+    "n": 6,
+    "statement": "Copper was carried to Mesopotamia on wooden ships.",
+    "answer": true
+   },
+   {
+    "n": 7,
+    "statement": "The journey by ship was very short.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "The tombs at Bat are about five thousand years old.",
+    "answer": true
+   }
+  ]
+ },
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Did you visit the National Museum [[1]] Sunday?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Yes. It is the place [[2]] we saw the old coins."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Did you take photos? Last time the guide said that visitors [[3]] not take photos."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "We could not, but there were not [[4]] visitors, so we saw everything."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "You were lucky! I [[5]] go to school on that day, so I missed the trip."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "That is a pity. Let's go together next time."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "in",
+     "on"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "where",
+     "who"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "could",
+     "can"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "much",
+     "many"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "must",
+     "had to"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Energy is an important part of modern life. Most of the electricity in the world still comes from burning coal, oil and gas, which are called fossil (1)_____. They release dangerous gases that cause global (2)_____. Renewable sources, such as the sun, the wind and water, are much cleaner. For example, wind (3)_____ turn when the wind blows and produce electricity. We can also help by buying energy-(4)_____ appliances and by switching off lights, so that we use less (5)_____.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "fields",
+     "fibres",
+     "fuels",
+     "fares"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "options": [
+     "gaming",
+     "warming",
+     "shopping",
+     "voting"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "turbines",
+     "tablets",
+     "temples",
+     "tunnels"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "ancient",
+     "anxious",
+     "sensitive",
+     "efficient"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 5,
+    "options": [
+     "furniture",
+     "geography",
+     "homework",
+     "electricity"
+    ],
+    "answer": 3
+   }
+  ]
+ },
+ "reading1": {
+  "title": "Plastic-free Schools",
+  "passage": [
+   "Every day, a school uses a surprising amount of plastic. Students bring water in plastic bottles and snacks in plastic wrappers. The canteen sells food in plastic boxes, and teachers use plastic folders and pens. Most of these things are used only once and then thrown in the bin.",
+   "This is a problem because plastic does not rot like paper or food. It can stay in nature for hundreds of years. Some plastic waste is dropped in the street, and rain and wind carry it to rivers and then to the sea. Every year, about eight million tonnes of plastic enter the oceans. Sea turtles sometimes mistake plastic bags for jellyfish and eat them, which can kill them.",
+   "To help the environment, more and more schools around the world are trying to become plastic-free. The first step is to find out how much plastic the school uses. Students count the plastic items in the bins for one week and write the results in a table. The numbers are usually higher than anyone expected.",
+   "The next step is to replace single-use plastic with better choices. Students bring steel bottles that they fill at water fountains instead of buying bottled water. They carry their lunch in metal boxes or cloth bags. The canteen can sell food in paper bags and use plates and cups that can be washed and used again.",
+   "Students themselves can lead the change. An environment club can organise a plastic-free day each month and make posters to remind everyone. Some clubs collect plastic bottles for recycling, and they turn old bottles into plant pots for the school garden. Teachers can help by giving prizes to the classes that produce the least waste.",
+   "A plastic-free school has many benefits. There is less rubbish, so the school grounds are cleaner. The school also saves money because it does not need to buy so many plastic items. Most importantly, students learn habits that they take home. Many children persuade their families to use cloth shopping bags and to stop buying bottled water.",
+   "Of course, change is not always easy. Steel bottles cost more than plastic ones at first, and some students forget to bring them. However, small steps are enough to begin. If every school reduced its plastic use, we would keep millions of plastic items out of the sea."
+  ],
+  "mcq": [
+   {
+    "q": "How much plastic enters the oceans every year?",
+    "options": [
+     "about eight million tonnes",
+     "about eight thousand tonnes",
+     "about eighty tonnes"
+    ],
+    "answer": 0,
+    "n": 1
+   },
+   {
+    "q": "Why do sea turtles sometimes eat plastic bags?",
+    "options": [
+     "They are very hungry.",
+     "They like the taste.",
+     "They think the bags are jellyfish."
+    ],
+    "answer": 2,
+    "n": 2
+   },
+   {
+    "q": "What is the first step for a school that wants to become plastic-free?",
+    "options": [
+     "Buy new bins",
+     "Find out how much plastic it uses",
+     "Close the canteen"
+    ],
+    "answer": 1,
+    "n": 3
+   },
+   {
+    "q": "Where do students fill their steel bottles?",
+    "options": [
+     "At water fountains",
+     "At the shop",
+     "At the bus stop"
+    ],
+    "answer": 0,
+    "n": 4
+   },
+   {
+    "q": "What do some clubs turn old bottles into?",
+    "options": [
+     "Pens",
+     "Plant pots",
+     "Posters"
+    ],
+    "answer": 1,
+    "n": 5
+   },
+   {
+    "q": "What do many children persuade their families to do?",
+    "options": [
+     "Buy more bottled water",
+     "Eat at the canteen",
+     "Use cloth shopping bags"
+    ],
+    "answer": 2,
+    "n": 6
+   }
+  ],
+  "completion": [
+   {
+    "q": "Plastic can stay in nature for hundreds of ________.",
+    "answer": "years",
+    "n": 7
+   },
+   {
+    "q": "Students count the plastic items in the ________ for one week.",
+    "answer": "bins",
+    "n": 8
+   },
+   {
+    "q": "The canteen can sell food in ________ bags.",
+    "answer": "paper",
+    "n": 9
+   },
+   {
+    "q": "An environment club can organise a plastic-free day each ________.",
+    "answer": "month",
+    "n": 10
+   }
+  ]
+ },
+ "reading2": {
+  "title": "Video Calls: Seeing the World from Home",
+  "passage": [
+   "Today it is easy to talk to someone on the other side of the world and see their face at the same time. Video calls let us do this with a phone, a tablet or a computer, using the internet. Millions of people make video calls every day to speak to their family, to study and to work.",
+   "The idea is much older than the internet. Writers imagined telephones with pictures more than a hundred years ago, and in 1964 a company in the USA showed a video telephone at the New York World's Fair. However, the machine was very expensive, so only a few people could use it.",
+   "Video calls became popular in the early 2000s, when the internet became faster and webcams became cheap. A program called Skype, launched in 2003, allowed people to make free calls to friends abroad. Later, smartphones put a camera in every pocket, and apps made video calls even easier.",
+   "In 2020, many countries closed their schools because of the COVID-19 pandemic. Teachers and students quickly learned to use video calls for online lessons. Many offices let their workers stay at home and join meetings on screen. Doctors also spoke to patients by video, so people did not have to travel to hospitals.",
+   "Video calls have clear advantages. They save time and money because nobody needs to travel. Grandparents can see their grandchildren grow up, even when they live in different countries. Students in small villages can join lessons with expert teachers from the capital.",
+   "However, there are also problems. A weak internet connection can freeze the picture or cut the sound. Some people feel tired after a long day of video meetings, and it can be difficult to concentrate. There are also safety risks, so you should only join calls with people you know and never share a meeting link with strangers.",
+   "Good video call manners are simple. Be on time, find a quiet place, switch off your microphone when you are not speaking, and look at the camera. Used wisely, video calls can bring people closer together."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "Where was a video telephone shown in 1964?",
+    "hint": "",
+    "answer": "New York World's Fair"
+   },
+   {
+    "n": 2,
+    "q": "Why could only a few people use the video telephone?",
+    "hint": "",
+    "answer": "It was very expensive"
+   },
+   {
+    "n": 3,
+    "q": "In which year was Skype launched?",
+    "hint": "(year)",
+    "answer": "2003"
+   },
+   {
+    "n": 4,
+    "q": "What did many offices let their workers do in 2020?",
+    "hint": "",
+    "answer": "Stay at home"
+   },
+   {
+    "n": 5,
+    "q": "What can a weak internet connection freeze?",
+    "hint": "",
+    "answer": "The picture"
+   },
+   {
+    "n": 6,
+    "q": "What should you never share with strangers?",
+    "hint": "",
+    "answer": "A meeting link"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Smartphones made video calls easier.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "Doctors never used video calls to speak to patients.",
+    "answer": false
+   },
+   {
+    "n": 9,
+    "statement": "Long video meetings never make people tired.",
+    "answer": false
+   },
+   {
+    "n": 10,
+    "statement": "You should switch off your microphone when you are not speaking.",
+    "answer": true
+   }
+  ]
+ },
+ "chart": {
+  "title": "Environmental Problems Noticed by Men and Women",
+  "ylabel": "Percentage of People",
+  "unit": "%",
+  "categories": [
+   "Litter",
+   "Air pollution",
+   "Noise",
+   "Wasted water"
+  ],
+  "series": [
+   {
+    "name": "Men",
+    "values": [
+     65,
+     50,
+     30,
+     20
+    ]
+   },
+   {
+    "name": "Women",
+    "values": [
+     45,
+     70,
+     55,
+     25
+    ]
+   }
+  ],
+  "model": "The bar chart shows the environmental problems noticed by men and women in one town in Oman. The problems were litter, air pollution, noise and wasted water. Overall, men noticed litter most, whereas women noticed air pollution most.\nFirstly, the most noticed problem for men was litter, with 65% of men. This was followed by air pollution (50%) and noise (30%). However, the least noticed problem for men was wasted water, with only 20% of men.\nIn contrast, the most noticed problem for women was air pollution, with 70% of women. This was followed by noise (55%) and litter (45%). However, the least noticed problem for women was wasted water, with only 25% of women.\nTo summarize, both men and women noticed litter. However, the biggest difference was in noise, where 30% of men chose it, whereas 55% of women did."
+ },
+ "email": {
+  "formal": false,
+  "situation": "Imagine you are Maryam. Your cousin Lina from Egypt will visit Oman next month.",
+  "task": "Write an email to Lina and suggest places for her to visit. In your email, write about:",
+  "bullets": [
+   "which historic places she should visit",
+   "what she can buy or eat",
+   "what clothes she should bring"
+  ],
+  "model": "Dear Lina,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to tell you about the places you can visit during your stay in Oman.\n\nFirst, you should visit Nizwa Fort and Bahla Fort, which are famous historic places in the interior. For example, you can climb the tall round tower in Nizwa and enjoy the view of the mountains. Moreover, we can walk around the old souq next to the fort.\n\nSecond, you can buy silver jewellery and sweet halwa in the souq, and we can try shuwa for lunch. Moreover, the days are warm at that time of year, but the evenings can be cool. Therefore, please bring light cotton clothes and a warm jacket.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nMaryam"
+ }
+}

@@ -1,0 +1,259 @@
+{
+ "id": "MK-L11",
+ "title": "A Museum Trip and Password Safety",
+ "listening1": {
+  "context": "You are going to hear a conversation between Muna and Sultan.",
+  "script": [
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "Hello, Sultan! Our teacher says that the class trip to the museum is next week. Have you chosen the day?"
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Not yet. Mrs Zahra said we can go on Monday or Wednesday. I prefer Monday, but there is a football match on that day."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "Then Wednesday is better. The museum has a special show about ancient Egypt, and I really want to see it."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Me too. Do you know how we'll travel? The school bus is too small for the whole class."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "I heard that we'll go by two buses, and they will leave at eight o'clock. Don't be late!"
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "I won't. My mother will drive me to school at seven thirty. What is the first thing we'll see there?"
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "The guide said we'll start with the mummies. They are about three thousand years old, and people wrapped them with cloth."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Amazing! And after that? I'd like to see the famous golden mask."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "That's in the second hall. The guide told me it belongs to a young king called Tutankhamun, who died when he was about eighteen."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Poor boy! Are we allowed to take photographs inside?"
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "Yes, but we can't use a flash, because it damages the old objects. We also can't touch anything."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "I understand. Do we need to bring any money?"
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "Only a little. The ticket is free for school groups, but lunch isn't. We'll eat in the museum cafe, and a sandwich costs one rial."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "That's cheap. And what should we do after lunch?"
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "There is a workshop where students can make a small clay vase like the Egyptians did. I'm looking forward to it."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "It sounds like fun. Don't forget that we must write a short report about the trip. Mrs Zahra wants it by Sunday."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "Oh yes, I almost forgot. Thanks for reminding me!"
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "Which day will the class go to the museum?",
+    "options": [
+     "Monday",
+     "Wednesday",
+     "Sunday"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "What time will the buses leave?",
+    "options": [
+     "seven thirty",
+     "nine o'clock",
+     "eight o'clock"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "What will the students see first?",
+    "options": [
+     "the mummies",
+     "the golden mask",
+     "the clay vases"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "How old was Tutankhamun when he died?",
+    "options": [
+     "about thirty",
+     "about eighty",
+     "about eighteen"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "What can students NOT use inside the museum?",
+    "options": [
+     "a phone",
+     "a flash",
+     "a notebook"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "How much is a sandwich in the museum cafe?",
+    "options": [
+     "one rial",
+     "two rials",
+     "free"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 7,
+    "q": "When must the students give the report to the teacher?",
+    "options": [
+     "on Wednesday",
+     "on Sunday",
+     "on Monday"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about password safety.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Hello, everybody. Today I am going to talk about how to keep your passwords safe online."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "We use passwords every day. We need them for our e-mail, our games, our social media and our school accounts. A password is like a key. If a stranger finds your key, he can enter your home. In the same way, a stranger who finds your password can enter your account."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "So, what makes a strong password? First, it must be long. Experts say that a password should have at least twelve letters, numbers and symbols. Short passwords are easy for a computer to guess in a few seconds. Second, it should be difficult to guess. Never use your name, your birthday or the word password. These are the first things that criminals try."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "A good idea is to choose a sentence you can remember, for example, I love eating fresh dates in summer. Then use the first letter of each word and add a few numbers and symbols. The result looks strange to other people, but it is easy for you to remember."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Next, use a different password for every account. Many people use the same password everywhere. If a criminal discovers it once, he can open all of their accounts. Some people use a password manager, a program that keeps all passwords safe, so they need to remember only one."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "You should also change your passwords if you think someone knows them. Do not tell your friends your passwords, and do not write them on paper near your computer."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Finally, use two-step login when it is possible. After you write your password, the website sends a code to your phone. Even if somebody learns your password, he cannot enter without the code. This simple step stops most attacks."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Remember, strong passwords protect your photos, your messages and your money. Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What is a password like?",
+    "hint": "",
+    "answer": "a key"
+   },
+   {
+    "n": 2,
+    "q": "How many characters should a strong password have at least?",
+    "hint": "(number)",
+    "answer": "12 / twelve"
+   },
+   {
+    "n": 3,
+    "q": "What should you NOT use in a password? Give one example.",
+    "hint": "",
+    "answer": "name / birthday / the word password"
+   },
+   {
+    "n": 4,
+    "q": "What does the website send to your phone for two-step login?",
+    "hint": "",
+    "answer": "a code"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "Short passwords are difficult for computers to guess.",
+    "answer": false
+   },
+   {
+    "n": 6,
+    "statement": "You should use a different password for every account.",
+    "answer": true
+   },
+   {
+    "n": 7,
+    "statement": "It is a good idea to write passwords on paper near the computer.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Two-step login makes accounts safer.",
+    "answer": true
+   }
+  ]
+ }
+}

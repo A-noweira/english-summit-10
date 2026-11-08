@@ -1,0 +1,47 @@
+{
+ "id": "MK-W14",
+ "title": "Chart: Reasons for Planting Trees · E-mail: formal",
+ "chart": {
+  "title": "Reasons for Planting Trees",
+  "ylabel": "Percentage of Adults",
+  "unit": "%",
+  "categories": [
+   "Shade",
+   "Cleaner air",
+   "Fruit and food",
+   "Beauty"
+  ],
+  "series": [
+   {
+    "name": "Men",
+    "values": [
+     60,
+     70,
+     35,
+     20
+    ]
+   },
+   {
+    "name": "Women",
+    "values": [
+     45,
+     85,
+     25,
+     55
+    ]
+   }
+  ],
+  "model": "The bar chart shows the reasons why men and women plant trees around their homes in Oman. The reasons were shade, cleaner air, fruit and food and beauty. Overall, cleaner air was the main reason for both groups, but women cared more about beauty than men.\nFirstly, the most popular reason for men was cleaner air, with 70% of men. This was followed by shade (60%) and fruit and food (35%). However, the least popular reason for men was beauty, with only 20% of men.\nIn contrast, the most popular reason for women was cleaner air, with 85% of women. This was followed by beauty (55%) and shade (45%). However, the least popular reason for women was fruit and food, with only 25% of women.\nTo summarize, both men and women chose cleaner air. However, the biggest difference was in beauty, where 20% of men chose it, whereas 55% of women did."
+ },
+ "email": {
+  "formal": true,
+  "situation": "Imagine you are Ibrahim, a Grade 10 student. Heavy rains caused floods in your area last year.",
+  "task": "Write a formal email to Mr Said, the head of the local Civil Defence centre, and ask for a safety talk about floods at your school. In your email, write about:",
+  "bullets": [
+   "why students need the talk",
+   "what the talk should include",
+   "when it could be held"
+  ],
+  "model": "Dear Mr Said,\n\nI hope this email finds you in good health and high spirits. I am writing this email to ask whether someone from your centre could give a safety talk about floods at our school.\n\nFirst, floods are becoming more common because of climate change. For example, last year the water in the valley near our school rose very quickly. Moreover, many students do not know how to stay safe.\n\nSecond, the talk should include how to avoid crossing flooded valleys and what to do in an emergency. Moreover, it could be held in the school hall on a Monday morning. Therefore, all students would learn how to protect themselves.\n\nThank you for your time and attention. I look forward to your response. Please let me know if you need any further information.\n\nYours sincerely,\nIbrahim"
+ }
+}

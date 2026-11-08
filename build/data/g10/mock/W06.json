@@ -1,0 +1,47 @@
+{
+ "id": "MK-W06",
+ "title": "Chart: Animals Grade 10 Students Want to Protect · E-mail: formal",
+ "chart": {
+  "title": "Animals Grade 10 Students Want to Protect",
+  "ylabel": "Percentage of Students",
+  "unit": "%",
+  "categories": [
+   "Sea turtles",
+   "Arabian oryx",
+   "Arabian leopard",
+   "Dolphins"
+  ],
+  "series": [
+   {
+    "name": "Boys",
+    "values": [
+     45,
+     30,
+     55,
+     15
+    ]
+   },
+   {
+    "name": "Girls",
+    "values": [
+     70,
+     25,
+     35,
+     60
+    ]
+   }
+  ],
+  "model": "The bar chart shows the animals that Grade 10 boys and girls want to protect. The animals were sea turtles, the Arabian oryx, the Arabian leopard and dolphins. Overall, boys wanted to protect the Arabian leopard the most, whereas girls wanted to protect sea turtles the most.\nFirstly, the most popular animal to protect for boys was the Arabian leopard, with 55% of boys. This was followed by sea turtles (45%) and the Arabian oryx (30%). However, the least popular animal to protect for boys was dolphins, with only 15% of boys.\nIn contrast, the most popular animal to protect for girls was sea turtles, with 70% of girls. This was followed by dolphins (60%) and the Arabian leopard (35%). However, the least popular animal to protect for girls was the Arabian oryx, with only 25% of girls.\nTo summarize, both boys and girls chose sea turtles. However, the biggest difference was in dolphins, where 15% of boys chose it, whereas 60% of girls did."
+ },
+ "email": {
+  "formal": true,
+  "situation": "Imagine you are Rayan, a Grade 10 student. Your school wants to clean a beach near your town.",
+  "task": "Write a formal email to Mr Saif, the director of the municipality, and ask for his help with a beach clean-up day. In your email, write about:",
+  "bullets": [
+   "why the beach needs cleaning",
+   "what help you need from the municipality",
+   "when the clean-up day will be"
+  ],
+  "model": "Dear Mr Saif,\n\nI hope this email finds you in good health and high spirits. I am writing this email to ask for your help with a beach clean-up day organised by our school.\n\nFirst, the beach near our town is full of plastic bottles and bags. For example, these things can harm sea turtles and fish. Moreover, a clean beach is better for families who visit it.\n\nSecond, we would like the municipality to give us gloves, rubbish bags and a bus for the students. Moreover, the clean-up day will be on Saturday morning at eight o'clock. Therefore, about eighty students will take part.\n\nThank you for your time and attention. I look forward to your response. Please let me know if you need any further information.\n\nYours sincerely,\nRayan"
+ }
+}

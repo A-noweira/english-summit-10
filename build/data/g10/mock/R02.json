@@ -1,0 +1,172 @@
+{
+ "id": "MK-R02",
+ "title": "The Arabian Leopard and the Power Grid",
+ "reading1": {
+  "title": "The Arabian Leopard",
+  "passage": [
+   "The Arabian leopard is the largest cat in the Arabian Peninsula and one of the rarest big cats in the world. It is smaller than African leopards, and a male weighs between thirty and forty kilograms. Its coat is pale yellow or golden-grey with dark spots called rosettes, which help it to hide among rocks.",
+   "Today the leopard lives in only a few places. One of them is the mountains of Dhofar in southern Oman, and there are also a few small groups in Yemen. In the past it lived in many other parts of Arabia, but it has disappeared from most of them. Experts think that fewer than two hundred wild leopards remain.",
+   "Leopards live alone and hunt mostly at night. The Arabian leopard eats small animals such as hyraxes, hares and birds, and sometimes it catches the Nubian ibex, a wild goat with long curved horns. It is a patient hunter that moves quietly among the rocks.",
+   "A female usually gives birth to one or two cubs in a cave or a rocky shelter. The cubs stay with their mother for about two years while they learn to hunt. In the wild, a leopard can live for about twelve to fifteen years.",
+   "Why is the leopard in danger? In the past, hunters killed many leopards because they were afraid that the cats would attack their goats and camels. The leopard's natural prey also became rare because of hunting, so the cats had less to eat. Roads and buildings cut the mountains into pieces, which made it hard for leopards to find food and partners.",
+   "In Oman, people are working to save the leopard. The Jabal Samhan Nature Reserve in Dhofar was created in 1997, and scientists use camera traps, which are small cameras that take a picture when an animal passes, to count the leopards and to study their movements. Rangers also work with local herders and help them to build strong pens for their animals, so they do not need to kill leopards.",
+   "Everyone can help. We can learn about wild animals, respect nature reserves and never buy products made from wild animals. If we act now, the leopard of Dhofar may survive for the future."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "What helps the leopard to hide among rocks?",
+    "options": [
+     "Its spotted coat",
+     "Its long tail",
+     "Its loud voice"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "Where in Oman does the Arabian leopard live?",
+    "options": [
+     "In the Wahiba Sands",
+     "In the mountains of Dhofar",
+     "On the Batinah coast"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "When do leopards hunt mostly?",
+    "options": [
+     "In the afternoon",
+     "In the early morning",
+     "At night"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "How long do the cubs stay with their mother?",
+    "options": [
+     "About two months",
+     "About ten years",
+     "About two years"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "Why did hunters kill leopards in the past?",
+    "options": [
+     "They were afraid for their animals.",
+     "They wanted to sell the cubs.",
+     "They needed the caves."
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "What do camera traps do?",
+    "options": [
+     "They catch leopards safely.",
+     "They take a picture when an animal passes.",
+     "They scare the leopards away."
+    ],
+    "answer": 1
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "The leopard's dark spots are called ________.",
+    "answer": "rosettes"
+   },
+   {
+    "n": 8,
+    "q": "The Nubian ibex is a wild goat with long curved ________.",
+    "answer": "horns"
+   },
+   {
+    "n": 9,
+    "q": "Roads and buildings cut the mountains into ________.",
+    "answer": "pieces"
+   },
+   {
+    "n": 10,
+    "q": "The Jabal Samhan Nature Reserve was created in ________.",
+    "answer": "1997"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "How Electricity Reaches Our Homes",
+  "passage": [
+   "When you switch on a light, the electricity that makes it work may come from a power station hundreds of kilometres away. It reaches your home through the power grid, a huge network of wires, cables and equipment that carries electricity from where it is made to where it is used.",
+   "The journey starts at a power station. A generator there produces electricity at a medium voltage. Next, a transformer at the station increases the voltage to a very high level, sometimes hundreds of thousands of volts. This is done because high voltage can travel long distances through wires with little loss of energy.",
+   "The electricity then moves along high-voltage transmission lines, which are carried by tall steel towers called pylons. Near towns, it arrives at a substation, where transformers reduce the voltage in steps. From the substation, distribution lines on poles or under the ground bring electricity to the streets. A last small transformer, often a grey box near the houses, reduces it to a safe level for homes.",
+   "In Oman, the main grid is run by the Oman Electricity Transmission Company, and most electricity comes from power stations that burn natural gas. Homes receive electricity at 240 volts.",
+   "The grid has to balance supply and demand every second. If people use more electricity than the power stations produce, there is a blackout. Demand is highest on hot summer afternoons, when many air conditioners are working, so operators plan carefully and keep extra power stations ready. Electricity cannot be stored easily in large amounts, so production must match use.",
+   "Renewable energy brings new challenges. Solar and wind farms produce power only when the Sun shines or the wind blows, so their output changes during the day. Modern smart grids use sensors and computers to follow demand and supply, to find faults quickly and to send power where it is needed.",
+   "Many countries also connect their grids so that they can share electricity and help each other during a problem. For example, the Gulf Cooperation Council has a grid that links several Gulf countries."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What carries electricity from power stations to homes?",
+    "hint": "",
+    "answer": "The power grid"
+   },
+   {
+    "n": 2,
+    "q": "What increases the voltage at the power station?",
+    "hint": "",
+    "answer": "A transformer"
+   },
+   {
+    "n": 3,
+    "q": "What are the tall steel towers called?",
+    "hint": "",
+    "answer": "Pylons"
+   },
+   {
+    "n": 4,
+    "q": "What voltage do homes in Oman receive?",
+    "hint": "(number)",
+    "answer": "240 volts / 240"
+   },
+   {
+    "n": 5,
+    "q": "When is the demand for electricity highest?",
+    "hint": "",
+    "answer": "On hot summer afternoons"
+   },
+   {
+    "n": 6,
+    "q": "What do smart grids use to follow demand and supply?",
+    "hint": "",
+    "answer": "Sensors and computers"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "High voltage can travel long distances with little loss of energy.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "Electricity can be stored easily in large amounts.",
+    "answer": false
+   },
+   {
+    "n": 9,
+    "statement": "Solar and wind farms produce power at all times.",
+    "answer": false
+   },
+   {
+    "n": 10,
+    "statement": "Some countries connect their grids to share electricity.",
+    "answer": true
+   }
+  ]
+ }
+}

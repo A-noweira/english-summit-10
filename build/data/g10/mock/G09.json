@@ -1,0 +1,129 @@
+{
+ "id": "MK-G09",
+ "title": "Present perfect, passive, conditional 2 · Learning apps",
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "I [[1]] a new homework application since September."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Nice! Who made it?"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "It [[2]] by a team of Omani students."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Are there [[3]] adverts on it?"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "No. If it had a dark mode, I [[4]] it more at night."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Do you know the girl [[5]] helped to design it? She is in my class."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "have used",
+     "used"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "was designed",
+     "designed"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "any",
+     "some"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "would use",
+     "will use"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "who",
+     "which"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Mina uses a learning (1)_____ on her tablet to prepare for exams. When she opens it, a simple (2)_____ shows all the subjects, and she just has to (3)_____ on the one she wants. The (4)_____ of the app is colourful, so it is easy to read. She can also (5)_____ the lessons to her tablet and study without the Internet. Her teacher says that apps are useful, but students must not forget to rest their eyes.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "gladiator",
+     "generator",
+     "dam",
+     "application"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 2,
+    "options": [
+     "habit",
+     "menu",
+     "fort",
+     "empire"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "set",
+     "plug",
+     "hurry",
+     "click"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 4,
+    "options": [
+     "design",
+     "tonne",
+     "trade",
+     "pollution"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "contribute",
+     "recycle",
+     "sail",
+     "download"
+    ],
+    "answer": 3
+   }
+  ]
+ }
+}

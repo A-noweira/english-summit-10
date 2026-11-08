@@ -1,0 +1,588 @@
+{
+ "id": 16,
+ "title": "Model Exam 16",
+ "listening1": {
+  "context": "You are going to hear a conversation between Fatma and Ali.",
+  "script": [
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "Hi Ali! Our class is going to run a Food Waste Week, and Mrs Badria wants our plan on Thursday. Have you got any ideas?"
+   },
+   {
+    "speaker": "Ali",
+    "gender": "m",
+    "text": "Yes. First we should find out which food students throw away most. I think it's fruit, because I often see apples in the bins."
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "I've looked in the canteen bins every day this week. There is some fruit, but the biggest amount is bread, and then rice. So we should talk about bread."
+   },
+   {
+    "speaker": "Ali",
+    "gender": "m",
+    "text": "Wow, I didn't know that. OK, how long should the campaign be? A month sounds too long for us."
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "I agree. Two weeks is a bit long too, because students may get bored. Let's run it for one week."
+   },
+   {
+    "speaker": "Ali",
+    "gender": "m",
+    "text": "Fine. How shall we tell the students about it? We could make a video."
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "Videos take too much time to edit. I'd prefer to make colourful posters and put them in the canteen and the corridors."
+   },
+   {
+    "speaker": "Ali",
+    "gender": "m",
+    "text": "Good, posters are easy. What shall we do with the leftover food that students don't eat?"
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "We could give it to animals, but that's not allowed. The best way is to put it in a compost bin. Then we can use the compost in the school garden."
+   },
+   {
+    "speaker": "Ali",
+    "gender": "m",
+    "text": "I love that idea! The gardener, Mr Hilal, will be happy to have it. When shall we start the week?"
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "I would like to start on Tuesday, but the school assembly is on that day, and nobody will have time. Sunday is better."
+   },
+   {
+    "speaker": "Ali",
+    "gender": "m",
+    "text": "Sunday it is. Who can tell us how much food the canteen throws away every day?"
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "The canteen manager, Mr Hamed. I'll ask him to help us. Mr Hilal only looks after the compost."
+   },
+   {
+    "speaker": "Ali",
+    "gender": "m",
+    "text": "Good. And I think we need a prize. The class with the least food waste could win a pizza party."
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "A pizza party would make more waste! Let's give the winners a trip to a farm instead."
+   },
+   {
+    "speaker": "Ali",
+    "gender": "m",
+    "text": "A farm trip is a nice idea. Let's write the plan this afternoon and show it to Mrs Badria."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "Which food do students throw away most?",
+    "options": [
+     "fruit",
+     "rice",
+     "bread"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "q": "How long will the campaign be?",
+    "options": [
+     "one week",
+     "two weeks",
+     "one month"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "How will they tell the students about the campaign?",
+    "options": [
+     "with a video",
+     "with posters",
+     "with a talk"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "q": "What will they do with the leftover food?",
+    "options": [
+     "put it in a compost bin",
+     "give it to animals",
+     "take it home"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "On which day will the week start?",
+    "options": [
+     "Tuesday",
+     "Sunday",
+     "Thursday"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "Who will help them with information about the canteen?",
+    "options": [
+     "Mr Hilal",
+     "Mr Hamed",
+     "Mrs Badria"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "What will the winning class get?",
+    "options": [
+     "a trip to a farm",
+     "a pizza party",
+     "a certificate"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about online shopping.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Good morning, everyone. Today I am going to talk about online shopping, which is now part of everyday life for millions of people."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Online shopping began in the early nineteen nineties, when the internet became open to ordinary people. One of the most famous online shops, Amazon, opened its website in nineteen ninety-five. At first it sold only books, but today it sells almost everything, from toys to furniture."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Why do people like shopping online? There are several reasons. First, online shops are open twenty-four hours a day, so you can buy something at midnight if you like. Second, you can compare prices from many shops in a few minutes and find the cheapest one. Third, the goods are brought to your door by a delivery driver, so you don't need to carry heavy bags."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "However, there are also problems. You cannot touch a product or try on clothes before you buy them, so you must read the customer reviews carefully. Reviews tell you what other buyers think about the product. Delivery is not always free, and sometimes you must wait for several days. Also, if the product is wrong, you have to send it back."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "The biggest problem is safety. Some websites are fake. Their owners take your money and send nothing, or they steal your bank details."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "So here is my advice. Buy only from websites that you know. Look at the address bar of the website. A small padlock means that the connection is protected. Never send your password to anyone, and choose a payment method that protects buyers."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "In Oman, more and more people shop online every year. If we are careful, online shopping can save us time and money. Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "In which year did Amazon open its website?",
+    "hint": "(year)",
+    "answer": "1995"
+   },
+   {
+    "n": 2,
+    "q": "What did Amazon sell at first?",
+    "hint": "",
+    "answer": "Books"
+   },
+   {
+    "n": 3,
+    "q": "What do customers read to learn what other buyers think?",
+    "hint": "",
+    "answer": "(Customer) reviews"
+   },
+   {
+    "n": 4,
+    "q": "What small sign in the address bar means the connection is protected?",
+    "hint": "",
+    "answer": "(A) padlock"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "Online shops are open all day and night.",
+    "answer": true
+   },
+   {
+    "n": 6,
+    "statement": "Customers can try on clothes before they buy them online.",
+    "answer": false
+   },
+   {
+    "n": 7,
+    "statement": "Delivery is always free.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Some fake websites steal bank details.",
+    "answer": true
+   }
+  ]
+ },
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Have you [[1]] the Olympic Games on TV this year, Yousef?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Yes! I have been a fan [[2]] ten years."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Hamad is [[3]] swimmer in our school."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Did you know that the first modern Games [[4]] held in Athens in 1896?"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "If you [[5]] regularly, your body gets stronger."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "That's true. I will join the swimming club next week."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "watch",
+     "watched"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "since",
+     "for"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "the fastest",
+     "faster"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "was",
+     "were"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "will exercise",
+     "exercise"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Ancient Egypt was one of the greatest (1)_____ in history. It was ruled by a king called the (2)_____, who people believed was a god. The Egyptians built huge stone (3)_____ as tombs for their kings, and these buildings still stand today. In nineteen twenty-two, an (4)_____ named Howard Carter found the tomb of Tutankhamun and discovered amazing gold treasures inside. Today many ancient objects are displayed in a (5)_____, so that visitors can learn about the past. Every year, millions of tourists travel to Egypt to see these wonders.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "civilisations",
+     "deserts",
+     "fuels",
+     "signals"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "tourist",
+     "engineer",
+     "pharaoh",
+     "scribe"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "options": [
+     "turbines",
+     "pyramids",
+     "reservoirs",
+     "blogs"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "astronomer",
+     "ambassador",
+     "athlete",
+     "archaeologist"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 5,
+    "options": [
+     "stadium",
+     "museum",
+     "harbour",
+     "factory"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "reading1": {
+  "title": "Public Transport and Cleaner Cities",
+  "passage": [
+   "Many cities around the world have a serious problem: too many cars. Every morning, thousands of people drive to work alone, and the roads become full. The traffic moves slowly, drivers waste time and fuel, and the air in the city becomes dirty.",
+   "Cars that burn petrol or diesel produce exhaust gases. These gases contain carbon dioxide, which adds to global warming, and other harmful gases that make it difficult for people to breathe. In big cities, car exhaust is one of the main causes of air pollution, and children and old people suffer the most.",
+   "Public transport is one of the best solutions. A single bus can carry about fifty passengers, and a train can carry hundreds. If these people travelled in separate cars, the roads would be much more crowded. Because public transport carries many people at once, each passenger causes much less pollution than a car driver.",
+   "Many cities have built modern systems to encourage people to leave their cars at home. Metro trains run under the ground and are not stopped by traffic. Buses have special lanes, so they can move quickly past the queues. Some cities, such as Dubai, have a metro that has no driver and is controlled by computers.",
+   "Cities are also making public transport cleaner. Electric buses produce no exhaust gases while they are working, and some cities use buses that run on natural gas, which is cleaner than diesel. In Oman, the national bus company, Mwasalat, runs buses in Muscat and between many cities.",
+   "To make people use public transport, it must be cheap, safe and on time. People will not wait for a bus that is always late. Cities can also make tickets cheaper, build comfortable bus stops and use apps that show when the next bus will arrive. Simple actions like these can make a big difference.",
+   "Public transport is not the only answer. People can also walk or cycle for short journeys, and they can share a car with colleagues. If more of us choose these options, our cities will have cleaner air, quieter streets and fewer traffic jams."
+  ],
+  "mcq": [
+   {
+    "q": "What happens when too many people drive alone to work?",
+    "options": [
+     "Fuel becomes cheaper.",
+     "The roads become full.",
+     "The air becomes cleaner."
+    ],
+    "answer": 1,
+    "n": 1
+   },
+   {
+    "q": "Which gas in car exhaust adds to global warming?",
+    "options": [
+     "Oxygen",
+     "Water vapour",
+     "Carbon dioxide"
+    ],
+    "answer": 2,
+    "n": 2
+   },
+   {
+    "q": "About how many passengers can a single bus carry?",
+    "options": [
+     "about fifty",
+     "about five",
+     "about five hundred"
+    ],
+    "answer": 0,
+    "n": 3
+   },
+   {
+    "q": "What do special bus lanes allow buses to do?",
+    "options": [
+     "Carry more passengers",
+     "Move quickly past the queues",
+     "Run without drivers"
+    ],
+    "answer": 1,
+    "n": 4
+   },
+   {
+    "q": "What do electric buses produce while they are working?",
+    "options": [
+     "Dirty smoke",
+     "Loud noise",
+     "No exhaust gases"
+    ],
+    "answer": 2,
+    "n": 5
+   },
+   {
+    "q": "What must public transport be like to attract people?",
+    "options": [
+     "Cheap, safe and on time",
+     "Fast and expensive",
+     "Large and noisy"
+    ],
+    "answer": 0,
+    "n": 6
+   }
+  ],
+  "completion": [
+   {
+    "q": "Metro trains run under the ________ and are not stopped by traffic.",
+    "answer": "ground",
+    "n": 7
+   },
+   {
+    "q": "Some cities use buses that run on ________, which is cleaner than diesel.",
+    "answer": "natural gas",
+    "n": 8
+   },
+   {
+    "q": "Apps can show when the next bus will ________.",
+    "answer": "arrive",
+    "n": 9
+   },
+   {
+    "q": "People can share a car with ________.",
+    "answer": "colleagues",
+    "n": 10
+   }
+  ]
+ },
+ "reading2": {
+  "title": "The Story of Paper",
+  "passage": [
+   "Paper is so common today that we hardly notice it. We use it for books, notebooks, newspapers, money and boxes. But for thousands of years, people had to write on other materials. The ancient Egyptians used papyrus, which was made from a tall plant that grew along the River Nile, while people in other places wrote on clay, animal skins or pieces of bamboo.",
+   "Paper was invented in China. According to Chinese records, an official named Cai Lun showed the first paper to the emperor in the year 105 AD. He made it from tree bark, old rags and fishing nets, which he mixed with water and beat into a soft mass. Then he spread the mass on a cloth screen and left it to dry in the sun.",
+   "For several centuries, the Chinese kept the secret of papermaking. Then, in the year 751, a battle between Chinese and Arab armies took place near the city of Talas in Central Asia. Some Chinese prisoners knew how to make paper, and they taught the skill to the Arabs. Soon a paper factory opened in Samarkand.",
+   "Paper spread quickly through the Islamic world. Paper factories opened in Baghdad, Damascus and Cairo. Paper was cheaper and lighter than animal skin, so scholars could write many more books. Libraries such as the House of Wisdom in Baghdad filled with books on science, medicine and mathematics.",
+   "From the Middle East, papermaking reached Europe through Spain around the twelfth century. Later, paper mills were built in Italy, France and Germany. As paper became cheaper, more and more people learned to read and write.",
+   "At first, paper was made by hand from rags. In the nineteenth century, factories began to use wood, which was much cheaper, and machines made paper in huge rolls. Today most paper comes from trees, but making paper uses a lot of water and many forests are cut down.",
+   "Recycling helps to solve this problem. Recycled paper uses less water and energy, and it saves trees. We can all help by using both sides of a page and by putting old paper in the recycling bin."
+  ],
+  "short": [
+   {
+    "q": "What did the ancient Egyptians write on?",
+    "hint": "",
+    "answer": "Papyrus",
+    "n": 1
+   },
+   {
+    "q": "Who showed the first paper to the emperor?",
+    "hint": "",
+    "answer": "Cai Lun",
+    "n": 2
+   },
+   {
+    "q": "In which year did he show the paper to the emperor?",
+    "hint": "(year)",
+    "answer": "105 AD",
+    "n": 3
+   },
+   {
+    "q": "Near which city did the battle between Chinese and Arab armies take place?",
+    "hint": "",
+    "answer": "Talas",
+    "n": 4
+   },
+   {
+    "q": "In which city was the House of Wisdom?",
+    "hint": "",
+    "answer": "Baghdad",
+    "n": 5
+   },
+   {
+    "q": "What did factories begin to use in the nineteenth century?",
+    "hint": "",
+    "answer": "Wood",
+    "n": 6
+   }
+  ],
+  "tf": [
+   {
+    "statement": "Paper was invented in Egypt.",
+    "answer": false,
+    "n": 7
+   },
+   {
+    "statement": "Paper was cheaper and lighter than animal skin.",
+    "answer": true,
+    "n": 8
+   },
+   {
+    "statement": "Recycled paper uses less water and energy.",
+    "answer": true,
+    "n": 9
+   },
+   {
+    "statement": "Early paper was made from the wood of trees.",
+    "answer": false,
+    "n": 10
+   }
+  ]
+ },
+ "chart": {
+  "title": "Favourite Summer Olympic Sports of Men and Women",
+  "ylabel": "Percentage of People",
+  "unit": "%",
+  "categories": [
+   "Football",
+   "Swimming",
+   "Athletics",
+   "Basketball",
+   "Gymnastics"
+  ],
+  "series": [
+   {
+    "name": "Men",
+    "values": [
+     80,
+     35,
+     60,
+     50,
+     20
+    ]
+   },
+   {
+    "name": "Women",
+    "values": [
+     30,
+     70,
+     55,
+     25,
+     65
+    ]
+   }
+  ],
+  "model": "The bar chart shows the favourite summer Olympic sports of men and women in one town in Oman. The sports were football, swimming, athletics, basketball and gymnastics. Overall, men preferred football, whereas women preferred swimming.\nFirstly, the most popular sport for men was football, with 80% of men. This was followed by athletics (60%), basketball (50%) and swimming (35%). However, the least popular sport for men was gymnastics, with only 20% of men.\nIn contrast, the most popular sport for women was swimming, with 70% of women. This was followed by gymnastics (65%), athletics (55%) and football (30%). However, the least popular sport for women was basketball, with only 25% of women.\nTo summarize, both men and women liked athletics. However, the biggest difference was in football, where 80% of men chose it, whereas 30% of women did."
+ },
+ "email": {
+  "formal": false,
+  "situation": "Imagine you are Salim. Your family has just installed solar panels on the roof of your house.",
+  "task": "Write an email to your friend Hamad and tell him about the solar panels. In your email, write about:",
+  "bullets": [
+   "why your family decided to install them",
+   "how the panels work",
+   "how they help your family"
+  ],
+  "model": "Dear Hamad,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to tell you about the solar panels that my family has just installed on our roof.\n\nFirst, we decided to install them because our electricity bills were very high in summer. For example, the air conditioners used a lot of power every day. Moreover, my father wanted to use clean energy and help the environment.\n\nSecond, the panels collect sunlight and change it into electricity. Moreover, they work very well in Oman because we have strong sunshine almost every day. Therefore, our bills are now much lower, and we use less power from the grid.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nSalim"
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "id": "MK-G06",
+ "title": "Past continuous, conditional 2 · Floods and wadis",
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "While we [[1]] dinner last night, water started coming into the garden."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Oh no! Many roads [[2]] closed by the police."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "If I lived near the wadi, I [[3]] very worried."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "The reporter said that the water [[4]] still rising at midnight."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Terrible. People [[5]] cross a wadi when the water is flowing."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "You are right. It is very dangerous."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "were having",
+     "had"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "were",
+     "was"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "would be",
+     "will be"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "was",
+     "is"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "mustn't",
+     "needn't"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Oman does not often have heavy rain, but when a cyclone arrives, it can cause a serious (1)_____. The water runs quickly down the wadis, and a (2)_____ can destroy roads and cars in a few minutes. The effects can be (3)_____ for families who lose their homes. Experts say that climate change is a big (4)_____, because extreme weather is becoming more common. The government warns people to stay away from wadis and to (5)_____ the news carefully during a storm.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "invention",
+     "tradition",
+     "advantage",
+     "disaster"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 2,
+    "options": [
+     "habitat",
+     "fort",
+     "drought",
+     "flood"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 3,
+    "options": [
+     "helpful",
+     "peaceful",
+     "colourful",
+     "devastating"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 4,
+    "options": [
+     "expert",
+     "theme",
+     "threat",
+     "slogan"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "options": [
+     "release",
+     "trap",
+     "convert",
+     "follow"
+    ],
+    "answer": 3
+   }
+  ]
+ }
+}

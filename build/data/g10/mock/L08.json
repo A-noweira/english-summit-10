@@ -1,0 +1,254 @@
+{
+ "id": "MK-L08",
+ "title": "A Trip to Petra and Coral Reefs",
+ "listening1": {
+  "context": "You are going to hear a conversation between Wafa and Said.",
+  "script": [
+   {
+    "speaker": "Wafa",
+    "gender": "f",
+    "text": "Hi Said! Guess what? My father has decided that we will visit Petra in Jordan this winter. I am so excited."
+   },
+   {
+    "speaker": "Said",
+    "gender": "m",
+    "text": "Wow, that is wonderful! When are you going exactly?"
+   },
+   {
+    "speaker": "Wafa",
+    "gender": "f",
+    "text": "During the winter holiday, because summer is too hot there. We are flying from Muscat to Amman."
+   },
+   {
+    "speaker": "Said",
+    "gender": "m",
+    "text": "How long does the flight take? Is it very long?"
+   },
+   {
+    "speaker": "Wafa",
+    "gender": "f",
+    "text": "About four hours, my father says. It is not bad at all. I thought it would be longer, maybe five hours."
+   },
+   {
+    "speaker": "Said",
+    "gender": "m",
+    "text": "Where will you stay? Petra is not in Amman, is it?"
+   },
+   {
+    "speaker": "Wafa",
+    "gender": "f",
+    "text": "No, Petra is about three hours away by road. First we thought about a hotel in Amman, but my mother prefers a small hotel in Wadi Musa, the town next to Petra, so we can get up early and visit the site in the morning."
+   },
+   {
+    "speaker": "Said",
+    "gender": "m",
+    "text": "That is smart. How many days will you spend at Petra itself?"
+   },
+   {
+    "speaker": "Wafa",
+    "gender": "f",
+    "text": "Two days. My father says that one day is not enough, because the site is huge. It is more like a whole city than a single monument."
+   },
+   {
+    "speaker": "Said",
+    "gender": "m",
+    "text": "Who built it? I remember that it is very old."
+   },
+   {
+    "speaker": "Wafa",
+    "gender": "f",
+    "text": "The Nabataeans built it more than two thousand years ago. They were traders who controlled the roads for incense and spices, just like the early Omani traders."
+   },
+   {
+    "speaker": "Said",
+    "gender": "m",
+    "text": "Interesting! And how do you enter the city?"
+   },
+   {
+    "speaker": "Wafa",
+    "gender": "f",
+    "text": "Through a long, narrow path between two high rock walls. It is called the Siq. After about a kilometre you suddenly see the most famous building."
+   },
+   {
+    "speaker": "Said",
+    "gender": "m",
+    "text": "Is that the Treasury? I have seen it in photographs. It is cut into a pink rock."
+   },
+   {
+    "speaker": "Wafa",
+    "gender": "f",
+    "text": "Yes, that one! I cannot wait to see it. We will also climb to the Monastery, so I need good shoes."
+   },
+   {
+    "speaker": "Said",
+    "gender": "m",
+    "text": "Take comfortable walking shoes, then, and a hat. Please send me some photos, and tell me everything when you come back!"
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "When will Wafa's family visit Petra?",
+    "options": [
+     "in the winter holiday",
+     "in the summer",
+     "in spring"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "How long is the flight to Amman?",
+    "options": [
+     "three hours",
+     "four hours",
+     "five hours"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "Where will the family stay?",
+    "options": [
+     "in Amman",
+     "in Aqaba",
+     "in Wadi Musa"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "How many days will they spend at Petra?",
+    "options": [
+     "one day",
+     "two days",
+     "three days"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "What is the name of the narrow path into Petra?",
+    "options": [
+     "the Siq",
+     "the Treasury",
+     "the Monastery"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "What is the most famous building in Petra?",
+    "options": [
+     "the Temple",
+     "the Monastery",
+     "the Treasury"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "What does Wafa need for the visit?",
+    "options": [
+     "a warm coat",
+     "comfortable shoes",
+     "a camera"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about coral reefs.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Hello, everyone. Today I am going to talk about coral reefs, which are sometimes called the rainforests of the sea."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Many people think that corals are plants or rocks, but they are really animals. A coral is made up of thousands of tiny animals called polyps. They live together and build a hard skeleton around themselves. Over hundreds of years, these skeletons grow into a reef."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Coral reefs cover less than one percent of the sea floor. However, about a quarter of all sea animals live in or near them. Fish, turtles, crabs and sharks all use reefs to find food and to hide from enemies. The biggest reef in the world is the Great Barrier Reef in Australia, which is more than two thousand kilometres long."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Reefs are also important for people. They protect coasts from big waves, they provide food for millions of families, and they attract tourists who come to swim and dive."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Unfortunately, coral reefs are in danger. Corals can only live in water that is not too hot. If the sea becomes just one or two degrees warmer than usual for a long time, the corals push out the tiny algae that live inside them and give them colour and food. The coral turns white. This is called bleaching, and the coral can die."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Pollution is another problem. Plastic, oil and waste from the land make the water dirty, and careless divers sometimes break the corals by touching or standing on them."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Oman has some beautiful reefs. The Daymaniyat Islands, off the coast near Muscat, are a nature reserve, and many visitors go there to see fish and turtles."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "What can we do? We can reduce the use of fuel and the gas that heats the planet. We can keep beaches clean, and when we swim, we should look but never touch. Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What is the name of the process when corals turn white?",
+    "hint": "",
+    "answer": "Bleaching"
+   },
+   {
+    "n": 2,
+    "q": "In which country is the Great Barrier Reef?",
+    "hint": "(country)",
+    "answer": "Australia"
+   },
+   {
+    "n": 3,
+    "q": "What fraction of all sea animals live in or near reefs?",
+    "hint": "",
+    "answer": "A quarter / 25 percent"
+   },
+   {
+    "n": 4,
+    "q": "Which Omani islands are a nature reserve with reefs?",
+    "hint": "",
+    "answer": "Daymaniyat Islands / The Daymaniyat Islands"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "Corals are plants.",
+    "answer": false
+   },
+   {
+    "n": 6,
+    "statement": "A rise of one or two degrees in sea temperature can harm corals.",
+    "answer": true
+   },
+   {
+    "n": 7,
+    "statement": "Touching corals is good for them.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Healthy reefs protect the coast from big waves.",
+    "answer": true
+   }
+  ]
+ }
+}

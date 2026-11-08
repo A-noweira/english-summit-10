@@ -1,0 +1,259 @@
+{
+ "id": "MK-L15",
+ "title": "Visiting Omani Forts and Online Shopping",
+ "listening1": {
+  "context": "You are going to hear a conversation between Aisha and Majid.",
+  "script": [
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "Hi Majid! Did your family decide where to go for the holiday?"
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "Yes, Aisha. We're going to visit the forts of Oman. My grandfather wanted to go to Nizwa, but my father chose Bahla, because it is a World Heritage Site."
+   },
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "That's a great choice. Bahla Fort is very old, isn't it?"
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "Yes. It was built about seven hundred years ago, and it has a very long wall, around twelve kilometres. It's made of mud bricks."
+   },
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "Wonderful! How will you travel there? By car?"
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "Yes, my father will drive. It's about two hundred kilometres from Muscat, so we'll leave early, at six o'clock in the morning."
+   },
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "Will you stay there for the night?"
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "For two nights. We'll stay in a small guest house near the old market, and it's not expensive."
+   },
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "Lovely! What else will you do besides the fort?"
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "On the second day we'll visit Jabreen Castle, which is only a short drive away. It has beautiful painted ceilings, and the guide will tell us stories about the Imam who built it."
+   },
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "I'd love to see that. Will you buy something from the market?"
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "Yes! The town is famous for its pottery, and my mother wants to buy a clay pot. I would like to get a small silver khanjar."
+   },
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "That sounds nice. Do you need to take anything special with you?"
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "A hat, good shoes and a lot of water. We'll climb many steps in the fort, and it's very hot, even in winter."
+   },
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "Will you take photographs?"
+   },
+   {
+    "speaker": "Majid",
+    "gender": "m",
+    "text": "Of course. My sister has a new camera, and she's going to take all the photographs. She wants to make an album."
+   },
+   {
+    "speaker": "Aisha",
+    "gender": "f",
+    "text": "Lucky you! Please tell me everything on your return."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "Which fort will Majid's family visit first?",
+    "options": [
+     "Nizwa Fort",
+     "Bahla Fort",
+     "Jabreen Castle"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "How long ago was the fort built?",
+    "options": [
+     "about seven hundred years ago",
+     "about twelve years ago",
+     "about two hundred years ago"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "What time will the family leave Muscat?",
+    "options": [
+     "at six o'clock",
+     "at seven o'clock",
+     "at noon"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "Where will they stay?",
+    "options": [
+     "in a hotel",
+     "in a tent",
+     "in a guest house"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "What is special about Jabreen Castle?",
+    "options": [
+     "its painted ceilings",
+     "its tall towers",
+     "its big market"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "What does Majid want to buy?",
+    "options": [
+     "a clay pot",
+     "a silver khanjar",
+     "a carpet"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "Who will take the photographs?",
+    "options": [
+     "Majid's mother",
+     "Majid's sister",
+     "Majid's father"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about online shopping and scams.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Good morning, everyone. Today I am going to talk about online shopping and how to avoid scams."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Online shopping is very popular. You can buy clothes, books, phones and even food without leaving your house. It is easy and fast, and the prices are often lower. However, some websites are not honest, and a scam can cost you your money."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "What is a scam? It is a trick that a dishonest person uses to take your money or your personal information. For example, a website may sell a new phone at a very low price, but it never sends the phone. If a price looks too good to be true, it probably is."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "So how can you shop safely? First, look at the address of the website. A safe website begins with https, and it shows a small lock next to the address. Second, buy from shops that you know. Search for reviews and see what other customers say. If nobody has written anything about a shop, be careful."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Third, use a safe way to pay. A credit card or a payment service is usually safer than sending money directly to a stranger. Never send cash by post. Fourth, keep your personal information private. A real shop needs your name and address for delivery, but it never needs your password."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Another common trick is the fake message. You may get an e-mail that says you have won a prize. It asks you to click a link and write your bank details. Do not click it! Delete the message, and tell an adult."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Finally, keep a record of your orders. Save the receipt and the e-mail from the shop. If something goes wrong, you can show them to the shop or to the bank."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Shopping online is a great thing, but only if we stay careful. Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What does a safe website address begin with?",
+    "hint": "",
+    "answer": "https"
+   },
+   {
+    "n": 2,
+    "q": "What picture shows that a website is safe?",
+    "hint": "",
+    "answer": "(a) (small) lock"
+   },
+   {
+    "n": 3,
+    "q": "What kind of message says that you have won a prize?",
+    "hint": "",
+    "answer": "(a) fake message / e-mail"
+   },
+   {
+    "n": 4,
+    "q": "What should you save in case something goes wrong?",
+    "hint": "",
+    "answer": "(the) receipt / (the) e-mail"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "A very low price can be a sign of a scam.",
+    "answer": true
+   },
+   {
+    "n": 6,
+    "statement": "It is a good idea to buy from a shop with no reviews.",
+    "answer": false
+   },
+   {
+    "n": 7,
+    "statement": "A real shop needs your password for delivery.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "You should tell an adult about a fake message.",
+    "answer": true
+   }
+  ]
+ }
+}

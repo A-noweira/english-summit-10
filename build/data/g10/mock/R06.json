@@ -1,0 +1,172 @@
+{
+ "id": "MK-R06",
+ "title": "Solar Panels and Bees",
+ "reading1": {
+  "title": "Solar Panels",
+  "passage": [
+   "The Sun is a huge source of energy. In one hour, it sends to the Earth about as much energy as all the people in the world use in a year. Solar panels collect some of this energy and turn it into electricity. They are one of the fastest-growing sources of renewable energy.",
+   "A solar panel is made of many small units called solar cells. Most cells are made from silicon, a material that comes from sand. When sunlight hits a cell, it makes tiny particles called electrons move, and this flow of electrons is an electric current.",
+   "The electricity from the panels is direct current. A device called an inverter changes it into the alternating current that is used in homes. A house with panels on its roof can use the electricity directly, store the extra in batteries or, in many countries, sell the extra to the electricity company.",
+   "Solar power has many benefits. Sunlight is free, and solar panels make no noise and no pollution while they work. They need little maintenance, and they can last twenty-five years or more. In remote villages with no power lines, solar panels can bring electricity to homes, schools and clinics.",
+   "There are some disadvantages. Panels produce less electricity on cloudy days and none at night. The first cost of buying and installing panels can be high, although prices have fallen greatly in the last ten years. Dust is a big problem in desert countries, because a dirty panel produces less power, so the panels must be cleaned regularly.",
+   "Oman is a very good place for solar energy because it has sunshine on most days of the year. The country has started to build large solar plants, such as the Ibri II solar power plant, which began producing electricity in 2021. Many families also install small systems on their roofs.",
+   "Experts expect solar power to become even cheaper and more efficient in the future. Some scientists are testing panels that are thin and flexible, which could be placed on windows, clothes and backpacks."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "What are most solar cells made from?",
+    "options": [
+     "Silicon",
+     "Copper",
+     "Glass"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "What happens when sunlight hits a solar cell?",
+    "options": [
+     "The cell becomes cold.",
+     "Electrons start to move.",
+     "Water is made."
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "What does an inverter do?",
+    "options": [
+     "It stores electricity for a month.",
+     "It cleans the panels.",
+     "It changes direct current into alternating current."
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "How long can solar panels last?",
+    "options": [
+     "About two years",
+     "Twenty-five years or more",
+     "Only one summer"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "Why must panels in desert countries be cleaned?",
+    "options": [
+     "Dust makes the panel too heavy.",
+     "Sand changes the colour of the Sun.",
+     "A dirty panel produces less power."
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "When did the Ibri II solar power plant begin producing electricity?",
+    "options": [
+     "In 2021",
+     "In 2001",
+     "In 1991"
+    ],
+    "answer": 0
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "Solar panels turn the energy of the Sun into ________.",
+    "answer": "electricity"
+   },
+   {
+    "n": 8,
+    "q": "The electricity from the panels is ________ current.",
+    "answer": "direct"
+   },
+   {
+    "n": 9,
+    "q": "In remote villages, solar panels can bring electricity to homes, schools and ________.",
+    "answer": "clinics"
+   },
+   {
+    "n": 10,
+    "q": "Panels produce less electricity on cloudy days and none at ________.",
+    "answer": "night"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "Bees and Pollination",
+  "passage": [
+   "Bees are small insects, but they are very important for people and nature. There are more than twenty thousand species of bee in the world. Some live in large groups called colonies, and the most familiar is the honey bee. Other bees, such as bumblebees, live in small groups, and many species live alone.",
+   "A honey bee colony has three kinds of bee. The queen lays all the eggs, up to two thousand a day. The workers, which are all female, collect food, build the nest and protect it. The males, called drones, mate with the queen. A colony can contain from twenty thousand to sixty thousand bees.",
+   "Bees visit flowers to collect nectar, a sweet liquid, and pollen, a yellow powder. Nectar is changed into honey inside the hive and stored in wax cells that the bees make themselves. Honey is the food of the colony in winter, and pollen gives protein to the baby bees.",
+   "While a bee moves from flower to flower, pollen sticks to its body, and some of it falls onto the next flower. This is called pollination, and it is necessary for many plants to make seeds and fruit. About one third of the food that people eat, including apples, almonds and many vegetables, depends on pollinating insects such as bees.",
+   "Bees communicate in an amazing way. When a worker finds a good field of flowers, she returns to the hive and performs a waggle dance. The direction of the dance shows where the flowers are compared with the Sun, and the length of the dance shows how far away they are.",
+   "Sadly, bees are in danger in many places. Pesticides, which are chemicals used to kill pests, can poison bees. Cutting down forests and building cities remove the wild flowers that they need. Climate change also confuses bees, because flowers may open earlier or later than normal.",
+   "What can we do? We can plant flowers that give nectar, avoid chemicals in the garden and leave a small bowl of water for bees on hot days. Buying honey from local beekeepers helps the people who look after bees. In Oman, beekeepers keep a local bee that is well suited to the hot climate, and Omani honey, such as the honey of the sidr tree, is famous."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "How many species of bee are there in the world?",
+    "hint": "(number)",
+    "answer": "More than twenty thousand"
+   },
+   {
+    "n": 2,
+    "q": "Which bee lays all the eggs?",
+    "hint": "",
+    "answer": "The queen"
+   },
+   {
+    "n": 3,
+    "q": "What are male bees called?",
+    "hint": "",
+    "answer": "Drones"
+   },
+   {
+    "n": 4,
+    "q": "What do bees collect from flowers to make honey?",
+    "hint": "",
+    "answer": "Nectar"
+   },
+   {
+    "n": 5,
+    "q": "What is the name of the dance that bees perform?",
+    "hint": "",
+    "answer": "The waggle dance"
+   },
+   {
+    "n": 6,
+    "q": "Which chemicals can poison bees?",
+    "hint": "",
+    "answer": "Pesticides"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "All the worker bees in a colony are male.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Pollination is necessary for many plants to make seeds and fruit.",
+    "answer": true
+   },
+   {
+    "n": 9,
+    "statement": "The length of the waggle dance shows how far away the flowers are.",
+    "answer": true
+   },
+   {
+    "n": 10,
+    "statement": "Climate change has no effect on bees.",
+    "answer": false
+   }
+  ]
+ }
+}

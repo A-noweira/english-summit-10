@@ -1,0 +1,50 @@
+{
+ "id": "MK-W13",
+ "title": "Chart: Types of Online Games Played by Boys and Girls · E-mail: informal",
+ "chart": {
+  "title": "Types of Online Games Played by Boys and Girls",
+  "ylabel": "Percentage of Students",
+  "unit": "%",
+  "categories": [
+   "Sports games",
+   "Adventure games",
+   "Puzzle games",
+   "Racing games",
+   "Quiz games"
+  ],
+  "series": [
+   {
+    "name": "Boys",
+    "values": [
+     75,
+     60,
+     10,
+     50,
+     25
+    ]
+   },
+   {
+    "name": "Girls",
+    "values": [
+     25,
+     45,
+     65,
+     15,
+     55
+    ]
+   }
+  ],
+  "model": "The bar chart shows the types of online games played by Grade 10 boys and girls in one school in Oman. The types of games were sports games, adventure games, puzzle games, racing games and quiz games. Overall, boys preferred sports games, whereas girls preferred puzzle games.\nFirstly, the most popular type of game for boys was sports games, with 75% of boys. This was followed by adventure games (60%), racing games (50%) and quiz games (25%). However, the least popular type of game for boys was puzzle games, with only 10% of boys.\nIn contrast, the most popular type of game for girls was puzzle games, with 65% of girls. This was followed by quiz games (55%), adventure games (45%) and sports games (25%). However, the least popular type of game for girls was racing games, with only 15% of girls.\nTo summarize, both boys and girls liked adventure games. However, the biggest difference was in puzzle games, where 10% of boys chose it, whereas 65% of girls did."
+ },
+ "email": {
+  "formal": false,
+  "situation": "Imagine you are Talal. Your friend Zaid plays online games for many hours every day.",
+  "task": "Write an email to your friend Zaid and give him some advice. In your email, write about:",
+  "bullets": [
+   "why playing for too many hours is a problem",
+   "what else he could do in his free time",
+   "an invitation to do something with you on Friday"
+  ],
+  "model": "Dear Zaid,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to give you some friendly advice about playing online games.\n\nFirst, playing games for too many hours is bad for your health. For example, you can get tired eyes and a sore back. Moreover, you have less time for your homework and your family.\n\nSecond, you could play football, ride a bike or read a good book in your free time. Moreover, these activities are fun and keep you fit. Therefore, would you like to play football with me and our friends on Friday afternoon?\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nTalal"
+ }
+}

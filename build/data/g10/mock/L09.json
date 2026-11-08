@@ -1,0 +1,259 @@
+{
+ "id": "MK-L09",
+ "title": "Gaming Day and Saving Water",
+ "listening1": {
+  "context": "You are going to hear a conversation between Rashid and Asma.",
+  "script": [
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "Hi Asma! Are you ready for the gaming day at school? Mr Nasser asked me to help the club organise it, and I'm very excited."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "Yes, I am. First we must choose the game. I think a football game would be popular, because everybody knows it."
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "Football is fun, but some students don't enjoy it. A racing game is easier to learn, and anybody can win. Let's choose that one."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "Good idea. Now, which day shall we hold the tournament? Thursday is the last day of the week, and students will be tired."
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "I agree. Wednesday is not good either, because Grade ten has an exam. So Tuesday is the best day."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "Tuesday it is. Now, how many players can play in each race? There are six computers in the lab, so maybe six players?"
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "Six is too many. The screen is small, and the players will get confused. Let's use four players, and the other two computers can be for the judges."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "That sounds sensible. Where shall we hold the tournament? The lab is small, and the library is too quiet for a game."
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "The school hall is the best place. It has a big screen, so the other students can watch the races."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "Excellent. What about the prizes? We can't give money, but I think a certificate is a bit boring."
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "I agree. The headmaster said the school can buy a gold medal for the winner. Students love medals."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "Perfect. Now, students must give their names to us before the day. When is the last day to register?"
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "Let's say Sunday. That gives us one day to prepare the lists. Students can write their names on the form in my classroom."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "Great. Someone needs to design the poster too. I can do it, because I have a good drawing program at home."
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "That's kind, but you're very busy with the lists. I'll design the poster. I enjoy making posters, and I have a lot of ideas."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "Thank you, Asma. Then I'll talk to Mr Nasser about the hall this afternoon."
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "Fine. After that, we can print the registration forms and put them on the board in the corridor."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "Which game will they use in the tournament?",
+    "options": [
+     "a football game",
+     "a racing game",
+     "a quiz game"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "On which day will the tournament be held?",
+    "options": [
+     "Thursday",
+     "Wednesday",
+     "Tuesday"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "How many players will be in each race?",
+    "options": [
+     "four",
+     "six",
+     "two"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "Where will they hold the tournament?",
+    "options": [
+     "in the lab",
+     "in the school hall",
+     "in the library"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "What will the winner get?",
+    "options": [
+     "a certificate",
+     "money",
+     "a gold medal"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "What is the last day to register?",
+    "options": [
+     "Sunday",
+     "Monday",
+     "Thursday"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 7,
+    "q": "Who will design the poster?",
+    "options": [
+     "Rashid",
+     "Asma",
+     "Mr Nasser"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about saving water at home.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Good morning, everyone. Today I am going to talk about saving water at home, a simple way to help our planet and our families."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Water is one of the most precious things we have. Our bodies are about sixty percent water, and we need it every day. However, only a tiny part of the water on Earth is fresh and safe to drink. In many countries, including Oman, rain is rare, so we must use water carefully."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Let us begin with the bathroom. A long shower can use more than one hundred litres of water. If you take a shower for five minutes instead of ten, you save half of it. Also, turn off the tap while you brush your teeth. An open tap can waste six litres every minute."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Next, think about the kitchen. A dripping tap may seem small, but it can waste thousands of litres in one year. Ask an adult to repair it quickly. When you wash fruit and vegetables, use a bowl and not running water. Then, you can use the same water for the plants in the garden."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "The garden is another place where we lose a lot of water. The best time to water plants is early in the morning or in the evening, because the sun is not strong, and less water disappears into the air. Water that comes from the air conditioner is clean enough for plants, so we can collect it in a bucket."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Cars also need water. Instead of washing the family car with a hose, use a bucket and a cloth. This can save more than one hundred litres each time."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Finally, families can use machines that save water. For example, a washing machine should be used only when it is full. Some new homes also have toilets with two buttons, a small one and a big one, so people use only the water they need."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "If every family in a town follows these simple habits, the whole town will save millions of litres of water every year. Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What fraction of the human body is water? Give the percentage.",
+    "hint": "(number)",
+    "answer": "60 / sixty percent"
+   },
+   {
+    "n": 2,
+    "q": "How many litres can an open tap waste every minute?",
+    "hint": "(number)",
+    "answer": "6 / six"
+   },
+   {
+    "n": 3,
+    "q": "What should you use to wash the car instead of a hose?",
+    "hint": "",
+    "answer": "(A) bucket and (a) cloth"
+   },
+   {
+    "n": 4,
+    "q": "What kind of toilets save water?",
+    "hint": "",
+    "answer": "two buttons / two-button toilets"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "Taking a shorter shower can save water.",
+    "answer": true
+   },
+   {
+    "n": 6,
+    "statement": "The best time to water plants is at noon.",
+    "answer": false
+   },
+   {
+    "n": 7,
+    "statement": "Water from the air conditioner can be used for plants.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "A washing machine should be used when it is half empty.",
+    "answer": false
+   }
+  ]
+ }
+}

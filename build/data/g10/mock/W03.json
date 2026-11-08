@@ -1,0 +1,47 @@
+{
+ "id": "MK-W03",
+ "title": "Chart: Renewable Energy Jobs Wanted by Grade 10 Students · E-mail: informal",
+ "chart": {
+  "title": "Renewable Energy Jobs Wanted by Grade 10 Students",
+  "ylabel": "Percentage of Students",
+  "unit": "%",
+  "categories": [
+   "Solar technician",
+   "Wind engineer",
+   "Power station manager",
+   "Energy scientist"
+  ],
+  "series": [
+   {
+    "name": "Boys",
+    "values": [
+     40,
+     50,
+     25,
+     35
+    ]
+   },
+   {
+    "name": "Girls",
+    "values": [
+     55,
+     20,
+     30,
+     60
+    ]
+   }
+  ],
+  "model": "The bar chart shows the renewable energy jobs that Grade 10 boys and girls would like to do in the future. The jobs were solar technician, wind engineer, power station manager and energy scientist. Overall, boys preferred being a wind engineer, whereas girls preferred being an energy scientist.\nFirstly, the most popular job for boys was wind engineer, with 50% of boys. This was followed by solar technician (40%) and energy scientist (35%). However, the least popular job for boys was power station manager, with only 25% of boys.\nIn contrast, the most popular job for girls was energy scientist, with 60% of girls. This was followed by solar technician (55%) and power station manager (30%). However, the least popular job for girls was wind engineer, with only 20% of girls.\nTo summarize, both boys and girls chose solar technician. However, the biggest difference was in wind engineer, where 50% of boys chose it, whereas 20% of girls did."
+ },
+ "email": {
+  "formal": false,
+  "situation": "Imagine you are Saif. Your class went on a trip to a wind farm in Dhofar last week.",
+  "task": "Write an email to your friend Nasser and tell him about the trip. In your email, write about:",
+  "bullets": [
+   "where the wind farm is and how you got there",
+   "what you saw there",
+   "what you liked most about the trip"
+  ],
+  "model": "Dear Nasser,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to tell you about our exciting class trip to a wind farm.\n\nFirst, the wind farm is in Dhofar, far from the city. For example, we travelled there by bus for about three hours. Moreover, our science teacher came with us.\n\nSecond, we saw huge wind turbines and learnt how they make electricity from the wind. Moreover, an engineer answered all our questions. Therefore, I liked the visit to the control room most, because it was very modern.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nSaif"
+ }
+}

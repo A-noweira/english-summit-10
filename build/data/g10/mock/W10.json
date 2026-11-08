@@ -1,0 +1,50 @@
+{
+  "id": "MK-W10",
+  "title": "Chart: Things Recycled at Home · E-mail: formal",
+  "chart": {
+    "title": "Where Families Take Their Recycling",
+    "ylabel": "Percentage of Families",
+    "unit": "%",
+    "categories": [
+      "Supermarket bins",
+      "Street bins",
+      "School bins",
+      "Recycling centres",
+      "Home collection"
+    ],
+    "series": [
+      {
+        "name": "city families",
+        "values": [
+          60,
+          45,
+          15,
+          30,
+          50
+        ]
+      },
+      {
+        "name": "village families",
+        "values": [
+          30,
+          35,
+          55,
+          65,
+          5
+        ]
+      }
+    ],
+    "model": "The bar chart shows the places where city and village families take their recycling. The places were supermarket bins, street bins, school bins, recycling centres and home collection. Overall, city families used supermarket bins the most, whereas village families used recycling centres the most.\nFirstly, the most popular place to take recycling for city families was supermarket bins, with 60% of city families. This was followed by home collection (50%), street bins (45%) and recycling centres (30%). However, the least popular place to take recycling for city families was school bins, with only 15% of city families.\nIn contrast, the most popular place to take recycling for village families was recycling centres, with 65% of village families. This was followed by school bins (55%), street bins (35%) and supermarket bins (30%). However, the least popular place to take recycling for village families was home collection, with only 5% of village families.\nTo summarize, both city families and village families chose supermarket bins. However, the biggest difference was in home collection, where 50% of city families chose it, whereas 5% of village families did."
+  },
+  "email": {
+    "formal": true,
+    "situation": "Imagine you are Khalid, a regular customer at a supermarket near your home. The shop gives customers a lot of plastic bags.",
+    "task": "Write a formal email to the manager, Mr Ahmed, and suggest selling reusable bags. In your email, write about:",
+    "bullets": [
+      "why plastic bags are a problem",
+      "how reusable bags could help",
+      "what the shop could do to encourage customers"
+    ],
+    "model": "Dear Mr Ahmed,\n\nI hope this email finds you in good health and high spirits. I am writing this email to suggest that your supermarket sells reusable bags instead of giving plastic ones.\n\nFirst, plastic bags are a big problem because they take hundreds of years to break down. For example, they often end up in the sea and harm animals. Moreover, they make our streets dirty.\n\nSecond, reusable cloth bags can be used many times, so customers will not need new bags every day. Moreover, the shop could offer a small discount to customers who bring their own bags. Therefore, the shop would also help to protect the environment.\n\nThank you for your time and attention. I look forward to your response. Please let me know if you need any further information.\n\nYours sincerely,\nKhalid"
+  }
+}

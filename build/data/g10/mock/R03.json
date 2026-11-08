@@ -1,0 +1,172 @@
+{
+  "id": "MK-R03",
+  "title": "The Cloud and Angkor Wat",
+  "reading1": {
+    "title": "The Cloud",
+    "passage": [
+      "In the past, people kept their photos, documents and music on the hard disk of their own computer or on small devices such as CDs and USB sticks. Today many of us also use the cloud. The cloud is not a real cloud in the sky. It means that your files are stored on powerful computers, called servers, in large buildings called data centres, and you reach them through the internet.",
+      "Cloud storage has several advantages. You can open your files from any device, such as a phone, a tablet or a school computer, as long as you have an internet connection and your password. If your phone is lost or broken, your photos are still safe, because copies are kept on the servers. Many services give a small amount of free space, and you can pay for more.",
+      "The cloud also makes working together easy. Students can share one document and write it at the same time, even if they are in different houses. Everyone can see the changes straight away, and the service keeps older versions, so you can go back if somebody deletes something by mistake. Teachers use this to collect homework without paper.",
+      "Data centres are very big. They have thousands of servers, and these machines produce heat, so the buildings need cooling systems. They use a lot of electricity, so some companies power them with solar and wind energy to reduce pollution. Several copies of each file are kept in different places, so nothing is lost if there is a problem in one building.",
+      "However, the cloud has risks. Without the internet, you may not be able to open your files, unless you have saved them for offline use. If someone learns your password, he or she can see everything in your account. For this reason, you should use a strong password and two-step verification.",
+      "It is also wise to read the rules of the service. Some companies can read information in your files to show advertisements, and others have rules about where your data is kept. Free space can finish quickly, so delete things you no longer need. Remember that deleting a file from your phone does not always delete it from the cloud.",
+      "A good habit is the three-two-one rule: keep three copies of important files, on two different types of storage, with one copy in a different place. For example, keep one copy on your computer, one on an external drive and one in the cloud. That way, you will be safe even if one of them fails."
+    ],
+    "mcq": [
+      {
+        "n": 1,
+        "q": "What is the cloud?",
+        "options": [
+          "A kind of weather forecast",
+          "A new type of USB stick",
+          "Files stored on servers and reached through the internet"
+        ],
+        "answer": 2
+      },
+      {
+        "n": 2,
+        "q": "What is one advantage of cloud storage?",
+        "options": [
+          "You can open your files from any device.",
+          "You never need a password.",
+          "You do not need electricity."
+        ],
+        "answer": 0
+      },
+      {
+        "n": 3,
+        "q": "How does the cloud help students to work together?",
+        "options": [
+          "They can use one phone all day.",
+          "They can write the same document at the same time.",
+          "They can send paper homework faster."
+        ],
+        "answer": 1
+      },
+      {
+        "n": 4,
+        "q": "Why do data centres need cooling systems?",
+        "options": [
+          "The servers produce heat.",
+          "The buildings are in the sun.",
+          "The files are very old."
+        ],
+        "answer": 0
+      },
+      {
+        "n": 5,
+        "q": "What should you use to protect your cloud account?",
+        "options": [
+          "A short password and a nickname",
+          "A password that all friends know",
+          "A strong password and two-step verification"
+        ],
+        "answer": 2
+      },
+      {
+        "n": 6,
+        "q": "What does the three-two-one rule say?",
+        "options": [
+          "Delete three files every day.",
+          "Keep three copies of important files.",
+          "Use three clouds at the same time."
+        ],
+        "answer": 1
+      }
+    ],
+    "completion": [
+      {
+        "n": 7,
+        "q": "Servers are kept in large buildings called data ________.",
+        "answer": "centres"
+      },
+      {
+        "n": 8,
+        "q": "If your phone is lost, your photos are still safe because ________ are kept on the servers.",
+        "answer": "copies"
+      },
+      {
+        "n": 9,
+        "q": "Some companies power data centres with solar and ________ energy.",
+        "answer": "wind"
+      },
+      {
+        "n": 10,
+        "q": "Deleting a file from your phone does not always delete it from the ________.",
+        "answer": "cloud"
+      }
+    ]
+  },
+  "reading2": {
+    "title": "The Ancient City of Petra",
+    "passage": [
+      "Petra is an ancient city in the south of Jordan. It is famous for its beautiful buildings, which were carved into the rose-red sandstone cliffs, so people call it the Rose City. Today, it is one of the most popular places for tourists in the Middle East.",
+      "Petra was built by the Nabataeans, an Arab people who lived in the desert more than two thousand years ago. The Nabataeans became rich because their city stood on the trade routes between Arabia, Egypt and Syria. Their camels carried frankincense, spices and other valuable goods through Petra, and the Nabataeans collected a tax on everything that passed.",
+      "Water was very important in the desert, and the Nabataeans were clever engineers. They cut channels in the rock to bring water to the city, and they built dams to stop floods. They also made large underground tanks called cisterns, which kept rainwater for the dry months. Thanks to this system, thousands of people could live in Petra.",
+      "Visitors enter Petra through the Siq, a narrow canyon that is more than one kilometre long. The rock walls on both sides are very high, and in some places the sky is almost hidden. At the end of the Siq, visitors suddenly see the Treasury, the most famous building in Petra. It is about forty metres high, and the Nabataeans carved it straight out of the rock. It was probably a royal tomb.",
+      "Another impressive building is the Monastery, which stands high on a mountain. To reach it, visitors must climb about eight hundred steps, but the view from the top is wonderful. Petra also has a large theatre, hundreds of tombs and many houses cut into the rock.",
+      "In the year 106, the Romans took control of the Nabataean kingdom, and Petra became part of the Roman Empire. Later, sea trade became more important than the desert routes, and a strong earthquake in the year 363 destroyed many buildings. Slowly, Petra was left empty, and only local Bedouin people knew the city well.",
+      "In 1812, a Swiss explorer named Johann Ludwig Burckhardt visited Petra, and he told the world about it. UNESCO made Petra a World Heritage Site in 1985, and in 2007 people voted it one of the New Seven Wonders of the World. Today, experts work to protect the rock from wind, rain and the feet of millions of visitors."
+    ],
+    "short": [
+      {
+        "n": 1,
+        "q": "What nickname does Petra have?",
+        "hint": "",
+        "answer": "the Rose City"
+      },
+      {
+        "n": 2,
+        "q": "What did the Nabataeans collect on goods that passed through Petra?",
+        "hint": "",
+        "answer": "a tax"
+      },
+      {
+        "n": 3,
+        "q": "What are the large underground water tanks called?",
+        "hint": "",
+        "answer": "cisterns"
+      },
+      {
+        "n": 4,
+        "q": "How high is the Treasury?",
+        "hint": "(number)",
+        "answer": "about forty metres"
+      },
+      {
+        "n": 5,
+        "q": "How many steps must visitors climb to reach the Monastery?",
+        "hint": "(number)",
+        "answer": "about eight hundred"
+      },
+      {
+        "n": 6,
+        "q": "Which Swiss explorer visited Petra in 1812?",
+        "hint": "",
+        "answer": "Johann Ludwig Burckhardt"
+      }
+    ],
+    "tf": [
+      {
+        "n": 7,
+        "statement": "The Siq is a wide open valley.",
+        "answer": false
+      },
+      {
+        "n": 8,
+        "statement": "The Nabataeans carved the Treasury out of the rock.",
+        "answer": true
+      },
+      {
+        "n": 9,
+        "statement": "The Romans took control of the Nabataean kingdom in the year 106.",
+        "answer": true
+      },
+      {
+        "n": 10,
+        "statement": "UNESCO made Petra a World Heritage Site in 2007.",
+        "answer": false
+      }
+    ]
+  }
+}

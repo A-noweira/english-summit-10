@@ -1,0 +1,172 @@
+{
+ "id": "MK-R15",
+ "title": "Search Engines and The Story of Flight",
+ "reading1": {
+  "title": "How Search Engines Work",
+  "passage": [
+   "A search engine is a website that helps you to find information on the internet. Google, Bing and DuckDuckGo are well-known examples. Every day, people around the world make billions of searches, and each one gives an answer in less than a second.",
+   "Google began in 1998, when two students at Stanford University in the United States, Larry Page and Sergey Brin, wanted a better way to search the web. Its name comes from the word \"googol\", which is the number one followed by one hundred zeros. The name shows how much information the company wants to organise.",
+   "A search engine works in three steps. First, small programs called crawlers move from page to page by following links, and they find new websites. Second, the search engine stores information about each page in a giant database, called an index. An index is similar to the index at the back of a book, which helps you to find a subject quickly.",
+   "Third, when you type a question, the search engine looks in its index and puts the pages in order. This is called ranking. A computer program decides which pages are the most useful, using hundreds of clues, such as the words on the page, how new it is and how many other sites link to it.",
+   "Be careful with the results. Some of the first results are adverts, because companies pay to be at the top, and they are usually marked with a small word like \"Ad\". Also, the first result is not always the best or the most accurate.",
+   "You can search better by following a few tips. Use short key words instead of long questions. Put quotation marks around a phrase to search for those exact words. Look at the web address too: sites that end in .gov or .edu often come from governments or schools.",
+   "Always check the facts. Read more than one website and compare what they say, and look at the date to see if the information is still correct. Remember, too, that search engines save your searches, so avoid typing private information such as your passwords."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "What is a search engine?",
+    "options": [
+     "A machine that makes engines",
+     "A website that helps you to find information",
+     "A game for children"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "Who started Google?",
+    "options": [
+     "Two students at Stanford University",
+     "A teacher in Britain",
+     "A group of engineers in Japan"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "What do crawlers do?",
+    "options": [
+     "They type questions.",
+     "They delete old pages.",
+     "They follow links from page to page."
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "What is the index of a search engine like?",
+    "options": [
+     "The index at the back of a book",
+     "The cover of a book",
+     "A map of the world"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "Why are some of the first results adverts?",
+    "options": [
+     "They are the most accurate.",
+     "Companies pay to be at the top.",
+     "They are chosen by teachers."
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "Why should you read more than one website?",
+    "options": [
+     "To use more of the internet",
+     "To make your phone faster",
+     "To compare what they say"
+    ],
+    "answer": 2
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "Google began in ________.",
+    "answer": "1998"
+   },
+   {
+    "n": 8,
+    "q": "Google's name comes from the word ________.",
+    "answer": "googol"
+   },
+   {
+    "n": 9,
+    "q": "The giant database of a search engine is called an ________.",
+    "answer": "index"
+   },
+   {
+    "n": 10,
+    "q": "Put ________ marks around a phrase to search for those exact words.",
+    "answer": "quotation"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "The Story of Flight",
+  "passage": [
+   "People dreamed of flying for thousands of years. The ancient Greeks told the story of Icarus, a boy who flew with wings made of feathers and wax. The first real success came in France in 1783, when the Montgolfier brothers built a hot-air balloon. It carried people over Paris for about twenty-five minutes.",
+   "In the 1800s, inventors began to study how birds fly. George Cayley, an Englishman, built gliders and carried a person in one in 1853. Later, Otto Lilienthal of Germany made hundreds of glider flights in the 1890s. However, nobody had yet built a plane with an engine that could fly under the pilot's control.",
+   "That was done by two brothers from Ohio in the United States, Orville and Wilbur Wright. They had a bicycle shop, and they used their skills with machines to build gliders and then a plane. On 17 December 1903, at Kitty Hawk in North Carolina, their plane, the Wright Flyer, made the first powered and controlled flight. Orville was at the controls, and the flight lasted only 12 seconds.",
+   "After that, aeroplanes improved quickly. In 1914, the first passenger airline service began in Florida. During the First World War, planes were built in large numbers. In 1927, Charles Lindbergh flew alone from New York to Paris without stopping, and he became world famous.",
+   "The jet engine changed travel again. The de Havilland Comet, which started flying in 1952, was the first jet airliner. In 1970, the Boeing 747 began to carry hundreds of passengers at one time. Flights became faster, safer and cheaper, so many more people could travel.",
+   "Today, flying is part of everyday life. In 2019, more than four billion passengers travelled by air. People fly to work, to study and to visit their families, and aeroplanes carry fresh food and medicines around the world in a few hours.",
+   "Flying has a cost, too. Aeroplanes burn a lot of fuel and release carbon dioxide. Engineers are therefore working on lighter planes, better engines and new fuels, so that the next chapter in the story of flight will be a cleaner one."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "In which country did the Montgolfier brothers build their hot-air balloon?",
+    "hint": "",
+    "answer": "France"
+   },
+   {
+    "n": 2,
+    "q": "In which year did the balloon fly over Paris?",
+    "hint": "(year)",
+    "answer": "1783 / In 1783"
+   },
+   {
+    "n": 3,
+    "q": "What kind of shop did the Wright brothers have?",
+    "hint": "",
+    "answer": "A bicycle shop"
+   },
+   {
+    "n": 4,
+    "q": "Where did the first powered flight take place?",
+    "hint": "",
+    "answer": "Kitty Hawk"
+   },
+   {
+    "n": 5,
+    "q": "How long did the first flight last?",
+    "hint": "",
+    "answer": "12 seconds / Twelve seconds"
+   },
+   {
+    "n": 6,
+    "q": "Who flew alone from New York to Paris in 1927?",
+    "hint": "",
+    "answer": "Charles Lindbergh"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "The Wright Flyer made the first powered and controlled flight in 1903.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "Wilbur Wright was at the controls during the first flight.",
+    "answer": false
+   },
+   {
+    "n": 9,
+    "statement": "The de Havilland Comet was the first jet airliner.",
+    "answer": true
+   },
+   {
+    "n": 10,
+    "statement": "Only a few people travel by air today.",
+    "answer": false
+   }
+  ]
+ }
+}

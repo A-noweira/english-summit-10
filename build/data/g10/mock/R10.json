@@ -1,0 +1,171 @@
+{
+ "id": "MK-R10",
+ "title": "Plastic in Our Oceans and Electric Cars",
+ "reading1": {
+  "title": "Plastic in Our Oceans",
+  "passage": [
+   "Plastic is cheap, light and strong, so we use it to make bottles, bags, toys and thousands of other things. The problem is that plastic does not rot like food or paper. A piece of plastic can stay in nature for hundreds of years, and when it is thrown away carelessly, much of it ends up in the sea.",
+   "Scientists estimate that about eight million tonnes of plastic enter the oceans every year. Most of it comes from the land. Rivers carry rubbish to the sea, the wind blows plastic bags off streets, and people leave litter on beaches. Old fishing nets that are lost or thrown away at sea are also a serious problem.",
+   "In some places, ocean currents bring floating rubbish together. The best-known example is the Great Pacific Garbage Patch, between Hawaii and California. It is not a solid island that you can walk on. Instead, it is a huge area of sea where there is much more plastic than usual, and it covers an area larger than many countries.",
+   "Waves and sunlight break big plastic into small pieces. The smallest pieces, called microplastics, are less than five millimetres long. They are very difficult to clean up because they are so tiny, and they have been found everywhere, from the surface of the sea to the deepest ocean floor.",
+   "Plastic is dangerous for sea life. Sea turtles often mistake plastic bags for jellyfish, which are their food, and they become ill after eating them. Seabirds sometimes feed pieces of plastic to their chicks. Other animals get trapped in nets and cannot swim or eat. Tiny plastic pieces can also enter the food chain, so they may end up in the fish that people eat.",
+   "Fortunately, we can all help. First, we can reduce the plastic that we use by taking cloth bags to the shop and using refillable bottles. Second, we can recycle the plastic that we cannot avoid. Many groups also organise beach clean-ups, and some countries have passed laws against single-use plastic bags. Oman banned these bags in 2022. If everyone takes small steps, our oceans will become cleaner and safer."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "How much plastic enters the oceans every year?",
+    "options": [
+     "about eight million tonnes",
+     "about eighty tonnes",
+     "about eight thousand tonnes"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "Where does most ocean plastic come from?",
+    "options": [
+     "From ships at sea",
+     "From the land",
+     "From underwater volcanoes"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "Where is the Great Pacific Garbage Patch?",
+    "options": [
+     "Between Africa and India",
+     "Near the North Pole",
+     "Between Hawaii and California"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "What are microplastics?",
+    "options": [
+     "Plastic bags in rivers",
+     "Very small pieces of plastic",
+     "Plastic made from plants"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "Why do sea turtles eat plastic bags?",
+    "options": [
+     "They think the bags are jellyfish.",
+     "They are very hungry.",
+     "They like the taste of plastic."
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "What did Oman do in 2022?",
+    "options": [
+     "It built a new recycling factory.",
+     "It cleaned all its beaches.",
+     "It banned single-use plastic bags."
+    ],
+    "answer": 2
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "Plastic does not ________ like food or paper.",
+    "answer": "rot"
+   },
+   {
+    "n": 8,
+    "q": "Old fishing ________ that are lost at sea are also a problem.",
+    "answer": "nets"
+   },
+   {
+    "n": 9,
+    "q": "Waves and sunlight break big plastic into ________.",
+    "answer": "small pieces"
+   },
+   {
+    "n": 10,
+    "q": "We can use cloth bags and ________ bottles.",
+    "answer": "refillable"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "Electric Cars",
+  "passage": [
+   "An electric car has an electric motor and a battery instead of a petrol engine. You charge the battery from a socket at home or at a charging station. Because an electric car has no exhaust pipe, it does not give out smoke or fumes while it is driving.",
+   "Electric cars are not a new idea. The first ones were built in the 1800s, and around 1900 many people in big cities drove them. However, in 1908 the Ford Model T made petrol cars cheap, and electric cars almost disappeared. They came back in the early 2000s, and in 2010 the Nissan Leaf became one of the first popular electric cars for ordinary families.",
+   "Electric cars have several advantages. They make the air in cities cleaner, and they are very quiet. They are also cheaper to run, because electricity usually costs less than petrol for each kilometre. In addition, they have fewer moving parts than petrol cars, so they need less maintenance.",
+   "However, an electric car is only as clean as the electricity that charges it. If the power station burns coal or gas, it still produces carbon dioxide. When the electricity comes from solar or wind power, the car is much cleaner. Over its whole life, an electric car usually produces less carbon dioxide than a petrol car.",
+   "Most modern electric cars use lithium-ion batteries, the same kind that are found in mobile phones. Many cars can travel between 300 and 500 kilometres on one charge. Owners often charge their cars at home overnight. A fast charger can fill most of the battery in about half an hour.",
+   "There are still some challenges. Electric cars can be expensive to buy, and in some places there are not enough charging stations. Charging also takes longer than filling a tank with petrol. The batteries need metals such as lithium and cobalt, which must be mined, so recycling old batteries is important. Many countries, including Oman, are now building more charging stations.",
+   "The number of electric cars is growing fast. In Norway, more than eighty percent of the new cars sold in 2023 were electric. Experts believe that electric cars will play a big part in a cleaner future."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What does an electric car have instead of a petrol engine?",
+    "hint": "",
+    "answer": "An electric motor"
+   },
+   {
+    "n": 2,
+    "q": "Which car made petrol cars cheap in 1908?",
+    "hint": "",
+    "answer": "The Ford Model T"
+   },
+   {
+    "n": 3,
+    "q": "Which kind of battery do most modern electric cars use?",
+    "hint": "",
+    "answer": "Lithium-ion"
+   },
+   {
+    "n": 4,
+    "q": "How far can many cars travel on one charge?",
+    "hint": "",
+    "answer": "300 to 500 kilometres / between 300 and 500 kilometres"
+   },
+   {
+    "n": 5,
+    "q": "How long does a fast charger take to fill most of the battery?",
+    "hint": "",
+    "answer": "About half an hour"
+   },
+   {
+    "n": 6,
+    "q": "Which country sold mostly electric new cars in 2023?",
+    "hint": "",
+    "answer": "Norway"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "An electric car does not have an exhaust pipe.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "An electric car is always completely clean, whatever the source of electricity.",
+    "answer": false
+   },
+   {
+    "n": 9,
+    "statement": "Electric cars need more maintenance than petrol cars.",
+    "answer": false
+   },
+   {
+    "n": 10,
+    "statement": "Many owners charge their electric cars at home overnight.",
+    "answer": true
+   }
+  ]
+ }
+}

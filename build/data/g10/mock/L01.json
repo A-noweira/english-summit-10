@@ -1,0 +1,259 @@
+{
+ "id": "MK-L01",
+ "title": "A School Blog and Geothermal Energy",
+ "listening1": {
+  "context": "You are going to hear a conversation between Maryam and Hamad.",
+  "script": [
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "Hi Hamad! Ms Fatma says we can start a school blog. Have you thought about what we should write?"
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "Yes, I have. I would like a blog about school sports, because everybody loves the football matches."
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "Sports is a good idea, but the teams already have a noticeboard. How about school trips? Students could read about each trip and look at the photos."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "Good idea. Many students miss the trips, so they will enjoy reading about them. Which website shall we use?"
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "My brother uses one called Quick Notes, but it shows too many adverts. Mr Ahmed from the IT department suggests Bright Pages. It is free and safe."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "Then let's use Bright Pages. How often should we post? Once a week is easy, but readers might forget us."
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "Every day would be too much work for two students. What about two posts every week?"
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "Perfect, twice a week. Now, who is going to take the photos? I am not good at it."
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "I will take them. My uncle gave me a good camera. You can write the text, because your spelling is better than mine."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "Thanks. Should readers be able to leave comments under our posts?"
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "Yes, but some comments might be rude. Ms Fatma will read every comment before it appears on the blog. Mr Ahmed will help us with the settings."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "Wonderful. When can we publish the first post? I am free on Sunday, but you have a club meeting that day."
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "That is right. Tuesday is library day, so let's choose Thursday. That gives us enough time to prepare."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "Thursday is fine. What shall we write about first? Last month's visit to the Science Centre, or last week's visit to the date farm?"
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "The Science Centre trip was a long time ago, and people have forgotten it. Let's write about the date farm. The photos are still fresh."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "Great. I will start writing tonight and send you the text tomorrow. I think our blog is going to be popular."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "What will the blog be about?",
+    "options": [
+     "school sports",
+     "school trips",
+     "school food"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "Which website will they use?",
+    "options": [
+     "School Page",
+     "Quick Notes",
+     "Bright Pages"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "How often will they post?",
+    "options": [
+     "twice a week",
+     "once a week",
+     "every day"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "Who will take the photos?",
+    "options": [
+     "Hamad",
+     "Mr Ahmed",
+     "Maryam"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "Who will read the comments before they appear?",
+    "options": [
+     "Mr Ahmed",
+     "Ms Fatma",
+     "Hamad"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "On which day will they publish the first post?",
+    "options": [
+     "Thursday",
+     "Sunday",
+     "Tuesday"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 7,
+    "q": "What will the first post be about?",
+    "options": [
+     "the Science Centre",
+     "a football match",
+     "the date farm"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about geothermal energy.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Hello, everyone. Today I am going to talk about geothermal energy, which is heat that comes from deep inside the Earth."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "If you dig deep under the ground, it gets hotter and hotter. In some places, the rock under the surface is so hot that it turns underground water into steam. The word geothermal comes from two Greek words: geo, which means Earth, and therme, which means heat."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "People have used this heat for thousands of years. The ancient Romans built public baths that were warmed by hot springs. Electricity from geothermal steam was produced for the first time in Italy, in nineteen oh four."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "A geothermal power station works in a simple way. Workers drill a deep well into the hot rock. Steam rises up the well and turns a turbine. The turbine drives a generator, and the generator makes electricity. After that, the steam cools down and turns back into water, and the water is pumped under the ground again. That is why geothermal energy is renewable."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Iceland is famous for geothermal energy. The country sits on a place where two huge plates of the Earth's crust meet, so there is a lot of heat close to the surface. Geothermal energy heats most of the houses in Iceland, and it also gives the country about thirty percent of its electricity."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Geothermal energy has several advantages. A power station can work day and night, in sunny, windy or cloudy weather. It needs only a small piece of land, and it produces very little pollution."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "However, there are some problems. Geothermal energy can only be used in places where hot rock is close to the surface, so it is not possible in every country. Drilling deep wells is also very expensive."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "What about Oman? There are some natural hot springs here, for example Ain Al Kasfa near Nakhal, where people go to swim. But Oman has no big geothermal power stations, and it prefers to use the strong sun for solar energy instead."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What does the Greek word 'therme' mean?",
+    "hint": "",
+    "answer": "Heat"
+   },
+   {
+    "n": 2,
+    "q": "In which year was electricity first produced from geothermal steam?",
+    "hint": "(year)",
+    "answer": "1904"
+   },
+   {
+    "n": 3,
+    "q": "What turns the turbine in a geothermal power station?",
+    "hint": "",
+    "answer": "Steam"
+   },
+   {
+    "n": 4,
+    "q": "Which country uses geothermal energy to heat most of its houses?",
+    "hint": "(country)",
+    "answer": "Iceland"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "The ancient Romans used hot springs to warm their baths.",
+    "answer": true
+   },
+   {
+    "n": 6,
+    "statement": "Geothermal energy can be used in every country in the same way.",
+    "answer": false
+   },
+   {
+    "n": 7,
+    "statement": "A geothermal power station can work day and night.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "Geothermal power stations produce a lot of smoke.",
+    "answer": false
+   }
+  ]
+ }
+}

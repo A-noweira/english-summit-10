@@ -1,0 +1,594 @@
+{
+ "id": 20,
+ "title": "Model Exam 20",
+ "listening1": {
+  "context": "You are going to hear a conversation between Maryam and Hamad.",
+  "script": [
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "Hi Hamad! Guess what? My birthday is next week, and my parents said that I can choose my own present. I am thinking of buying an e-reader."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "That sounds exciting. Why not buy a tablet instead? You could read books and watch videos on it."
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "A tablet is nice, but the bright screen hurts my eyes after an hour, and I would probably play games instead of reading. The screen of an e-reader is much easier for the eyes."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "I see. But you have always loved printed books. Why do you want a machine?"
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "My school bag is always so heavy. An e-reader holds hundreds of books, and it is lighter than a small notebook. I can carry it everywhere."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "That is a good point. How much does it cost?"
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "I saw one in the electronics shop last Saturday. The price was eighty rials, but the shop assistant told me that there will be a sale next week. Then it will be sixty-five rials."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "That is quite reasonable. I still prefer paper books, though. I love the smell of new pages, and I never have to charge them. My tablet needs charging every day."
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "An e-reader is different. Its battery lasts for a long time, and I only need to charge it about once a month."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "Really? That is impressive. Are you going to order it online? My cousin says it is cheaper."
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "My father said the same, but I want to hold it in my hands before I pay. So we will go to the electronics shop on Thursday."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "Good idea. What will you read first? I can recommend a history book about the Vikings."
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "Thank you, but maybe later. My aunt gave me a mystery novel last month, and I have not opened it yet. I will read that first."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "Excellent choice. I like mystery stories too. Now I know what to give you for your birthday. I wanted to buy you a book, but a cover for your e-reader is better."
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "That is so kind of you, Hamad! I would like a blue one, if possible."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "No problem. I will look for a blue cover tomorrow. I hope you enjoy your new e-reader."
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "Thank you! I am sure I will. See you at the party next week."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "What does Maryam want to buy?",
+    "options": [
+     "a tablet",
+     "an e-reader",
+     "a printed novel"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "Why does Maryam like the idea of an e-reader?",
+    "options": [
+     "It is cheaper than books.",
+     "It has colour pictures.",
+     "It is light to carry."
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "How much will the e-reader cost next week?",
+    "options": [
+     "eighty rials",
+     "fifty rials",
+     "sixty-five rials"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "How often does the e-reader battery need charging?",
+    "options": [
+     "once a month",
+     "every day",
+     "once a week"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "Where will Maryam buy the e-reader?",
+    "options": [
+     "online",
+     "in the electronics shop",
+     "in the school library"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "Which book will she read first?",
+    "options": [
+     "a history book",
+     "a mystery novel",
+     "a science magazine"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "What will Hamad give Maryam for her birthday?",
+    "options": [
+     "a book",
+     "a charger",
+     "a blue cover"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about whales and dolphins in Omani waters.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Good afternoon, everyone. Today I am going to talk about the whales and dolphins that live in the waters of Oman."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Whales and dolphins are not fish. They are mammals, so they breathe air through a hole on the top of their heads, called a blowhole. They also have warm blood, and mothers feed their babies with milk. A whale or a dolphin must come to the surface many times every hour to breathe."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Oman is a very good place to see these animals. Scientists have recorded more than twenty kinds of whales and dolphins in Omani waters. The most common visitors are dolphins. Many tourists take a boat trip from Muscat to watch spinner dolphins, which jump out of the water and spin in the air. A group of dolphins is called a pod."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Dolphins are very clever. They talk to each other with whistles and clicks. They also use sound to find food. A dolphin sends out clicks, and the clicks bounce back from a fish. In this way a dolphin can find food even in dark water. This is called echolocation."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "The most special whales in Oman are the humpback whales of the Arabian Sea. Most humpback whales swim thousands of kilometres every year between cold feeding areas and warm places for their babies. The Arabian Sea humpbacks are different, because they stay in the same area all year. They live far from other humpbacks, and only about eighty of them remain."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "These animals face many dangers. Some of them get caught in fishing nets by accident. Big ships can hit them, and the noise of engines makes it hard for them to hear each other. Plastic in the sea is also a danger, because they may swallow it."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "How can we help? Boats should keep a safe distance from whales and dolphins and travel slowly. Fishermen can use safer nets, and we must never throw rubbish into the sea. If we look after the sea, these wonderful animals will stay in Omani waters for many years."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "q": "What is the hole on top of a whale's head called?",
+    "hint": "",
+    "answer": "(A) blowhole",
+    "n": 1
+   },
+   {
+    "q": "What is a group of dolphins called?",
+    "hint": "",
+    "answer": "(A) pod",
+    "n": 2
+   },
+   {
+    "q": "What is it called when dolphins use sound to find food?",
+    "hint": "",
+    "answer": "Echolocation",
+    "n": 3
+   },
+   {
+    "q": "About how many Arabian Sea humpback whales remain?",
+    "hint": "(number)",
+    "answer": "80 / Eighty",
+    "n": 4
+   }
+  ],
+  "tf": [
+   {
+    "statement": "Whales and dolphins are fish.",
+    "answer": false,
+    "n": 5
+   },
+   {
+    "statement": "Tourists can watch spinner dolphins on boat trips from Muscat.",
+    "answer": true,
+    "n": 6
+   },
+   {
+    "statement": "Arabian Sea humpback whales swim thousands of kilometres every year.",
+    "answer": false,
+    "n": 7
+   },
+   {
+    "statement": "The noise of ship engines is a danger to whales.",
+    "answer": true,
+    "n": 8
+   }
+  ]
+ },
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "I was [[1]] a video online when my phone battery died yesterday."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "You [[2]] buy a power bank. It is cheap and useful."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "I know. If I [[3]] one, I will not have this problem again."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Is that the phone [[4]] your uncle gave you?"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Yes, it is. It [[5]] in Japan, and it is very light."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "It looks great. I would like a phone like that."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "watched",
+     "watching"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "should",
+     "must to"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "buy",
+     "bought"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "who",
+     "that"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "was made",
+     "made"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Visiting a museum is a good way to learn about the past. Last week our class went to the National Museum in Muscat. We saw ancient (1)_____ such as coins, pots and jewellery. A guide explained how Omani (2)_____ sailed across the sea to trade with India and East Africa. We also learned about old (3)_____ built to defend towns, like Nizwa and Bahla. At the end of the visit, we agreed that it is important to (4)_____ our (5)_____ for future generations.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "artefacts",
+     "emissions",
+     "followers",
+     "droughts"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "bloggers",
+     "gamers",
+     "farmers",
+     "merchants"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 3,
+    "options": [
+     "files",
+     "forts",
+     "fuels",
+     "floods"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "delete",
+     "pollute",
+     "preserve",
+     "switch"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "options": [
+     "heritage",
+     "signals",
+     "tablets",
+     "engines"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "reading1": {
+  "title": "The Story of Electricity",
+  "passage": [
+   "Electricity is so common today that we forget how long it took to understand it. About 600 BC, an ancient Greek thinker named Thales noticed something strange. When he rubbed a piece of amber, a yellow stone, with a cloth, it could pick up small feathers. The Greek word for amber was elektron, and this is where our word electricity comes from.",
+   "For more than two thousand years, people thought that electricity was just a curiosity. According to a famous story, Benjamin Franklin flew a kite in a storm in 1752 to show that lightning is a form of electricity. The experiment was very dangerous, and later scientists were more careful.",
+   "A great step came in 1831, when the English scientist Michael Faraday showed that moving a magnet near a coil of wire makes an electric current. This discovery led to the generator, the machine that still produces most of our electricity today.",
+   "In 1879, the American inventor Thomas Edison made a light bulb that could shine for many hours. He and his team tested thousands of materials before they found one that worked well. A few years later, in 1882, his company opened a power station in New York to send electricity to homes. Soon cities all over the world began to use electric lights, and many people stopped using oil lamps and candles.",
+   "Electricity also changed life in factories, and later it powered the radio, the television and the refrigerator. Homes became cleaner, safer and more comfortable. Today computers, phones and almost every machine in our lives depend on it. In hospitals, doctors use electric machines to save lives, and in schools, teachers use projectors and computers.",
+   "Oman started to use electricity widely later than many countries. Before 1970, only a few places had power. After that, the government built power stations and cables that connected cities and villages. Today almost every home in Oman has electricity, and the country is building solar and wind farms to make clean power.",
+   "Electricity has a long history, but it is still changing. Engineers are now looking for cleaner ways to make it and better ways to store it."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "Where does the word electricity come from?",
+    "options": [
+     "a Latin word for lightning",
+     "a Greek word for amber",
+     "the name of a scientist"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "What did Benjamin Franklin want to show with his kite?",
+    "options": [
+     "that kites can fly high",
+     "that storms are dangerous",
+     "that lightning is a form of electricity"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "What did Michael Faraday show?",
+    "options": [
+     "Moving a magnet near a coil of wire makes a current.",
+     "Amber can pick up small feathers.",
+     "Lightning comes from clouds."
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "What did Edison's company open in 1882?",
+    "options": [
+     "a factory for oil lamps",
+     "a school for scientists",
+     "a power station in New York"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "What was the situation in Oman before 1970?",
+    "options": [
+     "Only a few places had power.",
+     "Every home had electricity.",
+     "Nobody used any machines."
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "What is Oman building to make clean power?",
+    "options": [
+     "coal power stations",
+     "solar and wind farms",
+     "nuclear power stations"
+    ],
+    "answer": 1
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "Thales rubbed amber with a ________ and it picked up small feathers.",
+    "answer": "cloth"
+   },
+   {
+    "n": 8,
+    "q": "The ________ is the machine that still produces most of our electricity.",
+    "answer": "generator"
+   },
+   {
+    "n": 9,
+    "q": "After electric lights appeared, many people stopped using oil lamps and ________.",
+    "answer": "candles"
+   },
+   {
+    "n": 10,
+    "q": "Electricity made homes cleaner, safer and more ________.",
+    "answer": "comfortable"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "Ahmad ibn Majid, the Omani Navigator",
+  "passage": [
+   "Ahmad ibn Majid was one of the greatest sailors in the history of the Arab world. He was born around the year 1432 in Julfar, a port on the Gulf coast that was then part of Oman's sailing world. People called him \"the Lion of the Sea\". His father and grandfather were also famous navigators, so he grew up listening to stories of the sea.",
+   "At that time there were no satellites and no maps like ours. Sailors used the stars to find the direction at night. They also used a compass with a magnetic needle and a simple tool called a kamal. The kamal was a small piece of wood with a knotted string. A sailor held it in front of his eye to measure the height of a star above the horizon, and this showed how far north or south the ship was.",
+   "Ibn Majid also knew the winds very well. In the Indian Ocean, the monsoon winds blow from the south-west in summer and from the north-east in winter. Sailors had to plan their journeys carefully, and ibn Majid knew the best months to leave and to return. He also knew where the dangerous rocks and shallow water were.",
+   "He wrote down his knowledge in about forty books and poems. In the year 1490, he finished his most famous book, The Book of Benefits. It explained the coasts, the ports, the stars and the sea routes from the Red Sea to India and beyond. Ibn Majid wrote many of his lessons in poems, because rhyming verses were easy to remember.",
+   "Some stories say that ibn Majid helped the Portuguese explorer Vasco da Gama in 1498. Da Gama arrived at Malindi on the coast of East Africa, and a local pilot guided his ships across the Indian Ocean to Calicut in India. Historians still argue about who the pilot was, but many people believe that it was ibn Majid.",
+   "Ibn Majid died around the year 1500. Sailors used his books for centuries, and scholars still study them today. He is remembered with pride, and his work reminds us of the long history of Arab and Omani seafarers."
+  ],
+  "short": [
+   {
+    "q": "What was ibn Majid called by people?",
+    "hint": "",
+    "answer": "The Lion of the Sea",
+    "n": 1
+   },
+   {
+    "q": "What did sailors use to find the direction at night?",
+    "hint": "",
+    "answer": "The stars",
+    "n": 2
+   },
+   {
+    "q": "What is the kamal made of?",
+    "hint": "",
+    "answer": "Wood",
+    "n": 3
+   },
+   {
+    "q": "In which year did ibn Majid finish The Book of Benefits?",
+    "hint": "(year)",
+    "answer": "1490",
+    "n": 4
+   },
+   {
+    "q": "Why did he write many of his lessons in poems?",
+    "hint": "",
+    "answer": "Easy to remember",
+    "n": 5
+   },
+   {
+    "q": "Which Portuguese explorer arrived at Malindi in 1498?",
+    "hint": "",
+    "answer": "Vasco da Gama",
+    "n": 6
+   }
+  ],
+  "tf": [
+   {
+    "statement": "Ibn Majid's father and grandfather were also navigators.",
+    "answer": true,
+    "n": 7
+   },
+   {
+    "statement": "The monsoon winds blow from the same direction all year.",
+    "answer": false,
+    "n": 8
+   },
+   {
+    "statement": "Historians agree that ibn Majid guided Vasco da Gama.",
+    "answer": false,
+    "n": 9
+   },
+   {
+    "statement": "Scholars still study ibn Majid's books today.",
+    "answer": true,
+    "n": 10
+   }
+  ]
+ },
+ "chart": {
+  "title": "Sources of News Used by Men and Women",
+  "ylabel": "Percentage of Adults",
+  "unit": "%",
+  "categories": [
+   "Television",
+   "Social media",
+   "News websites",
+   "Newspapers"
+  ],
+  "series": [
+   {
+    "name": "Men",
+    "values": [
+     55,
+     45,
+     35,
+     15
+    ]
+   },
+   {
+    "name": "Women",
+    "values": [
+     40,
+     75,
+     50,
+     20
+    ]
+   }
+  ],
+  "model": "The bar chart shows the sources of news used by men and women in one town in Oman. The sources of news were television, social media, news websites and newspapers. Overall, men preferred television, whereas women preferred social media.\nFirstly, the most popular source of news for men was television, with 55% of men. This was followed by social media (45%) and news websites (35%). However, the least popular source for men was newspapers, with only 15% of men.\nIn contrast, the most popular source of news for women was social media, with 75% of women. This was followed by news websites (50%) and television (40%). However, the least popular source for women was newspapers, with only 20% of women.\nTo summarize, both men and women liked news websites. However, the biggest difference was in social media, where 45% of men chose it, whereas 75% of women did."
+ },
+ "email": {
+  "formal": false,
+  "situation": "Imagine you are Hamad. Your school is holding an energy-saving competition next week.",
+  "task": "Write an email to your friend Sami, who lives in another city, and tell him about the competition. In your email, write about:",
+  "bullets": [
+   "when the competition starts and how long it lasts",
+   "what your team will do",
+   "what the prize is"
+  ],
+  "model": "Dear Sami,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to tell you about an energy-saving competition at my school.\n\nFirst, the competition starts next Sunday and lasts for two weeks. For example, every class must try to use less electricity than the other classes. Moreover, the school will check the electricity meter every day.\n\nSecond, my team will switch off the lights and the air conditioners when we leave the classroom. Moreover, we will make posters to remind everyone to save energy. Therefore, I think we have a good chance to win, and the prize is a trip to the science centre.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nHamad"
+ }
+}

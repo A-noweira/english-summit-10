@@ -1,0 +1,129 @@
+{
+ "id": "MK-G02",
+ "title": "Used to, quantifiers · Recycling at school",
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "We didn't [[1]] recycle paper in the past, but now every class does."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "How [[2]] bins are there in the school yard?"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Only two. That isn't [[3]] for six hundred students."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "If we [[4]] more bins, students will recycle more."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "I agree. Plastic bottles [[5]] collected every Thursday by the club."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Great. Let's ask the headteacher for help."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "used to",
+     "use to"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "much",
+     "many"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "too",
+     "enough"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "buy",
+     "bought"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "is",
+     "are"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Every Sunday our class collects rubbish from the school yard. Most of it is plastic (1)_____ from food and drinks, and much of it is not thrown in the bin. If rubbish is not (2)_____, it ends up in a (3)_____ site, where it stays for hundreds of years. This is why we started a recycling club. We ask students to bring a (4)_____ bottle from home instead of buying new ones, and we try to (5)_____ the amount of waste we make.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "evidence",
+     "economy",
+     "packaging",
+     "society"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "options": [
+     "recycled",
+     "inhabited",
+     "launched",
+     "regulated"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "landfill",
+     "fossil",
+     "global",
+     "marine"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "severe",
+     "ancient",
+     "reusable",
+     "excessive"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "options": [
+     "afford",
+     "trap",
+     "reduce",
+     "absorb"
+    ],
+    "answer": 2
+   }
+  ]
+ }
+}

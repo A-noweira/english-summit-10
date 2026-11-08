@@ -1,0 +1,592 @@
+{
+ "id": 25,
+ "title": "Model Exam 25",
+ "listening1": {
+  "context": "You are going to hear a conversation between Maryam and Hamad.",
+  "script": [
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "Hi Hamad! Our science teacher wants every pair to show a clean energy project at the science fair. I would like to build a model wind turbine. What do you think?"
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "That sounds good, Maryam, but many students will do that. I prefer a solar oven. We can really cook food with the heat of the Sun."
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "That is more interesting! Let's do it. What shall we use for the oven? I have an old shoe box at home."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "A shoe box is too small. A pizza box is better, because it is flat and has a lid. My brother can bring one from the restaurant."
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "Perfect. Now, how can we collect more sunlight? I read that we should cover the lid with something shiny."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "Yes, aluminium foil reflects the sunlight into the box. We will also put black paper on the bottom, because black absorbs the heat very well."
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "I will bring the foil and the paper. What shall we cook? Cooking an egg would impress everybody."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "An egg takes too long, Maryam. Bread is boring. Let's melt marshmallows, because they change very quickly and everybody likes them."
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "Great choice! When shall we test it? The Sun is strong at ten o'clock in the morning."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "It is strongest around noon, so that is the best time. Late afternoon is too cool for the oven."
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "You are right. And where shall we do the test? The school yard is big, but the trees make shadows."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "My house is better. The roof has no shade at all, and my father can help us carry the box up the stairs."
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "Excellent. How long shall we leave the marshmallows in the oven? One hour sounds right to me."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "That is too long, because they will become hard again. Twenty minutes is not enough, so let's wait for forty minutes and check them."
+   },
+   {
+    "speaker": "Maryam",
+    "gender": "f",
+    "text": "Fine. Let's meet at your house on Friday and take photos of every step."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "Good idea. We can put the photos on our poster for the fair."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "What will Maryam and Hamad build for the science fair?",
+    "options": [
+     "a model wind turbine",
+     "a solar oven",
+     "a water heater"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "What will they use for the oven?",
+    "options": [
+     "a pizza box",
+     "a shoe box",
+     "a metal tin"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "What will they use to reflect the sunlight?",
+    "options": [
+     "black paper",
+     "a white cloth",
+     "aluminium foil"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "What will they cook in the oven?",
+    "options": [
+     "bread",
+     "marshmallows",
+     "an egg"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "At what time will they test the oven?",
+    "options": [
+     "at noon",
+     "at ten o'clock",
+     "in the late afternoon"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "Where will they test the oven?",
+    "options": [
+     "in the school yard",
+     "on the roof of Maryam's house",
+     "on the roof of Hamad's house"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "How long will they leave the marshmallows in the oven?",
+    "options": [
+     "forty minutes",
+     "twenty minutes",
+     "one hour"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about the history of money and trade.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Hello, everyone. Today I am going to talk about the history of money and trade."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Imagine a world with no money. Before money, people used barter, which means swapping one thing for another. A farmer with extra wheat might swap it for a pot or for fish. This worked, but it was difficult. What if the potter did not want any wheat?"
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "So people began to use things that everyone accepted, such as salt, shells or cattle. In many parts of Africa and Asia, people used small sea shells called cowries as money for hundreds of years. Salt was so valuable in some places that workers were paid with it."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Around two thousand six hundred years ago, in the kingdom of Lydia, which was in modern Turkey, people made the first metal coins from a mixture of gold and silver. Coins were small, strong and easy to carry, and each one carried a stamp to show its value."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Trade grew quickly. In ancient Oman, merchants sailed to India and East Africa, and they sold frankincense from Dhofar. This sweet-smelling resin was so valuable that it was sold in Egypt, Greece and Rome."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Coins were heavy for big payments, so the Chinese began to use paper money. The first government paper money appeared in China around the year one thousand. It was light, and merchants could carry large sums easily."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Today most money is digital. People pay with cards, phones and apps, and the money moves between bank accounts on computers without any coins or notes. Many experts think that in the future, cash will be used even less."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "q": "What do we call swapping one thing for another?",
+    "hint": "",
+    "answer": "Barter",
+    "n": 1
+   },
+   {
+    "q": "What small sea shells were used as money?",
+    "hint": "",
+    "answer": "Cowries",
+    "n": 2
+   },
+   {
+    "q": "In which modern country was the kingdom of Lydia?",
+    "hint": "",
+    "answer": "Turkey",
+    "n": 3
+   },
+   {
+    "q": "What did the stamp on a coin show?",
+    "hint": "",
+    "answer": "Its value / Value",
+    "n": 4
+   }
+  ],
+  "tf": [
+   {
+    "statement": "Frankincense was sold in Egypt, Greece and Rome.",
+    "answer": true,
+    "n": 5
+   },
+   {
+    "statement": "The first government paper money appeared in Egypt.",
+    "answer": false,
+    "n": 6
+   },
+   {
+    "statement": "Coins were easier than paper money to carry for big payments.",
+    "answer": false,
+    "n": 7
+   },
+   {
+    "statement": "Most money today is digital.",
+    "answer": true,
+    "n": 8
+   }
+  ]
+ },
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Our teacher said that we [[1]] a solar oven for the science fair."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "[[2]] you ever tried cooking with the Sun?"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Not yet. I think it is the [[3]] project in our class."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "You [[4]] put the oven on the roof, because it is sunny there."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Good idea. If it [[5]] cloudy, the oven won't work well."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Don't worry. The weather forecast is good for the whole week."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "will build",
+     "would build"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "Have",
+     "Has"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "more interesting",
+     "most interesting"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "should",
+     "shouldn't"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "is",
+     "will be"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Oman has a lot of sunshine, so solar (1)_____ is a good choice for the country. Solar panels change sunlight into (2)_____ for homes and schools. Burning coal and oil is bad because it sends harmful gases into the (3)_____. In contrast, wind and water are (4)_____ sources of energy, which means they never run out. Many families now (5)_____ electricity by turning off lights and using smart devices. These small steps protect our planet and also reduce the monthly bill.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "pollution",
+     "power",
+     "drought",
+     "tourism"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "electric",
+     "electrician",
+     "electricity",
+     "electronic"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "options": [
+     "atmosphere",
+     "architecture",
+     "audience",
+     "ambition"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "recyclable",
+     "rechargeable",
+     "removable",
+     "renewable"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 5,
+    "options": [
+     "lose",
+     "spend",
+     "save",
+     "charge"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ "reading1": {
+  "title": "The Rise of Social Media",
+  "passage": [
+   "Social media means websites and apps where people can share pictures, videos and messages. In the last twenty years, it has changed the way we talk to each other, learn and have fun.",
+   "The first social networks appeared in the late 1990s, but they only became really popular after 2000. Facebook was started in 2004 by Mark Zuckerberg, a university student in the United States. A year later, YouTube allowed people to share videos, and in 2010 Instagram made it easy to share photos from a phone. Short-video apps such as TikTok became popular a few years later.",
+   "Today about five billion people, more than half of the world, use social media. Young people use it for many different reasons. They chat with friends, follow their favourite sports stars, watch funny clips and share pictures of their daily life. Messaging apps are also very popular. WhatsApp started in 2009 as a simple app for sending messages, and today people use it to send voice messages, photos and documents. Many classmates also use it to share homework and ask each other questions.",
+   "Social media has many benefits. Families who live in different countries can talk to each other for free. Students can join study groups, and teachers can share lessons online. During emergencies, people can also get news very quickly, and small businesses can find customers without paying for expensive advertising.",
+   "However, there are also dangers. Some people waste hours scrolling through posts and forget their homework. Others are bullied online, or feel unhappy when they compare their lives with the perfect pictures of other people. False news can also spread fast, because many users share it before they check it.",
+   "There are simple ways to stay safe. Keep your account private and accept only people you know. Never share your password or your address. Think before you post, because a picture can stay online for many years. Finally, take regular breaks from your phone and spend time with your family and friends in the real world."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "When did social networks become really popular?",
+    "options": [
+     "before 1990",
+     "in the late 1990s",
+     "after 2000"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "q": "Who started Facebook?",
+    "options": [
+     "A university student",
+     "A famous teacher",
+     "A film company"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "What did Instagram make easy in 2010?",
+    "options": [
+     "sharing photos from a phone",
+     "sharing long videos",
+     "writing online books"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "About how many people use social media today?",
+    "options": [
+     "about five million",
+     "about five billion",
+     "about fifty million"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "Why can false news spread fast?",
+    "options": [
+     "Websites are very slow.",
+     "Many users share it before checking it.",
+     "People do not use their phones."
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "What does the writer advise?",
+    "options": [
+     "Post everything you do.",
+     "Accept every friend request.",
+     "Think before you post."
+    ],
+    "answer": 2
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "Facebook was started in ________ by Mark Zuckerberg.",
+    "answer": "2004"
+   },
+   {
+    "n": 8,
+    "q": "Families in different countries can talk to each other ________.",
+    "answer": "for free"
+   },
+   {
+    "n": 9,
+    "q": "Some people feel unhappy when they compare their lives with the ________ pictures of other people.",
+    "answer": "perfect"
+   },
+   {
+    "n": 10,
+    "q": "You should keep your account ________ and accept only people you know.",
+    "answer": "private"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "Thunderstorms and Lightning",
+  "passage": [
+   "A thunderstorm is a storm with thunder and lightning. It usually brings heavy rain and strong winds, and sometimes it brings hail, which is small balls of ice. Thunderstorms happen all over the world. At any moment, nearly two thousand thunderstorms are taking place somewhere on Earth.",
+   "A thunderstorm begins when warm, wet air rises quickly into the sky. As the air goes up, it cools, and the water vapour in it turns into tiny drops of water and ice. These drops form a huge, dark cloud called a cumulonimbus. This cloud can be more than ten kilometres high.",
+   "Inside the cloud, millions of ice crystals bump into each other as strong winds move them up and down. This creates static electricity, in the same way as rubbing a balloon on your hair. When the electric charge becomes very big, it jumps through the air as a giant spark. This spark is lightning.",
+   "Lightning is extremely hot. It can heat the air around it to 30,000 degrees Celsius, which is around five times hotter than the surface of the sun. The air expands so fast that it makes a loud sound wave, and this sound is thunder. Lightning and thunder happen at the same time, but we see the flash first because light travels faster than sound.",
+   "You can find out how far away a storm is. When you see the flash, start counting the seconds until you hear the thunder. Every three seconds is about one kilometre. In Oman, thunderstorms are most common in the mountains in summer, and the heavy rain can fill the wadis and cause flash floods.",
+   "Lightning can be dangerous, so safety is important. When you hear thunder, go inside a building or a car with a metal roof. Stay away from windows and do not use plugged-in electrical devices. Never shelter under a tall tree, and do not swim in the sea. Wait for thirty minutes after the last thunder before you go outside again.",
+   "Many people believe that lightning never strikes the same place twice, but this is not true. Tall buildings are hit again and again. For example, the Empire State Building in New York is struck about twenty times every year."
+  ],
+  "short": [
+   {
+    "q": "What is the huge, dark cloud of a thunderstorm called?",
+    "hint": "",
+    "answer": "Cumulonimbus",
+    "n": 1
+   },
+   {
+    "q": "What do ice crystals create when they bump into each other?",
+    "hint": "",
+    "answer": "Static electricity",
+    "n": 2
+   },
+   {
+    "q": "How hot can lightning make the air?",
+    "hint": "(temperature)",
+    "answer": "30,000 degrees Celsius",
+    "n": 3
+   },
+   {
+    "q": "What do we see first, the flash or the thunder?",
+    "hint": "",
+    "answer": "The flash / Lightning",
+    "n": 4
+   },
+   {
+    "q": "Where are thunderstorms most common in Oman?",
+    "hint": "",
+    "answer": "In the mountains",
+    "n": 5
+   },
+   {
+    "q": "How long should you wait after the last thunder?",
+    "hint": "",
+    "answer": "Thirty minutes",
+    "n": 6
+   }
+  ],
+  "tf": [
+   {
+    "statement": "A thunderstorm begins when warm, wet air rises quickly.",
+    "answer": true,
+    "n": 7
+   },
+   {
+    "statement": "Sound travels faster than light.",
+    "answer": false,
+    "n": 8
+   },
+   {
+    "statement": "A car with a metal roof is a safe place during a storm.",
+    "answer": true,
+    "n": 9
+   },
+   {
+    "statement": "Lightning never strikes the same place twice.",
+    "answer": false,
+    "n": 10
+   }
+  ]
+ },
+ "chart": {
+  "title": "Souvenirs Bought by Men and Women Tourists in Oman",
+  "ylabel": "Percentage of Tourists",
+  "unit": "%",
+  "categories": [
+   "Frankincense",
+   "Silver jewellery",
+   "Pottery",
+   "Dates",
+   "Omani halwa"
+  ],
+  "series": [
+   {
+    "name": "Men",
+    "values": [
+     65,
+     30,
+     20,
+     45,
+     55
+    ]
+   },
+   {
+    "name": "Women",
+    "values": [
+     70,
+     80,
+     35,
+     25,
+     50
+    ]
+   }
+  ],
+  "model": "The bar chart shows the souvenirs bought by men and women tourists in Oman. The souvenirs were frankincense, silver jewellery, pottery, dates and Omani halwa. Overall, men preferred frankincense, whereas women preferred silver jewellery.\nFirstly, the most popular souvenir for men was frankincense, with 65% of tourists. This was followed by Omani halwa (55%), dates (45%) and silver jewellery (30%). However, the least popular souvenir for men was pottery, with only 20% of tourists.\nIn contrast, the most popular souvenir for women was silver jewellery, with 80% of tourists. This was followed by frankincense (70%), Omani halwa (50%) and pottery (35%). However, the least popular souvenir for women was dates, with only 25% of tourists.\nTo summarize, both men and women liked buying frankincense. However, the biggest difference was in silver jewellery, where 30% of men chose it, whereas 80% of women did."
+ },
+ "email": {
+  "formal": false,
+  "situation": "Imagine you are Hamad. Last weekend, your family went on a camping trip in Oman.",
+  "task": "Write an email to your cousin Fahad, who lives in another country, and tell him about the trip. In your email, write about:",
+  "bullets": [
+   "where you went and how you travelled",
+   "what you did there",
+   "what you liked best about the trip"
+  ],
+  "model": "Dear Fahad,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to tell you about our family camping trip in Oman.\n\nFirst, we went to the Wahiba Sands last Friday. For example, we travelled in my father's four-wheel-drive car, and the journey took about three hours from Muscat. Moreover, we put up two big tents near a tall sand dune.\n\nSecond, we had a wonderful time there. We played football on the sand, rode a camel and cooked fish on a fire. Moreover, the best part of the trip was the night, because the sky was full of stars. Therefore, I want to go camping again soon, and I hope you can join us next time.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nHamad"
+ }
+}

@@ -1,0 +1,589 @@
+{
+ "id": 17,
+ "title": "Model Exam 17",
+ "listening1": {
+  "context": "You are going to hear a conversation between Latifa and Badar.",
+  "script": [
+   {
+    "speaker": "Latifa",
+    "gender": "f",
+    "text": "Hi Badar! Ms Zainab told me that our group must finish a science project before the science fair. Have you thought about it?"
+   },
+   {
+    "speaker": "Badar",
+    "gender": "m",
+    "text": "Yes, I have. At first I wanted to build a small robot, but it would cost too much money. How about making a weather station?"
+   },
+   {
+    "speaker": "Latifa",
+    "gender": "f",
+    "text": "What a great idea! Where could we put it? On the roof?"
+   },
+   {
+    "speaker": "Badar",
+    "gender": "m",
+    "text": "I don't think so. The roof is too windy, and it's dangerous to climb up there. I'd rather put it in the school garden, near the big palm tree."
+   },
+   {
+    "speaker": "Latifa",
+    "gender": "f",
+    "text": "Good. The garden is open and safe. What shall we measure first? Temperature is easy, but I would like to start with rainfall because Oman had some heavy storms last year."
+   },
+   {
+    "speaker": "Badar",
+    "gender": "m",
+    "text": "I agree. Rainfall is more interesting, and we can add wind speed later if we have time. How can we measure the rain?"
+   },
+   {
+    "speaker": "Latifa",
+    "gender": "f",
+    "text": "We can cut the top off a plastic bottle and turn it upside down like a funnel. I thought of a glass jar, but glass can break easily."
+   },
+   {
+    "speaker": "Badar",
+    "gender": "m",
+    "text": "Then plastic is better. I will bring a bottle tomorrow, and a ruler to measure the water. Do we need help from a teacher?"
+   },
+   {
+    "speaker": "Latifa",
+    "gender": "f",
+    "text": "Ms Zainab is busy with exams this month, but Mr Zahir, the geography teacher, has a good thermometer that we can borrow. He said he would be happy to help us."
+   },
+   {
+    "speaker": "Badar",
+    "gender": "m",
+    "text": "Wonderful. How often shall we check the station? Every hour is too much, so maybe at twelve o'clock?"
+   },
+   {
+    "speaker": "Latifa",
+    "gender": "f",
+    "text": "The sun is very hot at noon, and we have lessons then. Let's check it every morning at eight o'clock before the first lesson."
+   },
+   {
+    "speaker": "Badar",
+    "gender": "m",
+    "text": "Fine. And we'll write the numbers in a notebook every day. Where shall we show our results?"
+   },
+   {
+    "speaker": "Latifa",
+    "gender": "f",
+    "text": "Ms Zainab says we can make a poster for the science fair, but I prefer a short presentation in the school hall."
+   },
+   {
+    "speaker": "Badar",
+    "gender": "m",
+    "text": "Me too, with some photos on a big screen. The science fair is on Wednesday, so we have only two weeks to prepare."
+   },
+   {
+    "speaker": "Latifa",
+    "gender": "f",
+    "text": "Then let's start this afternoon. I will draw the plan for the station while you find the bottle."
+   },
+   {
+    "speaker": "Badar",
+    "gender": "m",
+    "text": "Agreed. See you in the garden after school!"
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "What will the students make?",
+    "options": [
+     "a small robot",
+     "a poster",
+     "a weather station"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "q": "Where will they put it?",
+    "options": [
+     "on the school roof",
+     "in the school garden",
+     "in the geography room"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "What will they measure first?",
+    "options": [
+     "rainfall",
+     "wind speed",
+     "temperature"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "What will they use to collect the rain?",
+    "options": [
+     "a glass jar",
+     "a plastic bottle",
+     "a metal bucket"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "Which teacher will lend them a thermometer?",
+    "options": [
+     "Ms Zainab",
+     "Mr Salem",
+     "Mr Zahir"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "When will they check the station every day?",
+    "options": [
+     "at eight o'clock in the morning",
+     "at twelve o'clock",
+     "after school"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 7,
+    "q": "How will they show their results?",
+    "options": [
+     "with a poster",
+     "with a short presentation",
+     "with a video on the website"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about Ibn Battuta.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Good morning, everyone. Today I am going to talk about Ibn Battuta, one of the greatest travellers in history."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Ibn Battuta was born in the city of Tangier, in Morocco, in the year thirteen hundred and four. When he was twenty-one years old, he left his home to perform Hajj in Makkah. He thought that he would be away for a short time, but he did not return home for almost thirty years."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "After Hajj, he decided to continue his journey. He visited Egypt, Syria, Iraq and Persia. He also sailed along the coast of East Africa and travelled through Turkey and Central Asia. In India, the ruler made him a judge in the city of Delhi, and he stayed there for several years."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "During his travels, Ibn Battuta also visited Oman. He stopped at the port of Qalhat and in the land of Dhofar, where he described the fruit trees and the customs of the people."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Later he went to China by sea. Some of his ships were attacked by pirates, and once he lost most of his belongings, but he never gave up. In total, he travelled more than one hundred thousand kilometres, and he saw more countries than any other traveller of his time."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "At last he returned to Morocco. There, the ruler asked him to tell the story of his adventures to a writer called Ibn Juzayy, who wrote it down. The result was a famous book called the Rihla, which means The Journey. Thanks to this book, we know a lot about daily life in many countries in the fourteenth century."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Ibn Battuta died in Morocco around the year thirteen sixty-nine. Today, people remember him as a brave man who was curious about the world."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "In which city was Ibn Battuta born?",
+    "hint": "",
+    "answer": "Tangier"
+   },
+   {
+    "n": 2,
+    "q": "How old was he when he left home?",
+    "hint": "(number)",
+    "answer": "21 / Twenty-one"
+   },
+   {
+    "n": 3,
+    "q": "In which Indian city did the ruler make him a judge?",
+    "hint": "",
+    "answer": "Delhi"
+   },
+   {
+    "n": 4,
+    "q": "What was the name of his famous book?",
+    "hint": "",
+    "answer": "(The) Rihla"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "Ibn Battuta returned home after a short time.",
+    "answer": false
+   },
+   {
+    "n": 6,
+    "statement": "Ibn Battuta visited Oman during his travels.",
+    "answer": true
+   },
+   {
+    "n": 7,
+    "statement": "He travelled more than one hundred thousand kilometres.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "Ibn Battuta wrote the Rihla alone without any help.",
+    "answer": false
+   }
+  ]
+ },
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Have you seen the weather report? It [[1]] heavily since this morning."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Yes, it is the [[2]] rain of the year."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "If the wadi [[3]] with water, the police will close the road."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Some roads are already flooded, but [[4]] of the houses are safe."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "The man [[5]] drives our school bus says the school will close tomorrow."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Good! Let us stay at home and watch the news."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "has been raining",
+     "is raining"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "heavier",
+     "heaviest"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "will fill",
+     "fills"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "much",
+     "most"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "which",
+     "who"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Our planet is getting warmer every year because of (1)_____ gases that trap heat in the air, and the weather is becoming more extreme in many countries. Last summer a long (2)_____ left many farms without water, and later heavy rain caused a dangerous (3)_____ in the valley. Scientists say that we must reduce the amount of (4)_____ from cars and factories. Every family can help by (5)_____ paper, glass and plastic instead of throwing them away, and by planting trees in the garden. Small actions like these protect our future.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "frozen",
+     "sunny",
+     "greenhouse",
+     "artificial"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "options": [
+     "forecast",
+     "drought",
+     "glacier",
+     "breeze"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "harvest",
+     "shadow",
+     "habitat",
+     "flood"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 4,
+    "options": [
+     "emissions",
+     "inventions",
+     "followers",
+     "citizens"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "downloading",
+     "exploring",
+     "trading",
+     "recycling"
+    ],
+    "answer": 3
+   }
+  ]
+ },
+ "reading1": {
+  "title": "E-books and Digital Libraries",
+  "passage": [
+   "An e-book is a book that you read on a screen instead of on paper. You can read e-books on a phone, a tablet, a laptop or a special device called an e-reader. One e-reader can store thousands of books, so you can carry a whole library in your school bag. This is very useful for students who travel a lot.",
+   "The idea of the e-book is older than most people think. In 1971, a student named Michael Hart typed an important document into a computer and shared it with other people. This was the beginning of Project Gutenberg, a website that now offers more than seventy thousand free books. Later, in 2007, the company Amazon sold its first Kindle, and e-readers became popular all over the world.",
+   "E-books have many advantages. They are usually cheaper than printed books, and you can buy one in a few seconds without leaving your home. Readers can also make the letters bigger, which is very helpful for people with poor eyesight. In addition, many e-readers have a light, so you can read in a dark room at night.",
+   "Digital libraries are another great idea. A digital library keeps books, magazines and old documents on computers instead of on shelves. Members can borrow an e-book with an app, and the book returns itself automatically after a few weeks, so nobody pays a fine for a late book.",
+   "However, e-books also have some disadvantages. Many people say that reading on a screen makes their eyes tired, especially on a phone. A device needs a battery, and it stops working if the battery is empty. Some readers also miss the smell and feel of a paper book, and they like to see a full bookshelf in their room.",
+   "In the end, the best choice depends on the reader. Some students prefer printed books for studying, while others like the speed and the low price of e-books. Many readers use both. The most important thing is to read regularly, whatever the format. A good book is always a good friend, on paper or on a screen."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "What does an e-reader do?",
+    "options": [
+     "It prints books at home.",
+     "It stores thousands of books.",
+     "It makes phone calls."
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "Who started Project Gutenberg?",
+    "options": [
+     "The company Amazon",
+     "A school librarian",
+     "A student called Michael Hart"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "When did Amazon sell its first Kindle?",
+    "options": [
+     "in 1971",
+     "in 2017",
+     "in 2007"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "Why are e-books helpful for people with poor eyesight?",
+    "options": [
+     "The letters can be made bigger.",
+     "They are cheaper.",
+     "They are lighter."
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "What happens to a borrowed e-book after a few weeks?",
+    "options": [
+     "It returns itself automatically.",
+     "The reader pays a fine.",
+     "The reader must go to the library."
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "Why do some people prefer paper books?",
+    "options": [
+     "They need no battery.",
+     "They like the smell and feel of paper.",
+     "They are cheaper than e-books."
+    ],
+    "answer": 1
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "One e-reader can store ________ of books.",
+    "answer": "thousands"
+   },
+   {
+    "n": 8,
+    "q": "E-books are usually ________ than printed books.",
+    "answer": "cheaper"
+   },
+   {
+    "n": 9,
+    "q": "A digital library keeps books on ________ instead of on shelves.",
+    "answer": "computers"
+   },
+   {
+    "n": 10,
+    "q": "An e-reader stops working if the ________ is empty.",
+    "answer": "battery"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "Cool Buildings",
+  "passage": [
+   "In hot countries such as Oman, keeping a building cool is a big challenge. Today most people use air conditioners, and these machines use a lot of electricity. In summer, air conditioning can take more than half of the electricity used in a home. This means higher bills and more pollution from power stations.",
+   "Long ago, people found clever ways to stay cool without electricity. Traditional Omani houses had thick walls made of mud or stone, which kept the heat out during the day. The windows were small and high, and the rooms were built around a shaded courtyard. Some families lived in barasti houses, which were made of palm leaves and allowed the air to pass through.",
+   "In Iran and the Gulf region, builders also made wind towers. A wind tower is a tall structure on the roof with openings at the top. It catches the wind and sends cooler air down into the house, while hot air goes out through another opening.",
+   "Modern engineers use some of the same ideas. A well-designed building has thick walls and special insulation, which is a material that stops heat from entering. Windows with two layers of glass reduce the heat from the sun. A white roof reflects sunlight instead of absorbing it, so the rooms below stay cooler.",
+   "Trees and plants also help. A tree planted near a wall gives shade, and the air around it is cooler because the leaves release water vapour. Long curtains and outside shutters stop the sun from entering through the windows during the hottest hours of the day.",
+   "Families can also save energy by using their air conditioners wisely. Experts advise people to set the temperature at twenty-four degrees, not lower, because every degree below this uses more electricity. It is also important to close the doors and windows, to clean the filters regularly and to switch the machine off when nobody is in the room.",
+   "In conclusion, cooling a building does not have to cost the earth. By mixing old ideas with new technology, we can stay comfortable, save money and reduce pollution."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What uses a lot of electricity in hot countries?",
+    "hint": "",
+    "answer": "Air conditioners"
+   },
+   {
+    "n": 2,
+    "q": "What were the walls of traditional Omani houses made of?",
+    "hint": "",
+    "answer": "Mud or stone"
+   },
+   {
+    "n": 3,
+    "q": "What were barasti houses made of?",
+    "hint": "",
+    "answer": "Palm leaves"
+   },
+   {
+    "n": 4,
+    "q": "What does a wind tower send down into the house?",
+    "hint": "",
+    "answer": "(Cooler) air"
+   },
+   {
+    "n": 5,
+    "q": "What does a white roof reflect?",
+    "hint": "",
+    "answer": "Sunlight"
+   },
+   {
+    "n": 6,
+    "q": "What temperature do experts advise for air conditioners?",
+    "hint": "(number)",
+    "answer": "Twenty-four degrees / 24 degrees"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Traditional Omani houses had large windows.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "A tree near a wall gives shade.",
+    "answer": true
+   },
+   {
+    "n": 9,
+    "statement": "Curtains and shutters can stop the sun from entering a room.",
+    "answer": true
+   },
+   {
+    "n": 10,
+    "statement": "Experts say that the air conditioner should always stay on when nobody is in the room.",
+    "answer": false
+   }
+  ]
+ },
+ "chart": {
+  "title": "Daily Screen Time of Grade 10 Students and Teachers",
+  "ylabel": "Percentage of People",
+  "unit": "%",
+  "categories": [
+   "Less than one hour",
+   "One to two hours",
+   "Three to four hours",
+   "More than four hours"
+  ],
+  "series": [
+   {
+    "name": "Students",
+    "values": [
+     12,
+     28,
+     38,
+     22
+    ]
+   },
+   {
+    "name": "Teachers",
+    "values": [
+     30,
+     45,
+     18,
+     7
+    ]
+   }
+  ],
+  "model": "The bar chart shows the daily screen time of Grade 10 students and teachers in one school in Oman. The screen times were less than one hour, one to two hours, three to four hours and more than four hours. Overall, students spent more time on screens, whereas teachers spent less.\nFirstly, the most common daily screen time for students was three to four hours, with 38% of students. This was followed by one to two hours (28%) and more than four hours (22%). However, the least common screen time for students was less than one hour, with only 12%.\nIn contrast, the most common daily screen time for teachers was one to two hours, with 45% of teachers. This was followed by less than one hour (30%) and three to four hours (18%). However, the least common screen time for teachers was more than four hours, with only 7%.\nTo summarize, both students and teachers used screens for one to two hours. However, the biggest difference was in three to four hours, where 38% of students chose it, whereas 18% of teachers did."
+ },
+ "email": {
+  "formal": false,
+  "situation": "Imagine you are Rashid. Last weekend your family visited Mutrah Souq in Muscat.",
+  "task": "Write an email to your friend Sami and tell him about the visit. In your email, write about:",
+  "bullets": [
+   "who went with you and how you got there",
+   "what you saw and bought",
+   "what you liked most about the souq"
+  ],
+  "model": "Dear Sami,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to tell you about my visit to Mutrah Souq last weekend.\n\nFirst, I went with my parents and my little sister, and we travelled there by car. For example, we left home at four o'clock in the afternoon and arrived in half an hour. Moreover, we walked along the Corniche before we entered the souq.\n\nSecond, I saw shops that sell frankincense, silver jewellery, spices and traditional clothes. Moreover, I bought a small silver dagger for my uncle and some sweets for my cousins. Therefore, it was my favourite part of the day, because the smell of frankincense and the lights made the souq feel magical.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nRashid"
+ }
+}

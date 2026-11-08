@@ -1,0 +1,50 @@
+{
+ "id": "MK-W04",
+ "title": "Chart: Reasons for Visiting a Museum · E-mail: formal",
+ "chart": {
+  "title": "Reasons for Visiting a Museum",
+  "ylabel": "Percentage of Visitors",
+  "unit": "%",
+  "categories": [
+   "Learning about history",
+   "Family outing",
+   "Taking photos",
+   "Seeing old objects",
+   "Joining a tour"
+  ],
+  "series": [
+   {
+    "name": "Men",
+    "values": [
+     70,
+     35,
+     15,
+     55,
+     25
+    ]
+   },
+   {
+    "name": "Women",
+    "values": [
+     60,
+     75,
+     45,
+     30,
+     20
+    ]
+   }
+  ],
+  "model": "The bar chart shows the reasons why men and women visit a museum in Muscat. The reasons were learning about history, a family outing, taking photos, seeing old objects and joining a tour. Overall, men visited mainly to learn about history, whereas women visited mostly for a family outing.\nFirstly, the most popular reason for men was learning about history, with 70% of men. This was followed by seeing old objects (55%), a family outing (35%) and joining a tour (25%). However, the least popular reason for men was taking photos, with only 15% of men.\nIn contrast, the most popular reason for women was a family outing, with 75% of women. This was followed by learning about history (60%), taking photos (45%) and seeing old objects (30%). However, the least popular reason for women was joining a tour, with only 20% of women.\nTo summarize, both men and women chose learning about history. However, the biggest difference was in a family outing, where 35% of men chose it, whereas 75% of women did."
+ },
+ "email": {
+  "formal": true,
+  "situation": "Imagine you are Maha, a Grade 10 student. Your school wants to learn more about the history of Omani forts.",
+  "task": "Write a formal email to Ms Layla, the director of the National Museum, and ask her to send a guest speaker to your school. In your email, write about:",
+  "bullets": [
+   "why your school needs the talk",
+   "what the speaker should talk about",
+   "when the talk could take place"
+  ],
+  "model": "Dear Ms Layla,\n\nI hope this email finds you in good health and high spirits. I am writing this email to ask whether a guest speaker from the museum could visit our school.\n\nFirst, our students are studying the history of Oman, and they would like to learn more about it. For example, many students have never visited an old fort. Moreover, a talk from an expert would make the lessons more interesting.\n\nSecond, the speaker could talk about how forts were built and how people lived in them long ago. Moreover, the talk could take place in the school hall on a Sunday morning next month. Therefore, all Grade 10 students could attend it.\n\nThank you for your time and attention. I look forward to your response. Please let me know if you need any further information.\n\nYours sincerely,\nMaha"
+ }
+}

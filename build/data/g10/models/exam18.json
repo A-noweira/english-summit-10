@@ -1,0 +1,590 @@
+{
+ "id": 18,
+ "title": "Model Exam 18",
+ "listening1": {
+  "context": "You are going to hear a conversation between Hana and Ahmed.",
+  "script": [
+   {
+    "speaker": "Hana",
+    "gender": "f",
+    "text": "Hi Ahmed! Have you heard about the school short-film competition? The winner will show their film on the big screen in the school hall."
+   },
+   {
+    "speaker": "Ahmed",
+    "gender": "m",
+    "text": "Yes, Mr Said told us about it, and I would love to join. We need an idea first. I thought about a film on healthy food, but many classes will choose that."
+   },
+   {
+    "speaker": "Hana",
+    "gender": "f",
+    "text": "How about a film about staying safe online? Every student uses the internet, so it is an interesting topic for everyone."
+   },
+   {
+    "speaker": "Ahmed",
+    "gender": "m",
+    "text": "That is a good idea. How long should the film be? The rules say it can be between three and ten minutes."
+   },
+   {
+    "speaker": "Hana",
+    "gender": "f",
+    "text": "I think five minutes is perfect. Three minutes is too short for a story, and ten minutes is too long for the judges."
+   },
+   {
+    "speaker": "Ahmed",
+    "gender": "m",
+    "text": "I agree. Now, who can act in the film? Talal is very funny, but he is shy in front of a camera."
+   },
+   {
+    "speaker": "Hana",
+    "gender": "f",
+    "text": "Then let's ask Hamood. He was the hero in last year's school play, so he has experience."
+   },
+   {
+    "speaker": "Ahmed",
+    "gender": "m",
+    "text": "Great choice. What shall we use for filming? My brother has a professional camera, but it is too heavy and complicated."
+   },
+   {
+    "speaker": "Hana",
+    "gender": "f",
+    "text": "A phone is easier, and mine has a very good camera. Where shall we film? The library is quiet, but it is too dark."
+   },
+   {
+    "speaker": "Ahmed",
+    "gender": "m",
+    "text": "What about the computer lab? It is bright, and the computers will look right for the story. Who will edit the film?"
+   },
+   {
+    "speaker": "Hana",
+    "gender": "f",
+    "text": "I have a free editing app on my laptop, so I can do it. You can write the script, because you are better at writing."
+   },
+   {
+    "speaker": "Ahmed",
+    "gender": "m",
+    "text": "Fine. Mr Said said we must send the film by the end of the month. When shall we start filming?"
+   },
+   {
+    "speaker": "Hana",
+    "gender": "f",
+    "text": "I have football practice on Tuesday and swimming on Thursday, so Sunday is the best day for me."
+   },
+   {
+    "speaker": "Ahmed",
+    "gender": "m",
+    "text": "Sunday is perfect for me, too. We can meet in the computer lab straight after school."
+   },
+   {
+    "speaker": "Hana",
+    "gender": "f",
+    "text": "Excellent. I will write the first part of the script tonight and send it to you by message."
+   },
+   {
+    "speaker": "Ahmed",
+    "gender": "m",
+    "text": "Thank you, Hana. I am sure we will make a wonderful film."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "What will the film be about?",
+    "options": [
+     "healthy food",
+     "staying safe online",
+     "school sports"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "How long will the film be?",
+    "options": [
+     "three minutes",
+     "ten minutes",
+     "five minutes"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "Who will act in the film?",
+    "options": [
+     "Hamood",
+     "Talal",
+     "Ahmed"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "What will they use for filming?",
+    "options": [
+     "a professional camera",
+     "a phone",
+     "a tablet"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "Where will they film?",
+    "options": [
+     "in the library",
+     "in the computer lab",
+     "in the hall"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "Who will edit the film?",
+    "options": [
+     "Ahmed",
+     "Mr Said",
+     "Hana"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "On which day will they start filming?",
+    "options": [
+     "Tuesday",
+     "Thursday",
+     "Sunday"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about batteries and energy storage.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Hello everyone. Today's talk is about batteries and how they help us to store energy."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Why do we need to store energy? The sun does not shine at night, and the wind does not always blow. If we make more electricity than we need during the day, we should keep it for later. Batteries are one way to do this."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "The first battery was invented by an Italian scientist called Alessandro Volta. He made it in the year eighteen hundred by putting layers of metal and wet paper together. The volt, a unit that we use to measure electricity, is named after him."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Today most phones, laptops and electric cars use lithium-ion batteries. They are light, they hold a lot of energy and they can be charged hundreds of times. Inside an electric car, many small batteries work together."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Large batteries are now built next to solar farms. During the day they collect the extra electricity, and in the evening they send it back to the homes in the town. In this way, people can use solar power even after sunset."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "There are other ways to store energy, too. In pumped storage, a power station uses extra electricity to pump water uphill into a high lake. When people need electricity, the water flows down through turbines and makes power again. Scientists are also testing hydrogen as a way to store large amounts of energy for many months."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Finally, remember that batteries contain metals which can harm nature. Never throw old batteries in the ordinary bin. Take them to a special recycling box in a shop or at school, so that the metals can be used again."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "Which scientist invented the first battery?",
+    "hint": "",
+    "answer": "(Alessandro) Volta"
+   },
+   {
+    "n": 2,
+    "q": "In which year did he make it?",
+    "hint": "(year)",
+    "answer": "1800"
+   },
+   {
+    "n": 3,
+    "q": "Which type of battery do most phones use?",
+    "hint": "",
+    "answer": "Lithium-ion"
+   },
+   {
+    "n": 4,
+    "q": "Where is water pumped in pumped storage?",
+    "hint": "",
+    "answer": "Uphill / Into a high lake"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "Solar panels make electricity at night.",
+    "answer": false
+   },
+   {
+    "n": 6,
+    "statement": "Large batteries next to solar farms send electricity back in the evening.",
+    "answer": true
+   },
+   {
+    "n": 7,
+    "statement": "Old batteries can be thrown in the ordinary bin.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Scientists are testing hydrogen as a way to store energy.",
+    "answer": true
+   }
+  ]
+ },
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Have you [[1]] your English essay to the platform yet?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Not yet. Mr Salem asked me whether I [[2]] finished the introduction."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "You [[3]] share your password with anyone, even with a friend."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "I know. This new platform is [[4]] than the old one."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Yes. If I [[5]] a faster laptop, I would finish my work earlier."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Do not worry. I can lend you mine."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "upload",
+     "uploaded"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "had",
+     "have"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "mustn't",
+     "needn't"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "more easy",
+     "easier"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "have",
+     "had"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Sara wants to be a famous (1)_____, so she makes short videos about cooking and posts them every Friday. Before she shares a video, she checks her (2)_____ settings so that strangers cannot see her personal information. She is careful about fake news too, and she never believes a story until she has checked the (3)_____. Her brother prefers online games, but their mother says he should not (4)_____ too much time in front of a screen. Their family always (5)_____ important files on an external hard drive in case the computer breaks.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "pharaoh",
+     "explorer",
+     "vlogger",
+     "engineer"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "options": [
+     "pollution",
+     "privacy",
+     "journey",
+     "weather"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "sauce",
+     "shore",
+     "score",
+     "source"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 4,
+    "options": [
+     "spend",
+     "build",
+     "drive",
+     "cut"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "log out",
+     "give up",
+     "show off",
+     "back up"
+    ],
+    "answer": 3
+   }
+  ]
+ },
+ "reading1": {
+  "title": "Angkor Wat",
+  "passage": [
+   "Angkor Wat is the largest religious building in the world. It stands in the north-west of Cambodia, in South-East Asia, near the town of Siem Reap. Tourists from many countries come to see it, and it is so important to Cambodians that its picture is on their national flag.",
+   "Angkor Wat was built in the early twelfth century by King Suryavarman the Second, a ruler of the Khmer Empire. The Khmer people were powerful in the region from the ninth to the fifteenth century. The temple was first built for the Hindu god Vishnu, but later it became a Buddhist temple, and it still is today.",
+   "The temple was built of sandstone blocks. Workers brought the stones from a quarry about forty kilometres away, and they probably moved many of them on rafts along rivers and canals. Thousands of workers, artists and builders took part, and the work took about thirty years.",
+   "Angkor Wat is famous for its design. It has five towers shaped like lotus flowers, and the tallest one rises about sixty-five metres above the ground. Long walls inside the temple are covered with carvings. They show scenes from Hindu stories, great battles and the daily life of the Khmer people. A wide moat, which is a channel of water, surrounds the whole temple.",
+   "Angkor Wat is only one part of a huge city called Angkor, which was the capital of the Khmer Empire. The city had a clever system of canals and reservoirs for water. This system helped farmers to grow rice, even in the dry season.",
+   "After the fifteenth century, the Khmer capital moved away, and the forest began to grow over many buildings. However, Angkor Wat was never completely forgotten, because Buddhist monks continued to look after it. In 1992, UNESCO added Angkor to its World Heritage list, and experts have worked for years to protect and repair the old stones.",
+   "Today visitors often arrive before sunrise, because the view of the five towers in the morning light is unforgettable. If you visit, remember to wear modest clothes and to respect the temple, which is still a holy place."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "In which country is Angkor Wat?",
+    "options": [
+     "Thailand",
+     "Cambodia",
+     "India"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "Who built Angkor Wat?",
+    "options": [
+     "King Suryavarman the Second",
+     "a Hindu god",
+     "Buddhist monks"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "What was the temple built of?",
+    "options": [
+     "baked bricks",
+     "wood",
+     "sandstone blocks"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "How are the five towers shaped?",
+    "options": [
+     "like lotus flowers",
+     "like mountains",
+     "like boats"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "What did the water system help farmers to grow?",
+    "options": [
+     "cotton",
+     "rice",
+     "wheat"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "Why was Angkor Wat never completely forgotten?",
+    "options": [
+     "Buddhist monks continued to look after it.",
+     "It was the capital of Cambodia.",
+     "Tourists visited it every year."
+    ],
+    "answer": 0
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "The temple was first built for the Hindu god ________.",
+    "answer": "Vishnu"
+   },
+   {
+    "n": 8,
+    "q": "A wide ________ surrounds the whole temple.",
+    "answer": "moat"
+   },
+   {
+    "n": 9,
+    "q": "The long walls inside the temple are covered with ________.",
+    "answer": "carvings"
+   },
+   {
+    "n": 10,
+    "q": "In 1992, UNESCO added Angkor to its ________ list.",
+    "answer": "World Heritage"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "When Land Turns to Desert",
+  "passage": [
+   "A desert is a very dry area with little rain, few plants and few animals. Some deserts, such as the Empty Quarter in Arabia, are natural and very old. But there is another kind of change that worries scientists: desertification. This is a process in which good land slowly becomes dry and useless, like a desert.",
+   "Desertification happens in dry regions of the world, for example in parts of Africa, Asia and Australia. It does not mean that deserts move like a wave of sand. It means that farmland and grassland lose their soil and plants, so nothing can grow there. Experts say that every year millions of hectares of land are lost in this way.",
+   "There are several causes. Climate change makes some places hotter and drier, and long droughts kill plants. People also cause desertification. When too many sheep, goats and camels eat the grass in one area, the plants have no time to grow again. Farmers who use the same field year after year make the soil weak, and people who cut down trees remove the roots that hold the soil together.",
+   "Without plants, wind and rain carry the soil away. The land becomes hard and dusty, and strong winds can start sand storms that harm people's health. Farmers lose their crops, families lose their income, and some people have to leave their villages to look for work in the cities.",
+   "Fortunately, we can fight desertification. Farmers can plant trees to protect the soil from the wind, and they can move their animals from one field to another so that the grass can grow again. Drip irrigation gives plants only the water they need, so less water is wasted. In some countries, people dig small holes in the ground to collect rain and help seeds to grow.",
+   "One of the biggest projects is the Great Green Wall in Africa. It began in 2007, and its aim is to plant a belt of trees and plants across the continent, from Senegal in the west to Djibouti in the east. Many communities along the wall have already seen better soil, more food and new jobs.",
+   "Oman also takes care of its land. Trees such as the ghaf and the samar are strong enough to live in dry places, and they are often used to protect the soil. If everyone helps, we can stop good land from becoming desert."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What is the process called in which good land becomes like a desert?",
+    "hint": "",
+    "answer": "Desertification"
+   },
+   {
+    "n": 2,
+    "q": "What do tree roots hold together?",
+    "hint": "",
+    "answer": "(The) soil"
+   },
+   {
+    "n": 3,
+    "q": "What carries the soil away when there are no plants?",
+    "hint": "",
+    "answer": "(The) wind and (the) rain"
+   },
+   {
+    "n": 4,
+    "q": "What gives plants only the water they need?",
+    "hint": "",
+    "answer": "Drip irrigation"
+   },
+   {
+    "n": 5,
+    "q": "In which year did the Great Green Wall begin?",
+    "hint": "(year)",
+    "answer": "2007"
+   },
+   {
+    "n": 6,
+    "q": "In which country does the Great Green Wall end in the east?",
+    "hint": "",
+    "answer": "Djibouti"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "The Empty Quarter is a natural and very old desert.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "Desertification means that sand moves like a wave over farmland.",
+    "answer": false
+   },
+   {
+    "n": 9,
+    "statement": "Sand storms can harm people's health.",
+    "answer": true
+   },
+   {
+    "n": 10,
+    "statement": "The Great Green Wall is only in one small village.",
+    "answer": false
+   }
+  ]
+ },
+ "chart": {
+  "title": "Ways Men and Women Travel to Work",
+  "ylabel": "Percentage of People",
+  "unit": "%",
+  "categories": [
+   "Car",
+   "Bus",
+   "Walking",
+   "Bicycle"
+  ],
+  "series": [
+   {
+    "name": "Men",
+    "values": [
+     75,
+     40,
+     25,
+     10
+    ]
+   },
+   {
+    "name": "Women",
+    "values": [
+     55,
+     65,
+     35,
+     5
+    ]
+   }
+  ],
+  "model": "The bar chart shows the ways men and women travel to work in one town in Oman. The ways of travelling were car, bus, walking and bicycle. Overall, men preferred going by car, whereas women preferred going by bus.\nFirstly, the most popular way of travelling for men was going by car, with 75% of people. This was followed by bus (40%) and walking (25%). However, the least popular way for men was bicycle, with only 10% of people.\nIn contrast, the most popular way of travelling for women was going by bus, with 65% of people. This was followed by car (55%) and walking (35%). However, the least popular way for women was bicycle, with only 5% of people.\nTo summarize, both men and women liked travelling by car. However, the biggest difference was in the bus, where 65% of women chose it, whereas 40% of men did."
+ },
+ "email": {
+  "formal": true,
+  "situation": "Imagine you are Hana, a student at your school. Your class would like to hold an Earth Hour at school to show how important it is to protect the climate.",
+  "task": "Write an email to your principal, Mr Khalfan, and ask for his permission. In your email, write about:",
+  "bullets": [
+   "when and where the Earth Hour will take place",
+   "what the students will do during the hour",
+   "what help you need from him"
+  ],
+  "model": "Dear Mr Khalfan,\n\nI hope this email finds you in good health and high spirits. I am writing this email to ask for your permission to hold an Earth Hour at our school.\n\nFirst, we would like to hold it on Thursday at eleven o'clock in the school yard. For example, all the lights and air conditioners in the school will be switched off for one hour. Moreover, the event will remind everybody that we must reduce pollution and save energy.\n\nSecond, the students will play traditional games outside, read poems about nature and make posters about climate change. Moreover, we would like to plant small trees together at the end. Therefore, we kindly ask you to allow the classes to join us and to ask the gardener to prepare the soil.\n\nThank you for your time and attention. I look forward to your response. Please let me know if you need any further information.\n\nYours sincerely,\nHana"
+ }
+}

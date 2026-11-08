@@ -1,0 +1,129 @@
+{
+ "id": "MK-G13",
+ "title": "Used to, any, comparatives · Newspapers and online news",
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "My grandfather [[1]] to read printed newspapers every day."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Mine reads the electronic version [[2]] his tablet now."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Does he have [[3]] problems with the small text?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "No, he can make the letters [[4]] with two fingers."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Clever! My grandfather [[5]] a paper newspaper for two years."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Technology helps older people a lot."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "use",
+     "used"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "on",
+     "in"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "any",
+     "some"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "bigger",
+     "more big"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "hasn't bought",
+     "didn't buy"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "My grandfather loves the news. In the past he bought printed (1)_____ every morning, but now he reads an electronic (2)_____ on his tablet. He says that an online news (3)_____ is faster because stories are updated all day. He also likes (4)_____ videos, which let him choose what to watch. Last week he even listened to a (5)_____ about the history of Muscat. My grandmother still prefers magazines, because she says they feel better in her hands.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "newspapers",
+     "generators",
+     "platforms",
+     "emperors"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "version",
+     "tonne",
+     "symbol",
+     "habit"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "gas",
+     "coal",
+     "dam",
+     "site"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 4,
+    "options": [
+     "interactive",
+     "disastrous",
+     "violent",
+     "wealthy"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "pyramid",
+     "landfill",
+     "podcast",
+     "glacier"
+    ],
+    "answer": 2
+   }
+  ]
+ }
+}

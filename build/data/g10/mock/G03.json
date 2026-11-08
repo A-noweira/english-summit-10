@@ -1,0 +1,129 @@
+{
+ "id": "MK-G03",
+ "title": "Superlatives, so/such · Solar panels",
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Oman is one of the [[1]] countries in the world for solar energy."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "I know. The sun is [[2]] a strong source of power that panels work even in winter."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "My uncle [[3]] solar panels on his roof since last year."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Are they cheaper [[4]] ordinary electricity in the long run?"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Yes. The panels, [[5]] cost about two thousand rials, will save him money."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "That sounds like a good idea for our house too."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "sunnier",
+     "sunniest"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "so",
+     "such"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "has had",
+     "had"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "then",
+     "than"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "which",
+     "who"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Solar energy is one of the best renewable energy sources for Oman because the sun shines almost every day. Solar (1)_____ on the roof of a house collect sunlight and (2)_____ it into electricity. A family can (3)_____ them in a few days. They last for many years, and they are friendly to the (4)_____, because they do not burn fuel. Some power companies build big solar farms with a large (5)_____ of many megawatts to supply whole towns.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "turbines",
+     "geysers",
+     "dams",
+     "panels"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 2,
+    "options": [
+     "invent",
+     "convert",
+     "push",
+     "operate"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "fight",
+     "install",
+     "consider",
+     "absorb"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "invention",
+     "monument",
+     "expertise",
+     "environment"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 5,
+    "options": [
+     "capacity",
+     "skin",
+     "charity",
+     "heading"
+    ],
+    "answer": 0
+   }
+  ]
+ }
+}

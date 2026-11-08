@@ -1,0 +1,50 @@
+{
+  "id": "MK-W15",
+  "title": "Chart: Ways Students Learn About History · E-mail: informal",
+  "chart": {
+    "title": "Ways Students Travel to School",
+    "ylabel": "Percentage of Students",
+    "unit": "%",
+    "categories": [
+      "School bus",
+      "Family car",
+      "Walking",
+      "Cycling",
+      "Taxi"
+    ],
+    "series": [
+      {
+        "name": "boys",
+        "values": [
+          55,
+          25,
+          45,
+          35,
+          10
+        ]
+      },
+      {
+        "name": "girls",
+        "values": [
+          40,
+          70,
+          20,
+          5,
+          15
+        ]
+      }
+    ],
+    "model": "The bar chart shows the ways Grade 10 boys and girls travel to school. The ways of travelling were the school bus, the family car, walking, cycling and taxi. Overall, boys preferred the school bus, whereas girls preferred the family car.\nFirstly, the most popular way of travelling for boys was the school bus, with 55% of boys. This was followed by walking (45%), cycling (35%) and the family car (25%). However, the least popular way of travelling for boys was taxi, with only 10% of boys.\nIn contrast, the most popular way of travelling for girls was the family car, with 70% of girls. This was followed by the school bus (40%), walking (20%) and taxi (15%). However, the least popular way of travelling for girls was cycling, with only 5% of girls.\nTo summarize, both boys and girls chose the school bus. However, the biggest difference was in the family car, where 25% of boys chose it, whereas 70% of girls did."
+  },
+  "email": {
+    "formal": false,
+    "situation": "Imagine you are Hamad. Your pen friend Tom from England will visit Oman in the summer.",
+    "task": "Write an email to Tom and tell him about an old fort near your town. In your email, write about:",
+    "bullets": [
+      "where the fort is",
+      "what people used the fort for long ago",
+      "what he can see and do there"
+    ],
+    "model": "Dear Tom,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to tell you about an old fort near my town that you can visit.\n\nFirst, the fort is in the centre of my town, about twenty minutes from my house. For example, it is on a small hill, so you can see the whole area. Moreover, people built it hundreds of years ago.\n\nSecond, long ago the people used the fort to defend the town and to keep their food and weapons safe. Moreover, you can see the tall towers, the old rooms and a small museum. Therefore, you will learn a lot about Omani history there.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nHamad"
+  }
+}

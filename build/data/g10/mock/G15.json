@@ -1,0 +1,129 @@
+{
+ "id": "MK-G15",
+ "title": "Past continuous, comparatives · Power plants and power cuts",
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "There was a power cut while I [[1]] my homework."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Did the generator [[2]] on?"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "No. The electricity [[3]] back after two hours."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "My mother asked me [[4]] a torch when the lights went out."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Our house is [[5]] from the power plant than the school."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "That may explain it."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "was doing",
+     "did"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "came",
+     "come"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "has come",
+     "came"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "to bring",
+     "bringing"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "further",
+     "far"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "A power plant is a place where electricity is made. Most plants in Oman use natural gas, which is a fossil (1)_____. The gas is burned to heat water and make steam, and the steam turns a machine that can (2)_____ power. Cables then (3)_____ the electricity to cities and villages. Hospitals also keep a (4)_____ in case there is a power cut. Because oil and gas will (5)_____ one day, Oman is investing in solar and wind energy.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "chart",
+     "fort",
+     "fuel",
+     "flood"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "options": [
+     "ignore",
+     "suffer",
+     "produce",
+     "describe"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "options": [
+     "download",
+     "mention",
+     "supply",
+     "navigate"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "options": [
+     "tablet",
+     "journalist",
+     "generator",
+     "gladiator"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "options": [
+     "hurry up",
+     "log out",
+     "back up",
+     "run out"
+    ],
+    "answer": 3
+   }
+  ]
+ }
+}

@@ -1,0 +1,259 @@
+{
+  "id": "MK-L10",
+  "title": "Solar Panels and the Maya",
+  "listening1": {
+    "context": "You are going to hear a conversation between Fatma and Ali.",
+    "script": [
+      {
+        "speaker": "Fatma",
+        "gender": "f",
+        "text": "Hi Ali! You look happy today. Is there any news?"
+      },
+      {
+        "speaker": "Ali",
+        "gender": "m",
+        "text": "Yes, Fatma. My father has decided to put solar panels on the roof of our house. The engineer came yesterday to see it."
+      },
+      {
+        "speaker": "Fatma",
+        "gender": "f",
+        "text": "That's wonderful! Oman has a lot of sunshine. How many panels will your father buy? Will it be ten?"
+      },
+      {
+        "speaker": "Ali",
+        "gender": "m",
+        "text": "Ten would be too few for our big family. At first he wanted twelve, but the engineer advised fourteen panels because we use air conditioners all day."
+      },
+      {
+        "speaker": "Fatma",
+        "gender": "f",
+        "text": "I see. And where will the engineer put them? On the garage roof?"
+      },
+      {
+        "speaker": "Ali",
+        "gender": "m",
+        "text": "The garage roof is in the shade of a tree, so he chose the main roof. It faces the south, and it gets sun all day."
+      },
+      {
+        "speaker": "Fatma",
+        "gender": "f",
+        "text": "That makes sense. What about the cost? Solar panels are expensive, aren't they?"
+      },
+      {
+        "speaker": "Ali",
+        "gender": "m",
+        "text": "They are. The total cost is about four thousand rials. My father says it isn't cheap, but we will save money every month."
+      },
+      {
+        "speaker": "Fatma",
+        "gender": "f",
+        "text": "How much will the family save on the electricity bill?"
+      },
+      {
+        "speaker": "Ali",
+        "gender": "m",
+        "text": "The bill is now sixty rials a month. After the panels, it will be about twenty rials, so we will save forty rials."
+      },
+      {
+        "speaker": "Fatma",
+        "gender": "f",
+        "text": "That's a big saving! How long will the work take? Does the engineer need a week?"
+      },
+      {
+        "speaker": "Ali",
+        "gender": "m",
+        "text": "No, three days only. He will start on Sunday and finish on Tuesday, so the house will not be noisy for long."
+      },
+      {
+        "speaker": "Fatma",
+        "gender": "f",
+        "text": "Great. What happens at night, when there is no sun?"
+      },
+      {
+        "speaker": "Ali",
+        "gender": "m",
+        "text": "Good question. The house will use the electricity from the grid at night. During the day, the extra electricity goes to the grid, and the company pays us for it."
+      },
+      {
+        "speaker": "Fatma",
+        "gender": "f",
+        "text": "Really? That's clever. Do the panels need a lot of care?"
+      },
+      {
+        "speaker": "Ali",
+        "gender": "m",
+        "text": "Not much. We only clean the dust off them every month, and my brother Hamad will do that job. He says he loves climbing the ladder."
+      },
+      {
+        "speaker": "Fatma",
+        "gender": "f",
+        "text": "Lucky you! I'll ask my father if we can do the same."
+      }
+    ],
+    "items": [
+      {
+        "n": 1,
+        "q": "What has Ali's father decided to do?",
+        "options": [
+          "buy an electric car",
+          "put solar panels on the roof",
+          "build a wind turbine"
+        ],
+        "answer": 1
+      },
+      {
+        "n": 2,
+        "q": "How many panels will the family buy?",
+        "options": [
+          "ten",
+          "twelve",
+          "fourteen"
+        ],
+        "answer": 2
+      },
+      {
+        "n": 3,
+        "q": "Where will the engineer put the panels?",
+        "options": [
+          "on the main roof",
+          "on the garage roof",
+          "in the garden"
+        ],
+        "answer": 0
+      },
+      {
+        "n": 4,
+        "q": "How much will the panels cost?",
+        "options": [
+          "about four thousand rials",
+          "about sixty rials",
+          "about forty rials"
+        ],
+        "answer": 0
+      },
+      {
+        "n": 5,
+        "q": "How much will the monthly bill be after the panels?",
+        "options": [
+          "sixty rials",
+          "twenty rials",
+          "forty rials"
+        ],
+        "answer": 1
+      },
+      {
+        "n": 6,
+        "q": "How long will the work take?",
+        "options": [
+          "three days",
+          "a week",
+          "one day"
+        ],
+        "answer": 0
+      },
+      {
+        "n": 7,
+        "q": "Who will clean the panels?",
+        "options": [
+          "Ali's father",
+          "the engineer",
+          "Ali's brother"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  "listening2": {
+    "context": "You are going to hear a talk about the history of Omani dhow building.",
+    "script": [
+      {
+        "speaker": "Presenter",
+        "gender": "m",
+        "text": "Good morning, everyone. Today I am going to talk about the history of Omani dhow building, an old skill that is still alive in our country."
+      },
+      {
+        "speaker": "Presenter",
+        "gender": "m",
+        "text": "A dhow is a traditional wooden ship with large triangular sails. For thousands of years, Omani sailors used dhows to travel across the Indian Ocean. They sailed to India, East Africa and China, and they carried goods such as dates, frankincense, pearls and dried fish."
+      },
+      {
+        "speaker": "Presenter",
+        "gender": "m",
+        "text": "Oman was famous for its shipbuilders. Many of them worked in Sur, which was the most important dhow-building town on our coast. The builders of Sur made big ships, and some of them were more than thirty metres long."
+      },
+      {
+        "speaker": "Presenter",
+        "gender": "m",
+        "text": "The builders used teak wood. Teak does not grow in Oman, so it came by sea from India. It is a strong wood, and it does not rot easily in salt water."
+      },
+      {
+        "speaker": "Presenter",
+        "gender": "m",
+        "text": "Another surprising fact is that the early builders did not use nails. Instead, they sewed the planks together with strong rope made from coconut fibre. The builders had no plans on paper. They learned the skill from their fathers and grandfathers, and they remembered every measurement."
+      },
+      {
+        "speaker": "Presenter",
+        "gender": "m",
+        "text": "In nineteen eighty, a sewn ship called Sohar left Muscat and sailed all the way to China. The journey took about eight months, and it showed the world that sailors of the past could cross the ocean in such ships."
+      },
+      {
+        "speaker": "Presenter",
+        "gender": "m",
+        "text": "Today, steel ships with engines have replaced most dhows. However, builders in Sur still make dhows by hand, and many of these dhows are used for fishing and for tourist trips. Visitors can go to the shipyards and watch the builders at work."
+      },
+      {
+        "speaker": "Presenter",
+        "gender": "m",
+        "text": "This craft is an important part of our heritage, and young Omanis are learning it so that it never disappears. Thank you for listening."
+      }
+    ],
+    "short": [
+      {
+        "n": 1,
+        "q": "Which town was the most important dhow-building town in Oman?",
+        "hint": "",
+        "answer": "Sur"
+      },
+      {
+        "n": 2,
+        "q": "Which kind of wood did the builders use?",
+        "hint": "",
+        "answer": "teak"
+      },
+      {
+        "n": 3,
+        "q": "What was the rope for sewing the planks made from?",
+        "hint": "",
+        "answer": "coconut fibre"
+      },
+      {
+        "n": 4,
+        "q": "In which year did the ship Sohar sail to China?",
+        "hint": "(year)",
+        "answer": "1980"
+      }
+    ],
+    "tf": [
+      {
+        "n": 5,
+        "statement": "Dhows have large triangular sails.",
+        "answer": true
+      },
+      {
+        "n": 6,
+        "statement": "Teak grows in Oman.",
+        "answer": false
+      },
+      {
+        "n": 7,
+        "statement": "Builders in Sur use only machines today.",
+        "answer": false
+      },
+      {
+        "n": 8,
+        "statement": "Visitors can watch builders at work in the shipyards.",
+        "answer": true
+      }
+    ]
+  }
+}

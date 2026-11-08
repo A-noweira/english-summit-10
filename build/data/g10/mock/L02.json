@@ -1,0 +1,249 @@
+{
+ "id": "MK-L02",
+ "title": "Saving Water and the Egyptian Pyramids",
+ "listening1": {
+  "context": "You are going to hear a conversation between Asma and Rashid.",
+  "script": [
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "Hello Rashid! Mr Saif asked the Environment Club to plan a campaign to save water in our school. Have you got any ideas for a name?"
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "I like Save Our Water, but it sounds a little boring. What about Every Drop Counts? It is short and easy to remember."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "That is much better. Every Drop Counts it is! Now, where does our school waste the most water?"
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "I think it is the school garden. The sprinklers are on for a long time every morning."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "I do not agree. I watched the washrooms last week, and many taps were left running after students washed their hands. That is the biggest problem."
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "Really? Then we must start with the washrooms. Let's make posters and put them next to the sinks, so students see them every day."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "Good idea. I will ask the art teacher to help us. Also, one of the taps near the canteen is leaking. It drips all day."
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "Oh dear, that wastes a lot of water. We should tell the caretaker, Mr Nasser. He can fix it this week."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "Yes, but it is better to ask Mr Saif to speak to him, because he is a teacher. Now, how much water do we want to save?"
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "Ten percent is too small. Thirty percent is too difficult. Let's try for twenty percent."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "That sounds right. Every class should have a reason to join, so what about a prize for the class that saves the most water?"
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "A pizza party is nice, but it is not very green. Why not give the winning class a tree to plant in the school garden?"
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "I love that. The tree will also remind everyone of the campaign. When should we start?"
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "We have exams next week, so let's wait until the week after. We can begin on Monday, in two weeks' time."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "Perfect. I will write the plan tonight, and we can show it to Mr Saif tomorrow morning."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "What will the campaign be called?",
+    "options": [
+     "Every Drop Counts",
+     "Save Our Water",
+     "Water Heroes"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "Where does the school waste the most water?",
+    "options": [
+     "in the garden",
+     "in the washrooms",
+     "in the canteen"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "Where will they put the posters?",
+    "options": [
+     "at the gate",
+     "in the library",
+     "next to the sinks"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "Who will fix the leaking tap?",
+    "options": [
+     "Mr Saif",
+     "Mr Nasser",
+     "the art teacher"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "How much water do they want to save?",
+    "options": [
+     "twenty percent",
+     "thirty percent",
+     "ten percent"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "What will the winning class get?",
+    "options": [
+     "a pizza party",
+     "a trip",
+     "a tree"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "When will the campaign start?",
+    "options": [
+     "next Monday",
+     "in two weeks",
+     "after the exams"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about the pyramids of ancient Egypt.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Good morning, everyone. Today I am going to talk about one of the most famous buildings in the world: the pyramids of ancient Egypt."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "The pyramids are not just big stone buildings. They were tombs for the pharaohs, the kings of ancient Egypt. The Egyptians believed that a king would live again after death, so they built a safe and beautiful tomb for him and filled it with food, gold and everything he might need."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "The largest pyramid is the Great Pyramid at Giza, near Cairo. It was built for King Khufu about four thousand five hundred years ago. It was one hundred and forty-six metres high, which is as tall as a modern building with about fifty floors. For nearly four thousand years, it was the tallest building on Earth."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "How did the Egyptians build it? The workers cut about two million stone blocks. Many of them came from places near the pyramid, but some very hard stone was brought from Aswan, far to the south. The workers put the blocks on boats and carried them along the River Nile. Then they pulled the blocks up long ramps on wooden sleds."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Many people think that slaves built the pyramids, but this is not true. Archaeologists found the village where the builders lived. The workers were farmers and skilled men who received bread, beer and meat. They worked in teams, and the whole job took about twenty years."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "The Great Pyramid is also very exact. Each side faces almost perfectly to the north, south, east or west. This shows that the Egyptians were excellent at mathematics and at watching the stars."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "The ancient world had seven famous wonders, such as the Hanging Gardens of Babylon and the lighthouse at Alexandria. Today, the Great Pyramid is the only one of the seven that is still standing. Millions of tourists visit it every year."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "For which king was the Great Pyramid built?",
+    "hint": "",
+    "answer": "King Khufu / Khufu"
+   },
+   {
+    "n": 2,
+    "q": "How many years did the building work take?",
+    "hint": "",
+    "answer": "Twenty / 20"
+   },
+   {
+    "n": 3,
+    "q": "What did the workers use to carry the blocks along the Nile?",
+    "hint": "",
+    "answer": "Boats"
+   },
+   {
+    "n": 4,
+    "q": "How many of the seven wonders of the ancient world are still standing?",
+    "hint": "",
+    "answer": "One / 1"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "The pyramids were tombs for the pharaohs.",
+    "answer": true
+   },
+   {
+    "n": 6,
+    "statement": "Slaves built the pyramids.",
+    "answer": false
+   },
+   {
+    "n": 7,
+    "statement": "The builders received bread, beer and meat.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "The Great Pyramid is in the city of Luxor.",
+    "answer": false
+   }
+  ]
+ }
+}

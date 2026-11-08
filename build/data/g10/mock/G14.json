@@ -1,0 +1,129 @@
+{
+ "id": "MK-G14",
+ "title": "Present perfect, conditional 1 · Turtles at Ras Al Jinz",
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Green turtles [[1]] their eggs on the beach at night."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Have you ever [[2]] a baby turtle?"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Yes, I [[3]] one with my family two years ago."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Visitors mustn't [[4]] flash photography there, I think."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "That's a good rule. If we [[5]] their habitat, the turtles will disappear."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Then we must protect the beaches."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "lays",
+     "lay"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "seen",
+     "saw"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "have seen",
+     "saw"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "to use",
+     "use"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "destroy",
+     "destroyed"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Every year, thousands of visitors go to Ras Al Jinz to watch green turtles. At night, the female turtles come out of the sea and (1)_____ their eggs in the sand. Two months later, the baby turtles come out and walk to the sea. Their natural (2)_____ is the beach, and it must be kept clean and quiet. Unfortunately, only a few turtles (3)_____ to become adults. Plastic in the ocean is a serious (4)_____ because turtles think it is food. Rangers work to (5)_____ the beaches from damage.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "absorb",
+     "lay",
+     "scroll",
+     "push"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "button",
+     "habitat",
+     "statement",
+     "summary"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "describe",
+     "survive",
+     "convert",
+     "participate"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "benefit",
+     "skill",
+     "threat",
+     "advantage"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "options": [
+     "spend",
+     "translate",
+     "attach",
+     "protect"
+    ],
+    "answer": 3
+   }
+  ]
+ }
+}

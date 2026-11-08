@@ -1,0 +1,172 @@
+{
+ "id": "MK-R05",
+ "title": "Wikipedia and the Printing Press",
+ "reading1": {
+  "title": "Wikipedia",
+  "passage": [
+   "Wikipedia is a free online encyclopedia that anyone can read. It was launched on 15 January 2001 by Jimmy Wales and Larry Sanger. Today it has articles in more than three hundred languages, and millions of articles in English alone. Its name comes from \"wiki\", a Hawaiian word meaning \"quick\", and \"encyclopedia\".",
+   "What makes Wikipedia different from a paper encyclopedia is that almost anybody can edit it. Volunteers from all over the world write and correct articles, and they are not paid. When someone changes a page, the site saves the older versions, so mistakes can be undone quickly.",
+   "Wikipedia has rules. Articles must be written from a neutral point of view, and every important claim should have a reference to a reliable source, such as a book, a newspaper or a scientific journal. Writers should not add their own opinions or advertisements. Experienced editors, called administrators, can protect pages that are attacked by vandals.",
+   "Wikipedia is useful because it is quick, free and easy to understand. Each article has links to related topics and a list of references at the bottom. It is a good place to start learning about a subject, to find new words or to see a map or a timeline. It is run by a non-profit organisation, the Wikimedia Foundation, and it has no advertisements. It depends on donations from readers.",
+   "However, you should not trust it blindly. Because so many people can edit it, an article may contain mistakes, especially on a new or difficult subject. Sometimes the information is out of date. Teachers usually advise students not to use Wikipedia as their only source in an essay.",
+   "A smart reader checks the references at the bottom of the page, reads the \"Talk\" page where editors discuss problems, and compares what Wikipedia says with another reliable source. A warning at the top of an article may show that it needs better references. Students can use Wikipedia to get an overview and then look for the original sources.",
+   "The idea of sharing knowledge has inspired other projects too, such as Wikimedia Commons for free pictures and Wiktionary, an online dictionary. Anyone who wants to help can become an editor, but they must learn the rules first and always give reliable references."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "Who launched Wikipedia?",
+    "options": [
+     "Jimmy Wales and Larry Sanger",
+     "Bill Gates and Steve Jobs",
+     "A group of teachers"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "Why can mistakes on a page be undone quickly?",
+    "options": [
+     "Only experts can edit the pages.",
+     "The site saves the older versions.",
+     "Pages are checked by teachers."
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "What should every important claim have?",
+    "options": [
+     "A reference to a reliable source",
+     "A picture or a map",
+     "The writer's opinion"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "How does Wikipedia pay for its work?",
+    "options": [
+     "With advertisements",
+     "With donations from readers",
+     "With money from schools"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "Why may an article contain mistakes?",
+    "options": [
+     "It is written by one person.",
+     "It is always very short.",
+     "So many people can edit it."
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "What does a smart reader do?",
+    "options": [
+     "Reads only the first line",
+     "Checks the references at the bottom",
+     "Copies the whole article"
+    ],
+    "answer": 1
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "\"Wiki\" is a Hawaiian word meaning ________.",
+    "answer": "quick"
+   },
+   {
+    "n": 8,
+    "q": "The volunteers who write the articles are not ________.",
+    "answer": "paid"
+   },
+   {
+    "n": 9,
+    "q": "Experienced editors, called ________, can protect pages.",
+    "answer": "administrators"
+   },
+   {
+    "n": 10,
+    "q": "Editors discuss problems on the \"________\" page.",
+    "answer": "Talk"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "The Printing Press",
+  "passage": [
+   "Before printing was invented, every book had to be copied by hand. A scribe could take months to copy one book, so books were rare and expensive, and only rich people, schools and religious centres owned them.",
+   "Printing began in China. The oldest printed book with a date is the Diamond Sutra, printed in 868 AD with carved wooden blocks. Around 1040 AD, a Chinese inventor named Bi Sheng made movable type from baked clay. Each piece was one character, and the pieces could be arranged in different orders to make many pages. Paper-making also spread from China along the trade routes to the Middle East and Europe, and paper was much cheaper than animal skin.",
+   "In Europe, the German goldsmith Johannes Gutenberg developed a printing press with movable metal type in the city of Mainz around 1450. Metal letters lasted longer than letters of clay or wood. Gutenberg also used oil-based ink, which stuck well to metal, and a press similar to the machines used to squeeze grapes.",
+   "Around 1455, Gutenberg printed his most famous book, the Gutenberg Bible. About one hundred and eighty copies were made, and fewer than fifty are known to exist today. The book was printed in Latin and has more than one thousand pages, and each surviving copy is worth millions of dollars.",
+   "The new invention spread fast. By 1500, printing presses were working in hundreds of European cities, and they had produced millions of books.",
+   "Printing changed society. Books became cheaper, so more people learned to read. Scientists could share their discoveries and compare ideas, and this helped science to grow. Newspapers appeared in the seventeenth century, and printed maps helped explorers and traders. Spelling and grammar also became more standard, because many readers saw the same printed words.",
+   "Today we can print a book in a few hours with modern machines, and we can also read it on a screen. Still, the printing press is considered one of the most important inventions in history, because it made knowledge available to ordinary people. Books, newspapers, magazines and school textbooks all depend on the same idea of making many copies quickly."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "How was every book made before printing?",
+    "hint": "",
+    "answer": "By hand / It was copied by hand"
+   },
+   {
+    "n": 2,
+    "q": "What is the oldest printed book with a date?",
+    "hint": "",
+    "answer": "The Diamond Sutra"
+   },
+   {
+    "n": 3,
+    "q": "Who made movable type from baked clay?",
+    "hint": "",
+    "answer": "Bi Sheng"
+   },
+   {
+    "n": 4,
+    "q": "In which city did Gutenberg develop his press?",
+    "hint": "",
+    "answer": "Mainz"
+   },
+   {
+    "n": 5,
+    "q": "What kind of ink did Gutenberg use?",
+    "hint": "",
+    "answer": "Oil-based ink"
+   },
+   {
+    "n": 6,
+    "q": "In which century did newspapers appear?",
+    "hint": "",
+    "answer": "The seventeenth century"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Metal letters lasted longer than letters of clay or wood.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "All the copies of the Gutenberg Bible still exist today.",
+    "answer": false
+   },
+   {
+    "n": 9,
+    "statement": "Cheaper books helped more people to learn to read.",
+    "answer": true
+   },
+   {
+    "n": 10,
+    "statement": "The printing press is not considered an important invention.",
+    "answer": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "id": "MK-G12",
+ "title": "such/so, since · Nizwa Fort",
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "We [[1]] Nizwa Fort on a school trip last week."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "[[2]] it built in the seventeenth century?"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Yes. The guide asked us not [[3]] the old doors."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "I have never seen [[4]] a big tower."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "I have wanted to go [[5]] I was a child."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Let's go together next month."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "visited",
+     "have visited"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "Was",
+     "Is"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "touching",
+     "to touch"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "so",
+     "such"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "since",
+     "for"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Nizwa Fort is one of the most famous buildings in Oman. It was (1)_____ in the seventeenth century by builders who used clay, stone and wood. Its round tower is (2)_____, and from the top visitors can see the whole town. The thick walls helped to protect the (3)_____ from enemies. Inside, there are many rooms with beautiful (4)_____ on the ceilings, made by skilled (5)_____. Many tourists visit the fort every year.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "constructed",
+     "connected",
+     "converted",
+     "collected"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "reusable",
+     "interactive",
+     "harmful",
+     "enormous"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 3,
+    "options": [
+     "slogan",
+     "community",
+     "expertise",
+     "tablet"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "pollution",
+     "decoration",
+     "emission",
+     "regulation"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "traders",
+     "artists",
+     "bloggers",
+     "reporters"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+}

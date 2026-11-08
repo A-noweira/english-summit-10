@@ -1,0 +1,589 @@
+{
+ "id": 12,
+ "title": "Model Exam 12",
+ "listening1": {
+  "context": "You are going to hear a conversation between Salma and Khalid.",
+  "script": [
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "Hello Khalid! The principal has agreed to our idea. We can organise an online gaming tournament at school. Now we need to plan everything. Which kind of game shall we use?"
+   },
+   {
+    "speaker": "Khalid",
+    "gender": "m",
+    "text": "I would like a football game, because it is the most popular game among boys. What about you?"
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "Many girls will want to join too, and I think racing games are easier for everybody to learn. Let's choose a racing game."
+   },
+   {
+    "speaker": "Khalid",
+    "gender": "m",
+    "text": "That is a fair point. A racing game it is. Where shall we hold the tournament? The hall is big, but it has no computers."
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "The computer lab has twenty computers, so we can use that. We can show the final on the big screen in the hall."
+   },
+   {
+    "speaker": "Khalid",
+    "gender": "m",
+    "text": "Excellent idea. When shall we have it? I thought of Sunday, but the Grade twelve students have exams then."
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "Yes, and Monday is a bad day because of the sports lesson. How about Tuesday?"
+   },
+   {
+    "speaker": "Khalid",
+    "gender": "m",
+    "text": "Tuesday is perfect. How many students can play? Twenty computers means twenty players, I think."
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "Not exactly. Two computers must stay free for the teachers, and a smaller group makes the tournament more exciting. Let's allow sixteen players."
+   },
+   {
+    "speaker": "Khalid",
+    "gender": "m",
+    "text": "Agreed. And how long shall each game last? Five minutes is too short for a race with so many players."
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "I think ten minutes is enough. Fifteen minutes would be too long, because the finals must finish before the last lesson."
+   },
+   {
+    "speaker": "Khalid",
+    "gender": "m",
+    "text": "Ten minutes, then. What shall the winner receive? I would love to give a headphone set."
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "The principal said that prizes must be useful for study. So a book voucher is the best prize."
+   },
+   {
+    "speaker": "Khalid",
+    "gender": "m",
+    "text": "Good thinking. Now we need someone to be the referee. Mr Nasser, the computer teacher, knows all the rules of the game."
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "Yes, he is perfect for the job, and he has already agreed. I will write the invitation letters this afternoon."
+   },
+   {
+    "speaker": "Khalid",
+    "gender": "m",
+    "text": "And I will design the poster tonight. This is going to be fun!"
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "Which kind of game will they use?",
+    "options": [
+     "a football game",
+     "a racing game",
+     "a quiz game"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "Where will the tournament be held?",
+    "options": [
+     "in the hall",
+     "in the library",
+     "in the computer lab"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "On which day will the tournament be?",
+    "options": [
+     "Tuesday",
+     "Sunday",
+     "Monday"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "How many students can play?",
+    "options": [
+     "sixteen",
+     "twenty",
+     "eight"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "How long will each game last?",
+    "options": [
+     "five minutes",
+     "fifteen minutes",
+     "ten minutes"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "What will the winner receive?",
+    "options": [
+     "a headphone set",
+     "a book voucher",
+     "a trophy"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "Who will be the referee?",
+    "options": [
+     "the principal",
+     "Mr Nasser",
+     "Ms Wafa"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about saving water in Oman.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Good morning, everyone. Today I am going to talk about water in Oman and how we can save it."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Oman is one of the driest countries in the world. In most areas, it rains only a few days a year, and there are no permanent lakes. Yet people have lived here for thousands of years, because they found clever ways to find and share water."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "The most famous way is the falaj system. A falaj is a channel that brings water from a spring or from under the ground to farms and villages. Some aflaj in Oman are more than two thousand years old, and five of them are on the UNESCO World Heritage List. In a falaj village, every farmer receives water for a fixed time."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Today, however, the population is growing, and people use much more water than before. A large part of our drinking water now comes from desalination plants, which take the salt out of sea water. This process uses a lot of energy and money, so every drop is valuable."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Fortunately, everybody can save water. At home, you should turn off the tap while you brush your teeth. This simple habit can save many litres of water every week. You should also repair leaking pipes, because even a small leak can waste hundreds of litres a day. Take a short shower instead of a bath, because a bath uses much more water."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "In the garden, water the plants early in the morning or in the evening, when the sun is not hot, so less water disappears into the air."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Schools can help too. Students can start a water club, check the taps and remind everyone to be careful."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Remember: water is life, and saving it is everyone's duty. Thank you."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "How many aflaj in Oman are on the UNESCO World Heritage List?",
+    "hint": "(number)",
+    "answer": "5 / Five"
+   },
+   {
+    "n": 2,
+    "q": "What kind of plants take the salt out of sea water?",
+    "hint": "",
+    "answer": "Desalination plants"
+   },
+   {
+    "n": 3,
+    "q": "What should you turn off while you brush your teeth?",
+    "hint": "",
+    "answer": "The tap"
+   },
+   {
+    "n": 4,
+    "q": "When should you water plants in the garden?",
+    "hint": "",
+    "answer": "Early in the morning / In the evening"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "It rains on most days of the year in Oman.",
+    "answer": false
+   },
+   {
+    "n": 6,
+    "statement": "Some aflaj in Oman are more than two thousand years old.",
+    "answer": true
+   },
+   {
+    "n": 7,
+    "statement": "Desalination uses a lot of energy and money.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "A small leak cannot waste much water.",
+    "answer": false
+   }
+  ]
+ },
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Did you hear that Salim [[1]] his phone at the cinema yesterday?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Yes, and he was very upset because all his photos [[2]] on it."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "He should make a back-up. If you [[3]] your photos on a cloud, you never lose them."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "That is good advice. I will tell him the next time I [[4]] him."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Tell him to choose a strong password as well."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "I will. I think losing a phone is the [[5]] problem of all for young people today."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "has lost",
+     "lost"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "were saved",
+     "saved"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "will store",
+     "store"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "will see",
+     "see"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "most serious",
+     "more serious"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Our school has decided to use clean energy. Last month, workers put solar (1)_____ on the roof, and now the sun provides most of our electricity. Fossil fuels such as coal and oil are (2)_____ resources, so one day they will finish, but the sun will shine for millions of years. Wind power is another good choice because it does not produce harmful (3)_____. The headmaster also asked us not to (4)_____ electricity by leaving lights and fans on when we leave a room. If every family does this, we can protect the planet and (5)_____ money on electricity bills.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "pipes",
+     "panels",
+     "tides",
+     "mines"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "renewable",
+     "non-renewable",
+     "endless",
+     "unlimited"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "emissions",
+     "habits",
+     "harvests",
+     "tools"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "waste",
+     "save",
+     "produce",
+     "burn"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "spend",
+     "lose",
+     "save",
+     "borrow"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ "reading1": {
+  "title": "Fossil Fuels",
+  "passage": [
+   "Fossil fuels are coal, oil and natural gas. They are called fossil fuels because they were formed from the remains of plants and tiny sea animals that lived millions of years ago. Over a very long time, layers of mud and rock covered these remains. Heat and pressure slowly changed them into fuel. Coal is a black rock that people dig from mines, while oil and gas are found deep under the ground or under the sea.",
+   "People have used coal for centuries, but the use of fossil fuels grew quickly during the Industrial Revolution, when factories and trains began to burn coal. In the twentieth century, oil became even more important. Today, fossil fuels provide about eighty percent of the world's energy.",
+   "We use fossil fuels in many ways. Power stations burn coal or gas to make electricity. Petrol and diesel, which come from oil, are used by cars, trucks, ships and aeroplanes. Oil is also the raw material for plastic, and many homes use natural gas for cooking and heating.",
+   "Oil and gas have changed life in Oman. The country began to export oil in 1967, and the money was used to build schools, hospitals, roads and ports. Today, Oman also exports natural gas in liquid form, and it is an important part of the national income.",
+   "However, fossil fuels have serious disadvantages. When they burn, they release carbon dioxide, a greenhouse gas that traps heat and causes global warming. Burning fuel also pollutes the air, and breathing dirty air can harm people's lungs. In addition, oil can spill from ships into the sea and kill fish and birds.",
+   "The biggest problem is that fossil fuels are non-renewable. It takes millions of years to make them, but people use them much faster than nature can replace them. One day, they will run out.",
+   "For these reasons, many countries are moving towards cleaner energy, such as solar and wind power. We can also help by saving energy, sharing cars, taking public transport and switching off lights we do not need. Governments can also build solar farms and wind farms, and families can choose cars that use less fuel."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "What were fossil fuels formed from?",
+    "options": [
+     "the remains of plants and tiny sea animals",
+     "volcanic rock",
+     "water and sand"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "What slowly changed the remains into fuel?",
+    "options": [
+     "cold and wind",
+     "heat and pressure",
+     "rain and ice"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "What did factories and trains burn during the Industrial Revolution?",
+    "options": [
+     "wood",
+     "oil",
+     "coal"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "What do cars, trucks, ships and aeroplanes use?",
+    "options": [
+     "petrol and diesel",
+     "coal",
+     "natural gas"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "What gas do fossil fuels release when they burn?",
+    "options": [
+     "oxygen",
+     "carbon dioxide",
+     "hydrogen"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "Why are fossil fuels non-renewable?",
+    "options": [
+     "They are too expensive.",
+     "They are only found in Oman.",
+     "People use them faster than nature can replace them."
+    ],
+    "answer": 2
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "The use of fossil fuels grew quickly during the ________ Revolution.",
+    "answer": "Industrial"
+   },
+   {
+    "n": 8,
+    "q": "Oman began to export oil in ________.",
+    "answer": "1967"
+   },
+   {
+    "n": 9,
+    "q": "Breathing dirty air can harm people's ________.",
+    "answer": "lungs"
+   },
+   {
+    "n": 10,
+    "q": "We can help by sharing cars and taking ________.",
+    "answer": "public transport"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "The Vikings and Their Ships",
+  "passage": [
+   "The Vikings were people from Scandinavia, the northern part of Europe where Norway, Sweden and Denmark are today. They lived about one thousand years ago, between the years 793 and 1066. Many Vikings were farmers and fishermen, but they are best known as sailors who travelled across the sea in search of land, wealth and adventure.",
+   "The Vikings were excellent shipbuilders. Their most famous ship was the longship, which was long, narrow and light. Builders made it from strong oak wood, and they fixed the planks so that they overlapped. This made the ship strong but also flexible, so it could move easily over high waves.",
+   "A longship had one big square sail and a row of oars. When the wind was good, the crew used the sail. When there was no wind, they rowed. Because the ship was shallow, it could sail up rivers and land on a beach, so the Vikings could reach places that other ships could not. A large longship could carry about sixty warriors.",
+   "The Vikings also built wider ships called knarrs. These ships were used for trade, not for war. A knarr could carry heavy cargo such as furs, wood, iron and food. Traders sailed to many countries, and some of them even reached the markets of the Middle East, where they bought silver and spices.",
+   "The Vikings found their way without maps or compasses. They watched the sun by day and the stars at night. They also followed birds, because birds fly towards land, and they learned to read the colour of the water and the shape of the waves. Sailors passed this knowledge to their children.",
+   "Around the year 1000, a Viking named Leif Erikson sailed west across the Atlantic Ocean and reached North America, about five hundred years before Christopher Columbus. Before him, other Vikings had settled in Iceland and Greenland. Today, visitors can see well-preserved Viking ships in museums in Norway, and these ships show us how clever Viking builders were."
+  ],
+  "short": [
+   {
+    "q": "Which part of the world did the Vikings come from?",
+    "hint": "",
+    "answer": "Scandinavia",
+    "n": 1
+   },
+   {
+    "q": "What kind of wood did builders use for longships?",
+    "hint": "",
+    "answer": "Oak wood",
+    "n": 2
+   },
+   {
+    "q": "How many warriors could a large longship carry?",
+    "hint": "(number)",
+    "answer": "About sixty",
+    "n": 3
+   },
+   {
+    "q": "What were knarrs used for?",
+    "hint": "",
+    "answer": "Trade",
+    "n": 4
+   },
+   {
+    "q": "What did the Vikings watch at night to find their way?",
+    "hint": "",
+    "answer": "The stars",
+    "n": 5
+   },
+   {
+    "q": "Who sailed west and reached North America around the year 1000?",
+    "hint": "",
+    "answer": "Leif Erikson",
+    "n": 6
+   }
+  ],
+  "tf": [
+   {
+    "statement": "The Vikings lived about one thousand years ago.",
+    "answer": true,
+    "n": 7
+   },
+   {
+    "statement": "Longships were wide and heavy.",
+    "answer": false,
+    "n": 8
+   },
+   {
+    "statement": "The Vikings used compasses to find their way.",
+    "answer": false,
+    "n": 9
+   },
+   {
+    "statement": "A longship could sail up a river.",
+    "answer": true,
+    "n": 10
+   }
+  ]
+ },
+ "chart": {
+  "title": "Ways Grade 10 Students Save Water at Home",
+  "ylabel": "Percentage of Students",
+  "unit": "%",
+  "categories": [
+   "Turning off the tap",
+   "Taking short showers",
+   "Fixing leaks",
+   "Reusing water"
+  ],
+  "series": [
+   {
+    "name": "Boys",
+    "values": [
+     50,
+     70,
+     25,
+     40
+    ]
+   },
+   {
+    "name": "Girls",
+    "values": [
+     80,
+     45,
+     35,
+     60
+    ]
+   }
+  ],
+  "model": "The bar chart shows the ways Grade 10 boys and girls save water at home in one school in Oman. The ways were turning off the tap, taking short showers, fixing leaks and reusing water. Overall, boys preferred taking short showers, whereas girls preferred turning off the tap.\nFirstly, the most popular way for boys was taking short showers, with 70% of students. This was followed by turning off the tap (50%) and reusing water (40%). However, the least popular way for boys was fixing leaks, with only 25% of students.\nIn contrast, the most popular way for girls was turning off the tap, with 80% of students. This was followed by reusing water (60%) and taking short showers (45%). However, the least popular way for girls was fixing leaks, with only 35% of students.\nTo summarize, both boys and girls liked reusing water. However, the biggest difference was in turning off the tap, where 50% of boys chose it, whereas 80% of girls did."
+ },
+ "email": {
+  "formal": true,
+  "situation": "Imagine you are Hana, a Grade 10 student. Your class would like to organise a Heritage Day at school.",
+  "task": "Write an email to your principal, Mr Said, and ask for permission to hold the event. In your email, write about:",
+  "bullets": [
+   "when and where the event will take place",
+   "what activities you will organise",
+   "how the day will help students"
+  ],
+  "model": "Dear Mr Said,\n\nI hope this email finds you in good health and high spirits. I am writing this email to ask for your permission to hold a Heritage Day at our school.\n\nFirst, we would like to hold the event on a Thursday morning next month in the school yard. For example, students will wear traditional Omani clothes, and tables will be placed around the yard. Moreover, parents and local craftsmen could join us.\n\nSecond, we will organise traditional games, a small exhibition of old tools and a show of Omani songs and dances. Moreover, students will taste Omani food such as halwa. Therefore, they will learn to be proud of their culture and heritage.\n\nThank you for your time and attention. I look forward to your response. Please let me know if you need any further information.\n\nYours sincerely,\nHana"
+ }
+}

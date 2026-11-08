@@ -1,0 +1,259 @@
+{
+  "id": "MK-L12",
+  "title": "Tree Planting and Wind Power",
+  "listening1": {
+    "context": "You are going to hear a conversation between Salma and Khalid.",
+    "script": [
+      {
+        "speaker": "Salma",
+        "gender": "f",
+        "text": "Hi Khalid! Have you heard about the tree planting day that our school is organising?"
+      },
+      {
+        "speaker": "Khalid",
+        "gender": "m",
+        "text": "Yes, Salma. Mr Badar told us about it in the morning. Trees take in carbon dioxide, so they help to slow down climate change."
+      },
+      {
+        "speaker": "Salma",
+        "gender": "f",
+        "text": "That's right. Do you remember the date? I think it's on the fifth of the month."
+      },
+      {
+        "speaker": "Khalid",
+        "gender": "m",
+        "text": "No, it was changed. It will be on the twelfth, because the fifth is during the exams. The sun is also weaker in the morning, so we'll start at seven o'clock."
+      },
+      {
+        "speaker": "Salma",
+        "gender": "f",
+        "text": "Good. And which trees will we plant? Palm trees?"
+      },
+      {
+        "speaker": "Khalid",
+        "gender": "m",
+        "text": "Palm trees need a lot of water. The farmer said that ghaf trees are better, because they can live in the desert with little water. We will plant one hundred ghaf trees."
+      },
+      {
+        "speaker": "Salma",
+        "gender": "f",
+        "text": "I've never planted a tree before. Where will we plant them?"
+      },
+      {
+        "speaker": "Khalid",
+        "gender": "m",
+        "text": "Not in the school yard, because it's already full. We'll plant them beside the wadi near the school, and the municipality will give us the land."
+      },
+      {
+        "speaker": "Salma",
+        "gender": "f",
+        "text": "Wonderful. Do we need to bring anything from home?"
+      },
+      {
+        "speaker": "Khalid",
+        "gender": "m",
+        "text": "Yes, gloves and a bottle of water. The school will supply the small shovels. Also, wear a hat, because it will be hot."
+      },
+      {
+        "speaker": "Salma",
+        "gender": "f",
+        "text": "Okay. What will happen after we plant the trees? Someone must look after them."
+      },
+      {
+        "speaker": "Khalid",
+        "gender": "m",
+        "text": "The students of Grade eight will water them twice a week. After one year, the trees will not need much care."
+      },
+      {
+        "speaker": "Salma",
+        "gender": "f",
+        "text": "That's a good plan. Will our parents come too?"
+      },
+      {
+        "speaker": "Khalid",
+        "gender": "m",
+        "text": "Some of them will, and a reporter from the local newspaper will also come to take photographs."
+      },
+      {
+        "speaker": "Salma",
+        "gender": "f",
+        "text": "Great! Maybe our school will be in the newspaper. Is there a prize for the class that plants the most trees?"
+      },
+      {
+        "speaker": "Khalid",
+        "gender": "m",
+        "text": "There is. The winners will have a pizza party on Thursday. I hope that our class wins!"
+      },
+      {
+        "speaker": "Salma",
+        "gender": "f",
+        "text": "Me too. I can't wait for the day."
+      }
+    ],
+    "items": [
+      {
+        "n": 1,
+        "q": "What is the school organising?",
+        "options": [
+          "a tree planting day",
+          "a recycling week",
+          "a cleaning day"
+        ],
+        "answer": 0
+      },
+      {
+        "n": 2,
+        "q": "On which date will the event take place?",
+        "options": [
+          "the first",
+          "the fifth",
+          "the twelfth"
+        ],
+        "answer": 2
+      },
+      {
+        "n": 3,
+        "q": "Which trees will the students plant?",
+        "options": [
+          "palm trees",
+          "fruit trees",
+          "ghaf trees"
+        ],
+        "answer": 2
+      },
+      {
+        "n": 4,
+        "q": "Where will they plant the trees?",
+        "options": [
+          "beside the wadi",
+          "in the school yard",
+          "near the farm"
+        ],
+        "answer": 0
+      },
+      {
+        "n": 5,
+        "q": "What will the school supply?",
+        "options": [
+          "gloves",
+          "hats",
+          "shovels"
+        ],
+        "answer": 2
+      },
+      {
+        "n": 6,
+        "q": "Who will water the trees twice a week?",
+        "options": [
+          "Grade eight students",
+          "the farmer",
+          "the parents"
+        ],
+        "answer": 0
+      },
+      {
+        "n": 7,
+        "q": "What will the winning class get?",
+        "options": [
+          "a trip",
+          "a pizza party",
+          "a trophy"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  "listening2": {
+    "context": "You are going to hear a talk about the story of the light bulb.",
+    "script": [
+      {
+        "speaker": "Presenter",
+        "gender": "m",
+        "text": "Hello, everyone. Today I am going to tell you the story of the light bulb, a small invention that changed the way we live."
+      },
+      {
+        "speaker": "Presenter",
+        "gender": "m",
+        "text": "Long ago, people used fire to make light at night. They burned wood, and later they used candles and oil lamps. These lights were weak, and they were often dangerous, because they could start a fire at home."
+      },
+      {
+        "speaker": "Presenter",
+        "gender": "m",
+        "text": "Many inventors tried to make light with electricity. Around the year eighteen hundred, an English scientist showed that electricity could make a bright light between two pieces of carbon, but that lamp was too bright and too expensive for homes."
+      },
+      {
+        "speaker": "Presenter",
+        "gender": "m",
+        "text": "The first useful bulbs came in the second half of the nineteenth century. A British inventor called Joseph Swan and an American inventor called Thomas Edison both worked on the problem. In eighteen seventy-nine, Edison and his team tested a bulb that burned for more than thirteen hours. Later, they found that a thin thread of bamboo lasted for over one thousand hours."
+      },
+      {
+        "speaker": "Presenter",
+        "gender": "m",
+        "text": "Inside a bulb, there is a very thin wire called a filament. Electricity passes through the filament, which becomes so hot that it glows. The glass bulb has almost no air inside, because the filament would burn up in air. In the early nineteen hundreds, makers began to use a strong metal called tungsten for filaments, and it is still used in some bulbs today."
+      },
+      {
+        "speaker": "Presenter",
+        "gender": "m",
+        "text": "Old bulbs have one big problem. They waste about ninety percent of their energy as heat, so they give little light for the electricity they use."
+      },
+      {
+        "speaker": "Presenter",
+        "gender": "m",
+        "text": "Today, we have LED lamps. They use much less energy than old bulbs, and they last for many years. Many countries are now replacing old bulbs with LED lamps to save electricity and money."
+      },
+      {
+        "speaker": "Presenter",
+        "gender": "m",
+        "text": "So, from candles to LEDs, the light bulb has had a long and bright history. Thank you for listening."
+      }
+    ],
+    "short": [
+      {
+        "n": 1,
+        "q": "In which year did Edison's team test a bulb for thirteen hours?",
+        "hint": "(year)",
+        "answer": "1879"
+      },
+      {
+        "n": 2,
+        "q": "What is the thin wire inside a bulb called?",
+        "hint": "",
+        "answer": "(a) filament"
+      },
+      {
+        "n": 3,
+        "q": "Which strong metal is used for filaments?",
+        "hint": "",
+        "answer": "tungsten"
+      },
+      {
+        "n": 4,
+        "q": "What percentage of energy do old bulbs waste as heat?",
+        "hint": "(number)",
+        "answer": "90% / ninety percent"
+      }
+    ],
+    "tf": [
+      {
+        "n": 5,
+        "statement": "Thomas Edison was the only person who worked on electric bulbs.",
+        "answer": false
+      },
+      {
+        "n": 6,
+        "statement": "There is almost no air inside a glass bulb.",
+        "answer": true
+      },
+      {
+        "n": 7,
+        "statement": "LED lamps use more energy than old bulbs.",
+        "answer": false
+      },
+      {
+        "n": 8,
+        "statement": "LED lamps last for many years.",
+        "answer": true
+      }
+    ]
+  }
+}

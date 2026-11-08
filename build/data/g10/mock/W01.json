@@ -1,0 +1,47 @@
+{
+ "id": "MK-W01",
+ "title": "Chart: Apps Used Every Day by Grade 10 Boys and Girls · E-mail: informal",
+ "chart": {
+  "title": "Apps Used Every Day by Grade 10 Boys and Girls",
+  "ylabel": "Percentage of Students",
+  "unit": "%",
+  "categories": [
+   "Messaging apps",
+   "Video apps",
+   "Photo apps",
+   "Music apps"
+  ],
+  "series": [
+   {
+    "name": "Boys",
+    "values": [
+     70,
+     55,
+     25,
+     40
+    ]
+   },
+   {
+    "name": "Girls",
+    "values": [
+     85,
+     45,
+     65,
+     30
+    ]
+   }
+  ],
+  "model": "The bar chart shows the kinds of apps used every day by Grade 10 boys and girls in one school in Oman. The apps were messaging apps, video apps, photo apps and music apps. Overall, messaging apps were popular with both groups, but girls used photo apps much more than boys.\nFirstly, the most popular kind of app for boys was messaging apps, with 70% of boys. This was followed by video apps (55%) and music apps (40%). However, the least popular kind of app for boys was photo apps, with only 25% of boys.\nIn contrast, the most popular kind of app for girls was messaging apps, with 85% of girls. This was followed by photo apps (65%) and video apps (45%). However, the least popular kind of app for girls was music apps, with only 30% of girls.\nTo summarize, both boys and girls liked messaging apps. However, the biggest difference was in photo apps, where 25% of boys chose it, whereas 65% of girls did."
+ },
+ "email": {
+  "formal": false,
+  "situation": "Imagine you are Faisal. Your school has just started a podcast club.",
+  "task": "Write an email to your friend Hilal and invite him to join the club. In your email, write about:",
+  "bullets": [
+   "when and where the club meets",
+   "what members do in the club",
+   "what he should bring"
+  ],
+  "model": "Dear Hilal,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to invite you to join the new podcast club at my school.\n\nFirst, the club meets in the library every Wednesday at two o'clock. For example, the first meeting will be next week. Moreover, our English teacher, Mr Said, is the club leader.\n\nSecond, members choose a topic, write a short script and record it with a microphone. Moreover, we put the best podcasts on the school website. Therefore, please bring a notebook and your best ideas.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nFaisal"
+ }
+}

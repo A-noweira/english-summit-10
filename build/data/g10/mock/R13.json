@@ -1,0 +1,171 @@
+{
+ "id": "MK-R13",
+ "title": "Learning Online and The Land of Frankincense",
+ "reading1": {
+  "title": "Learning Online",
+  "passage": [
+   "Online learning means studying through the internet, using a laptop, a tablet or a phone. It has existed for many years, but it became much more common in 2020, when schools closed in many countries because of the coronavirus. More than one billion students in the world had to learn from home, and teachers began to use video lessons and online platforms every day.",
+   "There are two main kinds of online lesson. In a live lesson, the teacher and the students meet at the same time by video call and can talk to each other. In a recorded lesson, the teacher or an expert makes a video in advance, and students watch it whenever they want. Many schools now use blended learning, which combines lessons in the classroom with work online.",
+   "Online learning has many advantages. Students can learn from anywhere and work at their own speed. If a lesson is difficult, they can pause the video or watch it again. They can also join courses from teachers in other countries, and they save the time and money that they would spend on travelling to school.",
+   "However, there are some problems. Online learning needs a reliable internet connection and a device, and some families do not have both. It can also be hard to stay focused at home, because games and social media are only one click away. In addition, students have less face-to-face contact with their friends and teachers, and some of them feel lonely.",
+   "There are some simple ways to study better online. First, make a timetable and follow it every day. Second, choose a quiet place and switch off the notifications on your phone. Third, take notes while you watch, and take a short break every hour. Finally, do not be shy to ask questions, because teachers are happy to help.",
+   "Many good resources are free. Khan Academy, for example, is a website with video lessons in maths, science and other subjects. Libraries and museums also offer online tours and activities. With a good plan and a positive attitude, online learning can be a powerful way to improve your knowledge and skills."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "Why did online learning become more common in 2020?",
+    "options": [
+     "Schools closed in many countries.",
+     "Phones became cheaper.",
+     "Teachers did not want to teach."
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "What happens in a live lesson?",
+    "options": [
+     "Students watch a video in advance.",
+     "Students read a book alone.",
+     "The teacher and students meet at the same time."
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "What is blended learning?",
+    "options": [
+     "Learning only on a phone",
+     "Learning in the classroom and online",
+     "Learning without a teacher"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "q": "Which is an advantage of online learning?",
+    "options": [
+     "Students can watch a difficult lesson again.",
+     "Students always have faster internet.",
+     "Students never need a device."
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "Why can it be hard to stay focused at home?",
+    "options": [
+     "The lessons are too long.",
+     "The teacher is not kind.",
+     "Games and social media are very close."
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "What should students do while they watch a lesson?",
+    "options": [
+     "Take notes",
+     "Play music",
+     "Send messages"
+    ],
+    "answer": 0
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "Online learning needs a reliable internet ________ and a device.",
+    "answer": "connection"
+   },
+   {
+    "n": 8,
+    "q": "In a ________ lesson, an expert makes a video in advance.",
+    "answer": "recorded"
+   },
+   {
+    "n": 9,
+    "q": "Students should switch off the ________ on their phones.",
+    "answer": "notifications"
+   },
+   {
+    "n": 10,
+    "q": "Khan Academy has video lessons in maths and ________.",
+    "answer": "science"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "The Land of Frankincense",
+  "passage": [
+   "Frankincense is a sweet-smelling resin that comes from the Boswellia sacra tree. This tree grows mainly in the hills of Dhofar in southern Oman, in dry and rocky places. Omani frankincense is famous around the world for its high quality.",
+   "To collect frankincense, farmers make small cuts in the bark of the tree. A white, sticky liquid comes out of the cuts. After a short time, it hardens into small pale drops, which are called tears. The farmers then collect the tears by hand and sort them by size and colour.",
+   "In ancient times, frankincense was very valuable, and people sometimes compared it with gold. They burned it as incense in temples and homes because of its pleasant smell. The ancient Egyptians used it in religious ceremonies, and the Romans burned it at festivals. People also used it to make perfume and traditional medicine.",
+   "Traders carried frankincense across the Arabian desert on camels. The caravans travelled north for many weeks along a route that is called the Incense Route, and they reached Egypt, Mesopotamia and the lands around the Mediterranean Sea. Frankincense was also sent by ship from ports on the coast of Dhofar, and these trade links made the region rich.",
+   "In the year 2000, UNESCO added the Land of Frankincense to its list of World Heritage Sites. This listing includes four places in Dhofar. Wadi Dawkah and Shisr (Wubar) are in the interior. Khor Rori is an ancient port where ships loaded frankincense, and Al-Baleed is a historic coastal city near Salalah.",
+   "Frankincense is still important in Oman today. Omani families burn it in an incense burner at home, especially to welcome guests and during celebrations. Visitors to Salalah can learn more at the Museum of the Land of Frankincense in the Al-Baleed Archaeological Park. They can also buy frankincense in the souq.",
+   "The story of frankincense shows how one natural product connected Oman with many other civilisations. Today, the tree and the history of the incense trade are an important part of Omani heritage."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "Which tree produces frankincense?",
+    "hint": "",
+    "answer": "Boswellia sacra"
+   },
+   {
+    "n": 2,
+    "q": "What do farmers cut to collect frankincense?",
+    "hint": "",
+    "answer": "The bark"
+   },
+   {
+    "n": 3,
+    "q": "What are the small pale drops of frankincense called?",
+    "hint": "",
+    "answer": "Tears"
+   },
+   {
+    "n": 4,
+    "q": "What did traders use to carry frankincense across the desert?",
+    "hint": "",
+    "answer": "Camels"
+   },
+   {
+    "n": 5,
+    "q": "How many places in Dhofar are in the World Heritage listing?",
+    "hint": "",
+    "answer": "Four"
+   },
+   {
+    "n": 6,
+    "q": "In which year did UNESCO add the Land of Frankincense to its list?",
+    "hint": "(year)",
+    "answer": "In 2000"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "The ancient Egyptians used frankincense in religious ceremonies.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "The Boswellia sacra tree grows in every part of Oman.",
+    "answer": false
+   },
+   {
+    "n": 9,
+    "statement": "Omani families burn frankincense at home to welcome guests.",
+    "answer": true
+   },
+   {
+    "n": 10,
+    "statement": "Khor Rori was a village in the middle of the desert.",
+    "answer": false
+   }
+  ]
+ }
+}

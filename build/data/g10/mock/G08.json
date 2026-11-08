@@ -1,0 +1,129 @@
+{
+ "id": "MK-G08",
+ "title": "Relative clauses, superlatives · Alexander the Great",
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Alexander the Great [[1]] a huge empire in the fourth century BC."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "He became king when he [[2]] only twenty."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "He is one of [[3]] famous leaders in history."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Did he build cities too? Alexandria, [[4]] he built in Egypt, is still a big city."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Yes. Many other cities [[5]] named after him."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "That is amazing!"
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "created",
+     "has created"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "is",
+     "was"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "most",
+     "the most"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "which",
+     "where"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "was",
+     "were"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Alexander the Great was a king from Macedonia in northern Greece. He was a brave and clever (1)_____ who led his army across many countries. He (2)_____ the huge Persian Empire and later reached India. His soldiers followed him because they trusted him. When he died, his (3)_____ was divided between his generals. Alexander also helped to spread Greek (4)_____ and ideas, so that languages and art mixed across the (5)_____ world.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "interviewer",
+     "blogger",
+     "accountant",
+     "leader"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 2,
+    "options": [
+     "conquered",
+     "absorbed",
+     "downloaded",
+     "launched"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "tonne",
+     "fleet",
+     "empire",
+     "website"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "options": [
+     "fuel",
+     "culture",
+     "packaging",
+     "rainfall"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "single-use",
+     "aggressive",
+     "excessive",
+     "ancient"
+    ],
+    "answer": 3
+   }
+  ]
+ }
+}

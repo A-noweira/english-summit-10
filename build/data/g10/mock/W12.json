@@ -1,0 +1,50 @@
+{
+ "id": "MK-W12",
+ "title": "Chart: Countries Grade 10 Students Want to Visit · E-mail: formal",
+ "chart": {
+  "title": "Countries Grade 10 Students Want to Visit",
+  "ylabel": "Percentage of Students",
+  "unit": "%",
+  "categories": [
+   "Egypt",
+   "Greece",
+   "Italy",
+   "Peru",
+   "China"
+  ],
+  "series": [
+   {
+    "name": "Boys",
+    "values": [
+     65,
+     30,
+     45,
+     20,
+     50
+    ]
+   },
+   {
+    "name": "Girls",
+    "values": [
+     35,
+     55,
+     70,
+     15,
+     40
+    ]
+   }
+  ],
+  "model": "The bar chart shows the countries with ancient civilisations that Grade 10 boys and girls want to visit. The countries were Egypt, Greece, Italy, Peru and China. Overall, boys wanted to visit Egypt the most, whereas girls wanted to visit Italy the most.\nFirstly, the most popular country for boys was Egypt, with 65% of boys. This was followed by China (50%), Italy (45%) and Greece (30%). However, the least popular country for boys was Peru, with only 20% of boys.\nIn contrast, the most popular country for girls was Italy, with 70% of girls. This was followed by Greece (55%), China (40%) and Egypt (35%). However, the least popular country for girls was Peru, with only 15% of girls.\nTo summarize, both boys and girls chose Italy. However, the biggest difference was in Egypt, where 65% of boys chose it, whereas 35% of girls did."
+ },
+ "email": {
+  "formal": true,
+  "situation": "Imagine you are Salma, a Grade 10 student who loves history. A summer history camp for students will be held in Muscat.",
+  "task": "Write a formal email to Dr Sara, the organiser of the camp, and ask for more information. In your email, write about:",
+  "bullets": [
+   "the dates of the camp",
+   "the activities students will do",
+   "the cost and how to register"
+  ],
+  "model": "Dear Dr Sara,\n\nI hope this email finds you in good health and high spirits. I am writing this email to ask for more information about the summer history camp.\n\nFirst, could you please tell me the dates of the camp and how many days it will last? For example, I would like to know if it starts in July or in August. Moreover, I need to know the time of the first day.\n\nSecond, I would like to know which activities students will do, such as visiting museums and old forts. Moreover, please tell me how much the camp costs and how I can register. Therefore, I will be able to talk to my parents about it.\n\nThank you for your time and attention. I look forward to your response. Please let me know if you need any further information.\n\nYours sincerely,\nSalma"
+ }
+}

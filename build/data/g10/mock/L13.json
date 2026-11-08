@@ -1,0 +1,254 @@
+{
+ "id": "MK-L13",
+ "title": "A School Blog and Mesopotamia",
+ "listening1": {
+  "context": "You are going to hear a conversation between Huda and Hamad.",
+  "script": [
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "Hi Hamad! Mrs Aisha says that our school is going to start a blog. She asked me to help, and I'd like you to join the team."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "Of course! I love writing. What will the blog be about? Sports, maybe?"
+   },
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "Sports is a good idea, but the team has chosen to write about school life, such as events, trips and student news."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "That sounds interesting. Who will be able to read the blog? Only students?"
+   },
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "Students, parents and teachers. Everybody will be able to read it, but only the team will be allowed to write the posts."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "I see. How often will we publish a new post? Every day?"
+   },
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "That's too much work. Every day is impossible, and every week is too slow. We'll publish a post every three days."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "All right. What about photographs? Can we put photos of students on the blog?"
+   },
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "Only with their permission. This is a rule of the school, because their privacy is important. We'll never show a student's full name without permission."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "That's a very good rule. Which website shall we use to make the blog?"
+   },
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "Mr Yahya, the computer teacher, suggested a free website. It's easy to use, and it has nice colours."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "Great. When will we meet to plan the first post?"
+   },
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "On Monday, during the break, in the room of the computer teacher. Please bring your laptop."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "I will. What shall we write in the very first post?"
+   },
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "I think we should introduce the team. Each of us can write two sentences about ourselves, and add a photo."
+   },
+   {
+    "speaker": "Hamad",
+    "gender": "m",
+    "text": "That's a lovely idea. I can also write about the new library, because I visited it yesterday."
+   },
+   {
+    "speaker": "Huda",
+    "gender": "f",
+    "text": "Wonderful. Let's write the plan down now."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "What will the school blog be about?",
+    "options": [
+     "sports",
+     "school life",
+     "technology"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "Who will be allowed to write the posts?",
+    "options": [
+     "only the team",
+     "all the students",
+     "the parents"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "How often will they publish a new post?",
+    "options": [
+     "every day",
+     "every week",
+     "every three days"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "When can they put a student's photograph on the blog?",
+    "options": [
+     "with the student's permission",
+     "with the teacher's permission",
+     "at any time"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "Who suggested the website?",
+    "options": [
+     "Mrs Aisha",
+     "Mr Yahya",
+     "Huda"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "When will the team meet?",
+    "options": [
+     "on Monday",
+     "on Sunday",
+     "on Thursday"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 7,
+    "q": "What will they write in the first post?",
+    "options": [
+     "about the new library",
+     "about the school trip",
+     "about the team"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about Mesopotamia.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Hello, everyone. Today I am going to tell you about Mesopotamia, the land between two rivers, and about its great gifts to the world."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Mesopotamia was in the area of modern Iraq. Its name comes from Greek words that mean the land between the rivers. The two rivers were the Tigris and the Euphrates. The rivers gave water to farmers, and the people grew wheat and barley in the fertile land."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "The first cities in the world grew here more than five thousand years ago. One of the earliest was Ur. Later, Babylon became the most famous city. Its king, Hammurabi, wrote a set of laws about three thousand seven hundred years ago, and the laws were carved on a tall stone for everybody to read."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "The people of Mesopotamia were also great inventors. Around the year thirty-five hundred before Christ, they invented the wheel. At first, they used it to make pots, and later they put wheels on carts, which helped farmers and traders to move heavy loads."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "They also invented one of the first systems of writing. It is called cuneiform. Writers pressed a sharp stick into soft clay to make wedge-shaped marks, and then they dried the clay in the sun. Thousands of these clay tablets still exist today. Some of them are lists of goods, and others are letters and stories."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "The Sumerians, who lived in Mesopotamia, also gave us the sixty-minute hour. They counted in sixty, and that is why we have sixty seconds in a minute and sixty minutes in an hour. They also built tall temples, called ziggurats, which looked like giant steps."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Many of our everyday ideas come from this ancient land. Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What are the names of the two rivers? Give one.",
+    "hint": "",
+    "answer": "Tigris / Euphrates"
+   },
+   {
+    "n": 2,
+    "q": "Which king wrote a famous set of laws?",
+    "hint": "",
+    "answer": "Hammurabi"
+   },
+   {
+    "n": 3,
+    "q": "What is the name of the writing system made on clay?",
+    "hint": "",
+    "answer": "cuneiform"
+   },
+   {
+    "n": 4,
+    "q": "What were the tall temples called?",
+    "hint": "",
+    "answer": "ziggurats"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "Mesopotamia was in the area of modern Iraq.",
+    "answer": true
+   },
+   {
+    "n": 6,
+    "statement": "Farmers in Mesopotamia grew rice.",
+    "answer": false
+   },
+   {
+    "n": 7,
+    "statement": "The wheel was first used to make pots.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "Clay tablets were dried in a fire.",
+    "answer": false
+   }
+  ]
+ }
+}

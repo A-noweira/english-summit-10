@@ -1,0 +1,249 @@
+{
+ "id": "MK-L04",
+ "title": "A Fort Trip and Floods in Oman",
+ "listening1": {
+  "context": "You are going to hear a conversation between Fatma and Ali.",
+  "script": [
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "Hi Ali! Did you hear the news? Our history teacher is organising a school trip to see a fort."
+   },
+   {
+    "speaker": "Ali",
+    "gender": "m",
+    "text": "Yes, I heard. I thought we would visit Nizwa Fort again, but Mr Khalid wants to go to Bahla Fort this time. It is on the World Heritage list."
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "That is exciting. I have never been to Bahla. How are we going to travel there?"
+   },
+   {
+    "speaker": "Ali",
+    "gender": "m",
+    "text": "I am not sure. Last time we went in private cars, but that was a little confusing. This time we will go by school bus."
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "Good. What time will the bus leave? Early, I hope, because the weather is hot."
+   },
+   {
+    "speaker": "Ali",
+    "gender": "m",
+    "text": "First Mr Khalid said seven o'clock, but then he changed it. We will leave at half past seven, so everyone has time for breakfast."
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "That is better for me. What should we bring? I will take my camera."
+   },
+   {
+    "speaker": "Ali",
+    "gender": "m",
+    "text": "Mr Khalid said we must bring a hat and a bottle of water. There is a lot of walking and not much shade. You can take your camera too, if you like."
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "Of course. What will we see at the fort?"
+   },
+   {
+    "speaker": "Ali",
+    "gender": "m",
+    "text": "A guide will meet us at the gate. He will take us up to the old watchtower first, because the view from there is the best. After that, we will see the rooms inside the walls."
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "Wonderful. And what about lunch? Will we eat at a restaurant?"
+   },
+   {
+    "speaker": "Ali",
+    "gender": "m",
+    "text": "No, that would cost too much. We will have a picnic in the palm gardens next to the fort. Mothers are making sandwiches for the whole class."
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "That sounds like fun. How much does the trip cost?"
+   },
+   {
+    "speaker": "Ali",
+    "gender": "m",
+    "text": "The ticket for the fort is cheap. Each student pays two rials for the bus and the ticket together."
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "That is not expensive at all. I will give the money to Mr Khalid tomorrow. I cannot wait for the trip!"
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "Where will the school trip go?",
+    "options": [
+     "Nizwa Fort",
+     "Bahla Fort",
+     "Jabrin Castle"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "How will the students travel?",
+    "options": [
+     "by minibus",
+     "in private cars",
+     "by school bus"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "What time will they leave?",
+    "options": [
+     "half past seven",
+     "seven o'clock",
+     "eight o'clock"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "What must the students bring?",
+    "options": [
+     "a camera",
+     "a jacket",
+     "a hat and water"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "What will the guide show them first?",
+    "options": [
+     "the rooms",
+     "the watchtower",
+     "the gate"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "Where will they eat lunch?",
+    "options": [
+     "in the palm gardens",
+     "at a restaurant",
+     "on the bus"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 7,
+    "q": "How much will each student pay?",
+    "options": [
+     "five rials",
+     "three rials",
+     "two rials"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about floods and droughts in Oman.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Hello, everyone. Today I am going to talk about two kinds of extreme weather in Oman: floods and droughts."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Oman is a dry country, and most places get very little rain in a year. Strangely, this does not mean that floods cannot happen. When heavy rain falls on hard, dry ground, the ground cannot soak up the water quickly. The water runs into the wadis, and a flash flood can arrive in a few minutes, even when no rain is falling where you are standing."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "In recent years, Oman has felt the power of tropical cyclones. Cyclone Gonu hit the country in two thousand and seven, and Cyclone Shaheen arrived in two thousand and twenty-one. Scientists say that climate change may make storms stronger, because warmer air can hold more water, and a warmer sea gives storms more energy."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "The opposite of a flood is a drought, which is a long time without enough rain. During a drought, wells and wadis dry up, farmers lose their crops, and animals can find little to drink. Climate change can bring both floods and droughts, sometimes in the same place in the same year."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Omanis have always known how to manage water carefully. For more than two thousand years, farmers have used a system of channels called the falaj. It carries water from the mountains or from underground to villages and farms, without any machines, and many aflaj still work today."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "What can we do to stay safe? Listen to weather warnings from the authorities. Never cross a wadi that has water in it, even if it looks shallow, because the water is much stronger than you think. A car can be carried away by only half a metre of fast water."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "We can also help by saving water in everyday life. Turn off the tap, fix leaks, and do not waste water in the garden. In a dry country, every drop is valuable."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "In which year did Cyclone Gonu hit Oman?",
+    "hint": "(year)",
+    "answer": "2007"
+   },
+   {
+    "n": 2,
+    "q": "What is the name of a long period without enough rain?",
+    "hint": "",
+    "answer": "Drought / A drought"
+   },
+   {
+    "n": 3,
+    "q": "What is the name of the traditional Omani system of water channels?",
+    "hint": "",
+    "answer": "Falaj / Aflaj / The falaj"
+   },
+   {
+    "n": 4,
+    "q": "What is the name of the cyclone that arrived in 2021?",
+    "hint": "",
+    "answer": "Shaheen / Cyclone Shaheen"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "Warm air can hold more water, so storms may become stronger.",
+    "answer": true
+   },
+   {
+    "n": 6,
+    "statement": "Hard, dry ground soaks up rain very quickly.",
+    "answer": false
+   },
+   {
+    "n": 7,
+    "statement": "Climate change can bring both floods and droughts.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "It is safe to cross a wadi that has shallow water in it.",
+    "answer": false
+   }
+  ]
+ }
+}

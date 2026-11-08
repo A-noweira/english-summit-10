@@ -1,0 +1,172 @@
+{
+ "id": "MK-R01",
+ "title": "Computer Viruses and the Islamic Golden Age",
+ "reading1": {
+  "title": "Computer Viruses",
+  "passage": [
+   "A computer virus is a harmful program that can copy itself and spread from one computer to another. Like a virus that makes people ill, it can make a computer \"sick\". It may delete files, slow the device down, or steal personal information such as passwords. The first computer virus to spread on personal computers, called Brain, appeared in 1986.",
+   "Viruses are only one kind of malware, a word that comes from \"malicious software\". Other kinds include worms, which spread across networks by themselves; trojans, which pretend to be useful programs; spyware, which secretly watches what you do; and ransomware, which locks your files until you pay money.",
+   "How do viruses reach our devices? Often they arrive in an e-mail attachment, in a link in a message, or in a free program downloaded from an unsafe website. Some are hidden in infected USB sticks. A virus can also enter through old software that has not been updated, because criminals look for weak points.",
+   "How can you tell that your device may be infected? It may become very slow, show strange pop-up advertisements, crash often or open programs by itself. Its battery may also run out much faster than usual. If you notice these signs, you should act quickly.",
+   "Antivirus software is the first line of defence. It scans files and compares them with known malware, and it warns you if it finds something dangerous. Keep it switched on and update it regularly, because new viruses are created every day. Phones and tablets need protection as well as computers.",
+   "There are other good habits. Update your operating system and apps whenever there is a new version, because updates fix weak points. Download apps only from official stores, and do not open an attachment from someone you do not know. Back up your important files on an external drive or on the cloud, so you will not lose them if something goes wrong.",
+   "If you think your device has a virus, disconnect it from the internet, run a full scan with your antivirus program and delete the infected files. Change your passwords from another, clean device, and ask an adult or a technician for help if the problem continues."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "When did the virus called Brain appear?",
+    "options": [
+     "In 1996",
+     "In 1986",
+     "In 1968"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "What do trojans do?",
+    "options": [
+     "They lock your files for money.",
+     "They spread across networks by themselves.",
+     "They pretend to be useful programs."
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "Where do viruses often arrive from?",
+    "options": [
+     "An e-mail attachment",
+     "A new battery",
+     "A printed page"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "Which is a sign that a device may be infected?",
+    "options": [
+     "Strange pop-up advertisements",
+     "A very clean screen",
+     "Faster internet speed"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "What does antivirus software do?",
+    "options": [
+     "It makes the battery last longer.",
+     "It scans files and warns you about danger.",
+     "It deletes all your apps."
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "Why should you update your apps?",
+    "options": [
+     "Updates delete old files.",
+     "Updates make the screen bigger.",
+     "Updates fix weak points."
+    ],
+    "answer": 2
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "Ransomware locks your files until you pay ________.",
+    "answer": "money"
+   },
+   {
+    "n": 8,
+    "q": "Some viruses are hidden in infected USB ________.",
+    "answer": "sticks"
+   },
+   {
+    "n": 9,
+    "q": "New viruses are created every ________.",
+    "answer": "day"
+   },
+   {
+    "n": 10,
+    "q": "Back up your important files on an external drive or on the ________.",
+    "answer": "cloud"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "The Islamic Golden Age",
+  "passage": [
+   "The Islamic Golden Age was a period of great progress in science, medicine, mathematics and the arts. It lasted from about the eighth century to the thirteenth century AD. During this time, scholars from many countries and religions worked together in cities such as Baghdad, Cairo and Cordoba. Rulers paid scholars well, and paper, which had arrived from China, made it cheaper to produce books.",
+   "Baghdad was the centre of learning. In the ninth century, the Caliph Al-Ma'mun supported the House of Wisdom, a great library and translation centre. Scholars collected books from Greece, Persia and India and translated them into Arabic. Later, many of these works reached Europe through Arabic translations.",
+   "Al-Khwarizmi, who lived in Baghdad, wrote an important book about solving equations. The word \"algebra\" comes from the title of his book, and the word \"algorithm\" comes from his name. He also helped to spread the number system we use today, with the digits from zero to nine. His clear methods were used in schools for centuries.",
+   "Ibn al-Haytham, who was born in Basra around 965 AD, is called the father of modern optics. He explained that we see because light travels from objects to our eyes, and he used experiments to test his ideas. His Book of Optics was translated into Latin and influenced European scientists.",
+   "In medicine, Ibn Sina, known in Europe as Avicenna, wrote The Canon of Medicine in the eleventh century. It described illnesses and treatments, and it was used as a textbook in European universities for hundreds of years. Al-Razi also wrote about infectious diseases, such as smallpox and measles.",
+   "Muslim engineers made useful machines too. Al-Jazari, who lived in the twelfth century, wrote a famous book describing many machines, including pumps and a large water clock called the elephant clock. Other inventors in this period built water wheels and instruments called astrolabes, which measured the position of the stars and helped sailors to find their way at sea.",
+   "Another important place was the University of al-Qarawiyyin in Fez, Morocco, which was founded in 859 AD by a woman named Fatima al-Fihri. UNESCO and Guinness World Records consider it the oldest continuously working university in the world."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "Which city was the centre of learning?",
+    "hint": "",
+    "answer": "Baghdad"
+   },
+   {
+    "n": 2,
+    "q": "Into which language did scholars translate the books they collected?",
+    "hint": "",
+    "answer": "Arabic"
+   },
+   {
+    "n": 3,
+    "q": "Which English word comes from the title of Al-Khwarizmi's book?",
+    "hint": "",
+    "answer": "Algebra"
+   },
+   {
+    "n": 4,
+    "q": "In which city was Ibn al-Haytham born?",
+    "hint": "",
+    "answer": "Basra"
+   },
+   {
+    "n": 5,
+    "q": "What is Ibn Sina called in Europe?",
+    "hint": "",
+    "answer": "Avicenna"
+   },
+   {
+    "n": 6,
+    "q": "Who founded the University of al-Qarawiyyin?",
+    "hint": "",
+    "answer": "Fatima al-Fihri"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Ibn al-Haytham said that our eyes send out light to see objects.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "The Canon of Medicine was used in European universities for hundreds of years.",
+    "answer": true
+   },
+   {
+    "n": 9,
+    "statement": "Al-Jazari lived in the eighth century.",
+    "answer": false
+   },
+   {
+    "n": 10,
+    "statement": "The University of al-Qarawiyyin is in Morocco.",
+    "answer": true
+   }
+  ]
+ }
+}

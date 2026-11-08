@@ -1,0 +1,172 @@
+{
+ "id": "MK-R04",
+ "title": "Overfishing and Electric Trains",
+ "reading1": {
+  "title": "Overfishing",
+  "passage": [
+   "The oceans give us food, jobs and oxygen. More than three billion people rely on fish as an important source of protein, and millions of people work in fishing. But in many parts of the world, people are taking fish from the sea faster than the fish can reproduce. This problem is called overfishing.",
+   "According to the Food and Agriculture Organization of the United Nations, about one third of the world's fish stocks are fished at unsustainable levels. In other words, in these places people catch more fish than nature can replace, and every year there are fewer fish in the sea.",
+   "Modern fishing is very efficient. Large ships use sonar to find fish, and huge nets can catch thousands of fish at one time. Some nets, called trawls, are dragged along the sea floor and damage coral reefs and other habitats. Other methods catch animals by accident, such as turtles, dolphins and sharks. This is called bycatch, and the animals are often thrown back into the sea dead.",
+   "Overfishing harms the ocean food web. If people catch too many big fish, such as tuna or sharks, the balance of the sea is lost. If young fish are caught before they can breed, there are fewer fish in the following years. In 1992, the cod fishery off Newfoundland in Canada collapsed after years of heavy fishing, and thousands of people lost their jobs.",
+   "In Oman, fishing is an old tradition. Fishermen have used small wooden boats called houri for centuries, and fish is an important food in Omani homes. The country has laws to protect marine life, for example closed seasons for some species, such as lobster.",
+   "How can overfishing be stopped? Governments can set quotas, which are limits on how many fish can be caught, and make rules about the size of nets so that young fish can escape. Marine protected areas, where fishing is limited or banned, give fish places to recover. Fish farming, called aquaculture, can also supply fish, although it must be well managed to avoid pollution.",
+   "Consumers can help too. We should buy fish that have been caught in a sustainable way, ask where our fish comes from and avoid species that are in danger. With care, the oceans can continue to feed people for many years."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "How many people rely on fish as an important source of protein?",
+    "options": [
+     "More than three billion",
+     "About three million",
+     "Only a few thousand"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "What is overfishing?",
+    "options": [
+     "Taking fish faster than they can reproduce",
+     "Fishing only in the summer",
+     "Keeping too many fish in tanks"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "What is bycatch?",
+    "options": [
+     "Fish that are sold at the market",
+     "Animals that are caught by accident",
+     "Fish that are caught for fun"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "q": "What happened to the cod fishery off Newfoundland in 1992?",
+    "options": [
+     "It opened for tourists.",
+     "It became a protected area.",
+     "It collapsed."
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "What are quotas?",
+    "options": [
+     "Rules about boat colours",
+     "Limits on how many fish can be caught",
+     "Taxes on fishermen"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "How can consumers help to stop overfishing?",
+    "options": [
+     "By buying the biggest fish",
+     "By eating fish every day",
+     "By buying fish caught in a sustainable way"
+    ],
+    "answer": 2
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "Some nets, called ________, are dragged along the sea floor.",
+    "answer": "trawls"
+   },
+   {
+    "n": 8,
+    "q": "Small wooden Omani boats are called ________.",
+    "answer": "houri"
+   },
+   {
+    "n": 9,
+    "q": "Places where fishing is limited or banned are marine protected ________.",
+    "answer": "areas"
+   },
+   {
+    "n": 10,
+    "q": "Fish farming is called ________.",
+    "answer": "aquaculture"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "Electric Trains",
+  "passage": [
+   "Trains are one of the cleanest ways to travel over land. A train carries many people at one time, so each passenger causes much less pollution than if he or she travelled alone in a car. Electric trains are even cleaner, because they produce no exhaust gases where they run.",
+   "An electric train gets its power in one of two ways. Some take electricity from overhead wires through a metal arm on the roof called a pantograph. Others use a third rail, a special rail on the ground beside the tracks. A motor then turns the wheels. Some modern trains use batteries and can run on tracks without wires.",
+   "Electric trains were invented in the nineteenth century. The German engineer Werner von Siemens showed the first electric railway at a trade fair in Berlin in 1879. It was a small train that carried visitors around a circular track. Later, electric trams and underground railways appeared in many cities.",
+   "Today, Japan, China and many European countries have fast electric trains. The Japanese Shinkansen, or bullet train, started in 1964 and is famous for its excellent safety record. China has the longest high-speed rail network in the world, and trains there carry millions of passengers every day.",
+   "Electric trains have many advantages. They are quiet, they accelerate quickly, and they are more efficient than diesel trains. They can also send power back: when a train brakes, its motors work like generators and return some electricity to the wires. This is called regenerative braking.",
+   "Of course, the electricity must be clean for the train to be truly green. If it comes from coal, the train causes pollution at the power station, but if it comes from solar or wind power, the train is almost carbon-free. Building tracks and wires is expensive, so electric railways are worth building mainly on busy routes.",
+   "Many cities are now building metro and tram systems to reduce traffic jams and air pollution. The Dubai Metro opened in 2009, and Oman and the United Arab Emirates are building Hafeet Rail, a railway that will link the port of Sohar with Abu Dhabi."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What is the metal arm on the roof of an electric train called?",
+    "hint": "",
+    "answer": "A pantograph"
+   },
+   {
+    "n": 2,
+    "q": "Who showed the first electric railway?",
+    "hint": "",
+    "answer": "Werner von Siemens"
+   },
+   {
+    "n": 3,
+    "q": "In which city was the first electric railway shown?",
+    "hint": "",
+    "answer": "Berlin"
+   },
+   {
+    "n": 4,
+    "q": "When did the Japanese Shinkansen start?",
+    "hint": "(year)",
+    "answer": "In 1964 / 1964"
+   },
+   {
+    "n": 5,
+    "q": "Which country has the longest high-speed rail network?",
+    "hint": "",
+    "answer": "China"
+   },
+   {
+    "n": 6,
+    "q": "What is it called when braking sends electricity back to the wires?",
+    "hint": "",
+    "answer": "Regenerative braking"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Electric trains produce no exhaust gases where they run.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "Diesel trains are more efficient than electric trains.",
+    "answer": false
+   },
+   {
+    "n": 9,
+    "statement": "If the electricity comes from coal, the train causes pollution at the power station.",
+    "answer": true
+   },
+   {
+    "n": 10,
+    "statement": "The Dubai Metro opened in 1999.",
+    "answer": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "id": "MK-W05",
+ "title": "Chart: Online Safety Habits of Grade 10 Boys and Girls · E-mail: informal",
+ "chart": {
+  "title": "Online Safety Habits of Grade 10 Boys and Girls",
+  "ylabel": "Percentage of Students",
+  "unit": "%",
+  "categories": [
+   "Using strong passwords",
+   "Keeping accounts private",
+   "Not talking to strangers",
+   "Checking news before sharing"
+  ],
+  "series": [
+   {
+    "name": "Boys",
+    "values": [
+     50,
+     35,
+     65,
+     20
+    ]
+   },
+   {
+    "name": "Girls",
+    "values": [
+     80,
+     60,
+     90,
+     35
+    ]
+   }
+  ],
+  "model": "The bar chart shows the online safety habits of Grade 10 boys and girls in one school in Oman. The habits were using strong passwords, keeping accounts private, not talking to strangers and checking news before sharing. Overall, girls followed all four safety habits more often than boys.\nFirstly, the most popular safety habit for boys was not talking to strangers, with 65% of boys. This was followed by using strong passwords (50%) and keeping accounts private (35%). However, the least popular safety habit for boys was checking news before sharing, with only 20% of boys.\nIn contrast, the most popular safety habit for girls was not talking to strangers, with 90% of girls. This was followed by using strong passwords (80%) and keeping accounts private (60%). However, the least popular safety habit for girls was checking news before sharing, with only 35% of girls.\nTo summarize, both boys and girls chose not talking to strangers. However, the biggest difference was in using strong passwords, where 50% of boys chose it, whereas 80% of girls did."
+ },
+ "email": {
+  "formal": false,
+  "situation": "Imagine you are Rashid. Your friend Hamood told you that someone hacked his social media account.",
+  "task": "Write an email to your friend Hamood and give him some advice. In your email, write about:",
+  "bullets": [
+   "how you feel about the problem",
+   "what he should do first",
+   "how he can keep his accounts safe in the future"
+  ],
+  "model": "Dear Hamood,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to give you some advice about your hacked account.\n\nFirst, I was very sorry to hear about your problem. For example, I know how hard it is to lose your photos and messages. Moreover, you should change your password at once and tell your parents.\n\nSecond, you should use a strong password with letters, numbers and symbols. Moreover, never share it with anyone, even your close friends. Therefore, your account will be much safer in the future.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nRashid"
+ }
+}

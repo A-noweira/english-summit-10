@@ -1,0 +1,172 @@
+{
+ "id": "MK-R14",
+ "title": "The Arctic and Hydrogen",
+ "reading1": {
+  "title": "The Arctic and Its Polar Bears",
+  "passage": [
+   "The Arctic is the region around the North Pole. Unlike Antarctica, which is a continent, most of the Arctic is a frozen ocean. In winter, the sea freezes and forms a huge sheet of sea ice. In summer, part of this ice melts, and the smallest area of ice is usually seen in September.",
+   "Satellites have measured the Arctic sea ice since 1979. Since then, the summer ice has shrunk by about thirteen percent every ten years. The Arctic is getting warmer much faster than the rest of the world, because people burn fossil fuels and release greenhouse gases into the air.",
+   "The loss of ice makes the problem worse. White ice reflects most of the sunlight back into space. When the ice melts, it uncovers the dark ocean, which absorbs the sunlight and gets warmer. The warmer water then melts even more ice.",
+   "The polar bear is the animal that suffers most. Polar bears have thick fur and a layer of fat under their skin, which keep them warm. Males can weigh more than 400 kilograms. There are about 26,000 polar bears in the world, and they live in five countries: the United States, Canada, Greenland (Denmark), Norway and Russia.",
+   "Polar bears spend most of their lives on the sea ice. They hunt seals, waiting beside holes in the ice where the seals come up to breathe. Polar bears are good swimmers, but they cannot catch seals in open water. When the ice melts earlier in spring, the bears have less time to hunt. They lose weight, and fewer cubs survive.",
+   "Other Arctic animals are also in danger. Walruses rest on the ice, and Arctic foxes and seabirds depend on the food chain of the cold sea. Local people, such as the Inuit, have lived in the Arctic for thousands of years, and their way of life is also changing.",
+   "Countries have already taken some action. In 1973, five countries signed an agreement to protect polar bears. The most important step, however, is to cut greenhouse gases by using clean energy, saving electricity and planting trees. If we act, the Arctic can stay frozen for the next generations."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "What is most of the Arctic?",
+    "options": [
+     "A frozen ocean",
+     "A large desert",
+     "A high mountain"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "When is the Arctic sea ice usually at its smallest?",
+    "options": [
+     "In March",
+     "In September",
+     "In December"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "Why does melting ice make the problem worse?",
+    "options": [
+     "The dark ocean absorbs more sunlight.",
+     "The ice makes the sea cold.",
+     "The sea becomes bigger."
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "What keeps polar bears warm?",
+    "options": [
+     "A house of ice",
+     "Little fur",
+     "Thick fur and a layer of fat"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "How do polar bears hunt seals?",
+    "options": [
+     "They wait beside holes in the ice.",
+     "They follow them under the water.",
+     "They dig in the snow."
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "What happened in 1973?",
+    "options": [
+     "Satellites began to measure the ice.",
+     "Five countries signed an agreement to protect polar bears.",
+     "The Arctic stopped melting."
+    ],
+    "answer": 1
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "In winter, the sea freezes and forms a sheet of sea ________.",
+    "answer": "ice"
+   },
+   {
+    "n": 8,
+    "q": "White ice ________ most of the sunlight back into space.",
+    "answer": "reflects"
+   },
+   {
+    "n": 9,
+    "q": "Polar bears hunt ________ from the ice.",
+    "answer": "seals"
+   },
+   {
+    "n": 10,
+    "q": "The Inuit have lived in the Arctic for thousands of ________.",
+    "answer": "years"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "Hydrogen: A Fuel for the Future",
+  "passage": [
+   "Hydrogen is the lightest and most common element in the universe. On Earth, however, it is almost always joined to other elements. Water, for example, is made of hydrogen and oxygen. To use hydrogen as a fuel, we first have to separate it from other substances.",
+   "Hydrogen is a clean fuel. When it is used in a device called a fuel cell, it combines with oxygen from the air and makes electricity. The only thing that comes out is water. Burning hydrogen also produces no carbon dioxide. Hydrogen carries about three times more energy than petrol for each kilogram.",
+   "The way we make hydrogen is very important. In electrolysis, electricity splits water into hydrogen and oxygen. If the electricity comes from solar or wind power, the result is called green hydrogen. At present, however, most hydrogen is still made from natural gas, and this process produces carbon dioxide.",
+   "Hydrogen has many uses. Factories need it to make fertilisers and to clean oil. Some cars and buses use fuel cells, and in 2018 Germany began to use the first passenger trains powered by hydrogen. NASA has also used liquid hydrogen as a rocket fuel for many years. In the future, hydrogen may help heavy industries, such as steel works, to stop using coal.",
+   "Hydrogen is also a good way to store energy. Solar and wind farms sometimes make more electricity than we need. Some of this extra electricity can be used to make hydrogen, which can be stored and used later, when the sun is not shining or the wind is not blowing.",
+   "However, there are some challenges. Hydrogen is a very light gas, so it takes up a lot of space. It must be kept under high pressure, or cooled to minus 253 degrees Celsius to become a liquid. It is also easy to set on fire, so it needs careful handling. In addition, green hydrogen is still expensive, and there are few filling stations.",
+   "Many countries are investing in hydrogen. Oman has plenty of sun, wind and open land, so it hopes to become a major producer of green hydrogen. A government company called Hydrom manages the projects, which are planned in areas such as Duqm and Dhofar."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What is the only thing that comes out of a hydrogen fuel cell, apart from electricity?",
+    "hint": "",
+    "answer": "Water"
+   },
+   {
+    "n": 2,
+    "q": "What process splits water into hydrogen and oxygen?",
+    "hint": "",
+    "answer": "Electrolysis"
+   },
+   {
+    "n": 3,
+    "q": "What is hydrogen made with solar or wind electricity called?",
+    "hint": "",
+    "answer": "Green hydrogen"
+   },
+   {
+    "n": 4,
+    "q": "At what temperature does hydrogen become a liquid?",
+    "hint": "",
+    "answer": "Minus 253 degrees Celsius / -253 °C"
+   },
+   {
+    "n": 5,
+    "q": "In which year did Germany begin to use hydrogen passenger trains?",
+    "hint": "(year)",
+    "answer": "In 2018"
+   },
+   {
+    "n": 6,
+    "q": "Which company manages Oman's green hydrogen projects?",
+    "hint": "",
+    "answer": "Hydrom"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Using hydrogen in a fuel cell produces carbon dioxide.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Most hydrogen is still made from natural gas today.",
+    "answer": true
+   },
+   {
+    "n": 9,
+    "statement": "Hydrogen carries about three times more energy than petrol for each kilogram.",
+    "answer": true
+   },
+   {
+    "n": 10,
+    "statement": "Hydrogen is cheap and easy to store.",
+    "answer": false
+   }
+  ]
+ }
+}

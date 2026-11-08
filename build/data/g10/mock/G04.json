@@ -1,0 +1,129 @@
+{
+ "id": "MK-G04",
+ "title": "Passive, past continuous · Pyramids and archaeologists",
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "The Great Pyramid [[1]] built about four thousand five hundred years ago."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "[[2]] the workers slaves?"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "No. I [[3]] about it online when you called, and they were paid workers."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Interesting! The pyramids are famous [[4]] their huge size."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "They are. My teacher asked me [[5]] a project about them."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "I'll help you with the pictures."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "was",
+     "is"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "Were",
+     "Was"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "was reading",
+     "read"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "of",
+     "for"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "to write",
+     "writing"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Egypt is famous for its pyramids, which were built as tombs for the kings. These huge (1)_____ are still standing today after four thousand years. Modern (2)_____ have found many things inside them, such as jars, tools and gold (3)_____. These discoveries give us (4)_____ about how the ancient Egyptians lived and what they believed. Visitors from all over the world come to see the (5)_____ near the River Nile and to learn about this ancient civilisation.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "gadgets",
+     "emissions",
+     "followers",
+     "monuments"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 2,
+    "options": [
+     "bloggers",
+     "journalists",
+     "archaeologists",
+     "reporters"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "options": [
+     "weather",
+     "packaging",
+     "button",
+     "treasure"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 4,
+    "options": [
+     "evidence",
+     "rainfall",
+     "fleet",
+     "menu"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "landfills",
+     "temples",
+     "turbines",
+     "glaciers"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+}

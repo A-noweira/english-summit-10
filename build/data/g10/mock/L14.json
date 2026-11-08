@@ -1,0 +1,259 @@
+{
+  "id": "MK-L14",
+  "title": "Saving Electricity and Coral Reefs",
+  "listening1": {
+    "context": "You are going to hear a conversation between Maryam and Yousef.",
+    "script": [
+      {
+        "speaker": "Maryam",
+        "gender": "f",
+        "text": "Hi Yousef! Did you hear the announcement? Our school wants to cut its electricity bill, and the headmaster asked the science club for ideas."
+      },
+      {
+        "speaker": "Yousef",
+        "gender": "m",
+        "text": "Yes, I did. I think we should start by checking where the school wastes electricity. Shall we make a list?"
+      },
+      {
+        "speaker": "Maryam",
+        "gender": "f",
+        "text": "Good idea. I noticed that the lights stay on in the empty classrooms during the break. That's a big waste."
+      },
+      {
+        "speaker": "Yousef",
+        "gender": "m",
+        "text": "True. We can put a sign on each door that says, switch off the lights. Or we can ask the technician to fit sensors that turn off the lights automatically."
+      },
+      {
+        "speaker": "Maryam",
+        "gender": "f",
+        "text": "Sensors are expensive. Let's start with signs, and the students in each class can take turns to switch the lights off."
+      },
+      {
+        "speaker": "Yousef",
+        "gender": "m",
+        "text": "Okay. What about the air conditioners? They use the most electricity of all."
+      },
+      {
+        "speaker": "Maryam",
+        "gender": "f",
+        "text": "Yes. The classrooms are set at eighteen degrees, which is too cold. Twenty-four degrees is enough for everybody."
+      },
+      {
+        "speaker": "Yousef",
+        "gender": "m",
+        "text": "I agree. The computers in the lab are also left on all night. We should turn them off before we go home."
+      },
+      {
+        "speaker": "Maryam",
+        "gender": "f",
+        "text": "Right. The lab teacher can check them every day at the end of the school day."
+      },
+      {
+        "speaker": "Yousef",
+        "gender": "m",
+        "text": "Now, what about the roof? The school has a big flat roof, and it gets a lot of sun."
+      },
+      {
+        "speaker": "Maryam",
+        "gender": "f",
+        "text": "You mean solar panels? Excellent idea, but the headmaster said they are too expensive this year. Maybe next year."
+      },
+      {
+        "speaker": "Yousef",
+        "gender": "m",
+        "text": "Then let's put that in the plan for next year. How long should our campaign last?"
+      },
+      {
+        "speaker": "Maryam",
+        "gender": "f",
+        "text": "One month is enough to see a change. After that, we can read the meter and compare the results."
+      },
+      {
+        "speaker": "Yousef",
+        "gender": "m",
+        "text": "Great. Who shall we invite to launch the campaign? The headmaster?"
+      },
+      {
+        "speaker": "Maryam",
+        "gender": "f",
+        "text": "I think the Director of Education would be better. It will make the students take it more seriously."
+      },
+      {
+        "speaker": "Yousef",
+        "gender": "m",
+        "text": "Good point. Finally, what shall we call our campaign?"
+      },
+      {
+        "speaker": "Maryam",
+        "gender": "f",
+        "text": "How about Switch Off, Save On? It's short and easy to remember."
+      }
+    ],
+    "items": [
+      {
+        "n": 1,
+        "q": "Who asked the science club for ideas?",
+        "options": [
+          "the headmaster",
+          "the technician",
+          "the lab teacher"
+        ],
+        "answer": 0
+      },
+      {
+        "n": 2,
+        "q": "What will the students put on each classroom door?",
+        "options": [
+          "a timetable",
+          "a sign",
+          "a sensor"
+        ],
+        "answer": 1
+      },
+      {
+        "n": 3,
+        "q": "What temperature will they set the air conditioners to?",
+        "options": [
+          "eighteen degrees",
+          "twenty-four degrees",
+          "thirty degrees"
+        ],
+        "answer": 1
+      },
+      {
+        "n": 4,
+        "q": "Who will check the computers every day?",
+        "options": [
+          "the technician",
+          "the headmaster",
+          "the lab teacher"
+        ],
+        "answer": 2
+      },
+      {
+        "n": 5,
+        "q": "What will the school do next year?",
+        "options": [
+          "buy sensors",
+          "stop the campaign",
+          "fit solar panels"
+        ],
+        "answer": 2
+      },
+      {
+        "n": 6,
+        "q": "How long will the campaign last?",
+        "options": [
+          "one month",
+          "one week",
+          "one year"
+        ],
+        "answer": 0
+      },
+      {
+        "n": 7,
+        "q": "What will the campaign be called?",
+        "options": [
+          "Save the Light",
+          "Switch Off, Save On",
+          "Energy Heroes"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  "listening2": {
+    "context": "You are going to hear a talk about recycling paper and glass.",
+    "script": [
+      {
+        "speaker": "Presenter",
+        "gender": "m",
+        "text": "Good afternoon, everyone. Today I am going to talk about recycling paper and glass, two easy ways to protect our environment."
+      },
+      {
+        "speaker": "Presenter",
+        "gender": "m",
+        "text": "Let us start with paper. Paper is made from wood, so making new paper means cutting down trees. When we recycle one tonne of paper, we save about seventeen trees. Recycling paper also uses less water and less energy than making new paper."
+      },
+      {
+        "speaker": "Presenter",
+        "gender": "m",
+        "text": "How is paper recycled? First, the used paper is collected and taken to a factory. Then it is mixed with water to make a soft mixture. After that, workers clean it and press it into new sheets. However, paper cannot be recycled for ever. The fibres become shorter each time, so paper can be recycled only five to seven times."
+      },
+      {
+        "speaker": "Presenter",
+        "gender": "m",
+        "text": "Now let us talk about glass. Glass is made from sand, and it can be recycled again and again without losing its quality. A bottle that you put in the recycling bin today can become a new bottle in a few weeks."
+      },
+      {
+        "speaker": "Presenter",
+        "gender": "m",
+        "text": "Recycling glass saves a lot of energy, because broken glass melts at a lower temperature than sand. This is important because a glass bottle that is thrown away can stay in the ground for thousands of years."
+      },
+      {
+        "speaker": "Presenter",
+        "gender": "m",
+        "text": "Before glass is recycled, it is sorted by colour into clear, green and brown glass. Window glass and mirrors must not be mixed with bottles, because they melt in a different way."
+      },
+      {
+        "speaker": "Presenter",
+        "gender": "m",
+        "text": "What can you do? Use the special bins that many towns now have near shops and schools. Wash the bottles and jars first, and keep the paper dry and clean. Small actions by many people make a big difference."
+      },
+      {
+        "speaker": "Presenter",
+        "gender": "m",
+        "text": "Thank you for listening."
+      }
+    ],
+    "short": [
+      {
+        "n": 1,
+        "q": "How many trees do we save when we recycle one tonne of paper?",
+        "hint": "(number)",
+        "answer": "17 / seventeen"
+      },
+      {
+        "n": 2,
+        "q": "How many times can paper be recycled?",
+        "hint": "",
+        "answer": "five to seven (times)"
+      },
+      {
+        "n": 3,
+        "q": "What is glass made from?",
+        "hint": "",
+        "answer": "sand"
+      },
+      {
+        "n": 4,
+        "q": "Into which three colours is glass sorted?",
+        "hint": "",
+        "answer": "clear, green and brown"
+      }
+    ],
+    "tf": [
+      {
+        "n": 5,
+        "statement": "Paper is made from wood.",
+        "answer": true
+      },
+      {
+        "n": 6,
+        "statement": "Glass loses its quality every time it is recycled.",
+        "answer": false
+      },
+      {
+        "n": 7,
+        "statement": "Window glass can be mixed with bottles.",
+        "answer": false
+      },
+      {
+        "n": 8,
+        "statement": "Recycling glass saves energy.",
+        "answer": true
+      }
+    ]
+  }
+}

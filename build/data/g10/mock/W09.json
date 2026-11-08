@@ -1,0 +1,50 @@
+{
+  "id": "MK-W09",
+  "title": "Chart: Ways of Getting the News · E-mail: informal",
+  "chart": {
+    "title": "Time of Day When Boys and Girls Study Online",
+    "ylabel": "Percentage of Students",
+    "unit": "%",
+    "categories": [
+      "Early morning",
+      "Morning",
+      "Afternoon",
+      "Evening",
+      "Late at night"
+    ],
+    "series": [
+      {
+        "name": "boys",
+        "values": [
+          15,
+          25,
+          40,
+          65,
+          50
+        ]
+      },
+      {
+        "name": "girls",
+        "values": [
+          35,
+          30,
+          55,
+          45,
+          10
+        ]
+      }
+    ],
+    "model": "The bar chart shows the times of day when Grade 10 boys and girls study online. The times of day were early morning, the morning, the afternoon, the evening and late at night. Overall, boys preferred the evening, whereas girls preferred the afternoon.\nFirstly, the most popular time for boys was the evening, with 65% of boys. This was followed by late at night (50%), the afternoon (40%) and the morning (25%). However, the least popular time for boys was early morning, with only 15% of boys.\nIn contrast, the most popular time for girls was the afternoon, with 55% of girls. This was followed by the evening (45%), early morning (35%) and the morning (30%). However, the least popular time for girls was late at night, with only 10% of girls.\nTo summarize, both boys and girls chose the evening. However, the biggest difference was in late at night, where 50% of boys chose it, whereas 10% of girls did."
+  },
+  "email": {
+    "formal": false,
+    "situation": "Imagine you are Hanan. You have just started a free online English course.",
+    "task": "Write an email to your friend Amal and tell her about the course. In your email, write about:",
+    "bullets": [
+      "what the course is and where you found it",
+      "how often you study and what you do",
+      "why you think she should join"
+    ],
+    "model": "Dear Amal,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to tell you about a free online English course that I have started.\n\nFirst, I found the course on a website that my teacher recommended. For example, it has short videos, games and quizzes. Moreover, it is free for all students.\n\nSecond, I study for thirty minutes every evening after I finish my homework. Moreover, I do a quiz at the end of each lesson. Therefore, I think you should join me, because your English will improve quickly.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nHanan"
+  }
+}

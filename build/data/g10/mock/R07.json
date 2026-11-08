@@ -1,0 +1,172 @@
+{
+ "id": "MK-R07",
+ "title": "Emoji and the Great Wall of China",
+ "reading1": {
+  "title": "Emoji",
+  "passage": [
+   "Emoji are small pictures that people add to text messages and social media posts. There are smiling faces, animals, food, flags and thousands of other symbols. Every day, billions of emoji are sent around the world, and they help people to show feelings in writing, where we cannot use our voice or face.",
+   "The word \"emoji\" comes from Japanese: \"e\" means \"picture\" and \"moji\" means \"letter\" or \"character\". It has nothing to do with the English word \"emotion\", although the two words look similar. The first set of 176 emoji was made in about 1999 by a Japanese designer named Shigetaka Kurita, who worked for a mobile phone company. Each picture was only twelve pixels wide.",
+   "Emoji are different from emoticons. An emoticon is made from keyboard characters, for example a colon and a bracket for a smile. Emoticons were first suggested in 1982 by a computer scientist, Scott Fahlman, in the USA. Emoji are real pictures, and today they are part of the Unicode system, which gives every character a number so that all phones and computers can show it in the same way.",
+   "New emoji are chosen by a group called the Unicode Consortium. Anyone can send a suggestion, but the group considers whether many people would use it. Each year, some new emoji are added, such as new foods, objects and faces. In recent years, designers have also added different skin colours and more types of family, so that more people can see themselves in the pictures.",
+   "Emoji can make messages friendlier. A joke with a smiling face is easy to understand, and a thumbs-up can say \"yes\" faster than words. They also work across languages, so people who do not speak the same language can use them to share a simple idea.",
+   "However, emoji can also cause misunderstandings. The same picture may look different on different phones, and it may have different meanings in different cultures or for different age groups. A hand sign that is friendly in one country may be rude in another. In a formal e-mail to a teacher or a company, it is better not to use emoji at all.",
+   "In short, emoji are a useful tool, but they cannot replace words. Think about who will read your message, and choose carefully. If you are not sure that the reader will understand a picture, add a few words to explain it."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "What do emoji help people to do in writing?",
+    "options": [
+     "Change their voice",
+     "Show their feelings",
+     "Draw maps"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "What does \"moji\" mean in Japanese?",
+    "options": [
+     "Letter or character",
+     "Face",
+     "Feeling"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "How big was each of the first emoji?",
+    "options": [
+     "Twelve centimetres wide",
+     "Two hundred pixels wide",
+     "Twelve pixels wide"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "What is an emoticon?",
+    "options": [
+     "A picture made from keyboard characters",
+     "A kind of phone",
+     "A computer game"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "Who chooses new emoji?",
+    "options": [
+     "Mobile phone users",
+     "The Unicode Consortium",
+     "School teachers"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "Why can emoji cause misunderstandings?",
+    "options": [
+     "They can have different meanings in different cultures.",
+     "They are always too small.",
+     "They cannot be used on phones."
+    ],
+    "answer": 0
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "The word \"emoji\" comes from ________.",
+    "answer": "Japanese"
+   },
+   {
+    "n": 8,
+    "q": "An emoticon is made from keyboard ________.",
+    "answer": "characters"
+   },
+   {
+    "n": 9,
+    "q": "Designers have added different skin ________ to the emoji.",
+    "answer": "colours"
+   },
+   {
+    "n": 10,
+    "q": "In a formal e-mail to a teacher, it is better not to use ________ at all.",
+    "answer": "emoji"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "The Great Wall of China",
+  "passage": [
+   "The Great Wall of China is one of the biggest structures ever built. It is not one single wall but a system of walls, towers and forts built over many centuries across northern China to protect the country from attacks from the north. Its total length, counting all its branches, is about 21,000 kilometres, according to a Chinese government survey in 2012.",
+   "The first walls were built by different states around the seventh century BC. In about 220 BC, Qin Shi Huang, the first emperor of China, joined many of the older walls to form one long defence. Thousands of soldiers and workers built it from earth, wood and stone.",
+   "The best-known parts of the wall that tourists visit today were built much later by the Ming dynasty, which ruled from 1368 to 1644. The Ming builders used strong bricks and stone, and they made the wall about seven metres high on average. It was wide enough on top for several soldiers to walk side by side.",
+   "Watchtowers were built at regular distances along the wall. Soldiers inside could see enemies from far away. They sent warnings by lighting fires on the towers: smoke by day and flames by night. In this way, a message could travel very quickly along the wall.",
+   "Life on the wall was hard. Soldiers lived in the towers and barracks for long periods, far from their families, and in winter the weather was freezing. Food and supplies had to be carried over steep mountains.",
+   "The wall also helped to control trade. Gates and forts controlled who entered China, and officials collected taxes from the merchants who came with their goods.",
+   "Today the Great Wall is a UNESCO World Heritage Site, listed in 1987, and millions of tourists visit it every year. Badaling, near Beijing, is the most visited section. A popular myth says that the wall can be seen from space with the naked eye, but this is not true: it is very long, but it is narrow, and astronauts cannot easily see it."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What was the wall built to protect China from?",
+    "hint": "",
+    "answer": "Attacks from the north"
+   },
+   {
+    "n": 2,
+    "q": "How long is the Great Wall, counting all its branches?",
+    "hint": "(number)",
+    "answer": "About 21,000 kilometres / 21,000 km"
+   },
+   {
+    "n": 3,
+    "q": "Who joined many of the older walls in about 220 BC?",
+    "hint": "",
+    "answer": "Qin Shi Huang"
+   },
+   {
+    "n": 4,
+    "q": "Which dynasty built the best-known parts of the wall?",
+    "hint": "",
+    "answer": "The Ming dynasty"
+   },
+   {
+    "n": 5,
+    "q": "What did the soldiers use to send warnings by day?",
+    "hint": "",
+    "answer": "Smoke"
+   },
+   {
+    "n": 6,
+    "q": "Which section of the wall is the most visited?",
+    "hint": "",
+    "answer": "Badaling"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "The Ming builders used strong bricks and stone.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "Life on the wall was easy for the soldiers.",
+    "answer": false
+   },
+   {
+    "n": 9,
+    "statement": "The Great Wall became a UNESCO World Heritage Site in 1987.",
+    "answer": true
+   },
+   {
+    "n": 10,
+    "statement": "Astronauts can easily see the wall from space.",
+    "answer": false
+   }
+  ]
+ }
+}

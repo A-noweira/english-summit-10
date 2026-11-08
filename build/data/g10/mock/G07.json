@@ -1,0 +1,129 @@
+{
+ "id": "MK-G07",
+ "title": "Quantifiers, conditional 1 · Wind farm",
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "There are [[1]] wind turbines in Dhofar."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "How much electricity [[2]] they produce?"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Enough for thousands of homes. The farm is located [[3]] the south of Oman."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Is wind energy as cheap [[4]] solar energy?"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Almost. But if the wind stops, the turbines [[5]] too."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "So we need other energy sources as well."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "much",
+     "a lot of"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "do",
+     "does"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "at",
+     "in"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "as",
+     "than"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "would stop",
+     "will stop"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Dhofar has one of the largest wind farms in the Gulf. Each wind (1)_____ has long blades that turn when the wind blows. The movement is used to (2)_____ electricity, which then travels through cables to homes and factories. Wind is a clean and (3)_____ energy source because it never runs out. However, wind farms need open land and strong winds, so they are not (4)_____ for every place. Engineers say that one big farm can (5)_____ electricity to thousands of families.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "tablet",
+     "pyramid",
+     "turbine",
+     "glacier"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "options": [
+     "participate",
+     "generate",
+     "communicate",
+     "navigate"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "foreign",
+     "renewable",
+     "excessive",
+     "familiar"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "aggressive",
+     "enormous",
+     "negative",
+     "suitable"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 5,
+    "options": [
+     "burn",
+     "download",
+     "supply",
+     "regulate"
+    ],
+    "answer": 2
+   }
+  ]
+ }
+}

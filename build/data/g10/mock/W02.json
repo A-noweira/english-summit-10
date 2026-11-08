@@ -1,0 +1,50 @@
+{
+  "id": "MK-W02",
+  "title": "Chart: Ways of Saving Water at Home · E-mail: formal",
+  "chart": {
+    "title": "Water-saving Habits at School of Students and Teachers",
+    "ylabel": "Percentage of People",
+    "unit": "%",
+    "categories": [
+      "Closing taps",
+      "Reporting leaks",
+      "Refilling bottles",
+      "Watering plants carefully",
+      "Washing hands quickly"
+    ],
+    "series": [
+      {
+        "name": "students",
+        "values": [
+          70,
+          35,
+          55,
+          25,
+          40
+        ]
+      },
+      {
+        "name": "teachers",
+        "values": [
+          60,
+          65,
+          30,
+          50,
+          45
+        ]
+      }
+    ],
+    "model": "The bar chart shows the water-saving habits of students and teachers at school. The habits were closing taps, reporting leaks, refilling bottles, watering plants carefully and washing hands quickly. Overall, closing taps was the most common habit for students, whereas reporting leaks was the most common habit for teachers.\nFirstly, the most popular habit for students was closing taps, with 70% of students. This was followed by refilling bottles (55%), washing hands quickly (40%) and reporting leaks (35%). However, the least popular habit for students was watering plants carefully, with only 25% of students.\nIn contrast, the most popular habit for teachers was reporting leaks, with 65% of teachers. This was followed by closing taps (60%), watering plants carefully (50%) and washing hands quickly (45%). However, the least popular habit for teachers was refilling bottles, with only 30% of teachers.\nTo summarize, both students and teachers chose closing taps. However, the biggest difference was in reporting leaks, where 35% of students chose it, whereas 65% of teachers did."
+  },
+  "email": {
+    "formal": true,
+    "situation": "Imagine you are Hana, a student at your school. Your school uses a lot of water every day.",
+    "task": "Write a formal email to your principal, Mrs Aisha, and suggest a water-saving campaign at school. In your email, write about:",
+    "bullets": [
+      "why the school should save water",
+      "what posters and signs could be used",
+      "how students could help"
+    ],
+    "model": "Dear Mrs Aisha,\n\nI hope this email finds you in good health and high spirits. I am writing this email to suggest a water-saving campaign at our school.\n\nFirst, the school uses a large amount of water for the garden and the toilets every day. For example, some taps stay open after students wash their hands. Moreover, water is very precious in Oman because we have little rain.\n\nSecond, we could put posters near every tap to remind students to close it. Moreover, students could join a water club and check the taps every week. Therefore, the school would save water and money.\n\nThank you for your time and attention. I look forward to your response. Please let me know if you need any further information.\n\nYours sincerely,\nHana"
+  }
+}

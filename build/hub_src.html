@@ -231,6 +231,11 @@ nav.nv{width:100%;margin-left:0;flex-wrap:nowrap;overflow-x:auto;scrollbar-width
 .pstep.ok .pn{background:var(--good)}.pstep .pt{flex:1;min-width:0;display:flex;flex-direction:column}.pstep .pt .k{font:800 11px "Nunito";letter-spacing:.06em;text-transform:uppercase;color:var(--pc)}
 .pstep .pt b{font:700 16px "Baloo 2"}.pstep .pt .ar{font-size:13px;color:var(--muted)}.pstep .best{background:var(--soft);border-radius:999px;padding:2px 9px;font-weight:800;font-size:12px}
 .pstep.T a{background:var(--soft)}.pstep.G a{background:color-mix(in srgb,var(--t2) 8%,var(--card))}.pstep.V a,.pstep.B a{background:color-mix(in srgb,var(--t1) 5%,var(--card))}
+.bgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}.bd{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px;text-align:center;border-top:4px solid var(--gold)}.bd.lk{border-top-color:var(--line);opacity:.62}.bd .ic{font-size:34px;line-height:1.2}.bd b{display:block;font:800 15px "Baloo 2"}.bd .ar{display:block;font-size:13px;color:var(--muted)}.bd small{display:block;font-size:12px;color:var(--muted);margin-top:4px}.bd .on{color:var(--good);font-weight:800}
+.stkc{display:inline-block;background:var(--soft);border-radius:999px;padding:3px 10px;margin:0 6px 6px 0;font:800 13px "Nunito";color:var(--ink);text-decoration:none}.stk{font-size:18px;margin-left:6px}
+.cel{position:fixed;inset:0;z-index:60;pointer-events:none;overflow:hidden}.cel i{position:absolute;top:-40px;font-style:normal;animation:cf 2.6s ease-in forwards}@keyframes cf{to{transform:translateY(110vh) rotate(540deg)}}
+.celc{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);z-index:61;width:min(92vw,360px);background:var(--card);color:var(--ink);border:2px solid var(--gold);border-radius:18px;padding:14px 18px;box-shadow:var(--shadow);text-align:center;animation:pop .35s}.celc .bal{font-size:21px}.celc .nbd{margin-top:6px;font-size:14px}@keyframes pop{from{transform:translate(-50%,30px);opacity:0}}
+@media (prefers-reduced-motion:reduce){.cel{display:none}.celc{animation:none}}
 .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:10px;margin-bottom:14px}
 .kpis>div{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px}.kpis b{display:block;font:800 26px "Baloo 2";font-variant-numeric:tabular-nums}.kpis span{font-size:12.5px;color:var(--muted);font-weight:700}
 .sgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:14px}.sgrid>.panel{min-width:0}
@@ -294,7 +299,7 @@ td .mini{width:100%}
 
 <header class="top"><div class="in">
   <a class="brand" href="#HUB"><span class="lg"><svg viewBox="0 -4 200 186" id="hlogo"></svg></span><b>English <span>Summit</span> 10</b></a>
-  <div class="tright"><span id="who" class="who" hidden></span><a href="#HW" id="bell" class="bell" title="My homework and messages" aria-label="Messages">🔔<i hidden>0</i></a><a href="#LOGOUT" class="lout" title="Log out">⎋ Log out</a></div>
+  <div class="tright"><span id="who" class="who" hidden></span><a href="#BADGES" id="bdg" class="bell" title="My badges" aria-label="My badges">🏅<i hidden>0</i></a><a href="#HW" id="bell" class="bell" title="My homework and messages" aria-label="Messages">🔔<i hidden>0</i></a><a href="#LOGOUT" class="lout" title="Log out">⎋ Log out</a></div>
   <nav class="nv" id="nav">
     <a href="#HUB" data-r="HUB">Home</a><a href="#HW" data-r="HW">My Homework</a><a href="#UNITS" data-r="UNITS">Units</a><a href="#WRITE" data-r="WRITE">Writing Lab</a><a href="#PRACTICE" data-r="PRACTICE">Exam Practice</a><a href="#EXAMS" data-r="EXAMS">Exams</a><a href="#LIVE" data-r="LIVE">Live</a><a href="#SKILLS" data-r="SKILLS">My Skills</a>
   </nav>
@@ -319,6 +324,81 @@ try { const v = localStorage.getItem('es11'); if (v) ST = Object.assign(ST, JSON
 const save = () => { try { localStorage.setItem('es11', JSON.stringify(ST)); } catch(e) {} if (typeof syncSoon === 'function') syncSoon(); };
 const setBest = (code, pct) => { if (!(code in ST.best) || pct > ST.best[code]) { ST.best[code] = pct; save(); } };
 
+/* ---------- celebration, stickers and 24 badges (all state lives in ST.pg, synced with the rest of ST) ---------- */
+const STK = ['', '🥉', '🥈', '🥇'], STKN = ['', 'Bronze', 'Silver', 'Gold'], STKA = ['', 'برونزي', 'فضي', 'ذهبي'];
+const lvl = p => p >= 100 ? 3 : p >= 80 ? 2 : p >= 60 ? 1 : 0;
+const PG = () => (ST.pg = Object.assign({wins: 0, gw: {}, stk: {}, bd: {}, days: [], lp: 0, mm: 99, sp: 0}, ST.pg || {}));
+const todayS = () => { const d = new Date(); return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0'); };
+const stkLvl = c => Math.max(PG().stk[c] || 0, lvl((ST.best || {})[c] || 0));
+const stkTag = c => { const l = stkLvl(c); return l ? `<span class="stk" title="${STKN[l]} sticker">${STK[l]}</span>` : ''; };
+const stkMap = () => { const m = {}; Object.keys(Object.assign({}, ST.best, PG().stk)).filter(k => !/-L$/.test(k)).forEach(k => { const l = stkLvl(k); if (l) m[k] = l; }); return m; };
+function streaks(){
+  const d = [...new Set(PG().days)].sort().map(x => Date.parse(x + 'T12:00:00Z') / 864e5); let best = 0, cur = 0;
+  d.forEach((x, i) => { cur = i && x - d[i - 1] === 1 ? cur + 1 : 1; best = Math.max(best, cur); });
+  return {best, cur: d.length && d[d.length - 1] >= Date.parse(todayS() + 'T12:00:00Z') / 864e5 - 1 ? cur : 0};
+}
+const bAny = (c, re, min) => Object.entries(c.best).some(([k, v]) => re.test(k) && v >= min);
+const bCnt = (c, re, min) => Object.entries(c.best).filter(([k, v]) => re.test(k) && v >= min).length;
+const BADGES = [
+ ['w1', '🎉', 'First win', 'أول فوز', 'Win any game', 'اربح أي لعبة', c => c.p.wins >= 1],
+ ['w10', '🔟', '10 wins', '١٠ انتصارات', 'Win 10 games', 'اربح ١٠ ألعاب', c => c.p.wins >= 10],
+ ['w50', '🏅', '50 wins', '٥٠ انتصارًا', 'Win 50 games', 'اربح ٥٠ لعبة', c => c.p.wins >= 50],
+ ['w100', '👑', '100 wins', '١٠٠ انتصار', 'Win 100 games', 'اربح ١٠٠ لعبة', c => c.p.wins >= 100],
+ ['mean', '💡', 'Meaning master', 'سيد المعاني', 'Win 10 meaning games (match, quiz, lesson questions, text gaps)', 'اربح ١٠ ألعاب معنى', c => (c.p.gw.m || 0) >= 10],
+ ['spell', '✍', 'Spelling star', 'نجم الإملاء', 'Score 100% in a spelling game', 'احصل على ١٠٠٪ في لعبة إملاء', c => !!c.p.sp],
+ ['light', '⚡', 'Lightning fast', 'سريع كالبرق', 'Score 20 points or more in Lightning', 'اجمع ٢٠ نقطة أو أكثر في Lightning', c => c.p.lp >= 20],
+ ['mem', '🧠', 'Memory master', 'سيد الذاكرة', 'Finish Memory in 8 moves or fewer', 'أنهِ Memory في ٨ حركات أو أقل', c => c.p.mm <= 8],
+ ['exam', '📝', 'Exam ready', 'جاهز للامتحان', 'Score 90% or more in a past paper, mock task or model exam', 'احصل على ٩٠٪ أو أكثر في امتحان', c => bAny(c, /^(EX|MT|MK|GV)-|:[LGRW]$/, 90)],
+ ['gold1', '🥇', 'First gold', 'أول ملصق ذهبي', 'Win your first gold sticker (100%)', 'احصل على أول ملصق ذهبي (١٠٠٪)', c => c.gold >= 1],
+ ['gold5', '🏆', 'Gold collector', 'جامع الذهب', 'Gold stickers in 5 different lessons', 'ملصقات ذهبية في ٥ دروس', c => c.gold >= 5],
+ ['gram', '📘', 'Grammar fan', 'عاشق القواعد', 'Win games in 5 different grammar lessons', 'افز في ٥ دروس قواعد مختلفة', c => Object.keys(c.s).filter(k => /^T\d-G/.test(k)).length >= 5],
+ ['bee', '🐝', 'Spelling bee', 'نحلة الإملاء', 'Score 90% or more in a spelling bee', 'احصل على ٩٠٪ أو أكثر في مسابقة الإملاء', c => bAny(c, /^SB-/, 90)],
+ ['d3', '🔥', '3 days in a row', '٣ أيام متتالية', 'Study on 3 days in a row', 'ادرس ٣ أيام متتالية', c => c.st.best >= 3],
+ ['d7', '📅', '7 days in a row', '٧ أيام متتالية', 'Study on 7 days in a row', 'ادرس ٧ أيام متتالية', c => c.st.best >= 7],
+ ...[1, 2, 3, 4].map(n => ['u' + n, '🏔', `Unit ${n} champion`, `بطل الوحدة ${n}`, `Gold sticker in every vocabulary lesson of Unit ${n}`, `ملصق ذهبي في كل دروس مفردات الوحدة ${n}`, c => { const v = D.vocab.filter(x => x.theme == n); return v.length > 0 && v.every(x => c.s[x.code] === 3); }]),
+ ['rd', '📖', 'Reading ready', 'جاهز للقراءة', 'Score 80% or more in 3 reading papers', 'احصل على ٨٠٪ في ٣ امتحانات قراءة', c => bCnt(c, /:R$/, 80) >= 3],
+ ['ls', '🎧', 'Listening ready', 'جاهز للاستماع', 'Score 80% or more in 3 listening papers', 'احصل على ٨٠٪ في ٣ امتحانات استماع', c => bCnt(c, /:L$/, 80) >= 3],
+ ['gv', '🧩', 'Grammar & words ready', 'جاهز للقواعد والمفردات', 'Score 80% or more in 3 grammar & vocabulary sets', 'احصل على ٨٠٪ في ٣ مجموعات قواعد ومفردات', c => bCnt(c, /:G$|^GV-/, 80) >= 3],
+ ['wr', '✉', 'Writing Lab finisher', 'متمّ مختبر الكتابة', 'Finish all stages of one Writing Lab type', 'أكمل كل مراحل نوع كتابة واحد', c => Object.values(ST.wl || {}).some(o => Object.keys(o || {}).length >= WSTAGES.length)],
+ ['mt', '🎓', 'Full exam hero', 'بطل الاختبار الكامل', 'Score 80% or more in a full model exam', 'احصل على ٨٠٪ في اختبار نموذجي كامل', c => bAny(c, /^MT-/, 80)]
+];
+function checkBadges(){   // unlocks what the progress data already earns; returns the new ones
+  const s = stkMap(), p = PG(), c = {p, s, best: ST.best || {}, gold: Object.values(s).filter(l => l === 3).length, st: streaks()}, nw = [];
+  BADGES.forEach(b => { let ok = false; try { ok = b[6](c); } catch (e) {} if (ok && !p.bd[b[0]]) { p.bd[b[0]] = todayS(); nw.push(b); } });
+  if (nw.length) save(); paintBadge(); return nw;
+}
+function paintBadge(){ const b = $('#bdg'); if (!b) return; const n = BADGES.filter(x => PG().bd[x[0]]).length; b.querySelector('i').textContent = n; b.querySelector('i').hidden = !n; }
+function celebrate(l, pct, up, nb){
+  document.querySelectorAll('.cel,.celc').forEach(e => e.remove());
+  const top = pct >= 90;
+  const card = document.createElement('div'); card.className = 'celc'; card.setAttribute('role', 'status');
+  card.innerHTML = (l ? `<b class="bal">${top ? 'Excellent! Summit reached! 🏔' : 'You won! 🏆'}</b><div class="ar">${top ? 'ممتاز! وصلت القمة!' : 'فزت! عمل رائع!'}</div>
+    <div style="margin-top:6px;font-weight:800">${STK[l]} ${STKN[l]} sticker <span class="ar" style="display:inline">ملصق ${STKA[l]}</span>${up ? ' · <span style="color:var(--good)">New!</span>' : ''}</div>` : '<b class="bal">New badge! 🏅</b>')
+    + nb.map(b => `<div class="nbd">${b[1]} <b>${b[2]}</b> <span class="ar">${b[3]}</span></div>`).join('')
+    + (nb.length ? '<div class="small muted" style="margin-top:6px"><a href="#BADGES">See my badges · شاراتي</a></div>' : '');
+  document.body.appendChild(card);
+  const kill = () => { card.remove(); const c = $('.cel'); if (c) c.remove(); };
+  card.onclick = kill; setTimeout(kill, nb.length ? 6500 : 4200);
+  if (l || nb.length) { const cf = document.createElement('div'); cf.className = 'cel';
+    cf.innerHTML = Array.from({length: 34}, () => `<i style="left:${Math.random() * 100}%;font-size:${16 + Math.random() * 16 | 0}px;animation-delay:${(Math.random() * .9).toFixed(2)}s">${['🎉', '⭐', '✨', '🏔', '🥇', '🎊'][Math.random() * 6 | 0]}</i>`).join('');
+    document.body.appendChild(cf); }
+}
+function award(ref, pct, cat){   // pass = 60%+ · bronze 60 · silver 80 · gold 100
+  const p = PG(), l = lvl(pct), up = l > (p.stk[ref] || 0);
+  if (l) { if (up) p.stk[ref] = l; if (cat) { p.wins++; p.gw[cat] = (p.gw[cat] || 0) + 1; if (cat === 's' && pct === 100) p.sp = 1; } }
+  save(); const nb = checkBadges(); if (l || nb.length) celebrate(l, pct, up, nb);
+}
+function sweep(){ const nb = checkBadges(); if (nb.length) celebrate(0, 0, false, nb); }
+function markDay(){ const p = PG(), t = todayS(); if (!p.days.includes(t)) { p.days.push(t); p.days = p.days.slice(-400); save(); } }
+function gameWin(act, ref, score, max, d){
+  const p = PG(), m = act.slice(5); let pct = max ? Math.round(100 * score / max) : 0;
+  if (m === 'lightning' && d && d.points > p.lp) p.lp = d.points;
+  if (m === 'memory' && d && d.moves && d.moves < p.mm) p.mm = d.moves;
+  if (m === 'hangman' && score > 0) pct = Math.max(pct, 60);
+  if (pct < 60) { save(); sweep(); return; }
+  award(ref, pct, /memory|lightning/.test(m) ? 'c' : /scramble|missing|listen|hangman|spell|type|bee/.test(m) ? 's' : 'm');
+}
+
 /* ---------- activity tracking: everything the student does goes to the database ---------- */
 const Q_KEY = 'es11q';
 let QUEUE = {events: [], items: [], scores: []};
@@ -332,6 +412,7 @@ function tItem(kind, key, ok, ref, ans){ if (!key) return; QUEUE.items.push({kin
 function tScore(act, ref, score, max, skill, detail){
   const s = {t: Date.now(), act, ref: ref || '', skill: skill || skillOf(ref), theme: themeOf(ref), score: +score || 0, max: +max || 0, detail: detail ?? null};
   QUEUE.scores.push(s); qsave(); if (ME) ME.scores.push(s); flushSoon();
+  try { markDay(); if (/^game:/.test(act)) gameWin(act, ref, score, max, detail); else sweep(); } catch (e) {}
 }
 let flushing = false, fT = null;
 function flushSoon(){ clearTimeout(fT); fT = setTimeout(flush, 2000); }
@@ -360,7 +441,7 @@ setInterval(() => { if (!document.hidden && ST.tok && API_OK) api('/api/beat', {
 let ME = null;   // data from the database: scores, items, subs, student
 const SYNCK = k => /^es11w-|^es11x-/.test(k);
 function collectState(){
-  const d = {best: ST.best || {}, wl: ST.wl || {}, read: ST.read || [], unlocked: ST.unlocked || {}, drafts: {}, t: Date.now()};
+  const d = {best: ST.best || {}, wl: ST.wl || {}, read: ST.read || [], unlocked: ST.unlocked || {}, pg: PG(), drafts: {}, t: Date.now()};
   try { Object.keys(localStorage).filter(SYNCK).forEach(k => d.drafts[k] = localStorage.getItem(k)); } catch (e) {}
   return d;
 }
@@ -379,9 +460,14 @@ async function pullMe(){
     ST.wl = ST.wl || {}; Object.entries(s.wl || {}).forEach(([T, o]) => { ST.wl[T] = Object.assign({}, o, ST.wl[T] || {}); });
     ST.unlocked = Object.assign({}, s.unlocked || {}, ST.unlocked || {});
     ST.read = [...new Set([...(ST.read || []), ...(s.read || [])])];
+    const a = PG(), b = s.pg || {}; a.wins = Math.max(a.wins, b.wins || 0);
+    ['gw', 'stk'].forEach(k => Object.entries(b[k] || {}).forEach(([x, v]) => { a[k][x] = Math.max(a[k][x] || 0, v); }));
+    Object.entries(b.bd || {}).forEach(([x, v]) => { if (!a.bd[x] || v < a.bd[x]) a.bd[x] = v; });
+    a.days = [...new Set([...a.days, ...(b.days || [])])].sort().slice(-400); a.lp = Math.max(a.lp, b.lp || 0); a.mm = Math.min(a.mm, b.mm || 99); a.sp = a.sp || b.sp || 0;
     try { Object.entries(s.drafts || {}).forEach(([k, v]) => { if (localStorage.getItem(k) == null && v != null) localStorage.setItem(k, v); }); } catch (e) {}
     try { localStorage.setItem('es11', JSON.stringify(ST)); } catch (e) {}
   }
+  checkBadges();
   return ME;
 }
 
@@ -457,7 +543,7 @@ const G = Object.fromEntries(D.grammar.map(g => [g.code, g]));
 const F = Object.fromEntries(D.found.map(f => [f.code, f]));
 const L = Object.fromEntries(D.listen.filter(l => l.code).map(l => [l.code, l]));
 const pg = c => D.pages[c] ? ` · book p. ${D.pages[c]}` : '';
-const bestTag = c => (c in ST.best) ? `<span class="best">${ST.best[c]}%</span>` : '';
+const bestTag = c => (c in ST.best) ? `<span class="best">${stkLvl(c) ? STK[stkLvl(c)] + ' ' : ''}${ST.best[c]}%</span>` : '';
 
 /* ---------- views ---------- */
 /* -- quiz engine: items = [{q (html), opts, ans, ar?}] -- */
@@ -569,7 +655,7 @@ function vocabView(v){
     };
     run('list');
   });
-  return `<div class="panel" style="--c:${c}"><div class="ph"><span class="code">${v.code}</span><h1>${esc(v.title)}</h1><span class="ar">${esc(v.ar)}</span><span class="small muted">Unit ${v.theme} · ${v.words.length} words</span></div>
+  return `<div class="panel" style="--c:${c}"><div class="ph"><span class="code">${v.code}</span><h1>${esc(v.title)}</h1><span class="ar">${esc(v.ar)}</span><span class="small muted">Unit ${v.theme} · ${v.words.length} words</span>${stkTag(v.code)}</div>
     ${extrasBox(v)}<div class="modes"><button data-m="list">📋 Word list</button><button data-m="cards">🃏 Flashcards</button><button data-m="match">🔗 Match</button><button data-m="quiz">❓ Quiz</button><button data-m="book">📝 Lesson questions (${v.mcq.length})</button><button data-m="cloze">📄 Text gaps 1</button>${v.cloze2 ? '<button data-m="cloze2">📄 Text gaps 2</button>' : ''}<button data-m="spell">⌨ Spell it</button><button data-m="scramble">🔤 Word builder</button><button data-m="missing">🧩 Missing letters</button><button data-m="listen">🔊 Listen &amp; spell</button><button data-m="hangman">🧗 Guess the word</button><button data-m="memory">🧠 Memory</button><button data-m="lightning">⚡ Lightning 60s</button></div><div id="stage"></div></div>`;
 }
 
@@ -605,7 +691,7 @@ function grammarView(g, c, label){
       if (m==='choose') quiz(el, shuf(ch), g.code); else if (m==='dlg') dlgMode(el, g); else typing(el, shuf(cp), g.code, 'Writing round finished.'); };
     modes.forEach(b => b.onclick = () => run(b.dataset.m)); run('choose');
   });
-  return `<div class="panel" style="--c:${c}"><div class="ph"><span class="code">${g.code}</span><h1>${esc(g.title)}</h1><span class="ar">${esc(g.ar)}</span><span class="small muted">${label}${pg(g.code)}</span></div>
+  return `<div class="panel" style="--c:${c}"><div class="ph"><span class="code">${g.code}</span><h1>${esc(g.title)}</h1><span class="ar">${esc(g.ar)}</span><span class="small muted">${label}${pg(g.code)}</span>${stkTag(g.code)}</div>
     ${g.summary ? `<div class="sum">${g.summary}</div>` : ''}
     <div class="modes"><button data-m="choose">✔ Choose the answer (${g.items.length})</button>${(g.dialogues||[]).length?`<button data-m="dlg">💬 Exam dialogue (${g.dialogues.length * 5})</button>`:''}${(g.complete||[]).length?`<button data-m="type">✍ Write the answer (${g.complete.length})</button>`:''}</div><div id="stage"></div></div>`;
 }
@@ -653,9 +739,9 @@ function keyTable(rows, filt){
 }
 function listenView(l){ return `<div class="note">Open the listening inside the model exams. <a href="#EXAMS">Model exams</a></div>`; }
 function audioList(){
-  const ms = (D.exams || []).filter(x => x.kind === 'model' && x.l1 && x.l1.audio);
+  const ms = (D.exams || []).filter(x => (x.kind === 'model' || x.kind === 'mock') && x.l1 && x.l1.audio);
   return `<div class="ph"><h1>Listening recordings</h1><span class="ar">تسجيلات الاستماع</span></div>
-   <div class="note small">Real recordings for the ten model exams. Each recording plays the text twice. Past papers have questions only. <span class="ar">تسجيلات حقيقية للنماذج العشرة.</span></div>
+   <div class="note small">Recordings for the model exams and the 2026/2027 listening mock tasks. Every recording plays the text twice, with different speakers at a natural, medium speed; it plays inside the exam page. <span class="ar">كل تسجيل يُشغَّل مرتين وبسرعة متوسطة وأصوات مختلفة، ويعمل داخل صفحة الاختبار.</span></div>
    <div class="panel">${ms.map(x => `<h3 style="margin:10px 0 4px"><a href="#${x.id}">${esc(x.label)}</a></h3><div class="small muted">Listening 1</div><audio controls preload="none" src="${esc(x.l1.audio)}" style="width:100%"></audio><div class="small muted">Listening 2</div><audio controls preload="none" src="${esc(x.l2.audio)}" style="width:100%"></audio>`).join('')}</div>`;
 }
 
@@ -664,7 +750,7 @@ function keysView(){
   setTimeout(() => { const s = $('#ks'); s.oninput = () => { const v = s.value.toLowerCase(); document.querySelectorAll('#kl details').forEach(d => d.hidden = !!v && !d.dataset.t.toLowerCase().includes(v)); }; });
   const tbl = rows => { let last = ''; return '<table class="k"><tr><th>Part</th><th>Q</th><th>Answer</th></tr>' + rows.map(([p, n, a]) => { const r = `<tr><td>${p !== last ? esc(p) : ''}</td><td>${n}</td><td>${esc(a)}</td></tr>`; last = p; return r; }).join('') + '</table>'; };
   const theme = (D.themeKeys || []).map(([t, rows]) => `<details data-t="${esc(t)}"><summary>${esc(t)}</summary><div class="kb"><table class="k"><tr><th>Q</th><th>Answer</th></tr>${rows.map(([n,a])=>`<tr><td>${n}</td><td>${esc(a)}</td></tr>`).join('')}</table></div></details>`).join('');
-  const KT = {model: 'Model exam', past: 'Past paper', gv: 'Practice set'};
+  const KT = {model: 'Model exam', past: 'Past paper', gv: 'Practice set', mock: '2026/2027 mock task'};
   const ex = (D.examKeys || []).map(([t, kind, rows]) => `<details data-t="${esc(t)}"><summary>${esc(t)} <span class="pill">${KT[kind] || kind}</span></summary><div class="kb">${tbl(rows)}<p class="small muted">Writing: use the checklist and model answer shown after you finish the exam.</p></div></details>`).join('');
   return `<div class="ph"><h1>Answer keys</h1><span class="ar">مفاتيح الإجابات</span></div>
     <div class="note small">Try the questions first. Then check here. <span class="ar">حلّ أولًا ثم صحّح هنا.</span></div>
@@ -800,7 +886,7 @@ function ttView(x){
         if (box) { box.classList.toggle('ok', ok); box.classList.toggle('no', !ok); const ck = box.querySelector('.ck'); if (ck) ck.innerHTML = ok ? '✔' : `✘ Answer: <b>${esc(k.txt)}</b>`; }
         res[k.sec] = res[k.sec] || [0, 0]; res[k.sec][1]++; if (ok) { res[k.sec][0]++; tot++; } });
       const max = KEY.length, pct = Math.round(100 * tot / max); setBest(ref, pct);
-      if (!logged) { logged = true; KEY.forEach(k => tItem(k.kind, k.key, k.ok, ref, k.given));
+      if (!logged) { logged = true; award(ref, pct); KEY.forEach(k => tItem(k.kind, k.key, k.ok, ref, k.given));
         Object.entries(res).forEach(([sk, [a, b]]) => tScore('theme-test', ref, a, b, sk, {paper: x.id, label: x.label, wrong: KEY.filter(k => k.sec === sk && !k.ok).map(k => k.n)})); }
       const SN = {vocab: 'Vocabulary', grammar: 'Grammar'};
       $('#score').innerHTML = `<div class="res" style="padding:8px"><div class="big">${tot}/${max}</div><p>${pct >= 90 ? 'Excellent! Summit reached! 🏔' : pct >= 70 ? 'Great work! Keep climbing.' : 'Good try. Review the lessons of this theme and try again.'}</p><p>${Object.entries(res).map(([sk, [a, b]]) => `<b>${SN[sk] || sk}</b> ${a}/${b}`).join(' · ')}</p>
@@ -813,7 +899,7 @@ function ttView(x){
     <div class="row" style="justify-content:flex-start;margin:-6px 0 10px"><a class="btn g" style="text-decoration:none" href="#TH-${x.theme}">◀ Back to Unit ${x.theme}</a></div>
     <div class="paper" id="paper"><div class="ohd"><span>English Summit 10 · Grade 10 English, Semester One</span><span>Academic Year: 2026/2027</span></div>
      <div class="ocv"><div class="ot">${esc(x.label)}</div><div class="small">${x.total} items · vocabulary and grammar · no time limit</div></div>${h}<div class="oend">[ End of the test ]</div></div>
-    <div class="row" style="margin-top:14px"><button class="btn" id="fin" style="--c:var(--navy)">Finish &amp; check</button></div><div id="score"></div>`;
+    <div class="row" style="margin-top:14px"><button class="btn" id="fin" style="--c:var(--navy)">${parts === 'W' ? 'Check &amp; show the model answers' : 'Finish &amp; check'}</button></div><div id="score"></div>`;
 }
 
 /* ---------- exam mode: papers in the real booklet layout ---------- */
@@ -856,7 +942,7 @@ function xmChart(c){
 }
 function examView(x, parts){
   // parts: undefined = the whole paper; or 'L' (listening), 'G' (grammar + vocabulary), 'R' (reading)
-  const P = parts ? {L: parts === 'L', G: parts === 'G', R: parts === 'R', W: false} : {L: true, G: true, R: true, W: true};
+  const P = parts ? {L: parts === 'L', G: parts === 'G', R: parts === 'R', W: parts === 'W'} : {L: true, G: true, R: true, W: true};
   const act = parts ? 'practice' : (x.kind === 'theme' ? 'theme-test' : 'exam');
   const ref = parts ? x.id + ':' + parts : x.id;
   const KEY = []; let n = 0; const SCR = {};
@@ -872,9 +958,9 @@ function examView(x, parts){
   const audio = (part, url, sc) => url ? (SCR[part] = sc, `<div class="tts"><audio controls preload="metadata" src="${esc(url)}" data-aud="${part}" style="width:100%;max-width:460px"></audio><span class="small muted">Read the questions first. The recording plays the text twice. <span class="ar">اقرأ الأسئلة أولًا؛ التسجيل يُعاد مرتين.</span></span></div>`)
     : sc ? (SCR[part] = sc, ttsBox(part, sc)) : '';
   const noRec = '';
-  const SEC = {L: 'Listening', G: 'Grammar & Vocabulary', R: 'Reading'};
+  const SEC = {L: 'Listening', G: 'Grammar & Vocabulary', R: 'Reading', W: 'Writing'};
   let h = `<div class="ohd"><span>English Summit 10 · Grade 10 English, Semester One</span><span>Academic Year: 2026/2027</span></div>
-    <div class="ocv"><div><div class="ot">${esc(x.label)}${parts && x.kind !== 'gv' && x.kind !== 'past' ? ' · ' + SEC[parts] : ''}</div><div class="small">${parts ? (x.kind === 'past' ? 'Past final-exam paper · ' : 'Exam practice · ') + SEC[parts] : '2½ hours · 60 marks · items 1–45 + two writing tasks'}</div></div></div>${noRec}`;
+    <div class="ocv"><div><div class="ot">${esc(x.label)}${parts && x.kind !== 'gv' && x.kind !== 'past' ? ' · ' + SEC[parts] : ''}</div><div class="small">${parts ? (x.kind === 'past' ? 'Past final-exam paper · ' : x.kind === 'mock' ? '2026/2027 mock task · ' : 'Exam practice · ') + SEC[parts] : '2½ hours · 60 marks · items 1–45 + two writing tasks'}</div></div></div>${noRec}`;
   if (P.L && x.l1) {
     h += bar('Listening 1', 1, x.l1.items.length, x.l1.items.length) + (x.l1.link ? origRec(x.l1) : audio('l1', x.l1.audio, x.l1.script)) + inst(`<i>${esc(x.l1.intro)}</i><br><i>Listen, and shade in the bubble</i> (${B}) <i>next to the correct option.</i>`);
     x.l1.items.forEach(([q,o,a]) => h += mc(q,o,a,'listening'));
@@ -916,7 +1002,7 @@ function examView(x, parts){
   if (P.W && x.w1) h += bar('Writing 1 · Describe a chart', 0, 0, 5) + inst('<i>Look at the bar chart. Write a description of at least <b>100 words</b>. Include <b>all the numbers</b> and use your chart template.</i>') + `<div class="owt"><b>${esc(x.w1.title)}</b></div>${xmChart(x.w1)}<textarea class="ow" id="w1" placeholder="Write your chart description here…"></textarea><div class="small muted" id="w1c">0 words</div>`;
   if (P.W && x.w2) h += bar('Writing 2 · E-mail', 0, 0, 10) + inst(`<i>Read the situation and complete the task. Write at least <b>100 words</b> (${x.w2.formal ? 'formal' : 'informal'} e-mail). Your writing should be <b>clear</b> and <b>well-organised</b>.</i>`) + `<div class="owt" style="text-align:left"><p>${esc(x.w2.situation)}</p><p>${esc(x.w2.task)}</p><ul style="font-weight:600">${x.w2.bullets.map(b => `<li>${esc(b)}</li>`).join('')}</ul></div><textarea class="ow" id="w2" placeholder="Write your e-mail here…"></textarea><div class="small muted" id="w2c">0 words</div>`;
   h += `<div class="oend">[ End of ${parts ? 'this part' : 'Examination'} ]</div>`;
-  const SKEY = 'es10x-' + ref;
+  const SKEY = 'es11x-' + ref;
   setTimeout(() => {
     const root = $('#paper'); let draft = {};
     try { draft = JSON.parse(localStorage.getItem(SKEY) || '{}'); } catch(e) {}
@@ -944,8 +1030,8 @@ function examView(x, parts){
         if (ck) ck.innerHTML = ok ? '✔' : (k.t === 'sa' ? `✘ Key: <b>${esc(k.ans)}</b> <button class="btn g sm" data-ov="${k.n}">My answer is correct</button>` : `✘ Answer: <b>${esc(k.txt)}</b>`);
         res[k.sec] = res[k.sec] || [0,0]; res[k.sec][1]++; if (ok) { res[k.sec][0]++; tot++; } max++; });
       root.querySelectorAll('[data-ov]').forEach(b => b.onclick = () => { const k = KEY.find(z => z.n === +b.dataset.ov); k.over = true; logged = false; mark(); });
-      const pct = max ? Math.round(100*tot/max) : 0; setBest(ref, pct);
-      if (!logged) { logged = true;
+      const pct = max ? Math.round(100*tot/max) : 0; if (max) setBest(ref, pct);
+      if (!logged) { logged = true; if (max) award(ref, pct);
         KEY.forEach(k => tItem('q', x.id + ':' + k.n, k.ok, x.id, k.given));
         Object.entries(res).forEach(([s,[a,b]]) => tScore(act, ref, a, b, s, {paper: x.id, label: x.label, wrong: KEY.filter(k => k.sec === s && !k.ok).map(k => k.n)}));
         ['w1','w2'].forEach(w => { const t = $('#'+w); if (t && t.value.trim()) tEvent('exam_writing', ref, {task: w, text: t.value.slice(0, 3000)}); }); }
@@ -957,7 +1043,7 @@ function examView(x, parts){
       const WCHK = {w1: ['Introduction: “The bar chart shows …” + a second sentence naming the categories under the bars', 'Every category is mentioned with its numbers', 'Highest and lowest values compared', 'Linking words (while, whereas, however …)', 'Conclusion paragraph', '100+ words'],
                     w2: ['Greeting and fixed opening lines', 'First, … Second, … body paragraphs', 'Two linkers in each body paragraph (For example / However / Therefore / Moreover)', 'Every bullet point answered', 'Fixed closing lines and your name', '100+ words']};
       const wm = P.W ? ['w1','w2'].filter(w => x[w] && x[w].model).map(w => `<details style="margin-top:8px;text-align:left"><summary>Writing ${w.slice(1)} · self-check and model answer · نموذج الإجابة</summary><div class="kb"><p class="small"><b>Check your writing:</b></p><ul class="small">${WCHK[w].map(c => `<li>${esc(c)}</li>`).join('')}</ul><p class="small"><b>Model answer:</b></p>${x[w].model.split('\n').filter(Boolean).map(p => `<p>${esc(p)}</p>`).join('')}</div></details>`).join('') : '';
-      $('#score').innerHTML = `<div class="res" style="padding:8px"><div class="big">${tot}/${max}</div><p>${parts ? '' : 'Items 1–45 (writing is marked separately: chart /5 + e-mail /10). '}${Object.entries(res).map(([s,[a,b]])=>`<b>${SN[s]||s}</b> ${a}/${b}`).join(' · ')}</p>
+      $('#score').innerHTML = `<div class="res" style="padding:8px"><div class="big">${max ? tot + '/' + max : '✍️'}</div><p>${parts ? (max ? '' : 'Writing is marked with the criteria: compare your texts with the checklist and the model answers, then send them for marking. ') : 'Items 1–45 (writing is marked separately: chart /5 + e-mail /10). '}${Object.entries(res).map(([s,[a,b]])=>`<b>${SN[s]||s}</b> ${a}/${b}`).join(' · ')}</p>
         <p class="small muted">Saved to your record ✔ <span class="ar">حُفظت النتيجة في سجلك</span></p>
         <div class="row">${wbtn}<button class="btn g" id="rs">Clear my answers</button></div><div class="fb" id="aifb"></div>${wm}${tr}</div>`;
       root.parentElement.querySelectorAll('[data-ai]').forEach(b => b.onclick = async () => {
@@ -971,12 +1057,12 @@ function examView(x, parts){
     };
     $('#fin').onclick = mark;
   });
-  const back = parts ? `<a class="btn g" style="text-decoration:none" href="#PR-${parts}">◀ All ${({L:'listening', G:'grammar & vocabulary', R:'reading'})[parts]} papers</a>`
+  const back = parts ? `<a class="btn g" style="text-decoration:none" href="#PR-${parts}">◀ All ${({L:'listening', G:'grammar & vocabulary', R:'reading', W:'writing'})[parts]} papers</a>`
     : `<a class="btn g" style="text-decoration:none" href="#${x.kind === 'theme' ? 'TH-' + x.id.slice(3) : 'EXAMS'}">◀ Back</a>`;
-  return `<div class="ph"><span class="code" style="--c:var(--ex)">${x.id}</span><h1>${esc(x.label)}</h1><span class="ar">${x.kind==='past'?'امتحان سابق':x.kind==='theme'?'تدريب الوحدة':x.kind==='gv'?'قواعد ومفردات':'نموذج امتحان'}</span>${bestTag(ref)}</div>
+  return `<div class="ph"><span class="code" style="--c:var(--ex)">${x.id}</span><h1>${esc(x.label)}</h1><span class="ar">${x.kind==='mock'?'مهمة تدريبية 2026/2027':x.kind==='past'?'امتحان سابق':x.kind==='theme'?'تدريب الوحدة':x.kind==='gv'?'قواعد ومفردات':'نموذج امتحان'}</span>${bestTag(ref)}</div>
     <div class="row" style="justify-content:flex-start;margin:-6px 0 10px">${back}</div>
     <div class="paper" id="paper">${h}</div>
-    <div class="row" style="margin-top:14px"><button class="btn" id="fin" style="--c:var(--navy)">Finish &amp; check</button></div><div id="score"></div>`;
+    <div class="row" style="margin-top:14px"><button class="btn" id="fin" style="--c:var(--navy)">${parts === 'W' ? 'Check &amp; show the model answers' : 'Finish &amp; check'}</button></div><div id="score"></div>`;
 }
 
 /* ---------- classroom: API, notices, live classes, teacher page, log out ---------- */
@@ -1004,7 +1090,7 @@ async function refreshInbox(){
   if (j && j.notices) { INBOX = j; paintBell(); const h = decodeURIComponent(location.hash.slice(1)); if (h === 'NOTICES' || h === 'LIVE') route(); }
 }
 async function hello(){ if (ST.code && ST.tok) { const j = await api('/api/hello', {method:'POST', body: JSON.stringify({code: ST.code})}); if (j && j.name && j.name !== ST.name) { ST.name = j.name; save(); showWho(); } await refreshInbox(); await pullMe(); flush(); checkReadyFeedback();
-  const h = decodeURIComponent(location.hash.slice(1)) || 'HUB'; if (['HUB','SKILLS','UNITS','HW'].includes(h) || /^TH-/.test(h)) route(); } }
+  const h = decodeURIComponent(location.hash.slice(1)) || 'HUB'; if (['HUB','SKILLS','UNITS','HW','BADGES'].includes(h) || /^TH-/.test(h)) route(); } }
 setInterval(refreshInbox, 120000);
 addEventListener('focus', refreshInbox);
 
@@ -1061,8 +1147,8 @@ function contentOptions(){
   [1,2,3,4].forEach(n => { o.push(['#TH-' + n, `Unit ${n} · whole path`]); THEME_STEPS(n).forEach(s => o.push(['#' + s.code, `Unit ${n} · ${s.code} · ${s.title}`])); });
   D.found.forEach(f => o.push(['#' + f.code, `Grammar Booster · ${f.code} · ${f.title}`]));
   o.push(['#F-03', 'Irregular verbs (table + games)']); o.push(['#F-04', 'Phrasal verbs (table + games)']);
-  ['L','G','R'].forEach(k => practicePapers(k).forEach(x => o.push([`#PR-${k}-${x.id}`, `Exam practice · ${PRS[k][0]} · ${x.label}`])));
-  o.push(['#PR-W', 'Exam practice · Writing (AI marking)']);
+  ['L','G','R','W'].forEach(k => practicePapers(k).forEach(x => o.push([`#PR-${k}-${x.id}`, `Exam practice · ${PRS[k][0]} · ${x.label}`])));
+  o.push(['#PR-W', 'Exam practice · Writing (free task + AI marking)']);
   (D.exams || []).filter(x => x.kind === 'model').forEach(x => o.push(['#' + x.id, `Exam · ${x.label}`]));
   WL_STAGES().forEach(([h, t]) => o.push([h, t]));
   return o;
@@ -1351,7 +1437,7 @@ const lkHtml = s => s.lk ? `<b style="color:${RC[s.role]}">${esc(s.lk)}</b> ` : 
 const sentHtml = s => `${lkHtml(s)}<span style="${s.lk ? '' : `border-bottom:2px solid ${RC[s.role]}`}">${esc(s.tx)}</span>`;
 const essayHtml = P => P.map(p => `<p class="wp"><span class="wpn">${esc(p.name)}</span>${p.s.map(sentHtml).join(' ')}</p>`).join('');
 const WD = () => { ST.wl = ST.wl || {}; return ST.wl; };
-const markStage = (T, s) => { const w = WD(); w[T] = w[T] || {}; if (!w[T][s]) { w[T][s] = 1; save(); tEvent('wl_stage', T + '-' + s); } };
+const markStage = (T, s) => { const w = WD(); w[T] = w[T] || {}; if (!w[T][s]) { w[T][s] = 1; save(); tEvent('wl_stage', T + '-' + s); sweep(); } };
 function topicPicker(T, idx, list){
   return `<label class="small" style="font-weight:800">Topic <select id="wtopic" class="wsel">${list.map((e, i) => `<option value="${i}" ${i==idx?'selected':''}>${esc(e.label || e.prompt)}</option>`).join('')}</select></label><div id="wchart"></div>`;
 }
@@ -1897,6 +1983,7 @@ function home(){
     ${card('#PRACTICE', '🎯', 'Exam Practice', 'تدريب الامتحان', 'Listening · Grammar & Vocab · Reading · Writing', 'var(--t3)', null)}
     ${card('#EXAMS', '📄', 'Exams', 'الاختبارات', '10 full model exams', 'var(--ex)', null)}
     ${card('#LIVE', '🎥', 'Live classes', 'الحصص المباشرة', nextLive ? 'Next: ' + fmtWhen(nextLive.starts) : 'No class scheduled', 'var(--t4)', null)}
+    ${card('#BADGES', '🏅', 'My Badges', 'شاراتي', `${BADGES.filter(b => PG().bd[b[0]]).length} of ${BADGES.length} badges · ${PG().wins} wins`, 'var(--gold)', null)}
     ${card('#SKILLS', '📊', 'My Skills', 'مهاراتي', 'Scores, charts and progress', 'var(--gold)', overall)}
    </div>
    ${hwOpen.length ? `<div class="sec"><h2>Homework to do <span class="ar">واجبات مطلوبة</span></h2>${hwOpen.slice(0, 3).map(x => `<a class="list1" href="#HW"><b>${esc(x.title)}</b>${x.due ? `<span class="pill">Due ${esc(x.due)}</span>` : ''}</a>`).join('')}</div>` : ''}`;
@@ -1917,7 +2004,7 @@ function themePath(n){
    <div class="legend"><span><i style="background:var(--t1)"></i>Vocabulary</span><span><i style="background:var(--t2)"></i>Grammar</span><span><i style="background:var(--wr)"></i>Unit practice</span><span><i style="background:var(--ex)"></i>Full exam</span></div>
    <ol class="path">${steps.map((s, i) => { const b = (ST.best || {})[s.code];
      const col = s.kind === 'G' ? 'var(--t2)' : s.kind === 'T' ? 'var(--wr)' : s.kind === 'E' ? 'var(--ex)' : 'var(--t1)';
-     return `<li class="pstep ${s.kind} ${b != null ? 'ok' : ''}" style="--pc:${col}"><a href="#${s.code}"><span class="pn">${b != null ? '✔' : i + 1}</span><span class="pt"><span class="k">${{V: 'Vocabulary', B: 'Vocabulary · spelling', G: 'Grammar', T: 'Practice', E: 'Full exam'}[s.kind]} · ${s.code}</span><b>${esc(s.title)}</b><span class="ar">${esc(s.ar)}</span></span>${b != null ? `<span class="best">${b}%</span>` : ''}</a></li>`; }).join('')}</ol>`;
+     return `<li class="pstep ${s.kind} ${b != null ? 'ok' : ''}" style="--pc:${col}"><a href="#${s.code}"><span class="pn">${b != null ? '✔' : i + 1}</span><span class="pt"><span class="k">${{V: 'Vocabulary', B: 'Vocabulary · spelling', G: 'Grammar', T: 'Practice', E: 'Full exam'}[s.kind]} · ${s.code}</span><b>${esc(s.title)}</b><span class="ar">${esc(s.ar)}</span></span>${b != null ? `<span class="best">${stkLvl(s.code) ? STK[stkLvl(s.code)] + ' ' : ''}${b}%</span>` : ''}</a></li>`; }).join('')}</ol>`;
 }
 function basicsView(){
   return `<div class="ph"><h1>Grammar Booster</h1><span class="ar">تأسيس القواعد</span></div>
@@ -1928,27 +2015,30 @@ function basicsView(){
 }
 
 /* ----- Exam Practice ----- */
-const PRS = {L: ['Listening', 'الاستماع', 'var(--ex)', '15 marks · Listening 1 (7) + Listening 2 (8)'], G: ['Grammar & Vocabulary', 'القواعد والمفردات', 'var(--t2)', '10 marks · grammar 5 + vocabulary 5'],
-             R: ['Reading', 'القراءة', 'var(--t3)', '20 marks · Reading 1 (10) + Reading 2 (10)'], W: ['Writing', 'الكتابة', 'var(--wr)', '15 marks · chart /5 + e-mail /10 · AI marking']};
+const PRS = {L: ['Listening', 'الاستماع', 'var(--ex)', '15 marks · 15 mock tasks + past papers'], G: ['Grammar & Vocabulary', 'القواعد والمفردات', 'var(--t2)', '10 marks · 15 mock tasks + past sets'],
+             R: ['Reading', 'القراءة', 'var(--t3)', '20 marks · 15 mock tasks + past papers'], W: ['Writing', 'الكتابة', 'var(--wr)', '15 marks · 15 mock tasks + AI marking']};
 const pastPapers = () => (D.exams || []).filter(x => x.kind === 'past');
-const practicePapers = k => (D.exams || []).filter(x => (x.kind === 'past' || x.kind === 'gv') && x.part === k);
+const practicePapers = k => (D.exams || []).filter(x => (x.kind === 'mock' || x.kind === 'past' || x.kind === 'gv') && x.part === k);
 function practiceHome(){
   return `<div class="ph"><h1>Exam Practice</h1><span class="ar">تدريب الامتحان</span></div>
-   <div class="note small">Every question of the previous Grade 10 Semester One final exams, split by skill, newest first. Listening past papers have questions only (no recordings); the model exams have real recordings. You get the answers and your mark as soon as you finish. <span class="ar">امتحانات الفصل الأول مقسّمة حسب المهارة، الأحدث أولًا، والتصحيح فوري.</span></div>
-   <div class="tgrid">${Object.entries(PRS).map(([k, [t, ar, c, sub]]) => `<a class="tcard" href="#PR-${k}" style="--c:${c}"><span class="k">${sub}</span><b>${t}</b><span class="ar">${ar}</span><small>${k === 'W' ? 'Questions by unit · 4 kinds' : practicePapers(k).length + (k === 'G' ? ' sets' : ' papers')}</small></a>`).join('')}</div>`;
+   <div class="note small">Every skill has 15 new <b>2026/2027 mock tasks</b> (listening with the recording inside the page), followed by every question of the previous Grade 10 final exams. You get the answers and your mark as soon as you finish. <span class="ar">امتحانات الفصل الأول مقسّمة حسب المهارة، الأحدث أولًا، والتصحيح فوري.</span></div>
+   <div class="tgrid">${Object.entries(PRS).map(([k, [t, ar, c, sub]]) => `<a class="tcard" href="#PR-${k}" style="--c:${c}"><span class="k">${sub}</span><b>${t}</b><span class="ar">${ar}</span><small>${practicePapers(k).filter(x => x.kind === 'mock').length} mock tasks · ${practicePapers(k).filter(x => x.kind !== 'mock').length} past ${k === 'G' ? 'sets' : 'papers'}</small></a>`).join('')}</div>`;
 }
 function practiceList(k){
   if (k === 'W') return practiceWriting();
   const [t, ar, c] = PRS[k];
   const list = practicePapers(k);
+  const row = x => { const b = (ST.best || {})[x.id + ':' + k]; return `<a href="#PR-${k}-${x.id}"><span>${esc(x.label)}</span><span class="pill">${b != null ? b + '%' : (k === 'L' && !(x.l1 && x.l1.audio) ? 'questions' : 'start')}</span></a>`; };
+  const mock = list.filter(x => x.kind === 'mock'), past = list.filter(x => x.kind !== 'mock');
   return `<div class="ph"><span class="code" style="background:${c}">Exam Practice</span><h1>${t}</h1><span class="ar">${ar}</span></div>
-   ${k === 'L' ? '<div class="note small">No recordings are available for the past papers, so these are question-only practice: read the questions, then ask your teacher, or practise with the <a href="#EXAMS">model exams</a> that have real recordings. <span class="ar">لا توجد تسجيلات للامتحانات السابقة؛ اقرأ الأسئلة ثم اسأل معلمك أو تدرّب على النماذج.</span></div>' : ''}
-   <div class="panel list" style="padding:0">${list.map(x => { const b = (ST.best || {})[x.id + ':' + k];
-     return `<a href="#PR-${k}-${x.id}"><span>${esc(x.label)}</span><span class="pill">${b != null ? b + '%' : (k === 'L' ? 'questions' : 'start')}</span></a>`; }).join('')}</div>`;
+   ${mock.length ? `<h2 style="margin:10px 0 8px">2026/2027 mock tasks · مهام تدريبية ${mock.length}</h2>${k === 'L' ? '<div class="note small">Each task has two recordings inside the page (Listening 1 and 2). Read the questions, press play, and listen: each recording plays the text twice. <span class="ar">كل مهمة فيها تسجيلان داخل الصفحة، ويُسمع كل نص مرتين.</span></div>' : ''}<div class="panel list" style="padding:0">${mock.map(row).join('')}</div>` : ''}
+   ${past.length ? `<h2 style="margin:18px 0 8px">Past final-exam papers · امتحانات سابقة</h2>${k === 'L' ? '<div class="note small">The recordings of the past papers are the original ones: they open the official link. <span class="ar">تسجيلات الامتحانات السابقة هي الأصلية وتفتح من الرابط الرسمي.</span></div>' : ''}<div class="panel list" style="padding:0">${past.map(row).join('')}</div>` : ''}`;
 }
 function practiceWriting(){
   setTimeout(() => { const s = $('#pwt'); s.onchange = () => { $('#pwbox').innerHTML = aiStage(s.value, false, true); }; });
+  const wm = practicePapers('W').filter(x => x.kind === 'mock');
   return `<div class="ph"><span class="code" style="background:var(--wr)">Exam Practice</span><h1>Writing</h1><span class="ar">الكتابة</span></div>
+   ${wm.length ? `<h2 style="margin:10px 0 8px">2026/2027 mock tasks · مهام تدريبية ${wm.length}</h2><div class="note small">Each task = Writing 1 (bar chart, /5) + Writing 2 (e-mail, /10): write both, check with the model answer, and send them for marking. <span class="ar">كل مهمة: وصف الرسم (5) + رسالة (10).</span></div><div class="panel list" style="padding:0">${wm.map(x => { const b = (ST.best || {})[x.id + ':W']; return `<a href="#PR-W-${x.id}"><span>${esc(x.label)}</span><span class="pill">${b != null ? b + '%' : 'start'}</span></a>`; }).join('')}</div><h2 style="margin:18px 0 8px">Free writing · any task</h2>` : ''}
    <label class="small" style="font-weight:800">Task <select id="pwt" class="wsel">${WT.map(T => `<option value="${T}">${WTYPE[T].w} · ${WTYPE[T].name} (/${WTYPE[T].max})</option>`).join('')}</select></label>
    <div id="pwbox" class="panel" style="margin-top:12px">${aiStage(WT[0], false, true)}</div>
    ${(D.pastWriting && (D.pastWriting.charts.length || D.pastWriting.emails.length)) ? `<details style="margin-top:14px"><summary><b>Writing tasks of the past final exams</b> · مواضيع الكتابة السابقة (${D.pastWriting.charts.length} charts · ${D.pastWriting.emails.length} e-mails)</summary><div class="kb"><p class="small muted">Copy a task into the box above (choose the matching type) and send it for AI marking.</p>${D.pastWriting.charts.map(c => `<p class="small"><b>${esc(c.id)}</b> · ${esc(c.session)}<br>${esc(c.topic)}</p>`).join('')}${D.pastWriting.emails.map(c => `<p class="small"><b>${esc(c.id)}</b> · ${c.formal ? 'formal' : 'informal'} · ${esc(c.session)}<br>${esc(c.topic)}</p>`).join('')}</div></details>` : ''}`;
@@ -1958,7 +2048,7 @@ function practiceWriting(){
 function examList(){
   const it = x => `<a href="#${x.id}"><span>${esc(x.label)}</span><span class="pill">${(ST.best || {})[x.id] != null ? ST.best[x.id] + '%' : '2½ hours · 60 marks'}</span></a>`;
   return `<div class="ph"><h1>Exams</h1><span class="ar">الاختبارات الكاملة</span></div>
-   <div class="note small">Ten full model exams written for English Summit 10, in the real exam form: Listening 15 · Grammar 5 · Vocabulary 5 · Reading 20 · Writing 15 = 60 marks. Do each one in 2½ hours. Items 1–45 are marked at once; the chart and e-mail get a model answer and can be sent for AI marking. The listening uses real recordings. <span class="ar">عشرة نماذج كاملة بمواصفات الامتحان (60 درجة، ساعتان ونصف): التصحيح فوري، والكتابة بالذكاء الاصطناعي، والاستماع بتسجيلات حقيقية.</span></div>
+   <div class="note small">Twenty-five full model exams written for English Summit 10 (Model Exams 11–25 are new), in the real exam form: Listening 15 · Grammar 5 · Vocabulary 5 · Reading 20 · Writing 15 = 60 marks. Do each one in 2½ hours. Items 1–45 are marked at once; the chart and e-mail get a model answer and can be sent for AI marking. The listening is played inside the page (two speakers, natural medium speed, each part twice). <span class="ar">25 نموذجًا كاملًا بمواصفات الامتحان (60 درجة، ساعتان ونصف): التصحيح فوري، والكتابة بالتصحيح، والاستماع مدمج داخل الصفحة.</span></div>
    <div class="panel list" style="padding:0">${(D.exams || []).filter(x => x.kind === 'model').map(it).join('')}</div>`;
 }
 
@@ -1979,6 +2069,23 @@ function radar(sk){
   return `<svg viewBox="0 0 240 230" width="100%" style="max-width:300px">${[25, 50, 75, 100].map(r => `<polygon points="${keys.map((k, i) => pt(i, r).join(',')).join(' ')}" fill="none" stroke="var(--line)"/>`).join('')}
     ${keys.map((k, i) => { const [x, y] = pt(i, 118); return `<line x1="${cx}" y1="${cy}" x2="${pt(i, 100)[0]}" y2="${pt(i, 100)[1]}" stroke="var(--line)"/><text x="${x}" y="${y + 3}" text-anchor="middle" font-size="10" font-weight="800" fill="var(--ink)">${SKN[k][0]}</text>`; }).join('')}
     <polygon points="${poly}" fill="var(--orange)" fill-opacity=".25" stroke="var(--orange)" stroke-width="2"/></svg>`;
+}
+function badgesView(){
+  checkBadges();
+  const p = PG(), s = stkMap(), gold = Object.values(s).filter(l => l === 3).length, n = BADGES.filter(b => p.bd[b[0]]).length, st = streaks();
+  const fmt = d => new Date(d + 'T12:00:00').toLocaleDateString('en-GB', {day: 'numeric', month: 'short', year: 'numeric'});
+  const groups = {}; Object.entries(s).forEach(([k, l]) => { (groups[themeOf(k)] = groups[themeOf(k)] || []).push([k, l]); });
+  const gTitle = u => u ? `Unit ${u} · ${TN[u]}` : 'Exams, practice and extras · اختبارات وأخرى';
+  return `<div class="row" style="justify-content:flex-start;margin:-6px 0 10px"><a class="btn g" style="text-decoration:none" href="#HUB">◀ Back to Home</a></div>
+   <div class="ph"><h1>My Badges</h1><span class="ar">شاراتي</span></div>
+   <div class="kpis"><div><b>${p.wins}</b><span>Games won <small class="ar">ألعاب فزت بها</small></span></div><div><b>${n}/${BADGES.length}</b><span>Badges <small class="ar">الشارات</small></span></div>
+    <div><b>${gold}</b><span>Golden stickers <small class="ar">ملصقات ذهبية</small></span></div><div><b>${st.cur}</b><span>Days in a row <small class="ar">أيام متتالية</small></span></div></div>
+   <div class="bgrid">${BADGES.map(b => { const d = p.bd[b[0]];
+     return d ? `<div class="bd"><div class="ic">${b[1]}</div><b>${b[2]}</b><span class="ar">${b[3]}</span><small>${b[4]}<br><span class="ar">${b[5]}</span></small><small class="on">Won on ${fmt(d)}</small></div>`
+              : `<div class="bd lk"><div class="ic">🔒</div><b>${b[2]}</b><span class="ar">${b[3]}</span><small>${b[4]}<br><span class="ar">${b[5]}</span></small></div>`; }).join('')}</div>
+   <div class="panel" style="margin-top:14px"><h2 class="h2s">Stickers <span class="ar">الملصقات</span></h2>
+    <p class="small muted">🥉 Bronze 60% · 🥈 Silver 80% · 🥇 Gold 100% <span class="ar">برونزي ٦٠٪ · فضي ٨٠٪ · ذهبي ١٠٠٪</span></p>
+    ${Object.keys(groups).sort().map(u => `<h3 style="margin:10px 0 6px;font-size:16px">${gTitle(+u)}</h3><div>${groups[u].sort().map(([k, l]) => `<a class="stkc" href="#${k.split(':')[0]}" title="${STKN[l]}">${STK[l]} ${esc(k)}</a>`).join('')}</div>`).join('') || '<p class="small muted">No stickers yet. Win a game with 60% or more to get your first one. <span class="ar">اربح لعبة بنسبة ٦٠٪ أو أكثر لتحصل على أول ملصق.</span></p>'}</div>`;
 }
 function skillsView(){
   setTimeout(async () => { if (!skillsView.loaded) { skillsView.loaded = 1; await flush(); await pullMe(); if (decodeURIComponent(location.hash.slice(1)) === 'SKILLS') $('#app').innerHTML = skillsView(); } });
@@ -2036,9 +2143,10 @@ function route(){
   else if (/^TH-[1-4]$/.test(h)) { html = themePath(+h.slice(3)); sec = 'UNITS'; }
   else if (h === 'PRACTICE') html = practiceHome();
   else if ((m = h.match(/^PR-([LGRW])$/))) { html = practiceList(m[1]); sec = 'PRACTICE'; }
-  else if ((m = h.match(/^PR-([LGR])-(.+)$/)) && XM[m[2]]) { html = examView(XM[m[2]], m[1]); sec = 'PRACTICE'; }
+  else if ((m = h.match(/^PR-([LGRW])-(.+)$/)) && XM[m[2]]) { html = examView(XM[m[2]], m[1]); sec = 'PRACTICE'; }
   else if (h === 'KEYS') html = keysView();
   else if (h === 'SKILLS') html = skillsView();
+  else if (h === 'BADGES') { html = badgesView(); sec = ''; }
   else if (h === 'WR-FB') html = feedbackView();
   else if (h === 'EXAMS') html = examList();
   else if (h === 'WRITE') html = writeHome();
@@ -2060,7 +2168,7 @@ function route(){
   TTS.stop();
   $('#app').innerHTML = html;
   document.querySelectorAll('#nav a').forEach(a => a.classList.toggle('on', a.dataset.r === sec));
-  window.scrollTo(0, 0);
+  window.scrollTo(0, 0); paintBadge();
 }
 addEventListener('hashchange', route);
 route(); gate();

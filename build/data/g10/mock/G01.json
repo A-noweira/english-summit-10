@@ -1,0 +1,129 @@
+{
+ "id": "MK-G01",
+ "title": "Past simple, for/since · Online safety",
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "I [[1]] a strange message from a stranger yesterday."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Don't open it! You [[2]] share your password with anyone."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "I know. I have had this account [[3]] three years, and nothing bad has happened."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "That is good. If you click on a strange link, your phone [[4]] a virus."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "My cousin, [[5]] account was hacked, had to close it."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "That is a good reason to be careful online."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "have received",
+     "received"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "shouldn't",
+     "should"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "since",
+     "for"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "gets",
+     "got"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "who",
+     "whose"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Our school held an Internet safety week last month. The teacher told us never to share a (1)_____ with anyone, because other people could get into our accounts. She also warned us not to (2)_____ files from websites that we do not trust. Many students were surprised to learn how much personal information they put online, so we discussed how to protect our (3)_____. Before you (4)_____ for a new application, read its rules carefully. Finally, remember to (5)_____ of your account when you use a shared computer.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "platform",
+     "password",
+     "fleet",
+     "glacier"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "melt",
+     "recycle",
+     "sail",
+     "download"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 3,
+    "options": [
+     "layout",
+     "empire",
+     "privacy",
+     "habitat"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "options": [
+     "turn down",
+     "hang up",
+     "sign up",
+     "look after"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "options": [
+     "log out",
+     "back up",
+     "run out",
+     "look up"
+    ],
+    "answer": 0
+   }
+  ]
+ }
+}

@@ -1,0 +1,590 @@
+{
+ "id": 23,
+ "title": "Model Exam 23",
+ "listening1": {
+  "context": "You are going to hear a conversation between Fatma and Ali.",
+  "script": [
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "Hi Ali! Mr Nasser wants our class to plan a Digital Detox Day for the whole school. He needs our ideas by Wednesday. Where shall we start?"
+   },
+   {
+    "speaker": "Ali",
+    "gender": "m",
+    "text": "Let's choose the day first. Thursday is a good day because there are no exams, but students are always tired at the end of the week. What do you think?"
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "I agree. Sunday is too early because everybody is still thinking about the weekend. Let's choose Tuesday. Now, for how long should students switch off their phones? I think the whole day is a good challenge."
+   },
+   {
+    "speaker": "Ali",
+    "gender": "m",
+    "text": "That is too long, Fatma. Some students need to call their parents after school, and two hours is too short to feel any difference. Let's say from nine o'clock until one o'clock, four hours in total."
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "Perfect. But where will students keep their phones? In their bags?"
+   },
+   {
+    "speaker": "Ali",
+    "gender": "m",
+    "text": "No, they will check them all the time. I suggest a box in each classroom, and the teacher will lock it until one o'clock."
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "Good idea. Next, we need some activities. We could have a football match in the morning."
+   },
+   {
+    "speaker": "Ali",
+    "gender": "m",
+    "text": "It will be too hot, Fatma. How about a treasure hunt in the school garden? Teams will follow clues, and nobody needs a phone."
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "That sounds like fun! I would also like to invite a famous blogger to give a talk, but he is very busy."
+   },
+   {
+    "speaker": "Ali",
+    "gender": "m",
+    "text": "Then let's ask Mrs Salwa, the school nurse. She can talk about tired eyes and good sleep, and she knows many students."
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "Excellent. How shall we tell everyone about the day? We could send text messages."
+   },
+   {
+    "speaker": "Ali",
+    "gender": "m",
+    "text": "That is funny, because we want students to stop using their phones! Let's make colourful posters and put them on the walls around the school."
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "Of course. Finally, what shall we give students at the end of the day? Medals are expensive, and a book is not exciting."
+   },
+   {
+    "speaker": "Ali",
+    "gender": "m",
+    "text": "I think a certificate is the best choice. We can print them in the computer lab, and every student will take one home."
+   },
+   {
+    "speaker": "Fatma",
+    "gender": "f",
+    "text": "Great. I will write the plan tonight, and you can draw the poster tomorrow."
+   },
+   {
+    "speaker": "Ali",
+    "gender": "m",
+    "text": "Deal! I am sure it will be a wonderful day."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "Which day will the Digital Detox Day be?",
+    "options": [
+     "Sunday",
+     "Tuesday",
+     "Thursday"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "For how long will students switch off their phones?",
+    "options": [
+     "two hours",
+     "the whole day",
+     "four hours"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "Where will students keep their phones?",
+    "options": [
+     "in a box in each classroom",
+     "in their bags",
+     "in the school office"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "What will the students do in the school garden?",
+    "options": [
+     "play a football match",
+     "have a treasure hunt",
+     "have a quiz"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "Who will give a talk to the students?",
+    "options": [
+     "the school nurse",
+     "a famous blogger",
+     "the principal"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "How will they tell everyone about the day?",
+    "options": [
+     "with text messages",
+     "with posters",
+     "on the school radio"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "What will students get at the end of the day?",
+    "options": [
+     "a medal",
+     "a book",
+     "a certificate"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about how to spot fake news online.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Good morning, everyone. Today I am going to talk about fake news and how to spot it online."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Fake news is false information that looks like real news. Some people make it to get money, because a shocking story gets many clicks. Others make it as a joke, or to change people's opinions. The problem is that fake news can spread very fast. A false story can be shared by thousands of people in just one hour."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Fake news is not new, but social media has made it much worse. One study found that false stories spread faster than true ones, because people like to share surprising things."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "So how can you spot it? Here are four simple steps. Step one: check the source. Who wrote the story? Is it a well-known news website, or a page you have never heard of? Look carefully at the web address, because fake sites often copy the names of real ones with small changes."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Step two: read the whole story, not only the headline. Fake headlines are often written in capital letters and use words such as shocking and unbelievable. Often the story itself does not support the headline."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Step three: look for other sources. If a story is true, other trusted websites will report it too. If only one page is saying it, be careful. You can also search for the story on a fact-checking website."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Step four: check the pictures. Photos can be old, or changed with computer programs. You can use a reverse image search to find out where a photo first appeared."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Finally, remember to think before you share. If you are not sure that a story is true, do not send it to your friends. By stopping a false story, you protect other people from being misled. Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "q": "What do some people want to get by making fake news?",
+    "hint": "",
+    "answer": "Money",
+    "n": 1
+   },
+   {
+    "q": "How long can it take for thousands of people to share a false story?",
+    "hint": "",
+    "answer": "One hour / An hour",
+    "n": 2
+   },
+   {
+    "q": "What should you check in step one?",
+    "hint": "",
+    "answer": "The source",
+    "n": 3
+   },
+   {
+    "q": "What kind of search can show where a photo first appeared?",
+    "hint": "",
+    "answer": "Reverse image search",
+    "n": 4
+   }
+  ],
+  "tf": [
+   {
+    "statement": "Social media has made fake news worse.",
+    "answer": true,
+    "n": 5
+   },
+   {
+    "statement": "Fake websites never copy the names of real ones.",
+    "answer": false,
+    "n": 6
+   },
+   {
+    "statement": "The presenter says you should read only the headline of a story.",
+    "answer": false,
+    "n": 7
+   },
+   {
+    "statement": "The presenter says you should not send a story to friends if you are not sure it is true.",
+    "answer": true,
+    "n": 8
+   }
+  ]
+ },
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Our school has saved a lot of water [[1]] it started the new project."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "That is great! How [[2]] water do you save every day?"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "About five hundred litres. The old taps [[3]] with sensor taps last month."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "The students [[4]] use them say they are very easy to use."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "Yes, and the school garden looks greener too."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "If everyone [[5]] water carefully, we will save even more."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "since",
+     "for"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "many",
+     "much"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "replaced",
+     "were replaced"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "which",
+     "who"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "will use",
+     "uses"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Last summer our town suffered from a long (1)_____ and there was very little water. Many farms lost their crops, and the government asked people to (2)_____ water. Scientists say that (3)_____ warming is making the weather hotter and drier. Our school started a recycling programme to reduce (4)_____. Students collect plastic bottles and paper, and they also plant trees to protect the (5)_____. Everyone agrees that small actions can make a big difference.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "flood",
+     "storm",
+     "drought",
+     "volcano"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 2,
+    "options": [
+     "save",
+     "waste",
+     "pollute",
+     "damage"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "local",
+     "global",
+     "solar",
+     "tidal"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 4,
+    "options": [
+     "waste",
+     "climate",
+     "drought",
+     "habitat"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "equipment",
+     "entrance",
+     "economy",
+     "environment"
+    ],
+    "answer": 3
+   }
+  ]
+ },
+ "reading1": {
+  "title": "Biogas: Energy from Farm Waste",
+  "passage": [
+   "Every farm produces waste. There is manure from cows, goats and camels, and there are leftover crops and vegetable skins. Farmers often leave this waste in a pile to rot. A pile like this smells bad, attracts insects and releases a gas called methane into the air.",
+   "Methane is a greenhouse gas, but it is also a fuel. Scientists and farmers have learned to collect it. When animal and plant waste rots in a closed container without air, tiny living things called bacteria break it down. During this process they produce biogas. Biogas is a mixture of gases, and about sixty percent of it is methane, so it burns very well.",
+   "A biogas plant is quite simple. Farmers put the waste and some water into a large tank called a digester. The tank is closed so that no air can enter. After two or three weeks, gas collects at the top of the tank. Pipes carry the gas to the place where it will be used.",
+   "Biogas has many uses. Families can burn it in a stove to cook food or in a lamp for light. Farms can also use it to heat buildings, and a special generator can turn it into electricity. In countries such as India and China, millions of families use small biogas plants to cook their meals.",
+   "There is also a useful by-product. When the bacteria have finished their work, a wet material is left in the tank. This material is called digestate, and it is a rich fertiliser. Farmers spread it on their fields, so they do not need to buy as much chemical fertiliser.",
+   "Biogas has important advantages. It is renewable, because farm animals will always produce waste. Burning biogas gives less pollution than burning wood or coal. Also, the plant stops methane from escaping into the air, and methane is a much stronger greenhouse gas than carbon dioxide. A good biogas plant also removes the bad smell from the farm.",
+   "Of course, there are some difficulties. A biogas plant costs money to build, and it needs a regular supply of waste. Bacteria work best in warm weather, which makes the idea suitable for hot countries such as Oman. With some training and support, more farmers could turn their waste into energy."
+  ],
+  "mcq": [
+   {
+    "q": "Which gas does a pile of rotting waste release?",
+    "options": [
+     "oxygen",
+     "methane",
+     "hydrogen"
+    ],
+    "answer": 1,
+    "n": 1
+   },
+   {
+    "q": "How much of biogas is methane?",
+    "options": [
+     "about sixty percent",
+     "about six percent",
+     "about ninety percent"
+    ],
+    "answer": 0,
+    "n": 2
+   },
+   {
+    "q": "Why is the tank closed?",
+    "options": [
+     "So that insects cannot enter",
+     "So that it does not smell",
+     "So that no air can enter"
+    ],
+    "answer": 2,
+    "n": 3
+   },
+   {
+    "q": "What is digestate?",
+    "options": [
+     "a kind of gas",
+     "a rich fertiliser",
+     "a type of tank"
+    ],
+    "answer": 1,
+    "n": 4
+   },
+   {
+    "q": "Where do millions of families use small biogas plants?",
+    "options": [
+     "In India and China",
+     "In Europe",
+     "In the Arctic"
+    ],
+    "answer": 0,
+    "n": 5
+   },
+   {
+    "q": "Why is the idea suitable for hot countries?",
+    "options": [
+     "Farms are very large.",
+     "There is a lot of rain.",
+     "Bacteria work best in warm weather."
+    ],
+    "answer": 2,
+    "n": 6
+   }
+  ],
+  "completion": [
+   {
+    "q": "Tiny living things called ________ break the waste down.",
+    "answer": "bacteria",
+    "n": 7
+   },
+   {
+    "q": "After two or three weeks, gas collects at the ________ of the tank.",
+    "answer": "top",
+    "n": 8
+   },
+   {
+    "q": "A special generator can turn biogas into ________.",
+    "answer": "electricity",
+    "n": 9
+   },
+   {
+    "q": "Methane is a much stronger ________ gas than carbon dioxide.",
+    "answer": "greenhouse",
+    "n": 10
+   }
+  ]
+ },
+ "reading2": {
+  "title": "Ancient Egypt",
+  "passage": [
+   "Ancient Egypt was one of the first great civilisations in the world. It began around 3100 BC along the River Nile in north-east Africa. Every year the Nile flooded and left rich black soil on its banks, so farmers could grow wheat, barley and vegetables. The Egyptians believed that the river was a gift from the gods.",
+   "Egypt was ruled by kings called pharaohs. People believed that a pharaoh was both a king and a god. He owned all the land, made the laws and led the army. Below him were officials, priests, scribes, craftsmen and farmers. Most Egyptians were farmers.",
+   "The Egyptians invented a writing system called hieroglyphs, which used hundreds of pictures and signs. Scribes wrote on papyrus, a kind of paper made from a reed plant that grew beside the Nile. The famous Rosetta Stone, found in 1799, helped scholars to read hieroglyphs again after many centuries.",
+   "Egyptians believed in life after death, so they carefully prepared the bodies of the dead. This process is called mummification, and it took about seventy days. The mummy was placed in a decorated coffin and buried with food, jewellery and other things for the next life.",
+   "The pharaohs built giant tombs called pyramids. The Great Pyramid at Giza was built for the pharaoh Khufu about four thousand five hundred years ago. It was the tallest building in the world for almost four thousand years, and it is made of more than two million blocks of stone. Thousands of workers took around twenty years to build it.",
+   "The Egyptians were also skilled in science. They made a calendar of 365 days, which was based on the Nile floods and the stars. They used mathematics to measure land and plan buildings, and their doctors used medicines made from plants to treat illnesses.",
+   "Egypt's most famous young pharaoh was Tutankhamun, who became king when he was about nine years old. In 1922, the archaeologist Howard Carter discovered his tomb with its golden mask. Today, millions of tourists visit Egypt every year to see the pyramids and the temples."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "Along which river did Ancient Egypt begin?",
+    "hint": "",
+    "answer": "The (River) Nile"
+   },
+   {
+    "n": 2,
+    "q": "What were the kings of Egypt called?",
+    "hint": "",
+    "answer": "Pharaohs"
+   },
+   {
+    "n": 3,
+    "q": "What plant was papyrus made from?",
+    "hint": "",
+    "answer": "A reed (plant)"
+   },
+   {
+    "n": 4,
+    "q": "About how long did mummification take?",
+    "hint": "(number of days)",
+    "answer": "70 days / Seventy days"
+   },
+   {
+    "n": 5,
+    "q": "For which pharaoh was the Great Pyramid at Giza built?",
+    "hint": "",
+    "answer": "Khufu"
+   },
+   {
+    "n": 6,
+    "q": "In which year did Howard Carter discover Tutankhamun's tomb?",
+    "hint": "(year)",
+    "answer": "1922"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Most ancient Egyptians were farmers.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "The Great Pyramid took about two years to build.",
+    "answer": false
+   },
+   {
+    "n": 9,
+    "statement": "The Egyptians based their calendar on the Nile floods and the stars.",
+    "answer": true
+   },
+   {
+    "n": 10,
+    "statement": "Tutankhamun became king when he was an old man.",
+    "answer": false
+   }
+  ]
+ },
+ "chart": {
+  "title": "Materials Recycled at Home by Grade 10 Boys and Girls",
+  "ylabel": "Percentage of Students",
+  "unit": "%",
+  "categories": [
+   "Paper",
+   "Plastic bottles",
+   "Aluminium cans",
+   "Glass"
+  ],
+  "series": [
+   {
+    "name": "Boys",
+    "values": [
+     55,
+     70,
+     40,
+     25
+    ]
+   },
+   {
+    "name": "Girls",
+    "values": [
+     75,
+     60,
+     35,
+     50
+    ]
+   }
+  ],
+  "model": "The bar chart shows the materials recycled at home by Grade 10 boys and girls in one school in Oman. The materials were paper, plastic bottles, aluminium cans and glass. Overall, boys recycled plastic bottles most, whereas girls recycled paper most.\nFirstly, the most popular material for boys was plastic bottles, with 70% of students. This was followed by paper (55%) and aluminium cans (40%). However, the least popular material for boys was glass, with only 25% of students.\nIn contrast, the most popular material for girls was paper, with 75% of students. This was followed by plastic bottles (60%) and glass (50%). However, the least popular material for girls was aluminium cans, with only 35% of students.\nTo summarize, both boys and girls liked recycling plastic bottles. However, the biggest difference was in glass, where 25% of boys chose it, whereas 50% of girls did."
+ },
+ "email": {
+  "formal": false,
+  "situation": "Imagine you are Saif. Your friend Majid wants to start a school podcast and has asked you for advice.",
+  "task": "Write an email to Majid and give him some advice. In your email, write about:",
+  "bullets": [
+   "what topic he could choose",
+   "what equipment he will need",
+   "how he can get more listeners"
+  ],
+  "model": "Dear Majid,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to give you some advice about starting a school podcast.\n\nFirst, you should choose a topic that you love and that your friends care about. For example, you could talk about school sports, games or science. Moreover, you can invite a teacher or a student as a guest in every episode. Also, you do not need expensive equipment. A good microphone and a laptop with a free editing program are enough.\n\nSecond, you should record in a quiet room. Moreover, keep every episode short, about fifteen minutes. Therefore, students will not get bored. To get more listeners, ask the school to put your episodes on its website and tell your friends about them.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nSaif"
+ }
+}

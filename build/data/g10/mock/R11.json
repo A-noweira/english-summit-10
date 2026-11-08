@@ -1,0 +1,172 @@
+{
+ "id": "MK-R11",
+ "title": "Your Digital Footprint and the Indus Valley Civilisation",
+ "reading1": {
+  "title": "Your Digital Footprint",
+  "passage": [
+   "Every time you use the internet, you leave a trail of data behind you. This trail is called your digital footprint. It includes the posts, photos and comments that you share, the things that you search for, and the websites that you visit.",
+   "There are two kinds of digital footprint. Your active footprint is the information that you share on purpose, for example when you post a photo, write a comment or fill in a form. Your passive footprint is collected without you doing anything. Websites record your location and the pages that you visit, and they use cookies, which are small files that remember what you did on the site.",
+   "Your footprint matters because it can stay online for a very long time. Even if you delete a post, other people may have copied it or taken a screenshot. In the future, schools, universities and employers may search for your name, and what they find can influence their decision about you.",
+   "Companies also use your data. They study what you search for and then show you adverts that match your interests. That is why you may see adverts for trainers after you have looked for trainers. Many free apps make their money in this way.",
+   "A big footprint can be risky. Criminals can use personal information, such as your full name, your birthday and your address, to steal your identity or to guess your passwords. Posting that you are on holiday also tells thieves that your home is empty.",
+   "Fortunately, you can protect yourself. Think carefully before you post anything. Set your accounts to private, and check the privacy settings regularly. Use strong passwords, and use a different one for every account. Never share your address or phone number with strangers, and always log out when you use a shared computer. It is also a good idea to search for your own name from time to time to see what other people can find.",
+   "A simple rule can help you: if you would not like your teacher or your grandmother to see it, do not post it."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "What is a digital footprint?",
+    "options": [
+     "A photo of your feet",
+     "The trail of data that you leave online",
+     "A website for children"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "Which of these is an active footprint?",
+    "options": [
+     "Posting a photo",
+     "Visiting a page",
+     "Having your location recorded"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "What are cookies?",
+    "options": [
+     "Adverts for food",
+     "Passwords for websites",
+     "Small files that remember what you did on a site"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "Why can a deleted post still be seen?",
+    "options": [
+     "Other people may have copied it.",
+     "Websites never delete anything.",
+     "Employers keep all posts."
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "Why do you see adverts for trainers after you search for trainers?",
+    "options": [
+     "The adverts are chosen by your teacher.",
+     "Companies use your data to match adverts to your interests.",
+     "All users see the same adverts."
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "What does a post about your holiday tell thieves?",
+    "options": [
+     "That you are happy",
+     "That you have a new phone",
+     "That your home is empty"
+    ],
+    "answer": 2
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "Websites record your ________ and the pages that you visit.",
+    "answer": "location"
+   },
+   {
+    "n": 8,
+    "q": "In the future, schools, universities and ________ may search for your name.",
+    "answer": "employers"
+   },
+   {
+    "n": 9,
+    "q": "Use ________ passwords, and use a different one for every account.",
+    "answer": "strong"
+   },
+   {
+    "n": 10,
+    "q": "You should set your accounts to ________.",
+    "answer": "private"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "The Indus Valley Civilisation",
+  "passage": [
+   "The Indus Valley Civilisation was one of the earliest civilisations in the world. It grew up along the Indus River in what is now Pakistan and north-west India, and its great cities flourished from about 2600 BC to 1900 BC. It is also called the Harappan civilisation, after Harappa, one of its biggest cities. More than a thousand settlements have been found.",
+   "The two largest cities were Harappa and Mohenjo-daro. Mohenjo-daro, in the Sindh province of Pakistan, was built around 2500 BC. Perhaps thirty thousand people or more lived there. The cities were carefully planned. The streets were laid out in a grid pattern and crossed each other at right angles, and the houses were built from baked bricks of the same size.",
+   "The people of the Indus Valley were also excellent engineers. Many houses had a bathroom and a toilet, which were connected to covered drains under the streets. In Mohenjo-daro, there was a large brick pool called the Great Bath. Experts think that people used it for special washing ceremonies.",
+   "The Indus people were skilled traders. Merchants travelled by land and by sea to sell beads, cotton cloth, copper and pottery to Mesopotamia. They carved small stone seals with pictures of animals and signs, and they used the seals to mark goods. They also used standard weights and measures. At the port of Lothal, in India, archaeologists found a large dock for ships.",
+   "Most people were farmers. They grew wheat, barley, peas and cotton, and they kept cattle. They were among the first people in the world to grow cotton and to make cotton cloth.",
+   "The Indus people had a system of writing. About four hundred different signs have been found, mostly on seals. However, nobody has been able to read this script yet, so we still know little about their kings, their religion and their stories.",
+   "After about 1900 BC, the cities slowly became empty. Nobody knows exactly why. Scientists think that the climate changed and that some rivers dried up or changed their course. The civilisation was forgotten for thousands of years until archaeologists began digging at Harappa in 1921 and at Mohenjo-daro in 1922."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "After which city is the civilisation also called Harappan?",
+    "hint": "",
+    "answer": "Harappa"
+   },
+   {
+    "n": 2,
+    "q": "What pattern did the streets of the cities have?",
+    "hint": "",
+    "answer": "A grid pattern"
+   },
+   {
+    "n": 3,
+    "q": "What were the houses built from?",
+    "hint": "",
+    "answer": "Baked bricks"
+   },
+   {
+    "n": 4,
+    "q": "What did the Indus people use stone seals for?",
+    "hint": "",
+    "answer": "To mark goods"
+   },
+   {
+    "n": 5,
+    "q": "Which port had a large dock for ships?",
+    "hint": "",
+    "answer": "Lothal"
+   },
+   {
+    "n": 6,
+    "q": "In which year did digging begin at Harappa?",
+    "hint": "(year)",
+    "answer": "In 1921"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Many houses had toilets that were connected to drains.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "Scholars can easily read the Indus script today.",
+    "answer": false
+   },
+   {
+    "n": 9,
+    "statement": "The Indus people traded with Mesopotamia.",
+    "answer": true
+   },
+   {
+    "n": 10,
+    "statement": "The Indus people did not grow cotton.",
+    "answer": false
+   }
+  ]
+ }
+}

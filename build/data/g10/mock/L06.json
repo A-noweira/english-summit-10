@@ -1,0 +1,254 @@
+{
+ "id": "MK-L06",
+ "title": "A Beach Clean-up and Wind Power",
+ "listening1": {
+  "context": "You are going to hear a conversation between Salma and Khalid.",
+  "script": [
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "Hello Khalid! Are you coming to the beach clean-up day? I have just put my name on the list."
+   },
+   {
+    "speaker": "Khalid",
+    "gender": "m",
+    "text": "Of course! I am really looking forward to it. Mr Yousef told us about it in the assembly, but I forgot where exactly it is going to be."
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "It is at Barka beach. Many families go there for picnics, and the sand gets very dirty at the weekend. The town council asked schools to send volunteers."
+   },
+   {
+    "speaker": "Khalid",
+    "gender": "m",
+    "text": "Good. And which day have they chosen? I hope it is not Saturday, because I have a basketball match."
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "Do not worry. It is on Friday morning, from eight o'clock until eleven."
+   },
+   {
+    "speaker": "Khalid",
+    "gender": "m",
+    "text": "Perfect. I like working in the morning, before the sun gets too strong. What should we wear? It is going to be hot."
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "Wear a hat and a pair of gloves. The gloves are important because we might find sharp things in the sand."
+   },
+   {
+    "speaker": "Khalid",
+    "gender": "m",
+    "text": "I do not have gloves. Will anyone give us some?"
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "Yes, the municipality will bring gloves and big rubbish bags for everybody. We only need to bring water."
+   },
+   {
+    "speaker": "Khalid",
+    "gender": "m",
+    "text": "That is kind of them. What do you think we will find on the beach?"
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "Last year, the volunteers found a lot of plastic bottles, more than cans or bags. Some of them were old and covered with shells."
+   },
+   {
+    "speaker": "Khalid",
+    "gender": "m",
+    "text": "That is terrible. We must clean it all up. Do you know how many students have joined so far, from our school and the other schools?"
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "Thirty students from our school have signed up, and we are hoping for fifty. Please ask your friends to come."
+   },
+   {
+    "speaker": "Khalid",
+    "gender": "m",
+    "text": "I will. And what will happen to all the plastic after we collect it?"
+   },
+   {
+    "speaker": "Salma",
+    "gender": "f",
+    "text": "A truck will take it to a recycling factory. They will turn the bottles into new plastic products."
+   },
+   {
+    "speaker": "Khalid",
+    "gender": "m",
+    "text": "That makes me feel proud. It is much better than throwing it away. I will tell my brother to come too. See you on Friday morning, and do not be late!"
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "Where will the clean-up take place?",
+    "options": [
+     "Barka beach",
+     "Qurum beach",
+     "Sohar beach"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "On which day will it take place?",
+    "options": [
+     "Saturday",
+     "Friday",
+     "Thursday"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "What must the students wear?",
+    "options": [
+     "a school uniform",
+     "old shoes",
+     "a hat and gloves"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "Who will bring the rubbish bags?",
+    "options": [
+     "the school",
+     "the municipality",
+     "the students"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "What did the volunteers find most last year?",
+    "options": [
+     "plastic bottles",
+     "cans",
+     "bags"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "How many students do they hope will join?",
+    "options": [
+     "thirty",
+     "forty",
+     "fifty"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "What will happen to the plastic?",
+    "options": [
+     "It will be burnt.",
+     "It will be recycled.",
+     "It will be buried."
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about wind power.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Good morning, everyone. Today I am going to talk about wind power, a clean source of energy that people have used for a very long time."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "For thousands of years, sailors used the wind to move their ships across the sea. The first windmills were built in Persia, in the area that is now Iran, about thirteen hundred years ago. They turned heavy stones to grind grain and pumped water for farms."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Modern wind turbines look very different, but the idea is the same. The wind pushes the long blades, and the blades turn a generator inside the top part of the turbine. The generator then makes electricity. Some turbines are as tall as a fifty-floor building, and their blades are longer than a bus."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Wind turbines work best in places where the wind is strong and steady, for example on hills, on open plains and at sea. Wind farms at sea are called offshore wind farms. The wind over the sea is usually stronger than on land, but building there costs more."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Wind power has many advantages. The wind is free and will never run out. While a turbine is working, it burns no fuel, so it produces no smoke and no carbon dioxide. Farmers can still use the land around the turbines for animals and crops."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "There are some disadvantages as well. The wind does not blow all the time, so we need other sources of energy on calm days. In very strong winds, turbines must stop to protect themselves. Some people also think that wind farms are noisy or spoil the view."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Many countries use wind power. In Denmark, wind gives about half of the country's electricity. What about Oman? The first big wind farm in Oman is at Harweel in Dhofar. It opened in two thousand and nineteen and has thirteen turbines. It gives power to thousands of homes."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "In which country were the first windmills built?",
+    "hint": "(country)",
+    "answer": "Persia / Iran"
+   },
+   {
+    "n": 2,
+    "q": "What do the blades of a turbine turn?",
+    "hint": "",
+    "answer": "A generator / Generator"
+   },
+   {
+    "n": 3,
+    "q": "In which region of Oman is the Harweel wind farm?",
+    "hint": "",
+    "answer": "Dhofar"
+   },
+   {
+    "n": 4,
+    "q": "How many turbines does the Harweel wind farm have?",
+    "hint": "(number)",
+    "answer": "13 / Thirteen"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "A wind turbine must stop when the wind is too strong.",
+    "answer": true
+   },
+   {
+    "n": 6,
+    "statement": "A wind turbine produces a lot of smoke while it works.",
+    "answer": false
+   },
+   {
+    "n": 7,
+    "statement": "Offshore winds are usually weaker than winds on land.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Farmers can use the land around wind turbines.",
+    "answer": true
+   }
+  ]
+ }
+}

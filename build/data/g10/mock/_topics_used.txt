@@ -1,0 +1,208 @@
+online gaming habits (L1 U1) | L09
+saving water at home (L2 U2) | L09
+solar panels for a house (L1 U3) | L10
+the Maya (L2 U4) | L10
+museum visit, ancient Egypt (L1 U4) | L11
+password safety (L2 U1) | L11
+tree planting day (L1 U2) | L12
+wind power (L2 U3) | L12
+school blog (L1 U1) | L13
+Mesopotamia and writing/wheel (L2 U4) | L13
+energy-saving school (L1 U3) | L14
+coral reefs (L2 U2) | L14
+Omani fort trip (L1 U4) | L15
+online shopping and scams (L2 U1) | L15
+L1 Nizwa/forts school project (Rashid/Asma) | exam11.json
+L2 online passwords | exam11.json
+R1 Coral Reefs under Threat | exam11.json
+R2 Wind Power | exam11.json
+chart Ways Students Learn About History | exam11.json
+email informal visit to solar power station | exam11.json
+L1 online gaming tournament at school (Salma/Khalid) | exam12.json
+L2 saving water in Oman | exam12.json
+R1 Fossil Fuels | exam12.json
+R2 The Maya | exam12.json
+chart Ways Students Save Water at Home | exam12.json
+email formal Heritage Day permission | exam12.json
+L1 planting mangroves (Muna/Sultan) | exam13.json
+L2 electric cars | exam13.json
+R1 Mesopotamia | exam13.json
+R2 The Story of Video Games | exam13.json
+chart Smart Home Devices Wanted by Men and Women | exam13.json
+email informal heavy rain/flood | exam13.json
+school blog about trips (U1 L1) | L01
+geothermal energy (U3 L2) | L01
+school water-saving campaign (U2 L1) | L02
+pyramids of Egypt (U4 L2) | L02
+science fair solar car (U3 L1) | L03
+healthy gaming (U1 L2) | L03
+school trip to Bahla Fort (U4 L1) | L04
+wadi floods and droughts in Oman (U2 L2) | L04
+grandmother's new tablet and online safety (U1 L1) | L05
+the Maya (U4 L2) | L05
+beach clean-up day (U2 L1) | L06
+wind power (U3 L2) | L06
+school energy audit (U3 L1) | L07
+how search engines work (U1 L2) | L07
+family trip to Petra (U4 L1) | L08
+coral reefs (U2 L2) | L08
+podcasts (R1 U1) | R09
+Ancient Greece (R2 U4) | R09
+plastic in the oceans (R1 U2) | R10
+electric cars (R2 U3) | R10
+digital footprint (R1 U1) | R11
+Indus Valley civilisation (R2 U4) | R11
+mangroves (R1 U2) | R12
+Oman's renewable energy (R2 U3) | R12
+online learning (R1 U1) | R13
+Land of Frankincense (R2 U4) | R13
+Arctic sea ice and polar bears (R1 U2) | R14
+hydrogen fuel (R2 U3) | R14
+search engines (R1 U1) | R15
+history of flight, Wright brothers (R2 U4) | R15
+W01 | Apps Used Every Day by Grade 10 Boys and Girls | Imagine you are Faisal. Your school has just started a podca
+W02 | Ways of Saving Water at Home | Imagine you are Hana, a student at your school. Your school 
+W03 | Renewable Energy Jobs Wanted by Grade 10 Students | Imagine you are Saif. Your class went on a trip to a wind fa
+W04 | Reasons for Visiting a Museum | Imagine you are Maha, a Grade 10 student. Your school wants 
+W05 | Online Safety Habits of Grade 10 Boys and Girls | Imagine you are Rashid. Your friend Hamood told you that som
+W06 | Animals Grade 10 Students Want to Protect | Imagine you are Rayan, a Grade 10 student. Your school wants
+W07 | Reasons for Buying an Electric Car | Imagine you are Zainab. Your friend Maryam won first prize a
+W08 | Activities Enjoyed on Heritage Day | Imagine you are Yousef, a student at your school. You would 
+W09 | Ways of Getting the News | Imagine you are Hanan. You have just started a free online E
+W10 | Things Recycled at Home | Imagine you are Khalid, a regular customer at a supermarket 
+W11 | Why Families Have No Solar Panels | Imagine you are Bader. Your school is holding a renewable en
+W12 | Countries Grade 10 Students Want to Visit | Imagine you are Salma, a Grade 10 student who loves history.
+W13 | Types of Online Games Played by Boys and Girls | Imagine you are Talal. Your friend Zaid plays online games f
+W14 | Reasons for Planting Trees | Imagine you are Ibrahim, a Grade 10 student. Heavy rains cau
+W15 | Ways Students Learn About History | Imagine you are Hamad. Your pen friend Tom from England will
+G: online safety (past simple/for-since/relative) | G01
+G: recycling at school (used to/quantifiers/passive) | G02
+G: solar panels (superlative/so-such/pres perfect) | G03
+G: pyramids & archaeologists (passive/past continuous) | G04
+G: screen time & gaming (gerund-infinitive/too-enough) | G05
+G: floods & wadis (past continuous/cond 2/modals) | G06
+G: wind farm Dhofar (quantifiers/cond 1/as-as) | G07
+G: Alexander the Great & Greek empire (relative/superlative) | G08
+G: learning apps (pres perfect/passive/cond 2) | G09
+G: carbon footprint (going to/enough/less-fewer) | G10
+G: electric cars (infinitive/passive future/cond 2) | G11
+G: Nizwa Fort (such/since/infinitive) | G12
+G: newspapers vs online (used to/any/comparative) | G13
+G: Ras Al Jinz turtles (pres perfect/cond 1) | G14
+G: power plants & power cuts (past continuous/further) | G15
+Digital Detox Day (Fatma/Ali) U1 | exam23.json
+Saving water (talk) U2 | exam23.json
+Wind power (R1) U3 | exam23.json
+Ancient Egypt pharaohs/pyramids (R2) U4 | exam23.json
+Chart: Materials recycled at home, boys/girls U2 | exam23.json
+Email: informal, solar panels at home (cousin Zayed) U3 | exam23.json
+Tree-planting day (Muna/Sultan) U2 | exam24.json
+Electric cars (talk) U3 | exam24.json
+Mesopotamia (R1) U4 | exam24.json
+Video games Pong to phones (R2) U1 | exam24.json
+Chart: Devices used daily, students/teachers U1 | exam24.json
+Email: formal, history club to principal U4 | exam24.json
+Solar oven science fair (Maryam/Hamad) U3 | exam25.json
+The Maya (talk) U4 | exam25.json
+Rise of social media (R1) U1 | exam25.json
+Coral reefs (R2) U2 | exam25.json
+Chart: Souvenirs bought by men/women tourists in Oman U4 | exam25.json
+Email: informal, heavy rain and floods in town (friend Salem) U2 | exam25.json
+e-books vs printed books (L1, Maryam/Hamad) | exam20.json
+sea turtles at Ras Al Jinz (L2) | exam20.json
+the history of electricity (R1) | exam20.json
+Ibn Battuta (R2) | exam20.json
+chart: sources of news, men/women | exam20.json
+email informal: school energy-saving competition | exam20.json
+reducing canteen food waste and composting (L1, Fatma/Rashid) | exam21.json
+batteries and storing energy (L2) | exam21.json
+the Aztecs (R1) | exam21.json
+artificial intelligence (R2) | exam21.json
+chart: activities enjoyed at a museum, men/women | exam21.json
+email formal: invite Environment Authority expert for climate talk | exam21.json
+Earth Hour at school (L1, Noor/Sultan) | exam22.json
+copper trade of ancient Oman, Magan (L2) | exam22.json
+air pollution (R1) | exam22.json
+video calls (R2) | exam22.json
+chart: environmental problems noticed, men/women | exam22.json
+email informal: cousin visiting Oman, suggest historic places | exam22.json
+school news blog (Muna/Sultan) | exam14.json L1
+wind power | exam14.json L2
+Maya civilisation | exam14.json R1
+cyclones and floods in Oman | exam14.json R2
+protecting privacy online (students/teachers) | exam14.json chart
+beach clean-up invitation (informal) | exam14.json email
+solar-powered science-fair car (Rashid/Asma) | exam15.json L1
+Indus Valley civilisation | exam15.json L2
+video games: benefits and risks | exam15.json R1
+sea turtles of Oman | exam15.json R2
+Omani forts visited by men/women | exam15.json chart
+Internet Safety Week proposal (formal) | exam15.json email
+food waste week (Fatma/Ali) | exam16.json L1
+online shopping | exam16.json L2
+electric cars | exam16.json R1
+Mesopotamia | exam16.json R2
+favourite summer Olympic sports men/women | exam16.json chart
+family solar panels (informal) | exam16.json email
+school weather station project (L1 U2, Latifa/Badar) | exam17.json
+Ibn Battuta (L2 U4) | exam17.json
+e-books and digital libraries (R1 U1) | exam17.json
+cool buildings, air conditioning (R2 U3) | exam17.json
+chart: daily screen time students vs teachers U1 | exam17.json
+email informal: family visit to Mutrah Souq U4 | exam17.json
+school short-film competition (L1 U1, Hana/Ahmed) | exam18.json
+batteries and energy storage (L2 U3) | exam18.json
+Angkor Wat (R1 U4) | exam18.json
+desertification (R2 U2) | exam18.json
+chart: favourite Olympic sports men/women U4 | exam18.json
+email formal: Earth Hour permission from principal U2 | exam18.json
+model hydroelectric dam project (L1 U3, Zainab/Hilal) | exam19.json
+artificial intelligence (L2 U1) | exam19.json
+air pollution (R1 U2) | exam19.json
+Terracotta Army (R2 U4) | exam19.json
+chart: natural places boys/girls visit U2 | exam19.json
+email informal: advice to friend who uses phone late at night U1 | exam19.json
+computer viruses and malware (R1 U1) | R01
+Islamic Golden Age (R2 U4) | R01
+Arabian leopard (R1 U2) | R02
+power grid (R2 U3) | R02
+cloud storage (R1 U1) | R03
+Angkor Wat (R2 U4) | R03
+overfishing (R1 U2) | R04
+electric trains (R2 U3) | R04
+Wikipedia (R1 U1) | R05
+printing press (R2 U4) | R05
+solar panels (R1 U3) | R06
+bees and pollination (R2 U2) | R06
+emoji (R1 U1) | R07
+Great Wall of China (R2 U4) | R07
+energy-efficient buildings (R1 U3) | R08
+dust storms (R2 U2) | R08
+history of Omani dhow building (L2 U4) | L10 (rewrite)
+the story of the light bulb (L2 U3) | L12 (rewrite)
+recycling paper and glass (L2 U2) | L14 (rewrite)
+The Ancient City of Petra (R2 U4) | R03 (rewrite)
+chart: water-saving habits at school, students/teachers | W02 (rewrite)
+chart: time of day boys/girls study online | W09 (rewrite)
+chart: where families take recycling, city/village | W10 (rewrite)
+chart: ways students travel to school, boys/girls | W15 (rewrite)
+Vikings and their ships (R2 U4) | exam12.json
+story of the telephone (R2 U1) | exam13.json
+saving electricity at home with LED lights (L2 U3) | exam14.json
+public transport and cleaner cities (R1 U2) | exam16.json
+story of paper (R2 U4) | exam16.json
+chart: ways men/women travel to work U2 | exam18.json
+whales and dolphins in Omani waters (L2 U2) | exam20.json
+Ahmad ibn Majid, Omani navigator (R2 U4) | exam20.json
+tidal and wave energy (L2 U3) | exam21.json
+robots in factories and hospitals (R2 U1) | exam21.json
+plastic-free schools (R1 U2) | exam22.json
+how to spot fake news online (L2 U1) | exam23.json
+biogas from farm waste (R1 U3) | exam23.json
+email informal: advice to friend starting school podcast U1 | exam23.json
+online banking and safe payments (L2 U1) | exam24.json
+Mongol Empire (R1 U4) | exam24.json
+smartwatches and wearable technology (R2 U1) | exam24.json
+history of money and trade (L2 U4) | exam25.json
+thunderstorms and lightning (R2 U2) | exam25.json
+email informal: family camping trip in Oman U4 | exam25.json

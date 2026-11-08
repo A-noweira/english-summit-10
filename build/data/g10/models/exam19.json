@@ -1,0 +1,588 @@
+{
+ "id": 19,
+ "title": "Model Exam 19",
+ "listening1": {
+  "context": "You are going to hear a conversation between Zainab and Hilal.",
+  "script": [
+   {
+    "speaker": "Zainab",
+    "gender": "f",
+    "text": "Hello Hilal! Have you decided what to make for Science Week? Ms Amal wants every pair to build a model that produces electricity."
+   },
+   {
+    "speaker": "Hilal",
+    "gender": "m",
+    "text": "Yes, I have. At first I wanted to make a wind turbine, but we did that last year. This time I would like to build a model of a hydroelectric dam. What do you think?"
+   },
+   {
+    "speaker": "Zainab",
+    "gender": "f",
+    "text": "I love the idea. What shall we use for the wall of the dam? Cardboard is cheap and easy to cut."
+   },
+   {
+    "speaker": "Hilal",
+    "gender": "m",
+    "text": "Cardboard gets soft in water, so it is not a good choice. I think a plastic box is the best, because it holds water and stays strong."
+   },
+   {
+    "speaker": "Zainab",
+    "gender": "f",
+    "text": "You are right. And what shall we use as the turbine?"
+   },
+   {
+    "speaker": "Hilal",
+    "gender": "m",
+    "text": "I have a small fan from an old computer. When water hits it, it turns quickly."
+   },
+   {
+    "speaker": "Zainab",
+    "gender": "f",
+    "text": "Brilliant! But how does the fan make electricity?"
+   },
+   {
+    "speaker": "Hilal",
+    "gender": "m",
+    "text": "We will connect it to a little motor. When the fan turns the motor, the motor works like a generator."
+   },
+   {
+    "speaker": "Zainab",
+    "gender": "f",
+    "text": "Where will the water come from? We could use a garden hose."
+   },
+   {
+    "speaker": "Hilal",
+    "gender": "m",
+    "text": "A hose is difficult to control, so I would rather use a bottle with a small hole at the bottom and let the water fall onto the fan."
+   },
+   {
+    "speaker": "Zainab",
+    "gender": "f",
+    "text": "That is clever. What will show us that the model is working?"
+   },
+   {
+    "speaker": "Hilal",
+    "gender": "m",
+    "text": "A small light bulb. A buzzer is another option, but a light looks more impressive."
+   },
+   {
+    "speaker": "Zainab",
+    "gender": "f",
+    "text": "I agree. Where shall we build it? The school lab is crowded this week."
+   },
+   {
+    "speaker": "Hilal",
+    "gender": "m",
+    "text": "Let's do it in my garage on Saturday morning. My father has all the tools that we need."
+   },
+   {
+    "speaker": "Zainab",
+    "gender": "f",
+    "text": "Perfect. I will bring the plastic box and some wires. Shall I also bring my camera so that we can make a short video?"
+   },
+   {
+    "speaker": "Hilal",
+    "gender": "m",
+    "text": "Yes, please. Then everyone can see how it works at Science Week. See you on Saturday!"
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "What will the students build?",
+    "options": [
+     "a wind turbine",
+     "a model of a dam",
+     "a solar oven"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "What will they use for the wall of the dam?",
+    "options": [
+     "cardboard",
+     "wood",
+     "a plastic box"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "What will they use as the turbine?",
+    "options": [
+     "a small fan",
+     "a toy car wheel",
+     "a bottle cap"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "What will they connect to the fan to make electricity?",
+    "options": [
+     "a battery",
+     "a little motor",
+     "a solar panel"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "How will they make the water fall onto the fan?",
+    "options": [
+     "with a garden hose",
+     "with a bucket",
+     "with a bottle with a hole"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "What will show that the model is working?",
+    "options": [
+     "a small light bulb",
+     "a buzzer",
+     "a clock"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 7,
+    "q": "Where will they build the model?",
+    "options": [
+     "in the school lab",
+     "in Hilal's garage",
+     "in Zainab's kitchen"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about artificial intelligence.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Good afternoon. Today I am going to talk about artificial intelligence, or AI, and how it is changing our lives."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "AI means computer systems that can do jobs which normally need human intelligence, such as understanding speech, recognising pictures and learning from information. The words artificial intelligence were first used in nineteen fifty-six, at a meeting of scientists in the United States."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "For many years, AI was only a dream. Then, in nineteen ninety-seven, an IBM computer called Deep Blue beat the world chess champion, Garry Kasparov. People were amazed that a machine could win a game that needs so much thinking."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Today AI is everywhere. When you speak to your phone and ask a question, a voice assistant answers you. When you use a map app, AI finds the fastest road. Streaming apps use AI to suggest films that you may like, and email systems use it to move spam into a separate folder."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "AI can also translate languages in a few seconds, so travellers can understand signs and menus. In hospitals, it can help doctors to read X-ray pictures and find illnesses early. It is not only for big companies, either. Students and teachers can use free AI tools for their own learning."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "However, AI also has risks. It can make mistakes, so its answers are not always correct, and you must check them. It can create fake pictures and videos that look real. It also collects personal information, so you should be careful about what you share."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "In conclusion, AI is a powerful tool. If we use it carefully and honestly, it can make our lives easier and safer. Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "In which year were the words artificial intelligence first used?",
+    "hint": "(year)",
+    "answer": "1956"
+   },
+   {
+    "n": 2,
+    "q": "What was the name of the computer that beat Garry Kasparov?",
+    "hint": "",
+    "answer": "Deep Blue"
+   },
+   {
+    "n": 3,
+    "q": "What answers you when you speak to your phone?",
+    "hint": "",
+    "answer": "(A) voice assistant"
+   },
+   {
+    "n": 4,
+    "q": "What do email systems move into a separate folder?",
+    "hint": "",
+    "answer": "Spam"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "AI can translate languages in a few seconds.",
+    "answer": true
+   },
+   {
+    "n": 6,
+    "statement": "AI can help doctors to read X-ray pictures.",
+    "answer": true
+   },
+   {
+    "n": 7,
+    "statement": "Only big companies can use AI.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "The answers of AI are always correct.",
+    "answer": false
+   }
+  ]
+ },
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "My father [[1]] drive a petrol car, but now he has an electric one."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Electric cars [[2]] by more families in Oman soon."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "The car is [[3]] quiet that you cannot hear the engine."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Is the battery big [[4]] to travel to Salalah?"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "[[5]] you charge it every night, the battery will go flat."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Thanks for the advice. I will tell my father."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "used to",
+     "is used to"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "will buy",
+     "will be bought"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "so",
+     "such"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "too",
+     "enough"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "Unless",
+     "Although"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Many countries want to stop burning (1)_____ fuels such as coal and oil because they cause pollution. Oman has strong sunshine, so it is a perfect place for (2)_____ energy. Large solar farms in the desert produce (3)_____ for thousands of homes. Wind turbines are another (4)_____ source of power because the wind never runs out. At home, families can also save money by using energy-saving bulbs and by (5)_____ appliances when they are not in use. Small changes like these help to protect our planet.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "fresh",
+     "fossil",
+     "foreign",
+     "frozen"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "ancient",
+     "edible",
+     "social",
+     "solar"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 3,
+    "options": [
+     "pollution",
+     "history",
+     "nature",
+     "electricity"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 4,
+    "options": [
+     "limited",
+     "harmful",
+     "renewable",
+     "ancient"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "options": [
+     "putting on",
+     "handing out",
+     "buying up",
+     "switching off"
+    ],
+    "answer": 3
+   }
+  ]
+ },
+ "reading1": {
+  "title": "Air Pollution",
+  "passage": [
+   "Air pollution means that the air contains harmful gases, smoke or dust. Clean air is a mixture of gases, mostly nitrogen and oxygen. When other substances enter this mixture, the air becomes dirty and can harm people, animals and plants. Air pollution is often found in big cities, but it can also travel across countries.",
+   "Most air pollution comes from human activities. Cars, buses and lorries burn petrol and diesel, and they release smoke and gases from their exhaust pipes. Factories and power stations that burn coal and oil add even more. In addition, people burn rubbish and wood, and building sites fill the air with dust. In some countries, dust storms and volcanoes also add to the pollution.",
+   "Dirty air is a danger to health. Tiny particles of dust and smoke can enter the lungs and cause coughing, asthma and other illnesses. Children, old people and sick people are most at risk. Experts say that millions of people around the world become ill every year because of polluted air.",
+   "Air pollution also harms nature. Some gases from factories mix with rain and fall as acid rain, which damages trees, rivers and old buildings. Smog, a thick grey fog made of smoke and chemicals, can cover a city and make it difficult to see. Pollution is also linked to global warming, because burning fuels releases carbon dioxide.",
+   "Fortunately, we can reduce air pollution. Governments can make laws that limit the smoke from factories and cars, and they can build metros and bus lanes so that fewer people use private cars. Cities can plant more trees, because leaves catch dust and take in carbon dioxide. Power stations can change from coal to natural gas or renewable energy.",
+   "Ordinary people can help too. We can walk or cycle for short journeys, and share a car with friends. We can also save electricity at home, because making electricity often creates pollution. Never burn rubbish, and do not leave the engine of your car running when you wait for a long time.",
+   "Some places have already succeeded. In recent years, several big cities have limited the number of old cars in the centre, and the air there has become cleaner. This shows that when governments and citizens work together, the sky can become blue again."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "What is clean air mostly made of?",
+    "options": [
+     "smoke and dust",
+     "nitrogen and oxygen",
+     "carbon dioxide"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "What do cars, buses and lorries release from their exhaust pipes?",
+    "options": [
+     "clean water",
+     "only dust",
+     "smoke and gases"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "Who is most at risk from dirty air?",
+    "options": [
+     "Children, old people and sick people",
+     "Only people in big cities",
+     "Only factory workers"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "What does acid rain damage?",
+    "options": [
+     "Trees, rivers and old buildings",
+     "Roads and bridges only",
+     "Only cars"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "What is smog?",
+    "options": [
+     "a kind of acid rain",
+     "a thick grey fog of smoke and chemicals",
+     "a gas made by trees"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "Why should cities plant more trees?",
+    "options": [
+     "Trees give shade to cars.",
+     "Trees help to burn rubbish.",
+     "Leaves catch dust and take in carbon dioxide."
+    ],
+    "answer": 2
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "Cars, buses and lorries burn petrol and ________.",
+    "answer": "diesel"
+   },
+   {
+    "n": 8,
+    "q": "Tiny particles of dust and smoke can enter the ________.",
+    "answer": "lungs"
+   },
+   {
+    "n": 9,
+    "q": "Governments can build metros and bus ________.",
+    "answer": "lanes"
+   },
+   {
+    "n": 10,
+    "q": "People should never burn ________.",
+    "answer": "rubbish"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "The Terracotta Army",
+  "passage": [
+   "In 1974, farmers in Shaanxi province, in central China, were digging a well when they found pieces of clay figures under the ground. They did not know that they had discovered one of the greatest archaeological finds of the twentieth century: the Terracotta Army. Terracotta is a kind of baked clay.",
+   "The army was made for China's first emperor, Qin Shi Huang, who ruled from 221 BC until his death in 210 BC. He was a powerful leader who united the separate states of China into one country. When he became emperor, he started building a huge tomb for himself, and he believed that his soldiers would protect him in the next life.",
+   "Archaeologists have found more than eight thousand soldiers in three large pits near the tomb. They also found horses and chariots. The soldiers are about the size of real men. Each soldier has a different face, hairstyle and uniform, so they look like real people. Their clothes show whether they are officers, archers or ordinary soldiers.",
+   "Making such a large army took a long time. Workers made the bodies, arms and legs in moulds and then joined them together. After that, craftsmen added the faces by hand and baked the figures in kilns. Finally, the soldiers were painted in bright colours. Today most of the paint is gone, because it fell off when the figures came into contact with air.",
+   "The weapons were real. Archaeologists found bronze swords, spears and arrows, and some of them were still sharp after more than two thousand years. Experts think that the soldiers once held these weapons in their hands.",
+   "Today, only a small part of the burial site has been excavated. The emperor's tomb itself, under a large hill, has not been opened, because scientists want to protect it and need better technology. An ancient writer said that it contains rivers of mercury, and tests of the soil found a high amount of this metal.",
+   "In 1987, UNESCO made the site a World Heritage Site. Millions of people visit the museum near the city of Xi'an every year to see the silent army that has been guarding the emperor for more than two thousand years."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "In which year were the clay figures discovered?",
+    "hint": "(year)",
+    "answer": "In 1974"
+   },
+   {
+    "n": 2,
+    "q": "What were the farmers digging?",
+    "hint": "",
+    "answer": "A well"
+   },
+   {
+    "n": 3,
+    "q": "Who was China's first emperor?",
+    "hint": "",
+    "answer": "Qin Shi Huang"
+   },
+   {
+    "n": 4,
+    "q": "How many soldiers have archaeologists found?",
+    "hint": "",
+    "answer": "More than eight thousand"
+   },
+   {
+    "n": 5,
+    "q": "What did workers use to make the bodies, arms and legs?",
+    "hint": "",
+    "answer": "Moulds"
+   },
+   {
+    "n": 6,
+    "q": "Which metal did tests of the soil find?",
+    "hint": "",
+    "answer": "Mercury"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "All the soldiers have the same face.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "The soldiers' weapons were made of bronze.",
+    "answer": true
+   },
+   {
+    "n": 9,
+    "statement": "The emperor's tomb has been opened.",
+    "answer": false
+   },
+   {
+    "n": 10,
+    "statement": "UNESCO made the site a World Heritage Site in 1987.",
+    "answer": true
+   }
+  ]
+ },
+ "chart": {
+  "title": "Natural Places Grade 10 Boys and Girls Like to Visit",
+  "ylabel": "Percentage of Students",
+  "unit": "%",
+  "categories": [
+   "Beaches",
+   "Wadis",
+   "Mountains",
+   "Deserts",
+   "Caves"
+  ],
+  "series": [
+   {
+    "name": "Boys",
+    "values": [
+     20,
+     35,
+     65,
+     55,
+     45
+    ]
+   },
+   {
+    "name": "Girls",
+    "values": [
+     75,
+     60,
+     40,
+     25,
+     10
+    ]
+   }
+  ],
+  "model": "The bar chart shows the natural places that Grade 10 boys and girls like to visit in one school in Oman. The natural places were beaches, wadis, mountains, deserts and caves. Overall, boys preferred mountains, whereas girls preferred beaches.\nFirstly, the most popular place for boys was mountains, with 65% of students. This was followed by deserts (55%), caves (45%) and wadis (35%). However, the least popular place for boys was beaches, with only 20% of students.\nIn contrast, the most popular place for girls was beaches, with 75% of students. This was followed by wadis (60%), mountains (40%) and deserts (25%). However, the least popular place for girls was caves, with only 10% of students.\nTo summarize, both boys and girls liked mountains. However, the biggest difference was in beaches, where 20% of boys chose it, whereas 75% of girls did."
+ },
+ "email": {
+  "formal": false,
+  "situation": "Imagine you are Hamad. Your friend Faris stays awake until very late at night using his phone, so he is always tired at school.",
+  "task": "Write an email to Faris and give him some advice. In your email, write about:",
+  "bullets": [
+   "why using the phone late at night is a problem",
+   "what he should do before going to bed",
+   "what he could do in his free time instead"
+  ],
+  "model": "Dear Faris,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to give you some advice about using your phone at night.\n\nFirst, staying awake late is a problem because you are tired and you cannot concentrate in class. For example, last week you almost fell asleep during the maths lesson. Moreover, the light of the screen makes it difficult for your brain to relax.\n\nSecond, you should turn off your phone one hour before bed and leave it in another room. Moreover, you could read a book or take a short walk with your family instead. Therefore, you will sleep better, and I am sure you will feel happier and more active at school.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nHamad"
+ }
+}

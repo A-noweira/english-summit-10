@@ -1,0 +1,588 @@
+{
+ "id": 14,
+ "title": "Model Exam 14",
+ "listening1": {
+  "context": "You are going to hear a conversation between Muna and Sultan.",
+  "script": [
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "Hi Sultan! Mrs Zainab says our class can start a school blog, and we must give her our plan on Wednesday. Have you thought of a name yet?"
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Yes, I have. What about School Snaps? The blog will have a lot of photos, so I think the name is perfect."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "It's nice, but I have seen a blog with that name already. How about Campus Diary? It sounds like a story about our school life."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "I love it. Campus Diary is much better. Now, what shall we write about in the first post? Sports Day is next month, so we could start with that."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "Sports Day is a bit far away. The science fair takes place this week, and everybody is talking about it, so let's write about the fair first."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Good thinking. We will need photos of the projects. I can take some with my phone."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "Your phone camera isn't very good. My cousin Hamdan is in the photography club, and he has a professional camera. I'm sure he will help us."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Excellent! Please ask him today. Now, how often should we put a new post on the blog? Every day would be too much work, I think."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "I agree. Twice a week sounds nice, but we also have exams to study for. Let's write one post every week."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Agreed. Which day is best? Sunday is too early because nothing has happened yet."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "Right. Thursday is better, because by then we have the news of the whole school week. Tuesday would be too early as well."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Thursday it is. Do we need someone to read the posts before our readers see them?"
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "Yes. At first I thought the headmaster should read them, but he's very busy. Mrs Zainab said she will check every post herself."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "That's good. There's one more important rule. We must never put a student's photo on the blog without permission, so we should always ask first."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "You're right. We'll also ask before we write a student's name. Shall we write the plan together this afternoon?"
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Yes, let's meet in the library after lunch and finish it. Mrs Zainab will be happy."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "What is the name of the blog?",
+    "options": [
+     "School Snaps",
+     "Campus Diary",
+     "Student News"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "What will the first post be about?",
+    "options": [
+     "the science fair",
+     "Sports Day",
+     "a school trip"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "Who will take the photos?",
+    "options": [
+     "Sultan",
+     "Mrs Zainab",
+     "Muna's cousin Hamdan"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "How often will they put a new post on the blog?",
+    "options": [
+     "once a week",
+     "every day",
+     "twice a week"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "On which day will the new post appear?",
+    "options": [
+     "Sunday",
+     "Thursday",
+     "Tuesday"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "Who will check every post?",
+    "options": [
+     "the headmaster",
+     "Hamdan",
+     "Mrs Zainab"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "What must they do before they put a student's photo on the blog?",
+    "options": [
+     "write the student's name",
+     "ask for permission",
+     "choose the best photo"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about saving electricity at home with LED lights.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Good morning, everyone. Today I am going to talk about an easy way to save electricity at home: LED lights."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "First, let us look at the old kind of light. For more than a hundred years, most homes used incandescent bulbs. Thomas Edison made the first useful one in eighteen seventy-nine. These bulbs are not efficient. Only about ten percent of their energy becomes light, and the rest is wasted as heat. That is why an old bulb feels so hot to touch."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "LED means light-emitting diode. An LED bulb makes light in a different way, using a tiny electronic chip, so very little energy is lost as heat. An LED bulb uses about eighty percent less electricity than an old bulb that gives the same amount of light."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "LED bulbs also last much longer. An old bulb works for about one thousand hours, but an LED bulb can work for twenty-five thousand hours. If you switch it on for five hours every day, it can last for more than thirteen years."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "An LED bulb costs more in the shop than an old bulb. However, you save money on your electricity bill every month, so the bulb pays for itself in a short time."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "LED lights are also good for the environment. In Oman, most electricity is made by burning natural gas. When families use less electricity, the power stations burn less gas and produce less carbon dioxide."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Here are some simple tips. Change the bulbs in the rooms you use most, such as the living room and the kitchen. Choose a warm light for bedrooms and a white light for study rooms. And always turn off the lights when you leave a room, because the cheapest electricity is the electricity you do not use."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "q": "Who made the first useful incandescent bulb?",
+    "hint": "(name)",
+    "answer": "Edison / Thomas Edison",
+    "n": 1
+   },
+   {
+    "q": "What percentage of the energy in an old bulb becomes light?",
+    "hint": "(number)",
+    "answer": "10% / Ten percent",
+    "n": 2
+   },
+   {
+    "q": "How many hours can an LED bulb work?",
+    "hint": "(number)",
+    "answer": "25,000 / Twenty-five thousand",
+    "n": 3
+   },
+   {
+    "q": "Which fuel is burned to make most of Oman's electricity?",
+    "hint": "",
+    "answer": "Natural gas",
+    "n": 4
+   }
+  ],
+  "tf": [
+   {
+    "statement": "An old bulb wastes most of its energy as heat.",
+    "answer": true,
+    "n": 5
+   },
+   {
+    "statement": "An LED bulb is cheaper than an old bulb in the shop.",
+    "answer": false,
+    "n": 6
+   },
+   {
+    "statement": "The presenter says a warm light is best for study rooms.",
+    "answer": false,
+    "n": 7
+   },
+   {
+    "statement": "The presenter says we should turn off the lights when we leave a room.",
+    "answer": true,
+    "n": 8
+   }
+  ]
+ },
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Our teacher says the new wind farm [[1]] built in twenty nineteen."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "I have wanted to see it [[2]] I was ten years old."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "The turbines are [[3]] than I expected. They are about eighty metres tall."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "If the wind [[4]] strongly tomorrow, the turbines will make more electricity."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "The engineer [[5]] works there will answer our questions."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Great! I will bring my camera and a notebook."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "was",
+     "is"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "for",
+     "since"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "taller",
+     "tallest"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "blows",
+     "will blow"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "who",
+     "which"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Oman has a lot of sunshine and wind, so it is a good place for (1)_____ energy. In the past, most electricity came from (2)_____ fuels such as oil and gas, which pollute the air. Today new wind farms and solar panels help to (3)_____ the amount of pollution. One modern turbine can (4)_____ enough electricity for hundreds of homes. We can all help by switching off lights and fans when we leave a room, because we should not (5)_____ energy. If everybody saves a little, the total saving will be very large.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "ancient",
+     "renewable",
+     "digital",
+     "dangerous"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "fossil",
+     "frozen",
+     "foreign",
+     "fragile"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "increase",
+     "spread",
+     "cause",
+     "reduce"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 4,
+    "options": [
+     "lose",
+     "borrow",
+     "generate",
+     "invent"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "options": [
+     "earn",
+     "waste",
+     "invent",
+     "search"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "reading1": {
+  "title": "The Maya: Builders of Pyramids",
+  "passage": [
+   "The Maya were one of the most important ancient civilisations of Central America. They lived in what is now southern Mexico, Guatemala, Belize and Honduras. The Maya civilisation began more than three thousand years ago, and its golden age, called the Classic Period, lasted from about 250 AD to 900 AD.",
+   "The Maya did not have one big empire. Instead, they lived in many city-states, and each city-state had its own king. Some of the most famous cities were Tikal in Guatemala and Chichen Itza in Mexico. These cities had markets, palaces and a ball court, where people played a ball game that was part sport and part religious ceremony.",
+   "Maya builders constructed huge stone pyramids without metal tools, and they carved beautiful pictures into the walls of their temples. At the top of each pyramid there was a temple, where priests held ceremonies. The tallest pyramid at Tikal rises to about seventy metres, and visitors can still climb some of these buildings today. Many people travel to Mexico and Guatemala every year just to see these amazing ruins in the middle of the forest.",
+   "Most Maya people were farmers. Maize was their most important food, and they also grew beans, squash and chilli. The Maya drank a bitter chocolate made from cacao beans, and cacao beans were so valuable that people sometimes used them as money.",
+   "Maya scholars were very clever. They developed a writing system that used picture signs called glyphs, and they wrote books on paper made from tree bark. They were also excellent astronomers who watched the sun, the moon and the stars, and they made accurate calendars. In addition, they used the idea of zero in their mathematics, which few ancient peoples did.",
+   "Around 900 AD, many of the southern cities were left empty. Experts do not agree about the reason. Some think that long droughts caused hunger, while others believe that wars between the cities were the problem. However, the Maya people did not disappear. Today, about six million Maya live in Central America, and many of them still speak Maya languages and follow old traditions."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "When was the Classic Period of the Maya?",
+    "options": [
+     "from about 250 AD to 900 AD",
+     "from about 900 AD to 1500 AD",
+     "from about 3000 BC to 250 AD"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "Who ruled each Maya city-state?",
+    "options": [
+     "an emperor",
+     "a king",
+     "a priest"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "What was at the top of a Maya pyramid?",
+    "options": [
+     "a market",
+     "a ball court",
+     "a temple"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "What was the Maya's most important food?",
+    "options": [
+     "maize",
+     "beans",
+     "chilli"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "What did the Maya make their books from?",
+    "options": [
+     "animal skin",
+     "paper from tree bark",
+     "thin stone"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "What do some experts think caused hunger in the southern cities?",
+    "options": [
+     "big floods",
+     "strong earthquakes",
+     "long droughts"
+    ],
+    "answer": 2
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "The Maya lived in many ________, each with its own king.",
+    "answer": "city-states"
+   },
+   {
+    "n": 8,
+    "q": "The Maya made a bitter chocolate drink from ________ beans.",
+    "answer": "cacao"
+   },
+   {
+    "n": 9,
+    "q": "The Maya wrote using picture signs called ________.",
+    "answer": "glyphs"
+   },
+   {
+    "n": 10,
+    "q": "In mathematics, the Maya used the idea of ________.",
+    "answer": "zero"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "Cyclones and Floods in Oman",
+  "passage": [
+   "Oman is a mostly dry country, but heavy rain sometimes falls in a very short time. When this happens, the water runs quickly down the mountains and fills the wadis. Floods can destroy roads, houses and cars, and they can also be very dangerous for people.",
+   "Many floods in Oman are caused by tropical cyclones. These are huge storms that form over warm sea water, and they bring strong winds, heavy rain and high waves. In June 2007, Cyclone Gonu hit the east coast of Oman. In 2018, Cyclone Mekunu brought heavy rain to Dhofar, and in October 2021, Cyclone Shaheen crossed the sea and reached Al Batinah.",
+   "Scientists say that climate change may make these storms stronger. The sea is getting warmer because of global warming, and warm water gives a cyclone more energy. A warmer atmosphere also holds more water vapour, so storms can bring more rain than before.",
+   "Wadis are dry for most of the year, so people sometimes forget how dangerous they are. A wadi can fill with water in minutes, even if it is not raining where you are standing, because the rain may be falling far away in the mountains. Every year, some drivers are caught in the water when they try to cross a wadi.",
+   "Oman has an early-warning system to protect people. The weather service gives warnings on television, on the radio and on mobile phones, and the authorities may close schools and roads. During a flood, people should stay away from wadis and never drive through flowing water. They should move to higher ground and keep a torch, drinking water and some food at home.",
+   "After a storm, volunteers help to clean the streets and to help families who have lost their homes. Engineers also build dams and channels to protect towns from future floods. Some of these dams store rain water, and people can use it in the dry months. In this way, Oman learns to live with the power of nature, and every family can help by listening to the warnings and following the advice."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "Where do tropical cyclones form?",
+    "hint": "",
+    "answer": "Over warm sea water"
+   },
+   {
+    "n": 2,
+    "q": "When did Cyclone Gonu hit the east coast of Oman?",
+    "hint": "(month and year)",
+    "answer": "In June 2007"
+   },
+   {
+    "n": 3,
+    "q": "What does a warmer atmosphere hold more of?",
+    "hint": "",
+    "answer": "Water vapour"
+   },
+   {
+    "n": 4,
+    "q": "How quickly can a wadi fill with water?",
+    "hint": "",
+    "answer": "In minutes"
+   },
+   {
+    "n": 5,
+    "q": "What should people never drive through?",
+    "hint": "",
+    "answer": "Flowing water"
+   },
+   {
+    "n": 6,
+    "q": "Where should people move to during a flood?",
+    "hint": "",
+    "answer": "(To) higher ground"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Cyclone Shaheen reached Al Batinah in October 2021.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "Scientists say that global warming may make cyclones weaker.",
+    "answer": false
+   },
+   {
+    "n": 9,
+    "statement": "The weather service gives flood warnings on mobile phones.",
+    "answer": true
+   },
+   {
+    "n": 10,
+    "statement": "Dams in Oman can never store rain water.",
+    "answer": false
+   }
+  ]
+ },
+ "chart": {
+  "title": "Ways Students and Teachers Protect Their Privacy Online",
+  "ylabel": "Percentage of People",
+  "unit": "%",
+  "categories": [
+   "Using strong passwords",
+   "Keeping accounts private",
+   "Not sharing personal details",
+   "Updating apps"
+  ],
+  "series": [
+   {
+    "name": "Students",
+    "values": [
+     55,
+     70,
+     40,
+     25
+    ]
+   },
+   {
+    "name": "Teachers",
+    "values": [
+     80,
+     35,
+     65,
+     50
+    ]
+   }
+  ],
+  "model": "The bar chart shows the ways students and teachers in one school in Oman protect their privacy online. The ways were using strong passwords, keeping accounts private, not sharing personal details and updating apps. Overall, students preferred keeping accounts private, whereas teachers preferred using strong passwords.\nFirstly, the most popular way for students was keeping accounts private, with 70% of students. This was followed by using strong passwords (55%) and not sharing personal details (40%). However, the least popular way for students was updating apps, with only 25% of students.\nIn contrast, the most popular way for teachers was using strong passwords, with 80% of teachers. This was followed by not sharing personal details (65%) and updating apps (50%). However, the least popular way for teachers was keeping accounts private, with only 35% of teachers.\nTo summarize, both students and teachers liked using strong passwords. However, the biggest difference was in keeping accounts private, where 70% of students chose it, whereas 35% of teachers did."
+ },
+ "email": {
+  "formal": false,
+  "situation": "Imagine you are Rashid. Your school is organising a beach clean-up next Friday.",
+  "task": "Write an email to your friend Ahmed and invite him to join the clean-up. In your email, write about:",
+  "bullets": [
+   "when and where the clean-up will take place",
+   "what you will do there",
+   "what he should bring"
+  ],
+  "model": "Dear Ahmed,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to invite you to a beach clean-up organised by my school.\n\nFirst, the clean-up will take place at Qurum Beach on Friday morning at eight o'clock. For example, we will meet at the main gate and walk to the sand together. Moreover, about fifty students and teachers will join us.\n\nSecond, we will collect plastic bottles, bags and cans and put them in big bags. Moreover, we will separate the plastic from the metal for recycling. Therefore, please bring a hat, a bottle of water and some gloves.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nRashid"
+ }
+}

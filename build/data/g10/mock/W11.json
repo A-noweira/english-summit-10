@@ -1,0 +1,47 @@
+{
+ "id": "MK-W11",
+ "title": "Chart: Why Families Have No Solar Panels · E-mail: informal",
+ "chart": {
+  "title": "Why Families Have No Solar Panels",
+  "ylabel": "Percentage of Adults",
+  "unit": "%",
+  "categories": [
+   "Too expensive",
+   "No space on the roof",
+   "Not enough information",
+   "Living in a rented house"
+  ],
+  "series": [
+   {
+    "name": "Men",
+    "values": [
+     70,
+     25,
+     40,
+     55
+    ]
+   },
+   {
+    "name": "Women",
+    "values": [
+     60,
+     15,
+     70,
+     30
+    ]
+   }
+  ],
+  "model": "The bar chart shows the reasons why men and women do not have solar panels at home. The reasons were the high price, a lack of roof space, a lack of information and a rented house. Overall, men said the main reason was the high price, whereas women said it was a lack of information.\nFirstly, the most popular reason for men was the high price, with 70% of men. This was followed by a rented house (55%) and a lack of information (40%). However, the least popular reason for men was a lack of roof space, with only 25% of men.\nIn contrast, the most popular reason for women was a lack of information, with 70% of women. This was followed by the high price (60%) and a rented house (30%). However, the least popular reason for women was a lack of roof space, with only 15% of women.\nTo summarize, both men and women chose the high price. However, the biggest difference was in a lack of information, where 40% of men chose it, whereas 70% of women did."
+ },
+ "email": {
+  "formal": false,
+  "situation": "Imagine you are Bader. Your school is holding a renewable energy quiz competition next month.",
+  "task": "Write an email to your friend Fahad and invite him to the competition. In your email, write about:",
+  "bullets": [
+   "when and where the competition will be",
+   "what kinds of questions there will be",
+   "what the winners will get"
+  ],
+  "model": "Dear Fahad,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to invite you to a renewable energy quiz competition at my school.\n\nFirst, the competition will be held in the school hall on Tuesday at ten o'clock. For example, there will be ten teams from different schools. Moreover, a famous engineer will be the guest of honour.\n\nSecond, the questions will be about solar, wind and water energy. Moreover, there will be a picture round and a speed round. Therefore, the winners will get a trophy and a visit to a solar power station.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nBader"
+ }
+}

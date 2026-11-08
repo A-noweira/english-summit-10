@@ -1,0 +1,595 @@
+{
+ "id": 24,
+ "title": "Model Exam 24",
+ "listening1": {
+  "context": "You are going to hear a conversation between Muna and Sultan.",
+  "script": [
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "Hi Sultan! Mr Badar has asked our environment club to organise a tree-planting day. Have you thought about it?"
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Yes, I have. I think we should do it on Monday, because we have a free afternoon after the break."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "Monday is not possible, I'm afraid. The Grade Twelve exams start that day, and the school will be very busy. What about Wednesday?"
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Wednesday is fine for me. Now, which trees shall we plant? I like palm trees."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "Palm trees are beautiful, but they need a lot of water. Ghaf trees are better because they grow well in dry weather, and they have lived in this land for a very long time."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Good idea. Ghaf it is. Where shall we plant them? The football field has plenty of space."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "But the players would run over the young trees. How about along the school wall? The trees will also give shade to students who wait for the bus."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Great. How many trees do we need? I think fifty would be wonderful."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "That is too many for one day, and twenty is too few. Let's plant thirty."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Agreed. Who will give us the trees? Shall we buy them from a garden centre?"
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "Mr Badar says the municipality will give us the trees for free. They will bring them in a truck."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Wonderful. And how shall we water them? I will use a hose, because it is quick."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "A hose wastes a lot of water, Sultan. A drip pipe gives water slowly to the roots of each tree, and it is much better for our dry climate."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "You are right. We will ask the caretaker to fix a drip pipe along the wall. What should students bring on that day?"
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "The sun will be strong, so every student needs a hat. We will also need gloves because the soil is rough. The school will provide the spades."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Perfect. I will write a short announcement for the morning assembly."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "Thank you. I will make a list of the students who want to join the club."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "On which day will the tree-planting day be?",
+    "options": [
+     "Monday",
+     "Wednesday",
+     "Thursday"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "Which trees will the students plant?",
+    "options": [
+     "ghaf trees",
+     "palm trees",
+     "neem trees"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "Where will they plant the trees?",
+    "options": [
+     "on the football field",
+     "near the school gate",
+     "along the school wall"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "How many trees will they plant?",
+    "options": [
+     "thirty",
+     "fifty",
+     "twenty"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "q": "Who will give the school the trees?",
+    "options": [
+     "a garden centre",
+     "the municipality",
+     "the parents"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 6,
+    "q": "How will they water the trees?",
+    "options": [
+     "with a hose",
+     "with buckets",
+     "with a drip pipe"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "What must every student bring?",
+    "options": [
+     "a hat and gloves",
+     "a spade",
+     "lunch"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about online banking and safe payments.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Good afternoon, everyone. Today I am going to talk about online banking and how to pay safely on the internet."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Online banking means using a bank's website or mobile app to look after your money. You can check your balance, pay bills and send money to a friend without going to the bank. The app is open all day and all night, so it is very convenient."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Paying online has also become very common. People buy clothes, books and tickets from websites, and they pay with a bank card or with a phone."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "However, criminals try to steal money online. The most common trick is called phishing. In phishing, a criminal sends you a message that looks like it comes from your bank. The message says there is a problem with your account and asks you to click a link and enter your password. The link takes you to a false website, and the criminal steals your details."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "So how can you stay safe? First, remember that a real bank will never ask for your password or your PIN by message or phone call. If you get such a message, do not reply. Second, use a strong password with at least twelve characters, including letters, numbers and symbols, and never use the same password for two accounts."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Third, use two-step verification. After you type your password, the bank sends a one-time code to your phone, and you must type the code too. Even if a criminal knows your password, he cannot enter your account without the code."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Fourth, check the website before you pay. A safe website has a small padlock next to its address, and the address begins with https. Also, do not use public Wi-Fi in cafes or airports when you pay, because other people may be able to see your information."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Finally, check your bank statement every month. If you see a payment that you do not remember, tell your bank immediately. Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "q": "What is the most common trick used by online criminals?",
+    "hint": "",
+    "answer": "Phishing",
+    "n": 1
+   },
+   {
+    "q": "What will a real bank never ask for by message or phone call?",
+    "hint": "",
+    "answer": "Your password / PIN",
+    "n": 2
+   },
+   {
+    "q": "How many characters should a strong password have at least?",
+    "hint": "(number)",
+    "answer": "12 / Twelve",
+    "n": 3
+   },
+   {
+    "q": "What does the bank send to your phone for two-step verification?",
+    "hint": "",
+    "answer": "A one-time code / (A) code",
+    "n": 4
+   }
+  ],
+  "tf": [
+   {
+    "statement": "With a bank app, you can check your balance without going to the bank.",
+    "answer": true,
+    "n": 5
+   },
+   {
+    "statement": "It is safe to use the same password for two accounts.",
+    "answer": false,
+    "n": 6
+   },
+   {
+    "statement": "It is safe to use public Wi-Fi when you pay.",
+    "answer": false,
+    "n": 7
+   },
+   {
+    "statement": "You should tell your bank at once if you see a payment you do not remember.",
+    "answer": true,
+    "n": 8
+   }
+  ]
+ },
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "My uncle has just bought an electric car. It is much [[1]] to run than his old car."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "How far [[2]] it travel on one charge?"
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "About three hundred kilometres. He says the battery [[3]] at home every night."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "I wish we [[4]] an electric car too."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "There aren't [[5]] charging stations in our town yet, so we must wait."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "That is true. Maybe there will be more in a few years."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "cheaper",
+     "cheapest"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "options": [
+     "does",
+     "do"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "is charged",
+     "charges"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "have",
+     "had"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "options": [
+     "much",
+     "many"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Our class visited the National Museum last week. We saw old coins, tools and (1)_____ that people used thousands of years ago. A guide explained how the first (2)_____ grew along rivers because the soil was rich. Traders carried goods across the desert, and this (3)_____ helped cities become rich. We also saw a model of an old (4)_____ with thick walls to protect people from enemies. Visitors are not allowed to touch the objects because they are part of our (5)_____, and we must keep them safe for future generations.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "emissions",
+     "artefacts",
+     "followers",
+     "droughts"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "civilisations",
+     "chemicals",
+     "fossils",
+     "devices"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "options": [
+     "tide",
+     "trend",
+     "trade",
+     "trap"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "options": [
+     "fort",
+     "flood",
+     "farm",
+     "fan"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "hobby",
+     "heritage",
+     "harvest",
+     "hunger"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "reading1": {
+  "title": "The Mongol Empire",
+  "passage": [
+   "The Mongols were a group of tribes who lived on the grasslands of Central Asia, in the area that is now Mongolia. They were herders who moved from place to place with their horses, sheep and goats, and they lived in round tents called gers. For centuries, the tribes fought each other. In the year 1206, a leader named Temujin united them, and they gave him the title Genghis Khan, which means \"universal ruler\".",
+   "Under Genghis Khan, the Mongols began to conquer their neighbours. After his death in 1227, his sons and grandsons continued his work. Within about seventy years, they built the largest land empire in history. It stretched from Korea and China in the east to Eastern Europe in the west and covered about twenty-four million square kilometres.",
+   "The Mongol army was fast and well organised. Mongol children learned to ride horses at the age of three or four, and they became expert archers who could shoot arrows while riding at full speed. Each soldier had several horses, so he could change to a fresh one and travel long distances every day.",
+   "The Mongols were not only fighters but also good organisers. They created a postal system called the yam. Riders carried messages from station to station, changing tired horses for fresh ones at each stop. A message could travel hundreds of kilometres in a day. Travellers with a special pass could also get food and a bed at the stations.",
+   "Under Mongol rule, the roads of the Silk Road became safer, and trade between Asia, the Middle East and Europe grew. Merchants carried silk, spices and other goods across thousands of kilometres. Ideas and inventions also travelled along these routes, including paper, gunpowder and the compass.",
+   "Genghis Khan's grandson, Kublai Khan, became the ruler of China and started the Yuan dynasty in the year 1271. He built a splendid capital at Beijing, which he made the centre of trade. The Italian traveller Marco Polo visited his court and later wrote a famous book about his journey. Kublai Khan also used paper money, which made trade easier.",
+   "The empire was too large to rule from one centre, and after about 1260 it split into four parts, each ruled by a different khan. These parts slowly became weaker. The Yuan dynasty ended in 1368, when the Chinese forced the Mongols out of China. Although the empire disappeared, Mongolia today is proud of Genghis Khan, whose picture appears on money and statues."
+  ],
+  "mcq": [
+   {
+    "q": "What did the Mongols live in?",
+    "options": [
+     "stone houses",
+     "round tents",
+     "wooden ships"
+    ],
+    "answer": 1,
+    "n": 1
+   },
+   {
+    "q": "What does the title Genghis Khan mean?",
+    "options": [
+     "universal ruler",
+     "brave horse",
+     "great mountain"
+    ],
+    "answer": 0,
+    "n": 2
+   },
+   {
+    "q": "In which year did Genghis Khan die?",
+    "options": [
+     "1206",
+     "1271",
+     "1227"
+    ],
+    "answer": 2,
+    "n": 3
+   },
+   {
+    "q": "How could Mongol soldiers travel long distances every day?",
+    "options": [
+     "They changed to a fresh horse.",
+     "They travelled by ship.",
+     "They walked at night."
+    ],
+    "answer": 0,
+    "n": 4
+   },
+   {
+    "q": "What was the yam?",
+    "options": [
+     "a kind of tent",
+     "a postal system",
+     "a type of arrow"
+    ],
+    "answer": 1,
+    "n": 5
+   },
+   {
+    "q": "Who visited the court of Kublai Khan?",
+    "options": [
+     "Ibn Battuta",
+     "Vasco da Gama",
+     "Marco Polo"
+    ],
+    "answer": 2,
+    "n": 6
+   }
+  ],
+  "completion": [
+   {
+    "q": "The Mongol tribes were united in the year ________.",
+    "answer": "1206",
+    "n": 7
+   },
+   {
+    "q": "Mongol soldiers were expert ________ who could shoot arrows while riding.",
+    "answer": "archers",
+    "n": 8
+   },
+   {
+    "q": "The roads of the ________ became safer under Mongol rule.",
+    "answer": "Silk Road",
+    "n": 9
+   },
+   {
+    "q": "Kublai Khan started the ________ dynasty in 1271.",
+    "answer": "Yuan",
+    "n": 10
+   }
+  ]
+ },
+ "reading2": {
+  "title": "Smartwatches and Wearable Technology",
+  "passage": [
+   "Wearable technology means electronic devices that people wear on their bodies. The most popular examples are smartwatches and fitness bands, but there are also smart glasses, smart rings and wireless earbuds. Millions of people around the world now wear one of these devices every day.",
+   "Watches have changed a lot over the years. The first digital watches appeared in the nineteen seventies, and they showed the time with glowing numbers. Fitness bands that count steps became popular around the year 2010. In 2015, Apple launched its first Apple Watch, and many other companies soon made their own smartwatches.",
+   "A smartwatch is like a small computer on your wrist. It connects to your phone by Bluetooth, so you can read messages, answer calls and control music without taking out your phone. It can show maps, set alarms and, in some countries, pay for things in shops. You can also change the look of the screen to match your clothes.",
+   "Health is one of the most important uses. A smartwatch has sensors that shine a light on your skin to measure your heart rate. It counts your steps, records how far you run and shows how well you sleep. Some models can warn you if your heartbeat is irregular, and others can call for help if the wearer falls and does not move.",
+   "Wearable devices can encourage healthy habits. Many watches give you a daily goal, such as ten thousand steps, and they send a reminder when you have been sitting for too long. Some people share their results with friends, and this competition makes exercise more fun.",
+   "However, smartwatches have disadvantages. The battery usually lasts only one or two days, so you must charge the watch often. Good models are also expensive. In addition, the watch collects information about your body and your movements. This private information must be stored safely, so users should read the privacy settings carefully.",
+   "Smartwatches cannot replace doctors, and their measurements are not always exact. Also, constant messages can take your attention away from your lessons and your family. The best way to use wearable technology is to use it wisely: let it help you stay healthy, but remember to switch off the notifications when you study."
+  ],
+  "short": [
+   {
+    "q": "What do we call electronic devices that people wear on their bodies?",
+    "hint": "",
+    "answer": "Wearable technology",
+    "n": 1
+   },
+   {
+    "q": "When did the first digital watches appear?",
+    "hint": "(decade)",
+    "answer": "The nineteen seventies",
+    "n": 2
+   },
+   {
+    "q": "In which year did Apple launch its first Apple Watch?",
+    "hint": "(year)",
+    "answer": "2015",
+    "n": 3
+   },
+   {
+    "q": "How does a smartwatch connect to your phone?",
+    "hint": "",
+    "answer": "By Bluetooth",
+    "n": 4
+   },
+   {
+    "q": "What does a smartwatch measure by shining a light on your skin?",
+    "hint": "",
+    "answer": "Your heart rate",
+    "n": 5
+   },
+   {
+    "q": "How long does the battery of a smartwatch usually last?",
+    "hint": "",
+    "answer": "One or two days",
+    "n": 6
+   }
+  ],
+  "tf": [
+   {
+    "statement": "A smartwatch can show maps.",
+    "answer": true,
+    "n": 7
+   },
+   {
+    "statement": "Fitness bands that count steps became popular around 1970.",
+    "answer": false,
+    "n": 8
+   },
+   {
+    "statement": "Smartwatches can replace doctors.",
+    "answer": false,
+    "n": 9
+   },
+   {
+    "statement": "Many watches send a reminder when you have been sitting for too long.",
+    "answer": true,
+    "n": 10
+   }
+  ]
+ },
+ "chart": {
+  "title": "Devices Used Every Day by Students and Teachers",
+  "ylabel": "Percentage of People",
+  "unit": "%",
+  "categories": [
+   "Mobile phones",
+   "Laptops",
+   "Tablets",
+   "Smart TVs"
+  ],
+  "series": [
+   {
+    "name": "Students",
+    "values": [
+     90,
+     45,
+     30,
+     65
+    ]
+   },
+   {
+    "name": "Teachers",
+    "values": [
+     85,
+     75,
+     20,
+     55
+    ]
+   }
+  ],
+  "model": "The bar chart shows the devices used every day by students and teachers in one school in Oman. The devices were mobile phones, laptops, tablets and smart TVs. Overall, mobile phones were the most used device for both groups, whereas tablets were used the least.\nFirstly, the most popular device for students was the mobile phone, with 90% of students. This was followed by smart TVs (65%) and laptops (45%). However, the least popular device for students was the tablet, with only 30% of students.\nSimilarly, the most popular device for teachers was the mobile phone, with 85% of teachers. This was followed by laptops (75%) and smart TVs (55%). However, the least popular device for teachers was the tablet, with only 20% of teachers.\nTo summarize, both students and teachers liked using mobile phones. However, the biggest difference was in laptops, where 45% of students used them, whereas 75% of teachers did."
+ },
+ "email": {
+  "formal": true,
+  "situation": "Imagine you are Khalid, a Grade 10 student. You would like to start a history club at your school.",
+  "task": "Write a formal email to your principal, Ms Salima, and ask for her permission. In your email, write about:",
+  "bullets": [
+   "what the club will do",
+   "when the club will meet",
+   "how the club will help students"
+  ],
+  "model": "Dear Ms Salima,\n\nI hope this email finds you in good health and high spirits. I am writing this email to ask for your permission to start a history club at our school.\n\nFirst, the club will study the history of Oman and other ancient civilisations. For example, members will make posters, watch short films and visit forts and museums. Moreover, they will invite guest speakers to talk about old trade routes.\n\nSecond, the club could meet every Tuesday after the last lesson in a classroom. Therefore, it will not disturb any lessons. In addition, it will help students to learn about their heritage and to improve their research and speaking skills.\n\nThank you for your time and attention. I look forward to your response. Please let me know if you need any further information.\n\nYours sincerely,\nKhalid"
+ }
+}

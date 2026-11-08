@@ -86,7 +86,8 @@ def build(D):
     exams = D.setdefault('exams', [])
     D['listen'] = []
     # ---------------------------------------------------------------- 10 model exams (real recordings)
-    for n in range(1, 11):
+    for n in range(1, 26):
+        if not os.path.exists(os.path.join(SRC, f'models/exam{n:02d}.json')): continue
         m = J(f'models/exam{n:02d}.json')
         c, e = m['chart'], m['email']
         a1 = f'audio/exam{n:02d}_part1.mp3'; a2 = f'audio/exam{n:02d}_part2.mp3'
@@ -97,6 +98,26 @@ def build(D):
             grm=gram(m['grammar']['lines'], m['grammar']['items']), vcb=vocab(m['vocab']['passage'], m['vocab']['items']),
             r1=r1(m['reading1']), r2=r2(m['reading2']),
             w1=c, w1topic=chart_topic(c), w1type='CH', w2=e, w2topic=email_topic(e), w2type='FE' if e.get('formal') else 'IE'))
+    # ---------------------------------------------------------------- 2026/2027 mock tasks (MK-L/G/R/W 01..15)
+    MK = '2026/2027 mock task'
+    for n in range(1, 16):
+        def mk(c):
+            f = os.path.join(SRC, f'mock/{c}{n:02d}.json')
+            return J(f'mock/{c}{n:02d}.json') if os.path.exists(f) else None
+        m = mk('L')
+        if m:
+            exams.append(dict(id=f'MK-L{n:02d}', label=f'{MK} · Listening {n:02d} · {m["title"]}', kind='mock', part='L', session=MK,
+                l1=dict(intro=m['listening1']['context'], items=mcq(m['listening1']['items']), script=script(m['listening1']['script']), audio=f'audio/mockL{n:02d}_part1.mp3'),
+                l2=dict(intro=m['listening2']['context'], p1=shorts(m['listening2']['short']), p2=tfs(m['listening2']['tf']), script=script(m['listening2']['script']), audio=f'audio/mockL{n:02d}_part2.mp3')))
+        m = mk('G')
+        if m: exams.append(dict(id=f'MK-G{n:02d}', label=f'{MK} · Grammar & Vocabulary {n:02d} · {m["title"]}', kind='mock', part='G', session=MK, grm=gram(m['grammar']['lines'], m['grammar']['items']), vcb=vocab(m['vocab']['passage'], m['vocab']['items'])))
+        m = mk('R')
+        if m: exams.append(dict(id=f'MK-R{n:02d}', label=f'{MK} · Reading {n:02d} · {m["title"]}', kind='mock', part='R', session=MK, r1=r1(m['reading1']), r2=r2(m['reading2'])))
+        m = mk('W')
+        if m:
+            c, e = m['chart'], m['email']
+            exams.append(dict(id=f'MK-W{n:02d}', label=f'{MK} · Writing {n:02d} · {m["title"]}', kind='mock', part='W', session=MK,
+                w1=c, w1topic=chart_topic(c), w1type='CH', w2=e, w2topic=email_topic(e), w2type='FE' if e.get('formal') else 'IE'))
     # ---------------------------------------------------------------- past papers (questions of the previous final exams)
     L1, L2 = J('past/listening_t1.json'), J('past/listening_t2.json')
     R1, R2 = J('past/read1.json'), J('past/read2.json')
@@ -133,7 +154,7 @@ def build(D):
         charts=[dict(id=c['id'], session=c['session'], title=c['title'], topic=chart_topic(c)) for c in J('past/chart.json')],
         emails=[dict(id=e['id'], session=e['session'], formal=bool(e['formal']), topic=email_topic(e)) for e in J('past/email.json')])
     # answer keys page
-    D['examKeys'] = [[x['label'], x['kind'], [[p, n, str(a)] for p, n, a in keys_rows(x)]] for x in exams if x['kind'] in ('model', 'past', 'gv')]
+    D['examKeys'] = [[x['label'], x['kind'], [[p, n, str(a)] for p, n, a in keys_rows(x)]] for x in exams if x['kind'] in ('model', 'past', 'gv', 'mock')]
     print('exams', len(exams), 'keys', len(D['examKeys']))
 
 

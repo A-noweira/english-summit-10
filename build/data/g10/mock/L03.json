@@ -1,0 +1,249 @@
+{
+ "id": "MK-L03",
+ "title": "A Solar Car and Healthy Gaming",
+ "listening1": {
+  "context": "You are going to hear a conversation between Muna and Sultan.",
+  "script": [
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "Hi Sultan! The science fair is next week. Have you decided on our project?"
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Yes! I would like to build a model car that runs on solar power. It will show how the sun can give us energy."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "That is a brilliant idea. Everybody will want to see it move without batteries. We need a small solar panel. I can order one from an online shop."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "That will take too long. My uncle works with solar systems, and he has a small panel in his workshop. I can ask him to lend it to us."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "Even better, and it is free! What shall we use for the body of the car?"
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "We could use an old plastic box. It is light, and it is recycled, which fits the theme of the fair."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "Good. How many wheels should the car have? I think we need six, so it looks strong."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Six is too heavy for a small motor. Four wheels is the best number, like a real car."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "You are right. When can we test it? We could use the science lab, but it has no sunlight."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "Let's test it in the school playground at noon. The sun is strongest then, and the ground is flat."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "Good thinking. But what will happen if the weather is cloudy on the day of the fair?"
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "I will bring a strong lamp. The panel can take energy from a lamp too, so the car will still move."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "Excellent! Remember that the fair is on Wednesday, and the judges will visit every table at ten o'clock."
+   },
+   {
+    "speaker": "Sultan",
+    "gender": "m",
+    "text": "I know. We should make a short poster to explain how a solar panel works, because the judges will ask us many questions."
+   },
+   {
+    "speaker": "Muna",
+    "gender": "f",
+    "text": "I will draw the diagram tonight, and you can write the explanation. Let's meet in the lab tomorrow after school."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "What will the students make for the science fair?",
+    "options": [
+     "a solar-powered car",
+     "a wind turbine",
+     "a water pump"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 2,
+    "q": "Where will they get the solar panel?",
+    "options": [
+     "from an online shop",
+     "from Sultan's uncle",
+     "from the science lab"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "q": "What will they use for the body of the car?",
+    "options": [
+     "a wooden board",
+     "a cardboard tube",
+     "an old plastic box"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 4,
+    "q": "How many wheels will the car have?",
+    "options": [
+     "six",
+     "four",
+     "three"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "When and where will they test the car?",
+    "options": [
+     "in the playground at noon",
+     "in the lab in the morning",
+     "at home in the evening"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 6,
+    "q": "What will they use if the weather is cloudy?",
+    "options": [
+     "a battery",
+     "a fan",
+     "a lamp"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 7,
+    "q": "On which day is the science fair?",
+    "options": [
+     "Tuesday",
+     "Wednesday",
+     "Thursday"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about healthy gaming.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Hello, everybody. Today I am going to talk about video games and how to enjoy them in a healthy way."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Video games are very popular. People of all ages play them, not only children, and more than three billion people around the world are gamers. The first successful video game was called Pong. It came out in nineteen seventy-two, and it was just two lines and a small ball."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Games can be good for you. Many action games improve hand-eye coordination, because players must move quickly and think fast. Puzzle games help you to solve problems. Online games with friends can also teach teamwork, because players must talk to each other to win."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "However, playing too much can cause problems. Your eyes can get tired when you look at a bright screen for a long time, and sitting still for hours is bad for your back and your body. Many gamers also stay awake late at night, so they feel sleepy at school the next day."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "So how can you play in a healthy way? Here are some simple rules. First, take a break every hour. Stand up, stretch your arms, and look at something far away for a minute. Second, on school days, play for no more than two hours, and finish your homework first."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Third, stop playing at least one hour before bedtime. Bright screens and exciting games make it hard to fall asleep. Finally, remember that you can talk to your friends away from the screen. Go outside, play sports, and meet people face to face."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Parents can help too. Most consoles and phones have settings that limit the time of play and block games that are not suitable for your age. Using them is a sensible idea."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "m",
+    "text": "Games are fun, but real life is better. Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "In which year was the video game Pong released?",
+    "hint": "(year)",
+    "answer": "1972"
+   },
+   {
+    "n": 2,
+    "q": "What do many action games improve?",
+    "hint": "",
+    "answer": "Hand-eye coordination"
+   },
+   {
+    "n": 3,
+    "q": "How often should a gamer take a break?",
+    "hint": "",
+    "answer": "Every hour"
+   },
+   {
+    "n": 4,
+    "q": "How many hours should you play on a school day at most?",
+    "hint": "",
+    "answer": "Two / 2 / Two hours"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "Online games with friends can teach teamwork.",
+    "answer": true
+   },
+   {
+    "n": 6,
+    "statement": "Playing exciting games just before bed helps you to sleep.",
+    "answer": false
+   },
+   {
+    "n": 7,
+    "statement": "Parents can use settings to limit the time of play.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "Only children play video games.",
+    "answer": false
+   }
+  ]
+ }
+}

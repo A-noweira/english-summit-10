@@ -1,0 +1,595 @@
+{
+ "id": 11,
+ "title": "Model Exam 11",
+ "listening1": {
+  "context": "You are going to hear a conversation between Asma and Rashid.",
+  "script": [
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "Hi Rashid! Mrs Layla wants each pair to give a presentation about a famous fort in Oman. Which fort shall we choose? I like Bahla Fort because it is so old."
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "Bahla is wonderful, but I visited Nizwa Fort with my uncle last month, and I took lots of photos. We can use them in our slides."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "That is a very good point. Let's choose Nizwa Fort, then. How long did it take to build? I think it was about twenty years."
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "No, I read that it took twelve years. Imam Sultan bin Saif started the work in the seventeenth century."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "Twelve years! That is a long time. What is the most interesting part of the fort?"
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "I think it is the huge round tower. The main gate is nice too, but from the top of the tower you can see the whole town and the palm trees."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "Great, I would like to see that view. Shall we visit the fort before we write the presentation? I am free on Thursday afternoon."
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "I have football practice on Thursday afternoon, and Friday is difficult because of my cousin's wedding. Saturday is better for me."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "Okay, Saturday. How shall we get there? We could take a taxi."
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "A taxi is too expensive. My uncle has a big car, and he said he would take us. He loves that fort."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "Wonderful. What time shall we leave? The fort opens at eight o'clock, I think."
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "Yes, and the drive takes about one hour. Let's leave at seven o'clock."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "Seven is early, but it is a good plan. Now, how shall we show our work? A poster is easy to make."
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "A poster is fine, but a model of the fort would look better."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "A model needs too much time. What about a short video with your photos and my voice?"
+   },
+   {
+    "speaker": "Rashid",
+    "gender": "m",
+    "text": "Perfect! A short video is the best idea. I will ask Mrs Layla tomorrow if we can show it in class."
+   },
+   {
+    "speaker": "Asma",
+    "gender": "f",
+    "text": "Excellent. I will write the story of the fort tonight, and you can choose the photos."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "q": "Which fort will the students talk about?",
+    "options": [
+     "Bahla Fort",
+     "Nizwa Fort",
+     "Jabrin Castle"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "How long did it take to build the fort?",
+    "options": [
+     "twelve years",
+     "twenty years",
+     "seventeen years"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 3,
+    "q": "What is the most interesting part of the fort?",
+    "options": [
+     "the round tower",
+     "the main gate",
+     "the old well"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "On which day will they visit the fort?",
+    "options": [
+     "Thursday",
+     "Friday",
+     "Saturday"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 5,
+    "q": "How will they travel to the fort?",
+    "options": [
+     "by taxi",
+     "by school bus",
+     "in Rashid's uncle's car"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "What time will they leave?",
+    "options": [
+     "eight o'clock",
+     "seven o'clock",
+     "nine o'clock"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 7,
+    "q": "What will they make for their presentation?",
+    "options": [
+     "a poster",
+     "a short video",
+     "a model"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "listening2": {
+  "context": "You are going to hear a talk about online passwords.",
+  "script": [
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Good afternoon, everyone. Today I am going to talk about passwords and how to keep your online accounts safe."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "A password is a secret group of letters, numbers and symbols that lets you open an account. We use passwords for email, social media, games and even our school websites. If a stranger finds out your password, he can read your messages, steal your photos or pretend to be you."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Sadly, many people choose passwords that are very easy to guess. Some of the most common passwords in the world are the word password itself, or a simple row of numbers like one, two, three, four, five, six. A hacker can guess these in less than one second. Other people use their name or their birthday, but friends and family can often guess those too."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "So what makes a strong password? Experts say that it should have at least twelve characters. It should mix capital letters, small letters, numbers and symbols. A good idea is to think of a sentence and use the first letter of every word."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Another important rule is to use a different password for every account. If you use the same password everywhere and a hacker steals it from one website, he can open all your other accounts. Many people use a password manager. This is a program that remembers all your passwords safely, so you only need to remember one."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "You should also never share your password with anyone, even your best friend. And do not write it on a piece of paper next to your computer."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Finally, turn on two-step verification. This means that after you type your password, the website sends a code to your phone. Even if a hacker knows your password, he cannot enter without the code. It takes only a few minutes to set up, and it makes your account much safer."
+   },
+   {
+    "speaker": "Presenter",
+    "gender": "f",
+    "text": "Thank you for listening."
+   }
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "How long does a hacker need to guess a very easy password?",
+    "hint": "",
+    "answer": "Less than one second / Less than a second"
+   },
+   {
+    "n": 2,
+    "q": "What is the minimum number of characters in a strong password?",
+    "hint": "(number)",
+    "answer": "12 / Twelve"
+   },
+   {
+    "n": 3,
+    "q": "What is the name of a program that remembers all your passwords?",
+    "hint": "",
+    "answer": "(A) password manager"
+   },
+   {
+    "n": 4,
+    "q": "What does the website send to your phone for two-step verification?",
+    "hint": "",
+    "answer": "A code"
+   }
+  ],
+  "tf": [
+   {
+    "n": 5,
+    "statement": "Friends and family can often guess a password that uses your birthday.",
+    "answer": true
+   },
+   {
+    "n": 6,
+    "statement": "It is a good idea to use the same password for every account.",
+    "answer": false
+   },
+   {
+    "n": 7,
+    "statement": "You may share your password with your best friend.",
+    "answer": false
+   },
+   {
+    "n": 8,
+    "statement": "Two-step verification takes only a few minutes to set up.",
+    "answer": true
+   }
+  ]
+ },
+ "grammar": {
+  "lines": [
+   {
+    "speaker": "Speaker A",
+    "text": "Did you watch the programme [[1]] showed how the sea level is rising?"
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "Yes, I did. It was very worrying. We [[2]] reduce our waste before it is too late."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "I agree. There is [[3]] water in our village now because it rarely rains."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "It is a serious problem. If we [[4]] water, our farms will survive."
+   },
+   {
+    "speaker": "Speaker A",
+    "text": "My school is doing something too. Every class has to collect plastic bottles."
+   },
+   {
+    "speaker": "Speaker B",
+    "text": "That is great! My class [[5]] more than a hundred bottles last month."
+   }
+  ],
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "who",
+     "which"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "shouldn't",
+     "should"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 3,
+    "options": [
+     "little",
+     "a few"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "save",
+     "saved"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 5,
+    "options": [
+     "has collected",
+     "collected"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ "vocab": {
+  "passage": "Last week our class visited the National Museum in Muscat. Our teacher explained that Oman has a long (1)_____ and that people lived here thousands of years ago. We saw old tools, pottery and coins that merchants used for (2)_____ with other lands. A guide told us how ancient builders made strong walls to (3)_____ their forts from enemies. We also learned that a country's (4)_____, such as its old buildings, songs and traditions, belongs to everybody. At the end of the trip, we promised to (5)_____ these treasures for future generations. It was a wonderful day.",
+  "items": [
+   {
+    "n": 1,
+    "options": [
+     "weather",
+     "history",
+     "pollution",
+     "fuel"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "options": [
+     "damage",
+     "harvest",
+     "trade",
+     "signal"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "options": [
+     "protect",
+     "produce",
+     "predict",
+     "pollute"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "options": [
+     "disaster",
+     "content",
+     "network",
+     "heritage"
+    ],
+    "answer": 3
+   },
+   {
+    "n": 5,
+    "options": [
+     "recycle",
+     "invent",
+     "preserve",
+     "download"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ "reading1": {
+  "title": "Coral Reefs under Threat",
+  "passage": [
+   "Coral reefs are often called the rainforests of the sea. They cover less than one percent of the ocean floor, but about one quarter of all sea animals live in or near them. Colourful fish, turtles, crabs and sharks all find food and shelter there.",
+   "Many people think corals are plants or rocks, but they are really tiny animals called polyps. A polyp builds a hard skeleton around its soft body. When millions of polyps live together and build skeletons for hundreds of years, they create a reef. Some corals grow less than two centimetres in a year, so a large reef is very old.",
+   "The biggest reef in the world is the Great Barrier Reef in Australia. It is more than two thousand kilometres long, and astronauts can see it from space. Oman also has beautiful corals. The Daymaniyat Islands, near Muscat, are a nature reserve where divers can see many kinds of coral and fish.",
+   "Reefs are very useful to people. They protect the coast by slowing down big waves during storms. They are also a source of food for millions of people, and tourists who come to dive and swim bring money to coastal towns.",
+   "Sadly, reefs are in danger. The most serious problem is warming seas. When the water becomes too warm, the corals push out the tiny algae that live inside them. The algae give corals their bright colours and most of their food, so the corals turn white. This is called bleaching. If the water cools down quickly, corals can recover, but if it stays hot, they die.",
+   "Other threats include pollution, careless tourists who touch or break corals, and fishing with heavy nets. Chemicals and plastic from the land also flow into the sea and harm the reefs.",
+   "We can all help. Governments can reduce carbon emissions and create more protected areas. Divers should never touch the corals. At home, we can use less plastic and save electricity, because burning fossil fuels causes global warming. If we protect coral reefs today, they will still be there for our children."
+  ],
+  "mcq": [
+   {
+    "n": 1,
+    "q": "How much of all sea animals live in or near coral reefs?",
+    "options": [
+     "about one tenth",
+     "about one quarter",
+     "about one half"
+    ],
+    "answer": 1
+   },
+   {
+    "n": 2,
+    "q": "What are corals really?",
+    "options": [
+     "plants",
+     "rocks",
+     "tiny animals"
+    ],
+    "answer": 2
+   },
+   {
+    "n": 3,
+    "q": "Where can divers in Oman see many kinds of coral?",
+    "options": [
+     "in the Daymaniyat Islands",
+     "in the Wahiba Sands",
+     "in the Hajar Mountains"
+    ],
+    "answer": 0
+   },
+   {
+    "n": 4,
+    "q": "How do reefs protect the coast?",
+    "options": [
+     "They stop the rain.",
+     "They slow down big waves.",
+     "They make the sea warmer."
+    ],
+    "answer": 1
+   },
+   {
+    "n": 5,
+    "q": "Why do corals turn white?",
+    "options": [
+     "They lose their skeletons.",
+     "They eat too many fish.",
+     "They push out the algae that live inside them."
+    ],
+    "answer": 2
+   },
+   {
+    "n": 6,
+    "q": "How can saving electricity help coral reefs?",
+    "options": [
+     "It reduces global warming.",
+     "It cleans the beaches.",
+     "It feeds the fish."
+    ],
+    "answer": 0
+   }
+  ],
+  "completion": [
+   {
+    "n": 7,
+    "q": "A polyp builds a hard ________ around its soft body.",
+    "answer": "skeleton"
+   },
+   {
+    "n": 8,
+    "q": "The Great Barrier Reef is in ________.",
+    "answer": "Australia"
+   },
+   {
+    "n": 9,
+    "q": "When corals turn white, this is called ________.",
+    "answer": "bleaching"
+   },
+   {
+    "n": 10,
+    "q": "Divers should never ________ the corals.",
+    "answer": "touch"
+   }
+  ]
+ },
+ "reading2": {
+  "title": "Wind Power",
+  "passage": [
+   "Wind is moving air. It is caused by the Sun, which heats some parts of the Earth more than others. Warm air rises, and cooler air moves in to take its place. People have used this free energy for a very long time.",
+   "The first windmills were built in Persia more than one thousand years ago. They had sails that turned in the wind and were used to grind grain and to pump water. Later, the idea spread to Europe, where windmills became a common sight, especially in the Netherlands.",
+   "In the late nineteenth century, inventors found a way to make electricity from the wind. Today, a modern wind turbine looks like a tall tower with three long blades. When the wind turns the blades, they turn a shaft that is connected to a generator, and the generator produces electricity. Some turbines are more than one hundred metres tall.",
+   "Turbines are often grouped together in a wind farm. Wind farms are built on land, where the wind is strong, or in the sea, because winds blow faster and more steadily over water. Denmark gets more than forty percent of its electricity from the wind. In Oman, the first big wind farm is in Harweel in Dhofar, which started working in 2019 and has thirteen turbines.",
+   "Wind power has many advantages. The wind is free and will never run out. A turbine does not burn fuel, so it does not make greenhouse gases or smoke. Farmers can also grow crops or keep animals on the land around the turbines.",
+   "However, wind power has disadvantages too. The wind does not blow all the time, so turbines cannot always produce electricity. Some people say that turbines are noisy and spoil the view, and birds can be hurt by the moving blades. Wind farms also cost a lot of money to build.",
+   "Engineers are working to solve these problems. Better batteries can store extra electricity for calm days, and new turbines are quieter and more efficient. Many experts believe that wind power will become even more important in the future."
+  ],
+  "short": [
+   {
+    "n": 1,
+    "q": "What heats some parts of the Earth more than others?",
+    "hint": "",
+    "answer": "The Sun"
+   },
+   {
+    "n": 2,
+    "q": "Where were the first windmills built?",
+    "hint": "",
+    "answer": "In Persia"
+   },
+   {
+    "n": 3,
+    "q": "What were the first windmills used to pump?",
+    "hint": "",
+    "answer": "Water"
+   },
+   {
+    "n": 4,
+    "q": "How many blades does a modern wind turbine usually have?",
+    "hint": "(number)",
+    "answer": "Three / 3"
+   },
+   {
+    "n": 5,
+    "q": "Why are wind farms built in the sea?",
+    "hint": "",
+    "answer": "Because winds blow faster and more steadily over water / The winds are faster and steadier"
+   },
+   {
+    "n": 6,
+    "q": "What can store extra electricity for calm days?",
+    "hint": "",
+    "answer": "Better batteries / Batteries"
+   }
+  ],
+  "tf": [
+   {
+    "n": 7,
+    "statement": "Denmark gets more than forty percent of its electricity from the wind.",
+    "answer": true
+   },
+   {
+    "n": 8,
+    "statement": "A wind turbine burns fuel to make electricity.",
+    "answer": false
+   },
+   {
+    "n": 9,
+    "statement": "The wind blows all the time, so turbines always produce electricity.",
+    "answer": false
+   },
+   {
+    "n": 10,
+    "statement": "Wind farms cost a lot of money to build.",
+    "answer": true
+   }
+  ]
+ },
+ "chart": {
+  "title": "Ways Grade 10 Students Learn about History",
+  "ylabel": "Percentage of Students",
+  "unit": "%",
+  "categories": [
+   "Visiting museums",
+   "Reading books",
+   "Watching films",
+   "Using the internet"
+  ],
+  "series": [
+   {
+    "name": "Boys",
+    "values": [
+     40,
+     25,
+     55,
+     70
+    ]
+   },
+   {
+    "name": "Girls",
+    "values": [
+     60,
+     65,
+     35,
+     50
+    ]
+   }
+  ],
+  "model": "The bar chart shows the ways Grade 10 boys and girls learn about history in one school in Oman. The ways were visiting museums, reading books, watching films and using the internet. Overall, boys preferred using the internet, whereas girls preferred reading books.\nFirstly, the most popular way for boys was using the internet, with 70% of students. This was followed by watching films (55%) and visiting museums (40%). However, the least popular way for boys was reading books, with only 25% of students.\nIn contrast, the most popular way for girls was reading books, with 65% of students. This was followed by visiting museums (60%) and using the internet (50%). However, the least popular way for girls was watching films, with only 35% of students.\nTo summarize, both boys and girls liked using the internet. However, the biggest difference was in reading books, where 25% of boys chose it, whereas 65% of girls did."
+ },
+ "email": {
+  "formal": false,
+  "situation": "Imagine you are Saif. Your class visited a solar power station last week.",
+  "task": "Write an email to your friend Khalid and tell him about the visit. In your email, write about:",
+  "bullets": [
+   "where the power station is and who went",
+   "what you saw there",
+   "what you learned about solar energy"
+  ],
+  "model": "Dear Khalid,\n\nHello, how are you and your family? I hope you are very well. I am very happy to write to you. I am writing this email to tell you about our class visit to a solar power station last week.\n\nFirst, the power station is in the desert near Ibri, and all the students in my class went there by bus with our science teacher. For example, we left school at seven o'clock in the morning. Moreover, the journey took about two hours.\n\nSecond, we saw thousands of shiny solar panels and a control room full of screens. Moreover, an engineer explained that the panels change sunlight into electricity. Therefore, I learned that solar energy is clean and free, and Oman has plenty of sun.\n\nThat's all I have for now. Please write and tell me your news. I am looking forward to hearing from you soon.\n\nBest wishes,\nSaif"
+ }
+}
