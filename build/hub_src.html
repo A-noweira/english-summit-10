@@ -3,23 +3,23 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Cairo:wght@500;700;800&family=Nunito:wght@500;600;700;800&family=Nunito+Sans:ital,wght@0,400;0,700;1,400&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap">
 <style>
 :root{
-  --bg:#FAF7EC; --card:#FFFFFF; --ink:#2B2A1C; --muted:#6B6A52; --line:#E6E0C8;
-  --navy:#5A6B2E; --navy-ink:#FFFFFF; --orange:#C28A1E; --gold:#E9C46A; --soft:#F3F0DF;
-  --good:#2B8A3E; --good-bg:#E6F6EA; --bad:#C92A2A; --bad-bg:#FDECEC;
-  --t1:#6B7F3A; --t2:#C28A1E; --t3:#8A9A52; --t4:#A9791F; --fd:#A67C2E; --ex:#5A6B2E; --wr:#7A5C2E;
-  --shadow:0 1px 2px rgba(90,107,46,.06),0 6px 18px rgba(90,107,46,.08);
+  --bg:#F4F8FC; --card:#FFFFFF; --ink:#14223A; --muted:#5B6B82; --line:#DCE6F2;
+  --navy:#173B73; --navy-ink:#FFFFFF; --orange:#F28C28; --gold:#F5B83D; --soft:#EAF1FA;
+  --good:#1E8E4E; --good-bg:#E3F5EA; --bad:#D6334A; --bad-bg:#FDE9EC;
+  --t1:#8E2447; --t2:#1E88C8; --t3:#F08A24; --t4:#12A3A3; --fd:#1E88C8; --ex:#173B73; --wr:#6D3FA8;
+  --shadow:0 1px 2px rgba(23,59,115,.06),0 6px 18px rgba(23,59,115,.08);
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
-  --bg:#14160D; --card:#1E2114; --ink:#F2F0E1; --muted:#B2B08F; --line:#363A24;
-  --navy:#3F4D1F; --navy-ink:#FFFFFF; --orange:#E3B04B; --gold:#E9C46A; --soft:#262A19;
-  --good:#5BD07A; --good-bg:#16301F; --bad:#FF7B7B; --bad-bg:#3A1A1E;
-  --t1:#A9BF6A; --t2:#E3B04B; --t3:#BBC98A; --t4:#E9C46A; --fd:#D9B05A; --ex:#93A860; --wr:#D3AE70;
+  --bg:#0C1424; --card:#142036; --ink:#EAF1FB; --muted:#9FB1CC; --line:#26354F;
+  --navy:#234E91; --navy-ink:#FFFFFF; --orange:#FFA94D; --gold:#F5B83D; --soft:#18263E;
+  --good:#5BD07A; --good-bg:#123222; --bad:#FF7B8C; --bad-bg:#3A1822;
+  --t1:#E27A9B; --t2:#5CB8EA; --t3:#FFA94D; --t4:#4CCDD0; --fd:#5CB8EA; --ex:#7FA6E6; --wr:#B99CF0;
   --shadow:0 1px 2px rgba(0,0,0,.3),0 6px 18px rgba(0,0,0,.25); color-scheme:dark}}
 :root[data-theme="dark"]{
-  --bg:#14160D; --card:#1E2114; --ink:#F2F0E1; --muted:#B2B08F; --line:#363A24;
-  --navy:#3F4D1F; --navy-ink:#FFFFFF; --orange:#E3B04B; --gold:#E9C46A; --soft:#262A19;
-  --good:#5BD07A; --good-bg:#16301F; --bad:#FF7B7B; --bad-bg:#3A1A1E;
-  --t1:#A9BF6A; --t2:#E3B04B; --t3:#BBC98A; --t4:#E9C46A; --fd:#D9B05A; --ex:#93A860; --wr:#D3AE70;
+  --bg:#0C1424; --card:#142036; --ink:#EAF1FB; --muted:#9FB1CC; --line:#26354F;
+  --navy:#234E91; --navy-ink:#FFFFFF; --orange:#FFA94D; --gold:#F5B83D; --soft:#18263E;
+  --good:#5BD07A; --good-bg:#123222; --bad:#FF7B8C; --bad-bg:#3A1822;
+  --t1:#E27A9B; --t2:#5CB8EA; --t3:#FFA94D; --t4:#4CCDD0; --fd:#5CB8EA; --ex:#7FA6E6; --wr:#B99CF0;
   --shadow:0 1px 2px rgba(0,0,0,.3),0 6px 18px rgba(0,0,0,.25); color-scheme:dark}
 *{box-sizing:border-box} [hidden]{display:none!important}
 body{background:var(--bg);color:var(--ink);font:500 15px/1.55 "Nunito",system-ui,sans-serif}
@@ -35,7 +35,7 @@ header.top .in{max-width:980px;margin:0 auto;padding:10px 16px;display:flex;alig
 nav.nv{display:flex;gap:4px;flex-wrap:wrap;margin-left:auto}
 nav.nv a{color:#fff;text-decoration:none;font:700 13.5px "Nunito";padding:6px 10px;border-radius:999px;opacity:.88}
 nav.nv a.on,nav.nv a:hover{background:rgba(255,255,255,.16);opacity:1}
-.hero{background:linear-gradient(135deg,var(--navy),#A9791F);color:#fff;border-radius:20px;padding:26px 22px;display:grid;grid-template-columns:1fr auto;gap:16px;align-items:center;box-shadow:var(--shadow)}
+.hero{background:linear-gradient(135deg,var(--navy),#D9731A);color:#fff;border-radius:20px;padding:26px 22px;display:grid;grid-template-columns:1fr auto;gap:16px;align-items:center;box-shadow:var(--shadow)}
 .hero h1{font-size:clamp(26px,5vw,38px)} .hero h1 span{color:var(--gold)}
 .hero p{margin:6px 0 0;opacity:.92;max-width:56ch}
 .hero .ar{font-size:15px;opacity:.92}
@@ -165,7 +165,7 @@ table.k th{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spa
 .paper .oq.ok{background:#F1FAF3}.paper .oq.no{background:#FFF4F4}
 .paper .ck{font-size:13.5px;font-weight:700;margin-top:4px;color:#2B8A3E}.paper .oq.no .ck{color:#C92A2A}
 .paper audio{margin:4px 0 10px}
-.tts{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:4px 0 12px;padding:8px 10px;border:1px dashed #999;border-radius:6px}.tts .btn{--c:#5A6B2E}.tts .btn.g{color:#111;background:#f2f2f2}
+.tts{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:4px 0 12px;padding:8px 10px;border:1px dashed #999;border-radius:6px}.tts .btn{--c:#173B73}.tts .btn.g{color:#111;background:#f2f2f2}
 .btn.sm{padding:3px 8px;font-size:12px;margin-left:6px}
 /* writing lab */
 .stages{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px}
@@ -308,7 +308,7 @@ td .mini{width:100%}
 
 <script>
 const D = /*DATA*/null;
-const LOGO = '<path d="M20 178 L100 22 L180 178 Z" fill="#5A6B2E"/><path d="M100 22 L128 76 L114 70 L100 84 L86 70 L72 76 Z" fill="#fff"/><path d="M64 130 H136" stroke="#C98F1F" stroke-width="16" stroke-linecap="round"/><path d="M20 178 L100 22 L180 178" fill="none" stroke="#C98F1F" stroke-width="10" stroke-linejoin="round"/><line x1="100" y1="22" x2="100" y2="-2" stroke="#5A6B2E" stroke-width="5"/><path d="M100 -2 h44 l-8 11 l8 11 h-44 z" fill="#C98F1F"/><text x="120" y="15" text-anchor="middle" font-family="Baloo 2" font-weight="800" font-size="15" fill="#fff">10</text>';
+const LOGO = '<path d="M20 178 L100 22 L180 178 Z" fill="#173B73"/><path d="M100 22 L128 76 L114 70 L100 84 L86 70 L72 76 Z" fill="#fff"/><path d="M64 130 H136" stroke="#C98F1F" stroke-width="16" stroke-linecap="round"/><path d="M20 178 L100 22 L180 178" fill="none" stroke="#C98F1F" stroke-width="10" stroke-linejoin="round"/><line x1="100" y1="22" x2="100" y2="-2" stroke="#173B73" stroke-width="5"/><path d="M100 -2 h44 l-8 11 l8 11 h-44 z" fill="#C98F1F"/><text x="120" y="15" text-anchor="middle" font-family="Baloo 2" font-weight="800" font-size="15" fill="#fff">10</text>';
 document.getElementById('glogo').innerHTML = LOGO; document.getElementById('hlogo').innerHTML = LOGO;
 const TC = {1:'var(--t1)',2:'var(--t2)',3:'var(--t3)',4:'var(--t4)'};
 const TN = D.tn;
@@ -1277,9 +1277,9 @@ async function printCards(list){
   const w = window.open('', '_blank'); if (!w) { alert('Allow pop-ups to print the cards.'); return; }
   w.document.write(`<!doctype html><meta charset="utf-8"><title>Sign-in cards · English Summit 10</title><style>
     body{font:14px/1.4 Arial,sans-serif;margin:12px;color:#111}.g{display:grid;grid-template-columns:1fr 1fr;gap:10px}
-    .lc{border:1.5px dashed #5A6B2E;border-radius:10px;padding:10px 12px;break-inside:avoid}.lt{display:flex;justify-content:space-between;align-items:center;border-bottom:2px solid #5A6B2E;padding-bottom:4px;margin-bottom:6px}.lt b{color:#5A6B2E;font-size:16px}.lt small{font-size:11px}
+    .lc{border:1.5px dashed #173B73;border-radius:10px;padding:10px 12px;break-inside:avoid}.lt{display:flex;justify-content:space-between;align-items:center;border-bottom:2px solid #173B73;padding-bottom:4px;margin-bottom:6px}.lt b{color:#173B73;font-size:16px}.lt small{font-size:11px}
     .lb{display:flex;gap:10px;justify-content:space-between}.ln{font-weight:700;font-size:16px}.lm{color:#666;font-size:12px}.lr{margin-top:4px}.lr span{display:block;font-size:11px;color:#555}.lr code{font-size:17px;font-weight:700;letter-spacing:.04em}
-    .lq svg{width:110px;height:110px}ol{margin:6px 0 2px;padding-right:18px;font-size:11.5px}.lu{font-size:10px;color:#A9791F;word-break:break-all}
+    .lq svg{width:110px;height:110px}ol{margin:6px 0 2px;padding-right:18px;font-size:11.5px}.lu{font-size:10px;color:#D9731A;word-break:break-all}
     @media print{.np{display:none}body{margin:0}}</style>
     <p class="np"><button onclick="print()">Print</button> Temporary passwords work until the student chooses a private password.</p><div class="g">${list.map(card).join('')}</div>`);
   w.document.close();
@@ -1992,7 +1992,7 @@ function home(){
 /* ----- Units ----- */
 function unitsView(){
   return `<div class="ph"><h1>Units</h1><span class="ar">الوحدات</span></div>
-   <div class="note small">Follow each unit in the order of the book: vocabulary lessons (sage green) with games → spelling bee → grammar lessons (golden sand) → the unit practice. <span class="ar">اتبع ترتيب الكتاب: دروس الكلمات (الأخضر) مع الألعاب ← مسابقة الإملاء ← دروس القواعد (الذهبي) ← اختبار الوحدة.</span></div>
+   <div class="note small">Follow each unit in the order of the book: vocabulary lessons (burgundy) with games → spelling bee → grammar lessons (sky blue) → the unit practice. <span class="ar">اتبع ترتيب الكتاب: دروس الكلمات (العنابي) مع الألعاب ← مسابقة الإملاء ← دروس القواعد (الأزرق السماوي) ← اختبار الوحدة.</span></div>
    <div class="tgrid">${[1,2,3,4].map(n => `<a class="tcard" href="#TH-${n}" style="--c:${TC[n]}"><span class="k">Unit ${n}</span><b>${TN[n]}</b>${ring(themeProgress(n), 64, TC[n])}<small>${THEME_STEPS(n).filter(x => stepDone(x.code)).length} of ${THEME_STEPS(n).length} steps</small></a>`).join('')}
     <a class="tcard" href="#GB" style="--c:var(--fd)"><span class="k">All units</span><b>Grammar Booster</b><span class="ar">تأسيس القواعد</span><small>${D.found.length} basic grammar topics</small></a>
     <a class="tcard" href="#F-03" style="--c:var(--fd)"><span class="k">All units</span><b>Irregular verbs</b><span class="ar">الأفعال الشاذة</span><small>${D.irreg.length} verbs · table and games</small></a>
