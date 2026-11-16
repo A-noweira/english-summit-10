@@ -5,7 +5,7 @@ import json, os, sys, importlib
 H = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, H)
 TN = {1: 'New Media', 2: 'Climate Change', 3: 'Renewable Energy', 4: 'Civilisation'}
 D = {'vocab': [], 'grammar': [], 'found': [], 'listen': [], 'pages': {}, 'themeKeys': [], 'tn': TN, 'exams': []}
-for m in ('export_themes', 'export_exams', 'export_writing'):
+for m in ('export_themes', 'export_exams', 'export_gt', 'export_writing'):
     if os.path.exists(os.path.join(H, m + '.py')):
         importlib.import_module(m).build(D); print('ok', m)
 D['unitExams'] = {1: ['MT-01', 'MT-05', 'MT-09'], 2: ['MT-03', 'MT-06', 'MT-10'], 3: ['MT-02', 'MT-07'], 4: ['MT-04', 'MT-08']}
