@@ -84,6 +84,7 @@ def ans_type(q, a, sa_kind):
 
 
 def vocab_rule(correct, opts):
+    """-> (class of the needed word or None, per-option flags 1 = clearly another kind of word)"""
     def cls(w):
         w = w.lower().split()[-1] if w else ''
         if w.endswith('ly') and len(w) > 4: return 'adv'
@@ -91,10 +92,9 @@ def vocab_rule(correct, opts):
         if re.search(r'(ful|less|ous|ive|able|ible)$', w): return 'adj'
         return None
     c = cls(correct)
-    if not c: return None
-    # the type is shown only when at least one wrong option clearly belongs to another class
-    others = [cls(o) for o in opts if o != correct]
-    return c if any(o and o != c for o in others) else None
+    if not c: return None, None
+    fl = [1 if (o != correct and cls(o) and cls(o) != c) else 0 for o in opts]
+    return (c, fl) if any(fl) else (None, None)
 
 
 LEX = [('forsince', {'for', 'since'}), ('art', {'a', 'an', 'the'}), ('be', {'is', 'are', 'was', 'were', 'am', "isn't", "aren't", "wasn't", "weren't"}),
@@ -214,8 +214,8 @@ def build(D):
                 if si is None: continue
                 tx = S[si][2]; j = tx.index(tag)
                 it = dict(x=e, i=i, ev=[S[si][0], S[si][1]], k=gap_kw(tx[:j], tx[j + 3:], 3), sc=5)
-                w = vocab_rule(o[a], o)
-                if w: it['w'] = w
+                w, fl = vocab_rule(o[a], o)
+                if w: it['w'] = w; it['r'] = fl
                 if it['k']: T['items'].append(it)
         if x.get('r1'):
             S = sents(x['r1']['text']); r = x['r1']
@@ -233,6 +233,7 @@ def build(D):
     for code, T in G['types'].items():
         its = T['items']; seen = {}; keep = []
         for it in its:
+            it['k'] = list(dict.fromkeys(it['k']))
             seen.setdefault(it['x'], []).append(it)
         rr = []
         while any(seen.values()) and len(rr) < 9999:

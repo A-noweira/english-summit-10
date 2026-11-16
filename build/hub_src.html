@@ -269,6 +269,49 @@ td .mini{width:100%}
 .bell{position:relative;color:#fff;text-decoration:none;font-size:18px;padding:2px 6px}.bell i{position:absolute;top:-4px;right:-6px;min-width:18px;height:18px;border-radius:9px;background:var(--orange);color:#fff;font:800 11px/18px "Nunito";text-align:center;font-style:normal}
 .pill.as{background:var(--orange);color:#fff}.pill.new{background:var(--bad);color:#fff}
 @media (max-width:640px){nav.nv{flex-wrap:nowrap;overflow-x:auto;width:100%;scrollbar-width:none;margin-left:0}nav.nv a{flex:none}}
+/* ---- Guided Training (GT-x) and How to Answer (HOW-x) ---- */
+.gcards{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px;margin:0 0 16px}
+.gcard{display:flex;flex-direction:column;gap:4px;background:var(--card);border:1px solid var(--line);border-top:5px solid var(--c,var(--navy));border-radius:14px;padding:12px 14px;text-decoration:none;color:var(--ink);box-shadow:var(--shadow)}
+.gcard b{font:800 17px "Baloo 2","Nunito",system-ui,sans-serif} .gcard small{color:var(--muted);font-weight:700} .gcard .ar{font-size:13.5px;color:var(--muted)}
+.gdots{display:flex;gap:4px;margin:2px 0}.gdots i{width:22px;height:8px;border-radius:99px;background:var(--line)}.gdots i.d{background:var(--good)}.gdots i.c{background:var(--orange)}
+.gtabs{display:flex;gap:6px;flex-wrap:wrap;margin:6px 0 12px}
+.gtab{display:flex;align-items:center;gap:6px;border:1.5px solid var(--line);background:var(--card);color:var(--ink);border-radius:12px;padding:6px 10px;font-weight:800;font-size:13px;min-height:40px}
+.gtab .n{width:24px;height:24px;border-radius:50%;background:var(--soft);display:inline-flex;align-items:center;justify-content:center;font:800 13px "Baloo 2","Nunito",system-ui,sans-serif}
+.gtab.on{border-color:var(--t2);background:var(--soft)} .gtab.dn .n{background:var(--good);color:#fff} .gtab.cur .n{background:var(--orange);color:#fff} .gtab:disabled{opacity:.5;cursor:default}
+.gm{display:flex;align-items:center;gap:10px;margin:4px 0 4px}.gm .bar{flex:1;margin:0;height:12px}.gm .bar i{background:var(--gold)}.gm b{font:800 16px "Baloo 2","Nunito",system-ui,sans-serif;min-width:44px;text-align:right}
+.gpips{display:inline-flex;gap:4px;vertical-align:middle}.gpips i{width:12px;height:12px;border-radius:50%;border:2px solid var(--t2)}.gpips i.f{background:var(--t2)}
+.gbox{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:14px;box-shadow:var(--shadow)}
+.gctx{border:1px solid var(--line);border-radius:12px;padding:10px 12px;background:var(--bg);max-height:360px;overflow:auto;margin:8px 0;font-size:15px;line-height:1.65}
+.gctx p{margin:0 0 8px}.gctx .gl{margin:0 0 6px}.gctx .gl>b{color:var(--t2);margin-right:6px}
+.gs{border-radius:4px;transition:background .15s}.gtap .gs{cursor:pointer;border-bottom:1px dotted var(--muted)}.gtap .gs:hover{background:var(--soft)}
+.gs.gev{background:color-mix(in srgb,var(--t2) 24%,transparent);box-shadow:0 2px 0 var(--t2)}
+.gs.gbad{background:color-mix(in srgb,var(--bad) 18%,transparent)}
+mark.gk{background:color-mix(in srgb,var(--gold) 60%,transparent);color:inherit;border-radius:3px;padding:0 2px}
+.ggap{display:inline-block;min-width:54px;border-bottom:2px solid var(--orange);text-align:center;font-weight:800;color:var(--orange)}
+.gq{font:700 17px/1.5 "Nunito",system-ui,sans-serif;margin:8px 0}
+.gopts{display:grid;gap:8px;margin:8px 0}
+.gopt{display:flex;align-items:center;gap:8px;text-align:left;width:100%;border:1.5px solid var(--line);background:var(--card);color:var(--ink);border-radius:12px;padding:10px 12px;font-weight:700;min-height:44px}
+.gopt:hover:not(:disabled){border-color:var(--t2)} .gopt.ok{border-color:var(--good);background:var(--good-bg)} .gopt.no{border-color:var(--bad);background:var(--bad-bg)} .gopt.dim{opacity:.45;text-decoration:line-through}
+.gopt .x{margin-left:auto;border:1px solid var(--line);border-radius:8px;background:var(--soft);padding:2px 8px;color:var(--bad);font-weight:800}
+.gwhy{font-size:13.5px;color:var(--muted);font-weight:600;margin:-2px 0 4px 6px}
+.gstep{border-left:4px solid var(--orange);background:var(--soft);border-radius:8px;padding:10px 12px;margin:10px 0}
+.gstep h4{margin:0 0 6px;font:800 15px "Baloo 2","Nunito",system-ui,sans-serif}
+.gchips{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0}
+.gchip{border:1.5px solid var(--line);background:var(--card);color:var(--ink);border-radius:10px;padding:5px 9px;font-weight:700;min-height:36px}
+.gchip.on{border-color:var(--orange);background:color-mix(in srgb,var(--orange) 22%,transparent)} .gchip.ok{border-color:var(--good);background:var(--good-bg)} .gchip.no{border-color:var(--bad);background:var(--bad-bg)}
+.gin{width:100%;font:700 17px "Nunito",system-ui,sans-serif;padding:10px 12px;border:1.5px solid var(--line);border-radius:12px;background:var(--card);color:var(--ink)}
+.gfb{border-radius:12px;padding:10px 12px;margin:10px 0;font-weight:700}.gfb.ok{background:var(--good-bg);color:var(--good)}.gfb.no{background:var(--bad-bg);color:var(--bad)}.gfb .t{color:var(--ink);font-weight:600}
+.gev-box{border-left:4px solid var(--t2);background:var(--soft);border-radius:8px;padding:8px 12px;margin:8px 0;font-weight:600}
+.gact{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+.gact .btn{--c:var(--navy)} .gact .btn.h{--c:var(--orange);color:#14223A}
+.gslide{min-height:200px}.gdot{display:flex;gap:6px;justify-content:center;margin:10px 0}.gdot i{width:10px;height:10px;border-radius:50%;background:var(--line)}.gdot i.on{background:var(--t2)}
+.gcap{border-radius:10px;padding:8px 12px;margin:8px 0;background:var(--soft)}.gcap.en{font-weight:700}
+.gvis{margin:8px 0}.gvis .gw{background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:8px 10px;margin:6px 0}
+.gtag{display:inline-block;font:800 11px "Nunito",system-ui,sans-serif;letter-spacing:.05em;text-transform:uppercase;border-radius:999px;padding:2px 9px;background:var(--soft);color:var(--muted)}
+.gready{border:2px solid var(--gold);border-radius:12px;background:color-mix(in srgb,var(--gold) 20%,transparent);padding:8px 12px;font-weight:800;margin:8px 0}
+.gwrow{display:flex;align-items:center;gap:10px;border:1.5px solid var(--line);border-radius:12px;padding:10px 12px;margin:8px 0;background:var(--card);text-decoration:none;color:var(--ink)}
+.gwrow .sn{width:34px;height:34px;border-radius:50%;background:var(--soft);display:flex;align-items:center;justify-content:center;font:800 16px "Baloo 2","Nunito",system-ui,sans-serif;flex:none}.gwrow.ok .sn{background:var(--good);color:#fff}.gwrow.lk{opacity:.55}
+@media (max-width:480px){.gtab{padding:5px 8px}.gtab .t{display:none}.gtab.on .t{display:inline}}
 </style>
 
 <div class="gate" id="gate" hidden>
@@ -441,7 +484,7 @@ setInterval(() => { if (!document.hidden && ST.tok && API_OK) api('/api/beat', {
 let ME = null;   // data from the database: scores, items, subs, student
 const SYNCK = k => /^es11w-|^es11x-/.test(k);
 function collectState(){
-  const d = {best: ST.best || {}, wl: ST.wl || {}, read: ST.read || [], unlocked: ST.unlocked || {}, pg: PG(), drafts: {}, t: Date.now()};
+  const d = {best: ST.best || {}, wl: ST.wl || {}, read: ST.read || [], unlocked: ST.unlocked || {}, pg: PG(), gt: ST.gt || {}, drafts: {}, t: Date.now()};
   try { Object.keys(localStorage).filter(SYNCK).forEach(k => d.drafts[k] = localStorage.getItem(k)); } catch (e) {}
   return d;
 }
@@ -460,6 +503,7 @@ async function pullMe(){
     ST.wl = ST.wl || {}; Object.entries(s.wl || {}).forEach(([T, o]) => { ST.wl[T] = Object.assign({}, o, ST.wl[T] || {}); });
     ST.unlocked = Object.assign({}, s.unlocked || {}, ST.unlocked || {});
     ST.read = [...new Set([...(ST.read || []), ...(s.read || [])])];
+    gtMerge(s.gt);
     const a = PG(), b = s.pg || {}; a.wins = Math.max(a.wins, b.wins || 0);
     ['gw', 'stk'].forEach(k => Object.entries(b[k] || {}).forEach(([x, v]) => { a[k][x] = Math.max(a[k][x] || 0, v); }));
     Object.entries(b.bd || {}).forEach(([x, v]) => { if (!a.bd[x] || v < a.bd[x]) a.bd[x] = v; });
@@ -2031,13 +2075,15 @@ function practiceList(k){
   const row = x => { const b = (ST.best || {})[x.id + ':' + k]; return `<a href="#PR-${k}-${x.id}"><span>${esc(x.label)}</span><span class="pill">${b != null ? b + '%' : (k === 'L' && !(x.l1 && x.l1.audio) ? 'questions' : 'start')}</span></a>`; };
   const mock = list.filter(x => x.kind === 'mock'), past = list.filter(x => x.kind !== 'mock');
   return `<div class="ph"><span class="code" style="background:${c}">Exam Practice</span><h1>${t}</h1><span class="ar">${ar}</span></div>
-   ${mock.length ? `<h2 style="margin:10px 0 8px">2026/2027 mock tasks · مهام تدريبية ${mock.length}</h2>${k === 'L' ? '<div class="note small">Each task has two recordings inside the page (Listening 1 and 2). Read the questions, press play, and listen: each recording plays the text twice. <span class="ar">كل مهمة فيها تسجيلان داخل الصفحة، ويُسمع كل نص مرتين.</span></div>' : ''}<div class="panel list" style="padding:0">${mock.map(row).join('')}</div>` : ''}
+   ${gtCards(k)}
+   ${mock.length ? `<h2 style="margin:10px 0 8px" id="eq">2026/2027 mock tasks · مهام تدريبية ${mock.length}</h2>${k === 'L' ? '<div class="note small">Each task has two recordings inside the page (Listening 1 and 2). Read the questions, press play, and listen: each recording plays the text twice. <span class="ar">كل مهمة فيها تسجيلان داخل الصفحة، ويُسمع كل نص مرتين.</span></div>' : ''}<div class="panel list" style="padding:0">${mock.map(row).join('')}</div>` : ''}
    ${past.length ? `<h2 style="margin:18px 0 8px">Past final-exam papers · امتحانات سابقة</h2>${k === 'L' ? '<div class="note small">The recordings of the past papers are the original ones: they open the official link. <span class="ar">تسجيلات الامتحانات السابقة هي الأصلية وتفتح من الرابط الرسمي.</span></div>' : ''}<div class="panel list" style="padding:0">${past.map(row).join('')}</div>` : ''}`;
 }
 function practiceWriting(){
   setTimeout(() => { const s = $('#pwt'); s.onchange = () => { $('#pwbox').innerHTML = aiStage(s.value, false, true); }; });
   const wm = practicePapers('W').filter(x => x.kind === 'mock');
   return `<div class="ph"><span class="code" style="background:var(--wr)">Exam Practice</span><h1>Writing</h1><span class="ar">الكتابة</span></div>
+   ${gtCards('W')}
    ${wm.length ? `<h2 style="margin:10px 0 8px">2026/2027 mock tasks · مهام تدريبية ${wm.length}</h2><div class="note small">Each task = Writing 1 (bar chart, /5) + Writing 2 (e-mail, /10): write both, check with the model answer, and send them for marking. <span class="ar">كل مهمة: وصف الرسم (5) + رسالة (10).</span></div><div class="panel list" style="padding:0">${wm.map(x => { const b = (ST.best || {})[x.id + ':W']; return `<a href="#PR-W-${x.id}"><span>${esc(x.label)}</span><span class="pill">${b != null ? b + '%' : 'start'}</span></a>`; }).join('')}</div><h2 style="margin:18px 0 8px">Free writing · any task</h2>` : ''}
    <label class="small" style="font-weight:800">Task <select id="pwt" class="wsel">${WT.map(T => `<option value="${T}">${WTYPE[T].w} · ${WTYPE[T].name} (/${WTYPE[T].max})</option>`).join('')}</select></label>
    <div id="pwbox" class="panel" style="margin-top:12px">${aiStage(WT[0], false, true)}</div>
@@ -2126,6 +2172,393 @@ function skillsView(){
 }
 document.addEventListener('click', e => { if (e.target && e.target.id === 'cp' && $('#rep')) { const t = $('#rep').textContent; try { navigator.clipboard.writeText(t).then(() => e.target.textContent = 'Copied ✔').catch(() => { $('#rep').hidden = false; }); } catch (x) { $('#rep').hidden = false; } } });
 
+/* ---------- Guided Training (GT-x) and How to Answer (HOW-x) ---------- */
+/* Progress lives in ST.gt[TYPE] = {s stage 1-5, c run of correct answers, cu run answers without a hint, w run of wrong answers, b3 b4 b5 best runs, n ok hn counters, rd Exam Ready, ex show example again, seen [ids]}
+   It is part of ST, so collectState() / pullMe() carry it to every device (no new API route). Questions are rebuilt from D.exams; D.gt only holds the derived metadata. */
+const GT = D.gt || {types: {}, txt: {types: {}, labels: {}, stages: [], skills: {}}, wex: {}};
+const GX = GT.txt, GLB = GX.labels || {};
+const GORD = {L: ['L1', 'L2A', 'L2B'], G: ['GRM', 'VCB'], R: ['R1A', 'R1B', 'R2A', 'R2B'], W: ['WC', 'WI', 'WF']};
+const GCOL = {L: 'var(--ex)', G: 'var(--t2)', R: 'var(--orange)', W: 'var(--wr)'};
+const GWL = {WC: 'CH', WI: 'IE', WF: 'FE'};
+const GSTEPS = [['0'], ['1', '2'], ['3', '4'], ['5', '6'], ['7', '8']];   // Writing Lab stages that make each of the 5 training stages
+const gBi = o => o ? `${esc(o.en)} <span class="ar">${esc(o.ar)}</span>` : '';
+const gStem = w => { w = String(w).toLowerCase().replace(/^'+|'+$/g, ''); for (const s of ['ing', 'ed', 'es', 's', 'ly']) if (w.endsWith(s) && w.length - s.length >= 3) { w = w.slice(0, -s.length); break; } return w.endsWith('e') && w.length > 3 ? w.slice(0, -1) : w; };
+const gSPL = t => String(t).trim().split(/(?<=[.!?])\s+(?=[A-Z"“‘'])/).filter(s => s.trim());
+const gHL = (t, ks) => String(t).replace(/([A-Za-z0-9']+)|([^A-Za-z0-9']+)/g, (m, w, o) => w ? (ks && ks.has(gStem(w)) ? `<mark class="gk">${esc(w)}</mark>` : esc(w)) : esc(o));
+const gtS = c => { ST.gt = ST.gt || {}; const o = ST.gt[c] = ST.gt[c] || {}; const d = {s: 1, c: 0, cu: 0, w: 0, b3: 0, b4: 0, b5: 0, n: 0, ok: 0, hn: 0, rd: 0, ex: 0, seen: []}; for (const k in d) if (o[k] === undefined) o[k] = d[k]; return o; };
+const gtM = S => S.rd ? 100 : Math.round(15 * S.b3 / 2 + 25 * S.b4 / 2 + 60 * S.b5 / 3);
+const gtRank = o => (o.rd ? 1e6 : 0) + (o.s || 1) * 1e4 + gtM(Object.assign({b3: 0, b4: 0, b5: 0}, o)) * 10 + Math.min(9, (o.n || 0) / 50);
+const gtMerge = remote => { ST.gt = ST.gt || {}; Object.entries(remote || {}).forEach(([k, v]) => { const a = ST.gt[k]; if (!a || gtRank(v) > gtRank(a)) ST.gt[k] = v; }); };
+const gtName = c => GX.types[c] ? GX.types[c].name : c;
+const gtAns = q => q.mode === 'sa' ? q.a : q.opts[q.ans];
+
+/* ---- rebuild one question from the exam bank ---- */
+function gBuild(code, it){
+  const x = XM[it.x], T = GT.types[code];
+  const q = {code, it, mode: T.mode, id: it.x + ':' + it.i, ev: it.ev, kw: it.k, ks: new Set((it.k || []).map(gStem))};
+  const lines = sc => ({kind: 'lines', rows: sc.map(r => [r[0], r[1]])});
+  const paras = ps => ({kind: 'paras', rows: ps});
+  if (code === 'L1') { const [a, o, k] = x.l1.items[it.i]; Object.assign(q, {q: a, opts: o, ans: k, ctx: lines(x.l1.script)}); }
+  else if (code === 'L2A') { const [a, k] = x.l2.p1[it.i]; Object.assign(q, {q: a, a: k, ctx: lines(x.l2.script)}); }
+  else if (code === 'L2B') { const [a, k] = x.l2.p2[it.i]; Object.assign(q, {q: a, opts: ['True', 'False'], ans: k ? 0 : 1, ctx: lines(x.l2.script)}); }
+  else if (code === 'R1A') { const [a, o, k] = x.r1.mcq[it.i]; Object.assign(q, {q: a, opts: o, ans: k, ctx: paras(x.r1.text)}); }
+  else if (code === 'R1B') { const [a, k] = x.r1.comp[it.i]; Object.assign(q, {q: a, a: k, ctx: paras(x.r1.text)}); }
+  else if (code === 'R2A') { const [a, k] = x.r2.short[it.i]; Object.assign(q, {q: a, a: k, ctx: paras(x.r2.text)}); }
+  else if (code === 'R2B') { const [a, k] = x.r2.tf[it.i]; Object.assign(q, {q: a, opts: ['True', 'False'], ans: k ? 0 : 1, ctx: paras(x.r2.text)}); }
+  else if (code === 'GRM') {
+    let gi = 0, f = null;
+    const rows = x.grm.lines.map(([sp, t], li) => [sp, t.replace(/\{([^{}]+\|[^{}]+)\}/g, (m, g) => { const o = g.split('|'), a = x.grm.ans[gi]; const mine = gi === it.i; if (mine) f = {o, a, li}; gi++; return mine ? '▢' : o[a]; })]);
+    Object.assign(q, {opts: f.o, ans: f.a, ctx: {kind: 'dlg', rows, li: f.li}, ev: [f.li, 0], src: rows[f.li][1], q: rows[f.li][1]});
+  } else if (code === 'VCB') {
+    const body = x.vcb.body.replace(/\{(\d+)\}/g, (m, d) => +d - 1 === it.i ? '▢' : x.vcb.opts[d - 1][x.vcb.ans[d - 1]]);
+    const S = gSPL(body);
+    Object.assign(q, {opts: x.vcb.opts[it.i], ans: x.vcb.ans[it.i], ctx: {kind: 'paras', rows: [body]}, src: S[it.ev[1]] || S[0], q: S[it.ev[1]] || S[0]});
+  }
+  const c = q.ctx; c.S = c.kind === 'dlg' ? c.rows.map(r => [r[1]]) : c.kind === 'lines' ? c.rows.map(r => gSPL(r[1])) : c.rows.map(gSPL);
+  q.src = q.src || q.q;
+  q.evText = c.kind === 'dlg' ? c.rows[c.li][1] : (c.S[q.ev[0]] || [])[q.ev[1]] || '';
+  q.listen = c.kind === 'lines';
+  return q;
+}
+const gFill = (q, t) => String(t).replace(/▢/g, q.mode === 'gap' ? q.opts[q.ans] : '▢');
+function gWhy(q, k){
+  const L = GLB.rs, o = q.opts[k];
+  if (q.mode === 'tf') return gBi(q.ans === 0 ? L.tfF : L.tfT);
+  if (q.code === 'GRM') { const r = q.it.u && GLB.ru[q.it.u]; return r ? `«${esc(o)}» ${esc(L.gap.en)}: <b>${esc(r.en)}</b>. <span class="ar">«${esc(o)}» ${esc(L.gap.ar)}: ${esc(r.ar)}.</span>` : `«${esc(o)}» ${esc(L.gapx.en)} <span class="ar">«${esc(o)}» ${esc(L.gapx.ar)}</span>`; }
+  if (q.code === 'VCB') { if (q.it.w && q.it.r && q.it.r[k]) { const w = GLB.wt[q.it.w]; return `«${esc(o)}» ${esc(L.vwt.en)} ${esc(w.en)}. <span class="ar">«${esc(o)}» ${esc(L.vwt.ar)} ${esc(w.ar)}.</span>`; } return `«${esc(o)}» ${esc(L.vgen.en)} <span class="ar">«${esc(o)}» ${esc(L.vgen.ar)}</span>`; }
+  return gBi(L[(q.it.r || [])[k]] || L.dd);
+}
+/* ---- the context (text / transcript / dialogue) ---- */
+function gCtx(q, o){
+  const c = q.ctx, ks = o.kw ? q.ks : null, bad = o.bad || new Set();
+  const sent = (p, s, t) => `<span class="gs${o.ev && p === q.ev[0] && (c.kind === 'dlg' || s === q.ev[1]) ? ' gev' : ''}${bad.has(p + '-' + s) ? ' gbad' : ''}" data-p="${p}" data-s="${s}">${gHL(t, ks)}</span>`;
+  let h = '';
+  if (c.kind === 'paras') c.S.forEach((ss, p) => { if (o.only && p !== q.ev[0]) return; h += '<p>' + ss.map((t, s) => sent(p, s, t)).join(' ') + '</p>'; });
+  else if (c.kind === 'lines') { const r = o.r == null ? 1 : o.r, lo = o.all ? 0 : Math.max(0, q.ev[0] - r), hi = o.all ? c.rows.length - 1 : Math.min(c.rows.length - 1, q.ev[0] + r);
+    for (let p = lo; p <= hi; p++) h += `<div class="gl"><b>${esc(c.rows[p][0])}</b> ${c.S[p].map((t, s) => sent(p, s, t)).join(' ')}</div>`; }
+  else for (let p = Math.max(0, c.li - 1); p <= Math.min(c.rows.length - 1, c.li + 1); p++) h += `<div class="gl"><b>${esc(c.rows[p][0])}</b> ${sent(p, 0, c.rows[p][1])}</div>`;
+  return `<div class="gctx${o.tap ? ' gtap' : ''}">${h.replace(/▢/g, `<span class="ggap">${o.fill ? esc(gtAns(q)) : '&nbsp;&nbsp;&nbsp;&nbsp;'}</span>`)}</div>`;
+}
+const gClip = (q, r) => { const c = q.ctx, lo = Math.max(0, q.ev[0] - r), hi = Math.min(c.rows.length - 1, q.ev[0] + r); return c.rows.slice(lo, hi + 1).map(x => [x[0], x[1]]); };
+/* ---- speaking (browser voices, no external files) ---- */
+function gSpeak(parts, onEnd){
+  TTS.stop(); if (!canSay()) { if (onEnd) onEnd(); return; }
+  TTS.on = true; let i = 0;
+  const next = () => {
+    if (!TTS.on || i >= parts.length) { const was = TTS.on; TTS.on = false; if (was && onEnd) onEnd(); return; }
+    const p = parts[i++];
+    if (p.rows) return ttsPlay(p.rows, .9, () => { TTS.on = true; next(); });
+    const u = new SpeechSynthesisUtterance(p.t); u.lang = 'en-GB'; u.rate = .9; const vs = ttsVoices(); if (vs.length) u.voice = vs[0];
+    u.onend = next; u.onerror = next; speechSynthesis.speak(u);
+  };
+  next();
+}
+/* ---- worked example slides (How to Answer pages and stage 1 of the training) ---- */
+function gOptsList(q, mark){
+  return `<div class="gopts">${q.opts.map((o, k) => `<div class="gopt ${mark ? (k === q.ans ? 'ok' : 'no') : ''}">${mark ? (k === q.ans ? '✔' : '✗') : '○'} ${esc(o)}</div>${mark && k !== q.ans ? `<div class="gwhy">${gWhy(q, k)}</div>` : ''}`).join('')}</div>`;
+}
+function gSlides(code, ei){
+  const tx = GX.types[code], T = GT.types[code];
+  if (tx.slides) {   // writing: the slides walk through a model answer
+    const x = XM[GT.wex[code]], model = (code === 'WC' ? x.w1.model : x.w2.model).split('\n').filter(s => s.trim());
+    return tx.slides.map(s => {
+      let vis = '';
+      if (s.show === 'chart') { const c = x.w1; vis = `<div class="gw"><b>${esc(c.title)}</b><div class="small muted">${esc(c.ylabel)} (${esc(c.unit)})</div><table class="k"><tr><th></th>${c.series.map(z => `<th>${esc(z.name)}</th>`).join('')}</tr>${c.categories.map((k, i) => `<tr><td>${esc(k)}</td>${c.series.map(z => `<td>${z.values[i]}</td>`).join('')}</tr>`).join('')}</table></div>`; }
+      else { const [a, b] = s.show.split(':').slice(1).map(Number); const ps = model.slice(a, b); vis = `<div class="gw">${ps.map(p => `<p style="margin:0 0 8px">${esc(p)}</p>`).join('')}</div>`; s.say = ps.join(' '); }
+      return {t: s.t, tx: {en: s.en, ar: s.ar}, vis, say: [{t: s.en}].concat(s.show === 'chart' ? [] : [{t: s.say}])};
+    }).concat([{t: {en: 'Strategy', ar: 'الاستراتيجية'}, tx: tx.strat, vis: gStrat(tx), say: [{t: tx.strat.en}]}]);
+  }
+  const ex = T.ex[ei % T.ex.length], it = T.items.find(i => i.x === ex[0] && i.i === ex[1]), q = gBuild(code, it);
+  const qv = (kw) => { const body = q.mode === 'gap' ? gCtx(q, {kw, ev: false}) : `<div class="gw"><div class="gq">${gHL(q.q, kw ? q.ks : null)}</div>${q.opts ? gOptsList(q, false) : '<div class="gin" style="opacity:.6">Your answer: ………</div>'}</div>`;
+    return `<div class="gvis">${q.mode === 'gap' ? body + gOptsList(q, false) : body}</div>`; };
+  const ansT = esc(String(gtAns(q)).split('/')[0].trim());
+  const kwl = `<div class="gchips">${q.kw.map(w => `<span class="gchip on">${esc(w)}</span>`).join('')}</div>`;
+  const evText = q.listen ? {rows: gClip(q, 1)} : {t: q.evText};
+  const elimT = {mc: {en: 'Cross out the wrong options', ar: 'استبعد الخيارات الخطأ'}, sa: {en: 'What kind of answer?', ar: 'ما نوع الإجابة؟'}, tf: {en: 'Compare with the evidence', ar: 'قارن مع الدليل'}, gap: {en: 'Name the rule and test the options', ar: 'سمِّ القاعدة وجرّب الخيارات'}}[q.mode];
+  let elim = '';
+  if (q.mode === 'mc' || q.mode === 'gap') elim = (q.code === 'GRM' && q.it.u ? `<div class="gstep"><b>Rule · القاعدة:</b> ${gBi(GLB.ru[q.it.u])}</div>` : '') + gOptsList(q, true);
+  else if (q.mode === 'sa') elim = `<div class="gstep"><b>${q.it.t ? gBi(GLB.at[q.it.t]) : 'Look for the answer in the evidence sentence. <span class="ar">ابحث عن الإجابة في جملة الدليل.</span>'}</b></div><div class="gev-box">${gHL(q.evText, null).replace(new RegExp(ansT.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'i'), m => `<mark class="gk">${m}</mark>`)}</div>`;
+  else elim = `<div class="gw"><b>Statement:</b> ${esc(q.q)}</div><div class="gev-box"><b>Evidence:</b> ${gHL(q.evText, q.ks)}</div><div class="gfb ${q.ans === 0 ? 'ok' : 'no'}">${q.ans === 0 ? 'True ✔ · the text agrees' : 'False ✗ · the text says something different'}</div>`;
+  const ctxHtml = q.listen ? gCtx(q, {kw: true, ev: true, r: 1}) : gCtx(q, {kw: true, ev: true, only: true});
+  const sub = q.listen ? '' : `<div class="small muted">Paragraph ${q.ev[0] + 1} of the text · الفقرة ${q.ev[0] + 1} من النص</div>`;
+  return [
+    {t: {en: 'The question', ar: 'شكل السؤال'}, tx: tx.look, vis: qv(false), say: [{t: tx.look.en}, {t: q.mode === 'gap' ? gFill(q, q.q).replace('▢', 'blank') : q.q}]},
+    {t: {en: 'Key words', ar: 'الكلمات المفتاحية'}, tx: tx.kw, vis: qv(true) + kwl, say: [{t: tx.kw.en}, {t: 'Key words: ' + q.kw.join(', ')}]},
+    {t: {en: 'Find the evidence', ar: 'ابحث عن الدليل'}, tx: tx.ev, vis: sub + ctxHtml, say: [{t: tx.ev.en}, evText]},
+    {t: elimT, tx: tx.elim, vis: `<div class="gvis">${elim}</div>`, say: [{t: tx.elim.en}]},
+    {t: {en: 'The answer', ar: 'الإجابة'}, tx: tx.ans, vis: `<div class="gfb ok">✔ Answer · الإجابة: <b>${esc(gtAns(q))}</b></div><div class="gev-box">${q.mode === 'gap' ? esc(gFill(q, q.evText)) : gHL(q.evText, null)}</div>`, say: [{t: tx.ans.en}, {t: 'The answer is ' + String(gtAns(q)).replace(/\//g, ' or ')}]},
+    {t: {en: 'Strategy', ar: 'الاستراتيجية'}, tx: tx.strat, vis: gStrat(tx), say: [{t: tx.strat.en}]}];
+}
+const gStrat = tx => `<div class="gvis"><div class="gready" style="border-color:var(--orange);background:var(--soft)">🧠 ${gBi(tx.strat)}</div><div class="ar" style="text-align:right"><b>الخطوات:</b><ul>${(tx.steps || []).map(s => `<li>${esc(s)}</li>`).join('')}</ul>${(tx.traps || []).length ? `<b>انتبه للفخاخ:</b><ul>${tx.traps.map(s => `<li>${esc(s)}</li>`).join('')}</ul>` : ''}</div></div>`;
+/* generic slide player: st = {slides, i, cc}; extra(st) = footer html on the last slide */
+function gPlayer(host, st, extra, bindExtra, onLast){
+  const sl = st.slides[st.i], n = st.slides.length;
+  host.innerHTML = `<div class="gbox gslide"><div class="small"><span class="gtag">Part ${st.i + 1} of ${n} · الجزء ${st.i + 1} من ${n}</span> <b>${esc(sl.t.en)}</b> <span class="ar">${esc(sl.t.ar)}</span></div>
+    <div class="gvis">${sl.vis}</div>
+    <div class="gcap en">${esc(sl.tx.en)}</div>${st.cc ? `<div class="gcap ar" style="text-align:right">${esc(sl.tx.ar)}</div>` : ''}
+    <div class="gdot">${st.slides.map((s, k) => `<i class="${k === st.i ? 'on' : ''}"></i>`).join('')}</div>
+    <div class="gact"><button class="btn g" data-g="prev" ${st.i ? '' : 'disabled'}>⏮ Previous</button><button class="btn" data-g="say" ${canSay() ? '' : 'disabled'}>🔊 Listen</button><button class="btn" data-g="next" ${st.i < n - 1 ? '' : 'disabled'}>Next ⏭</button><button class="btn g" data-g="cc">CC ${st.cc ? '✔' : ''}</button></div>
+    ${st.i === n - 1 ? `<div class="gact">${extra(st)}</div>` : ''}</div>`;
+  const go = d => { TTS.stop(); st.i = Math.max(0, Math.min(n - 1, st.i + d)); gPlayer(host, st, extra, bindExtra, onLast); };
+  host.querySelector('[data-g=prev]').onclick = () => go(-1);
+  host.querySelector('[data-g=next]').onclick = () => go(1);
+  host.querySelector('[data-g=cc]').onclick = () => { st.cc = !st.cc; gPlayer(host, st, extra, bindExtra, onLast); };
+  host.querySelector('[data-g=say]').onclick = () => { const b = host.querySelector('[data-g=say]'); b.textContent = '⏹ Stop'; b.onclick = () => { TTS.stop(); gPlayer(host, st, extra, bindExtra, onLast); }; gSpeak(sl.say, () => gPlayer(host, st, extra, bindExtra, onLast)); };
+  if (st.i === n - 1 && onLast) onLast();
+  if (bindExtra) bindExtra(host, st);
+}
+const gTeacherNote = () => `<div class="note small">The English voice is read by your browser. Your teacher can add his own recording of every part later. <span class="ar">الصوت الإنجليزي يقرؤه المتصفح، ويمكن للمعلم إضافة تسجيل صوته لكل جزء لاحقًا.</span></div>`;
+
+/* ---- How to Answer pages ---- */
+const GSK = {L: ['Listening', 'الاستماع'], G: ['Grammar & Vocabulary', 'القواعد والمفردات'], R: ['Reading', 'القراءة'], W: ['Writing', 'الكتابة']};
+function howView(skill, code){
+  code = code || GORD[skill][0];
+  const st = {slides: gSlides(code, 0), i: 0, cc: true, ei: 0};
+  setTimeout(() => {
+    const host = $('#howp'); if (!host) return;
+    const extra = s => `<a class="btn" style="text-decoration:none" href="#GT-${code}">🧭 Practise it now · تدرّب الآن</a>${GORD[skill].length > 1 && GORD[skill].indexOf(code) < GORD[skill].length - 1 ? `<a class="btn g" style="text-decoration:none" href="#HOW-${GORD[skill][GORD[skill].indexOf(code) + 1]}">Next part ▶</a>` : ''}${!GX.types[code].slides ? '<button class="btn g" data-g="more">Another example ✨</button>' : ''}<button class="btn g" data-g="again">↺ Watch again</button>`;
+    const bind = (h, s) => { const m = h.querySelector('[data-g=more]'), a = h.querySelector('[data-g=again]');
+      if (m) m.onclick = () => { st.ei++; st.slides = gSlides(code, st.ei); st.i = 0; gPlayer(host, st, extra, bind); };
+      if (a) a.onclick = () => { st.i = 0; gPlayer(host, st, extra, bind); }; };
+    gPlayer(host, st, extra, bind);
+  });
+  return `<div class="ph"><span class="code" style="--c:${GCOL[skill]}">HOW-${skill}</span><h1>How to Answer · ${GSK[skill][0]}</h1><span class="ar">شاهد طريقة الحل · ${GSK[skill][1]}</span></div>
+   <div class="note small">${gBi(GX.skills[skill].intro)}</div>
+   <div class="gtabs">${GORD[skill].map(c => `<a class="gtab ${c === code ? 'on' : ''}" style="text-decoration:none" href="#HOW-${c}"><span class="n">${GORD[skill].indexOf(c) + 1}</span><span>${esc(gtName(c))}</span></a>`).join('')}</div>
+   <div id="howp"></div>${gTeacherNote()}`;
+}
+
+/* ---- Guided Training: skill page, writing page, type page ---- */
+function gtTypeCard(c){
+  const S = gtS(c), T = GX.types[c], m = gtM(S), sk = T.skill;
+  const dots = [1, 2, 3, 4, 5].map(n => `<i class="${S.rd || n < S.s ? 'd' : n === S.s ? 'c' : ''}"></i>`).join('');
+  return `<a class="tile" style="--c:${GCOL[sk]}" href="#GT-${c}"><div class="k">GT-${c}</div><div class="t">${esc(T.name)}</div><div class="a ar">${esc(T.ar)}</div>
+    <div class="gdots">${dots}</div><div class="bar" style="margin:6px 0 2px;--c:var(--gold)"><i style="width:${m}%"></i></div>
+    <div class="small muted">${S.rd ? '🏁 Exam Ready · جاهز للامتحان' : S.n || S.s > 1 ? `Stage ${S.s} · Mastery ${m}%` : 'Not started · لم تبدأ'}</div></a>`;
+}
+const gwDone = (L, s) => GSTEPS[s].every(k => ((ST.wl || {})[L] || {})[k]);
+const gwM = c => { const L = GWL[c]; return Math.round(100 * [0, 1, 2, 3, 4].filter(s => gwDone(L, s)).length / 5); };
+function gtSkillPage(skill){
+  const c = GCOL[skill], codes = GORD[skill];
+  return `<div class="ph"><span class="code" style="--c:${c}">GT-${skill}</span><h1>Guided Training · ${GSK[skill][0]}</h1><span class="ar">التدريب الموجّه · ${GSK[skill][1]}</span></div>
+   <div class="note small">${skill === 'W' ? 'Writing is trained in the Writing Lab: its nine stages make five training stages. Finish a stage to unlock the next one. <span class="ar">الكتابة تُدرَّب في مختبر الكتابة: مراحله التسع تكوّن خمس مراحل تدريب.</span>'
+    : 'Choose a question type. Each type has 5 stages: Watch Me → Together → Your Turn with Help → On Your Own → Exam Ready. Two correct answers in a row open the next stage; three in a row in the last stage make you <b>Exam Ready</b>. <span class="ar">اختر نوع السؤال؛ لكل نوع خمس مراحل تقلّ فيها المساعدة، وثلاث إجابات صحيحة متتالية في المرحلة الأخيرة = جاهز للامتحان.</span>'}</div>
+   <div class="grid">${codes.map(k => skill === 'W' ? gwCard(k) : gtTypeCard(k)).join('')}</div>
+   <div class="row" style="justify-content:flex-start"><a class="btn g" style="text-decoration:none" href="#HOW-${skill}">🎬 How to Answer · شاهد طريقة الحل</a><a class="btn g" style="text-decoration:none" href="#PR-${skill}">◀ Exam Practice</a></div>`;
+}
+function gwCard(c){ const m = gwM(c), T = GX.types[c]; return `<a class="tile" style="--c:var(--wr)" href="#GT-${c}"><div class="k">GT-${c}</div><div class="t">${esc(T.name)}</div><div class="a ar">${esc(T.ar)}</div>
+  <div class="gdots">${[0, 1, 2, 3, 4].map(s => `<i class="${gwDone(GWL[c], s) ? 'd' : ''}"></i>`).join('')}</div><div class="bar" style="margin:6px 0 2px;--c:var(--gold)"><i style="width:${m}%"></i></div><div class="small muted">${m === 100 ? '🏁 Exam Ready · جاهز للامتحان' : 'Mastery ' + m + '%'}</div></a>`; }
+function gtWritePage(code){
+  const L = GWL[code], T = GX.types[code], m = gwM(code); let open = true;
+  const rows = GX.stages.map((s, i) => { const done = gwDone(L, i), lk = !done && !open; if (!done) open = false;
+    const first = GSTEPS[i].find(k => !((ST.wl || {})[L] || {})[k]) || GSTEPS[i][0];
+    return `<${lk ? 'div' : 'a href="#W-' + L + '-' + first + '"'} class="gwrow ${done ? 'ok' : ''} ${lk ? 'lk' : ''}" ${lk ? '' : 'style="text-decoration:none"'}><span class="sn">${done ? '✔' : lk ? '🔒' : s.n}</span><span><b>${esc(s.en)}</b> <span class="ar small">${esc(s.ar)}</span><div class="small muted">Writing Lab stage${GSTEPS[i].length > 1 ? 's' : ''} ${GSTEPS[i].join(' + ')} · ${esc(s.d.en)}</div></span></${lk ? 'div' : 'a'}>`; }).join('');
+  return `<div class="ph"><span class="code" style="--c:var(--wr)">GT-${code}</span><h1>${esc(T.name)}</h1><span class="ar">${esc(T.ar)}</span></div>
+   <div class="gm"><div class="bar"><i style="width:${m}%"></i></div><b>${m}%</b></div>${m === 100 ? '<div class="gready">🏁 Exam Ready · جاهز للامتحان</div>' : ''}
+   <div class="note small">Mastery = finished stages out of five. Each stage opens the matching Writing Lab stages. <span class="ar">الإتقان = المراحل المنجزة من خمس، وكل مرحلة تفتح مراحل مختبر الكتابة المقابلة.</span></div>${rows}
+   <div class="row" style="justify-content:flex-start"><a class="btn g" style="text-decoration:none" href="#HOW-${code}">🎬 How to Answer · شاهد طريقة الحل</a><a class="btn g" style="text-decoration:none" href="#GT-W">◀ Writing training</a><a class="btn g" style="text-decoration:none" href="#PR-W">📝 Exam Practice</a></div>`;
+}
+const GTV = {};
+function gtTypePage(code){
+  const sk = GX.types[code].skill;
+  if (sk === 'W') return gtWritePage(code);
+  setTimeout(() => gtMount(code, gtS(code).s));
+  return `<div class="ph"><span class="code" style="--c:${GCOL[sk]}">GT-${code}</span><h1>${esc(gtName(code))}</h1><span class="ar">${esc(GX.types[code].ar)}</span></div>
+   <div id="gthead"></div><div id="gtbody"></div>
+   <div class="row" style="justify-content:flex-start;margin-top:14px"><a class="btn g" style="text-decoration:none" href="#HOW-${code}">🎬 How to Answer · شاهد طريقة الحل</a><a class="btn g" style="text-decoration:none" href="#GT-${sk}">◀ All ${GSK[sk][0]} types</a></div>`;
+}
+function gtHead(code, view){
+  const S = gtS(code), m = gtM(S), st = GX.stages, cur = st[S.rd ? 4 : S.s - 1], need = S.s === 5 ? 3 : 2;
+  const tabs = st.map(s => { const lk = !S.rd && s.n > S.s, dn = S.rd || s.n < S.s;
+    return `<button class="gtab ${s.n === view ? 'on' : ''} ${dn ? 'dn' : ''} ${!S.rd && s.n === S.s ? 'cur' : ''}" data-st="${s.n}" ${lk ? 'disabled' : ''}><span class="n">${dn ? '✔' : lk ? '🔒' : s.n}</span><span class="t">${esc(s.en)}</span></button>`; }).join('');
+  const pips = S.s >= 2 && !S.rd ? `<span class="gpips" title="correct in a row">${Array.from({length: need}, (_, i) => `<i class="${i < S.c ? 'f' : ''}"></i>`).join('')}</span>` : '';
+  return `<div class="gtabs">${tabs}</div><div class="gm"><div class="bar"><i style="width:${m}%"></i></div><b>${m}%</b></div>
+    <div class="small muted">Mastery · الإتقان ${S.rd ? '' : `· To pass stage ${S.s}: ${esc(cur.rule.en)} ${pips} <span class="ar">${esc(cur.rule.ar)}</span>`}</div>
+    ${S.rd ? '<div class="gready">🏁 Exam Ready! You can still practise any stage. <span class="ar">جاهز للامتحان! ويمكنك التدرب في أي مرحلة.</span></div>' : ''}
+    ${S.ex && S.s === 2 && view === 2 ? '<div class="gstep">You made two mistakes in a row, so watch the worked example again. <span class="ar">أخطأت مرتين متتاليتين، شاهد المثال مرة أخرى.</span> <button class="btn g sm" data-st="1">👀 Watch again</button></div>' : ''}`;
+}
+function gtMount(code, view){
+  const S = gtS(code); view = Math.max(1, Math.min(view, S.rd ? 5 : S.s)); GTV[code] = view;
+  const head = $('#gthead'); if (!head) return;
+  head.innerHTML = gtHead(code, view);
+  head.querySelectorAll('[data-st]').forEach(b => b.onclick = () => { TTS.stop(); if (+b.dataset.st === 1) { S.ex = 0; save(); } gtMount(code, +b.dataset.st); });
+  if (view === 1) gtWatch(code); else gtQuiz(code, view);
+}
+function gtWatch(code){
+  const S = gtS(code), host = $('#gtbody'), st = {slides: gSlides(code, GTV['e' + code] || 0), i: 0, cc: true};
+  const extra = () => `<button class="btn" data-g="go">${S.s <= 1 ? 'Start stage 2 · ابدأ المرحلة 2 ▶' : 'Practise · تدرّب ▶'}</button><button class="btn g" data-g="more">Another example ✨</button><button class="btn g" data-g="again">↺ Watch again</button>`;
+  const onLast = () => { if (S.s < 2) { S.s = 2; S.c = S.cu = S.w = 0; save(); tEvent('gt_stage', 'GT-' + code, {s: 2}); const h = $('#gthead'); if (h) { const keep = h.querySelector('.gtabs'); h.innerHTML = gtHead(code, 1); h.querySelectorAll('[data-st]').forEach(b => b.onclick = () => gtMount(code, +b.dataset.st)); } } };
+  const bind = h => {
+    const g = h.querySelector('[data-g=go]'), m = h.querySelector('[data-g=more]'), a = h.querySelector('[data-g=again]');
+    if (g) g.onclick = () => gtMount(code, Math.min(S.s, 2) > 1 ? S.s : 2);
+    if (m) m.onclick = () => { GTV['e' + code] = (GTV['e' + code] || 0) + 1; st.slides = gSlides(code, GTV['e' + code]); st.i = 0; gPlayer(host, st, extra, bind, onLast); };
+    if (a) a.onclick = () => { st.i = 0; gPlayer(host, st, extra, bind, onLast); };
+  };
+  gPlayer(host, st, extra, bind, onLast);
+}
+/* ---- progress rules ---- */
+function gtRecord(code, view, ok, hinted){
+  const S = gtS(code); if (S.rd || view !== S.s || view < 2) return null;
+  let r = {};
+  S.n++; if (ok) S.ok++; if (hinted) S.hn++;
+  if (ok) {
+    S.c++; S.w = 0; if (!hinted) S.cu++;
+    if (view === 3) S.b3 = Math.max(S.b3, Math.min(2, S.c));
+    if (view === 4) S.b4 = Math.max(S.b4, Math.min(2, S.cu));
+    if (view === 5) S.b5 = Math.max(S.b5, Math.min(3, S.c));
+    const pass = view === 2 ? S.c >= 2 : view === 3 ? S.c >= 2 : view === 4 ? (S.c >= 2 && S.cu >= 1) : S.c >= 3;
+    if (pass) { S.c = S.cu = 0; if (view === 5) { S.rd = 1; r.ready = 1; } else { S.s = view + 1; r.up = S.s; } }
+  } else {
+    S.c = 0; S.cu = 0; S.w++;
+    if (S.w >= 2) { S.w = 0; if (view === 3) S.b3 = 0; if (view === 4) S.b4 = 0; if (view === 5) S.b5 = 0; if (view === 2) { S.ex = 1; r.again = 1; } else { S.s = view - 1; r.down = S.s; if (S.s === 2) S.ex = 1; } }
+  }
+  save(); markDay();
+  if (r.up) tEvent('gt_stage', 'GT-' + code, {s: S.s});
+  if (r.ready) { tEvent('gt_ready', 'GT-' + code, {n: S.n, ok: S.ok}); gtCelebrate(code); }
+  return r;
+}
+function gtCelebrate(code){
+  document.querySelectorAll('.cel,.celc').forEach(e => e.remove());
+  const card = document.createElement('div'); card.className = 'celc'; card.setAttribute('role', 'status');
+  card.innerHTML = `<b class="bal">Exam Ready! 🏁</b><div class="ar">جاهز للامتحان!</div><div style="margin-top:6px;font-weight:800">${esc(gtName(code))}</div>`;
+  document.body.appendChild(card);
+  const cf = document.createElement('div'); cf.className = 'cel';
+  cf.innerHTML = Array.from({length: 30}, () => `<i style="left:${Math.random() * 100}%;font-size:${16 + Math.random() * 16 | 0}px;animation-delay:${(Math.random() * .9).toFixed(2)}s">${['🎉', '⭐', '✨', '🏁', '🥇', '🎊'][Math.random() * 6 | 0]}</i>`).join('');
+  document.body.appendChild(cf);
+  const kill = () => { card.remove(); cf.remove(); }; card.onclick = kill; setTimeout(kill, 4500);
+}
+/* ---- one practice question ---- */
+function gThink(q){
+  const pick = (keys, ok, n) => { const o = [ok].concat(shuf(keys.filter(k => k !== ok)).slice(0, n)); return shuf(o); };
+  const ch = (keys, ok, labelOf, prompt) => ({kind: 'choice', prompt, tries: 0, choices: pick(keys, ok, 3).map(k => ({k, ok: k === ok, label: labelOf(k)}))});
+  if (q.mode === 'mc') return {kind: 'elim'};
+  if (q.mode === 'gap') {
+    if (q.code === 'GRM' && q.it.u && GLB.ru[q.it.u]) return ch(Object.keys(GLB.ru), q.it.u, k => gBi(GLB.ru[k]), {en: 'Which rule is tested?', ar: 'ما القاعدة المختبَرة؟'});
+    if (q.code === 'VCB' && q.it.w) { const wt = Object.assign({vrb: {en: 'a verb', ar: 'فعلًا'}}, GLB.wt); return ch(Object.keys(wt), q.it.w, k => gBi(wt[k]), {en: 'The gap needs …', ar: 'الفراغ يحتاج …'}); }
+    return {kind: 'elim'};
+  }
+  if (q.mode === 'sa' && q.it.t && GLB.at[q.it.t]) return ch(Object.keys(GLB.at), q.it.t, k => gBi(GLB.at[k]), {en: 'What kind of answer do you need?', ar: 'ما نوع الإجابة المطلوبة؟'});
+  const all = []; q.ctx.S.forEach((ss, p) => ss.forEach((t, s) => { if (!(p === q.ev[0] && s === q.ev[1]) && t.length > 20) all.push(t); }));
+  const o = shuf(all).slice(0, 2).concat([q.evText]);
+  return {kind: 'choice', prompt: {en: 'Which sentence has the answer?', ar: 'أي جملة فيها الإجابة؟'}, tries: 0, choices: shuf(o).map((t, i) => ({k: i, ok: t === q.evText, label: esc(t.length > 150 ? t.slice(0, 147) + '…' : t)}))};
+}
+function gChips(q, cls){ return `<div class="gchips">${q.toks.map((t, i) => t.w ? `<button class="gchip ${cls(i, t) || ''}" data-ti="${i}">${esc(t.raw)}</button>` : '').join('')}</div>`; }
+function gtQuiz(code, view){
+  const host = $('#gtbody'), S = gtS(code), T = GT.types[code], tx = GX.types[code];
+  const pick = () => { const seen = new Set(S.seen); let c = T.items.filter(i => !seen.has(i.x + ':' + i.i)); if (!c.length) { S.seen = []; c = T.items; } const it = c[Math.random() * c.length | 0]; S.seen.push(it.x + ':' + it.i); S.seen = S.seen.slice(-Math.min(30, T.items.length - 3)); return it; };
+  const st = GX.stages[view - 1], maxPlay = {2: 99, 3: 3, 4: 2, 5: 2}[view];
+  let q, prog;
+  const fresh = () => {
+    q = gBuild(code, pick()); prog = !S.rd && view === S.s;
+    q.toks = String(q.src).split(/(\s+)/).filter(s => s !== '').map(raw => ({raw, w: /[A-Za-z0-9]/.test(raw) ? raw.replace(/[^A-Za-z0-9']/g, '') : ''}));
+    Object.assign(q, {view, h: 0, tries: 0, res: null, first: null, wrongs: new Set(), crossed: new Set(), sel: new Set(), kwDone: false, kwOk: false, evOk: view !== 2, evWrong: 0, evMsg: '', th: view === 3 ? gThink(q) : null, thDone: view !== 3, thMsg: '', plays: 0, playing: false, dim: -1, val: '', msg: '', tr: null});
+    q.needKw = view === 3; draw();
+  };
+  const gapStep = q => q.mode === 'gap';
+  const log = (ok, given) => { tItem('gt', code + ':' + q.id, ok, 'GT-' + code, given); tEvent('gt_ans', 'GT-' + code, {s: view, h: q.h, ok: ok ? 1 : 0, free: prog ? 0 : 1}); };
+  const finish = ok => {   // first answer of the question is the one that counts for progress
+    if (q.first === null) { q.first = ok; log(ok, q.mode === 'sa' ? q.val : q.opts[q.chosen]); q.tr = gtRecord(code, view, ok, q.h > 0); const h = $('#gthead'); if (h && prog) { h.innerHTML = gtHead(code, view); h.querySelectorAll('[data-st]').forEach(b => b.onclick = () => gtMount(code, +b.dataset.st)); } }
+  };
+  const hintMax = q => q.mode === 'tf' ? 1 : 2;
+  const doHint = () => { if (q.h >= hintMax(q)) return; q.h++;
+    if (q.h === 2 && (q.mode === 'mc' || q.mode === 'gap')) { const w = q.opts.map((o, k) => k).filter(k => k !== q.ans && !q.wrongs.has(k) && !q.crossed.has(k)); const nm = w.find(k => (q.it.r || [])[k] === 'nm'); q.dim = nm != null ? nm : w[0]; }
+    draw(); };
+  const play = () => { if (q.playing || !canSay()) return; q.plays++; q.playing = true; draw(); const r = view <= 3 ? 1 : 3;
+    const rows = gClip(q, r); gSpeak([{rows}], () => { q.playing = false; if ($('#gtbody')) draw(); }); tEvent('gt_play', 'GT-' + code, {s: view}); };
+  const evalAns = (k, val) => {
+    let ok;
+    if (q.mode === 'sa') { q.val = val; ok = shortOk(val, q.a); } else { q.chosen = k; ok = k === q.ans; }
+    finish(ok);
+    if (ok) q.res = 'ok';
+    else if (view >= 4) q.res = 'no';
+    else if (q.mode === 'sa') { q.tries++; if (q.tries >= 2) q.res = 'no'; else q.msg = 'Not quite. Check the evidence and try again. <span class="ar">ليست صحيحة تمامًا، راجع الدليل وحاول مرة أخرى.</span>'; }
+    else q.wrongs.add(k);
+    draw();
+  };
+  function draw(){
+    const kwOn = view === 2 || (view === 3 && q.kwDone), evOn = !!q.res || q.h >= 1 || (view === 2 && q.evOk);
+    const needAfter = view === 2 ? q.evOk : view === 3 ? (q.kwDone && q.thDone) : true;
+    const answerable = needAfter && !q.res;
+    let h = `<div class="gbox" data-qid="${q.id}"><div class="small"><span class="gtag">Stage ${view} · ${esc(st.en)}</span> <span class="ar">${esc(st.ar)}</span>${prog ? '' : ' <span class="gtag">free practice · تدريب حر</span>'}</div>`;
+    // context
+    if (q.listen && !canSay()) h += `<div class="note small">Your browser cannot read aloud: read the text. <span class="ar">متصفحك لا يقرأ بصوت عالٍ: اقرأ النص.</span></div>`;
+    if (q.listen) {
+      const textOn = !canSay() || view === 2 || q.h >= 1 || q.res, left = maxPlay - q.plays;
+      h += `<div class="tts"><button class="btn sm" data-a="play" ${q.playing || left <= 0 || !canSay() ? 'disabled' : ''}>${q.playing ? '… Playing' : '▶ Listen'}</button><span class="small">${view === 2 ? 'Listen as many times as you like. · استمع كما تشاء' : `Plays left: ${Math.max(0, left)} · مرات الاستماع المتبقية`}</span></div>`;
+      if (textOn) h += gCtx(q, {kw: kwOn, ev: evOn, tap: view === 2 && !q.evOk && !gapStep(q), r: view <= 3 ? 1 : 3, bad: q.bad});
+    } else h += gCtx(q, {kw: kwOn, ev: evOn, tap: view === 2 && !q.evOk && !gapStep(q), fill: !!q.res, bad: q.bad});
+    if (q.listen && q.mode === 'gap') h += '';
+    // question
+    h += q.mode === 'gap' ? '' : `<div class="gq">${gHL(q.q, kwOn ? q.ks : null)}</div>`;
+    // steps
+    if (view === 2 && !q.evOk) h += `<div class="gstep"><h4>1 · ${gapStep(q) ? 'Tap the clue word' : 'Tap the sentence that has the answer'} <span class="ar">${gapStep(q) ? 'اضغط كلمة الدليل' : 'اضغط الجملة التي فيها الإجابة'}</span></h4><div class="small">The key words are marked. <span class="ar">الكلمات المفتاحية مظللة.</span></div>${gapStep(q) ? gChips(q, (i, t) => q.ks.has(gStem(t.w)) ? 'on' : '') : ''}${q.evMsg ? `<div class="fb no">${q.evMsg}</div>` : ''}</div>`;
+    if (view === 3 && !q.kwDone) h += `<div class="gstep"><h4>1 · Tap the key words <span class="ar">اضغط الكلمات المفتاحية</span></h4>${gChips(q, i => q.sel.has(i) ? 'on' : '')}<div class="gact"><button class="btn" data-a="kwcheck" ${q.sel.size ? '' : 'disabled'}>Check · تحقق</button></div></div>`;
+    if (view === 3 && q.kwDone && !q.thDone) {
+      const th = q.th;
+      if (th.kind === 'elim') h += `<div class="gstep"><h4>2 · Cross out one wrong option with ✗ <span class="ar">استبعد خيارًا خطأ بالزر ✗</span></h4>${q.thMsg ? `<div class="fb no">${q.thMsg}</div>` : ''}<div class="gopts">${q.opts.map((o, k) => `<div class="gopt ${q.crossed.has(k) ? 'dim' : ''}">${esc(o)}${q.crossed.has(k) ? '' : `<button class="x" data-a="cross" data-k="${k}">✗</button>`}</div>${q.crossed.has(k) ? `<div class="gwhy">${gWhy(q, k)}</div>` : ''}`).join('')}</div></div>`;
+      else h += `<div class="gstep"><h4>2 · ${gBi(th.prompt)}</h4>${q.thMsg ? `<div class="fb no">${q.thMsg}</div>` : ''}<div class="gopts">${th.choices.map((c, i) => `<button class="gopt" data-a="think" data-i="${i}">${c.label}</button>`).join('')}</div></div>`;
+    }
+    if (view === 3 && q.kwDone) h += `<div class="small muted">${q.kwOk ? '✔ Good key words! · كلمات مفتاحية جيدة' : 'The key words are marked in yellow. · الكلمات المفتاحية مظللة بالأصفر'}</div>`;
+    // answer
+    if (answerable || q.res) {
+      h += `<div class="gstep" style="border-left-color:var(--t2)"><h4>${view === 2 ? '2' : view === 3 ? '3' : ''}${view <= 3 ? ' · ' : ''}Your answer <span class="ar">إجابتك</span></h4>`;
+      if (q.mode === 'sa') h += `<input class="gin" id="gin" placeholder="${view === 5 ? '' : 'Write the answer · اكتب الإجابة'}" value="${esc(q.val)}" autocomplete="off" spellcheck="false" ${q.res ? 'disabled' : ''}>${q.msg && !q.res ? `<div class="fb no">${q.msg}</div>` : ''}${q.h >= 2 && !q.res ? `<div class="small muted">Hint: starts with “${esc(String(q.a).trim()[0] || '')}” · ${String(q.a).split('/')[0].trim().split(/\s+/).length} word(s)</div>` : ''}${q.res ? '' : '<div class="gact"><button class="btn" data-a="submit">Check · تحقق</button></div>'}`;
+      else h += `<div class="gopts">${q.opts.map((o, k) => { const cl = q.res ? (k === q.ans ? 'ok' : q.chosen === k ? 'no' : '') : q.wrongs.has(k) ? 'no' : (q.crossed.has(k) || q.dim === k) ? 'dim' : '';
+          return `<button class="gopt ${cl}" data-a="pick" data-k="${k}" ${q.res || q.wrongs.has(k) || q.crossed.has(k) || q.dim === k ? 'disabled' : ''}>${q.res ? (k === q.ans ? '✔' : '') : ''} ${esc(o)}</button>${q.wrongs.has(k) && view <= 3 ? `<div class="gwhy">${gWhy(q, k)}</div>` : ''}`; }).join('')}</div>`;
+      h += '</div>';
+    }
+    // feedback
+    if (q.res) {
+      const ok = q.first === true && q.res === 'ok';
+      h += `<div class="gfb ${q.res === 'ok' ? 'ok' : 'no'}">${q.res === 'ok' ? '✔ Correct! <span class="ar">صحيح!</span>' : `✘ The answer is <b>${esc(String(gtAns(q)).split('/')[0].trim())}</b> <span class="ar">الإجابة الصحيحة</span>`}
+        <div class="gev-box t"><b>Evidence · الدليل:</b> ${esc(q.mode === 'gap' ? gFill(q, q.evText) : q.evText)}</div>
+        ${q.opts && q.mode !== 'sa' ? q.opts.map((o, k) => k === q.ans ? '' : `<div class="t small">✗ ${gWhy(q, k)}</div>`).join('') : ''}
+        <div class="t small" style="margin-top:6px">🧠 ${gBi(tx.strat)}</div></div>`;
+      if (q.tr && q.tr.up) h += `<div class="gready">⬆ Stage ${q.tr.up} unlocked! <span class="ar">فُتحت المرحلة ${q.tr.up}</span></div>`;
+      if (q.tr && q.tr.down) h += `<div class="gstep">Two mistakes in a row: back to stage ${q.tr.down}. <span class="ar">خطآن متتاليان: عودة إلى المرحلة ${q.tr.down}.</span></div>`;
+      if (q.tr && q.tr.again) h += `<div class="gstep">Two mistakes in a row: watch the example again. <span class="ar">خطآن متتاليان: شاهد المثال مرة أخرى.</span></div>`;
+      if (q.tr && q.tr.ready) h += `<div class="gready">🏁 Exam Ready! <span class="ar">جاهز للامتحان!</span></div>`;
+    }
+    h += '<div class="gact">';
+    if (view >= 3 && !q.res && answerable && q.h < hintMax(q) && view !== 5) h += `<button class="btn h" data-a="hint">💡 Hint · تلميح${q.h ? ' (' + q.h + ')' : ''}</button>`;
+    if (q.res) h += `<button class="btn" data-a="next">${q.tr && (q.tr.up || q.tr.down || q.tr.again) ? 'Continue · متابعة ▶' : 'Next question · السؤال التالي ▶'}</button>`;
+    h += '</div></div>';
+    host.innerHTML = h; bind();
+  }
+  function bind(){
+    host.querySelectorAll('[data-a=play]').forEach(b => b.onclick = play);
+    host.querySelectorAll('[data-a=hint]').forEach(b => b.onclick = doHint);
+    host.querySelectorAll('[data-a=next]').forEach(b => b.onclick = () => { TTS.stop(); const t = q.tr; if (t && (t.up || t.down || t.again)) gtMount(code, S.s); else fresh(); });
+    host.querySelectorAll('[data-a=pick]').forEach(b => b.onclick = () => evalAns(+b.dataset.k));
+    const inp = host.querySelector('#gin'); if (inp && !q.res) { inp.oninput = () => { q.val = inp.value; }; inp.onkeydown = e => { if (e.key === 'Enter' && inp.value.trim()) evalAns(0, inp.value); }; if (q.focus) { inp.focus(); q.focus = 0; } }
+    host.querySelectorAll('[data-a=submit]').forEach(b => b.onclick = () => { if ((q.val || '').trim()) evalAns(0, q.val); });
+    // stage 2: tap the evidence (a sentence) or the clue (a word)
+    if (view === 2 && !q.evOk) {
+      host.querySelectorAll('.gtap .gs').forEach(sp => sp.onclick = () => { const ok = +sp.dataset.p === q.ev[0] && (q.ctx.kind === 'dlg' || +sp.dataset.s === q.ev[1]);
+        if (ok) { q.evOk = true; q.focus = 1; draw(); } else { q.evWrong++; q.bad = (q.bad || new Set()).add(sp.dataset.p + '-' + sp.dataset.s); q.evMsg = q.evWrong >= 2 ? 'Look at the marked key words. <span class="ar">انظر إلى الكلمات المظللة.</span>' : 'Not this one. Try another sentence. <span class="ar">ليست هذه الجملة، جرّب غيرها.</span>'; if (q.evWrong >= 3) { q.evOk = true; } draw(); } });
+      host.querySelectorAll('.gstep [data-ti]').forEach(b => b.onclick = () => { const t = q.toks[+b.dataset.ti]; if (q.ks.has(gStem(t.w))) { q.evOk = true; draw(); } else { q.evWrong++; q.evMsg = 'Tap one of the yellow words. <span class="ar">اضغط إحدى الكلمات الصفراء.</span>'; if (q.evWrong >= 3) q.evOk = true; draw(); } });
+    }
+    // stage 3: key words, then the thinking step
+    if (view === 3 && !q.kwDone) {
+      host.querySelectorAll('.gstep [data-ti]').forEach(b => b.onclick = () => { const i = +b.dataset.ti; q.sel.has(i) ? q.sel.delete(i) : q.sel.add(i); draw(); });
+      host.querySelectorAll('[data-a=kwcheck]').forEach(b => b.onclick = () => { const hit = [...q.sel].filter(i => q.ks.has(gStem(q.toks[i].w))).length; q.kwOk = hit >= Math.min(2, q.ks.size) && q.sel.size - hit <= 3; q.kwDone = true; tEvent('gt_kw', 'GT-' + code, {ok: q.kwOk ? 1 : 0}); draw(); });
+    }
+    host.querySelectorAll('[data-a=cross]').forEach(b => b.onclick = () => { const k = +b.dataset.k; if (k === q.ans) q.thMsg = 'Careful! This option may be correct. Check the evidence. <span class="ar">انتبه! قد يكون هذا الخيار صحيحًا، راجع الدليل.</span>'; else { q.crossed.add(k); q.thMsg = ''; q.thDone = true; } draw(); });
+    host.querySelectorAll('[data-a=think]').forEach(b => b.onclick = () => { const th = q.th, c = th.choices[+b.dataset.i]; if (c.ok) { q.thDone = true; q.thMsg = ''; } else { th.tries++; q.thMsg = th.tries >= 2 ? 'Look for the correct one: ' + th.choices.find(z => z.ok).label.replace(/<[^>]+>/g, ' ') : 'Not quite. Try again. <span class="ar">حاول مرة أخرى.</span>'; if (th.tries >= 3) q.thDone = true; } draw(); });
+  }
+  fresh();
+}
+/* ---- cards on the Exam Practice skill pages ---- */
+function gtCards(skill){
+  const codes = GORD[skill], rd = codes.filter(c => skill === 'W' ? gwM(c) === 100 : gtS(c).rd).length;
+  const mean = Math.round(codes.reduce((a, c) => a + (skill === 'W' ? gwM(c) : gtM(gtS(c))), 0) / codes.length);
+  const cur = c => skill === 'W' ? [0, 1, 2, 3, 4].filter(s => gwDone(GWL[c], s)).length + 1 : gtS(c).s;
+  const dots = `<div class="gdots">${codes.map(c => `<i class="${(skill === 'W' ? gwM(c) === 100 : gtS(c).rd) ? 'd' : cur(c) > 1 ? 'c' : ''}"></i>`).join('')}</div>`;
+  return `<div class="gcards"><a class="gcard" style="--c:var(--navy)" href="#HOW-${skill}"><b>🎬 How to Answer</b><span class="ar">شاهد طريقة الحل</span><small>${codes.length} parts · step-by-step</small></a>
+    <a class="gcard" style="--c:var(--gold)" href="#GT-${skill}"><b>🧭 Guided Training</b><span class="ar">التدريب الموجّه</span>${dots}<small>${rd} of ${codes.length} types Exam Ready · ${mean}%</small></a>
+    <a class="gcard" style="--c:${GCOL[skill]}" href="#EQ-${skill}"><b>📝 Exam Questions</b><span class="ar">أسئلة الامتحانات</span><small>mock tasks and past papers</small></a></div>`;
+}
+
 /* ---------- router ---------- */
 function route(){
   let h = decodeURIComponent(location.hash.slice(1)) || 'HUB';
@@ -2142,7 +2575,11 @@ function route(){
   else if (h === 'UNITS') html = unitsView();
   else if (/^TH-[1-4]$/.test(h)) { html = themePath(+h.slice(3)); sec = 'UNITS'; }
   else if (h === 'PRACTICE') html = practiceHome();
-  else if ((m = h.match(/^PR-([LGRW])$/))) { html = practiceList(m[1]); sec = 'PRACTICE'; }
+  else if ((m = h.match(/^(?:PR|EQ)-([LGRW])$/))) { html = practiceList(m[1]); sec = 'PRACTICE'; if (/^EQ/.test(h)) setTimeout(() => { const e = $('#eq'); if (e) e.scrollIntoView(); }); }
+  else if ((m = h.match(/^HOW-([LGRW])$/))) { html = howView(m[1]); sec = 'PRACTICE'; }
+  else if ((m = h.match(/^HOW-(L1|L2A|L2B|GRM|VCB|R1A|R1B|R2A|R2B|WC|WI|WF)$/))) { html = howView(GX.types[m[1]].skill, m[1]); sec = 'PRACTICE'; }
+  else if ((m = h.match(/^GT-([LGRW])$/))) { html = gtSkillPage(m[1]); sec = 'PRACTICE'; }
+  else if ((m = h.match(/^GT-(L1|L2A|L2B|GRM|VCB|R1A|R1B|R2A|R2B|WC|WI|WF)$/))) { html = gtTypePage(m[1]); sec = 'PRACTICE'; }
   else if ((m = h.match(/^PR-([LGRW])-(.+)$/)) && XM[m[2]]) { html = examView(XM[m[2]], m[1]); sec = 'PRACTICE'; }
   else if (h === 'KEYS') html = keysView();
   else if (h === 'SKILLS') html = skillsView();
