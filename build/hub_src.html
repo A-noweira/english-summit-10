@@ -648,15 +648,21 @@ function extrasBox(v){
     if ((X[k] || []).length) rows.push(`<h4 class="wh3">${t} <span class="ar small muted">${ar}</span></h4><table class="k">${X[k].map(r => `<tr><td><b>${esc(r[0])}</b></td>${r.slice(1).map(c => `<td class="${/[\u0600-\u06FF]/.test(c) ? 'ar' : ''}">${esc(c)}</td>`).join('')}</tr>`).join('')}</table>`); });
   return rows.length ? `<details style="margin-bottom:12px"><summary>📋 Verbs, prepositions &amp; expressions of this lesson</summary><div class="kb">${rows.join('')}</div></details>` : '';
 }
+function splitW(v){   // key words = the important ★ words (at least 5 per lesson); everything else is Extra vocabulary
+  if (!v._kx) { const key = v.words.filter(w => w.s); for (const w of v.words) if (key.length < 5 && !key.includes(w)) key.push(w);
+    v._kx = {key: v.words.filter(w => key.includes(w)), extra: v.words.filter(w => !key.includes(w))}; }
+  return v._kx;
+}
 function vocabView(v){
   const c = TC[v.theme];
   setTimeout(() => {
     const el = $('#stage'), modes = document.querySelectorAll('.modes button');
     const run = m => { modes.forEach(b => b.classList.toggle('on', b.dataset.m===m)); CUR_MODE = m; tEvent('open', v.code, m); MODES[m](el); };
     modes.forEach(b => b.onclick = () => run(b.dataset.m));
-    const W = v.words;
+    const W = splitW(v).key, EX = splitW(v).extra;
     const MODES = {
-      list(el){ el.innerHTML = `<div style="overflow-x:auto"><table class="k wtab"><tr><th>#</th><th>Word</th><th>Type</th><th class="ar" style="text-align:right">المعنى</th><th>Example</th></tr>${W.map((w,i) => `<tr><td>${i+1}</td><td><b>${esc(w.alt||w.w)}</b>${w.s?' <span class="stars" title="Key word in past exams">★</span>':''}${canSay()?` <button class="btn g sm" data-say="${esc(w.w)}" style="padding:0 6px">🔊</button>`:''}</td><td class="small muted">${esc(w.p)}</td><td class="ar" style="text-align:right">${esc(w.ar)}</td><td class="small">${showEx(w.ex)}</td></tr>`).join('')}</table></div><p class="small muted">★ = key word that appears in past exams · كلمة مهمة ظهرت في الامتحانات السابقة</p>`;
+      extra(el){ MODES.list(el, true); },
+      list(el, ex){ el.innerHTML = `<div style="overflow-x:auto"><table class="k wtab"><tr><th>#</th><th>Word</th><th>Type</th><th class="ar" style="text-align:right">المعنى</th><th>Example</th></tr>${(ex ? EX : W).map((w,i) => `<tr><td>${i+1}</td><td><b>${esc(w.alt||w.w)}</b>${w.s?' <span class="stars" title="Key word in past exams">★</span>':''}${canSay()?` <button class="btn g sm" data-say="${esc(w.w)}" style="padding:0 6px">🔊</button>`:''}</td><td class="small muted">${esc(w.p)}</td><td class="ar" style="text-align:right">${esc(w.ar)}</td><td class="small">${showEx(w.ex)}</td></tr>`).join('')}</table></div><p class="small muted">★ = key word that appears in past exams · كلمة مهمة ظهرت في الامتحانات السابقة</p>`;
         el.querySelectorAll('[data-say]').forEach(b => b.onclick = () => say(b.dataset.say)); },
       book(el){ quiz(el, v.mcq.map(([q,o,a]) => ({q: esc(q).replace('____','<b>_______</b>'), opts:o, ans:a, k:o[a], kind:'word'})), v.code); },
       cloze2(el){ MODES.cloze(el, v.cloze2); },
@@ -699,8 +705,8 @@ function vocabView(v){
     };
     run('list');
   });
-  return `<div class="panel" style="--c:${c}"><div class="ph"><span class="code">${v.code}</span><h1>${esc(v.title)}</h1><span class="ar">${esc(v.ar)}</span><span class="small muted">Unit ${v.theme} · ${v.words.length} words</span>${stkTag(v.code)}</div>
-    ${extrasBox(v)}<div class="modes"><button data-m="list">📋 Word list</button><button data-m="cards">🃏 Flashcards</button><button data-m="match">🔗 Match</button><button data-m="quiz">❓ Quiz</button><button data-m="book">📝 Lesson questions (${v.mcq.length})</button><button data-m="cloze">📄 Text gaps 1</button>${v.cloze2 ? '<button data-m="cloze2">📄 Text gaps 2</button>' : ''}<button data-m="spell">⌨ Spell it</button><button data-m="scramble">🔤 Word builder</button><button data-m="missing">🧩 Missing letters</button><button data-m="listen">🔊 Listen &amp; spell</button><button data-m="hangman">🧗 Guess the word</button><button data-m="memory">🧠 Memory</button><button data-m="lightning">⚡ Lightning 60s</button></div><div id="stage"></div></div>`;
+  return `<div class="panel" style="--c:${c}"><div class="ph"><span class="code">${v.code}</span><h1>${esc(v.title)}</h1><span class="ar">${esc(v.ar)}</span><span class="small muted">Unit ${v.theme} · ${splitW(v).key.length} key words${splitW(v).extra.length ? ' + ' + splitW(v).extra.length + ' extra' : ''}</span>${stkTag(v.code)}</div>
+    ${extrasBox(v)}<div class="modes"><button data-m="list">📋 Key words (${splitW(v).key.length})</button>${splitW(v).extra.length ? `<button data-m="extra">➕ Extra vocab (${splitW(v).extra.length})</button>` : ''}<button data-m="cards">🃏 Flashcards</button><button data-m="match">🔗 Match</button><button data-m="quiz">❓ Quiz</button><button data-m="book">📝 Lesson questions (${v.mcq.length})</button><button data-m="cloze">📄 Text gaps 1</button>${v.cloze2 ? '<button data-m="cloze2">📄 Text gaps 2</button>' : ''}<button data-m="spell">⌨ Spell it</button><button data-m="scramble">🔤 Word builder</button><button data-m="missing">🧩 Missing letters</button><button data-m="listen">🔊 Listen &amp; spell</button><button data-m="hangman">🧗 Guess the word</button><button data-m="memory">🧠 Memory</button><button data-m="lightning">⚡ Lightning 60s</button></div><div id="stage"></div></div>`;
 }
 
 /* -- grammar -- */
@@ -877,11 +883,11 @@ const XG = {
       return {q:`<span style="font:800 28px 'Baloo 2';letter-spacing:.06em">${esc(shown)}</span><div class="small muted ar" style="margin-top:6px">${esc(w.ar)}</div>`, a:t, alts:[t], k:t, kind:'word'}; }), code, 'Missing letters finished.'); }
 };
 function beeView(n){
-  const W = D.vocab.filter(v => v.theme == n).flatMap(v => v.words);
+  const W = D.vocab.filter(v => v.theme == n).flatMap(v => v.words), KW = D.vocab.filter(v => v.theme == n).flatMap(v => splitW(v).key);
   setTimeout(() => {
     const el = $('#stage'), modes = document.querySelectorAll('.modes button');
     const run = m => { modes.forEach(b => b.classList.toggle('on', b.dataset.m===m)); CUR_MODE = 'bee-' + m; tEvent('open', 'SB-' + n, m);
-      if (m === 'key') typing(el, shuf(W.filter(w=>w.s)).slice(0,15).map(w => ({q:`<span class="ar" style="font-size:22px">${esc(w.ar)}</span>${canSay()?` <button class="btn g" data-say="${esc(w.w)}">🔊</button>`:''}<div class="small muted" style="margin-top:6px">${gapOf(w.ex)}</div>`, a: wordOf(w), alts:[wordOf(w), w.w], k: w.w, kind: 'word'})), 'SB-'+n, 'Spelling bee finished.');
+      if (m === 'key') typing(el, shuf(KW).slice(0,15).map(w => ({q:`<span class="ar" style="font-size:22px">${esc(w.ar)}</span>${canSay()?` <button class="btn g" data-say="${esc(w.w)}">🔊</button>`:''}<div class="small muted" style="margin-top:6px">${gapOf(w.ex)}</div>`, a: wordOf(w), alts:[wordOf(w), w.w], k: w.w, kind: 'word'})), 'SB-'+n, 'Spelling bee finished.');
       else if (m === 'all') typing(el, shuf(W).slice(0,20).map(w => ({q:`<span class="ar" style="font-size:22px">${esc(w.ar)}</span>${canSay()?` <button class="btn g" data-say="${esc(w.w)}">🔊</button>`:''}<div class="small muted" style="margin-top:6px">${gapOf(w.ex)}</div>`, a: wordOf(w), alts:[wordOf(w), w.w], k: w.w, kind: 'word'})), 'SB-'+n, 'Spelling bee finished.');
       else XG[m](el, W, 'SB-'+n); };
     modes.forEach(b => b.onclick = () => run(b.dataset.m)); run('key');
